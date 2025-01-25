@@ -1,0 +1,1170 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.islandiaprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2045                
+POS_TIME 2724                
+POS_VISITOR 25149               
+POS_DAY 36290               
+POS_DOMAIN 3522                
+POS_LOGIN 4131                
+POS_ROBOT 4286                
+POS_WORMS 5078                
+POS_EMAILSENDER 5209                
+POS_EMAILRECEIVER 5352                
+POS_SESSION 37071               
+POS_SIDER 37278               
+POS_FILETYPES 5487                
+POS_DOWNLOADS 5572                
+POS_OS 5620                
+POS_BROWSER 6078                
+POS_SCREENSIZE 8254                
+POS_UNKNOWNREFERER 8328                
+POS_UNKNOWNREFERERBROWSER 9302                
+POS_ORIGIN 9831                
+POS_SEREFERRALS 9971                
+POS_PAGEREFS 10115               
+POS_SEARCHWORDS 10659               
+POS_KEYWORDS 10811               
+POS_MISC 2388                
+POS_ERRORS 10870               
+POS_CLUSTER 3987                
+POS_SIDER_404 10976               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501000009 80 17639 12767292678750
+FirstTime 20240401031049
+LastTime 20240430225232
+LastUpdate 20240501081727 80 0 79 0 0
+TotalVisits 343                 
+TotalUnique 285                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 285                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 39 39 307340 12 22 64348
+1 17 17 133979 21 80 110827
+2 34 34 267953 51 114 165374
+3 21 21 157616 23 83 130259
+4 21 21 165513 245 260 342651
+5 39 39 313512 30 56 154100
+6 26 26 204912 26 38 65718
+7 18 18 141848 9 13 31155
+8 23 23 181245 32 43 83158
+9 31 31 250493 24 39 88847
+10 12 12 94563 11 33 66545
+11 6 6 47288 22 35 49531
+12 20 20 157614 54 60 91971
+13 22 22 179549 29 37 95570
+14 17 17 133971 472 491 630365
+15 13 13 108614 35 112 205967
+16 42 42 234720 25 68 148867
+17 22 22 165496 36 63 157478
+18 12 12 94578 29 44 88191
+19 23 23 173377 18 21 32892
+20 19 19 162089 18 29 87151
+21 20 20 149736 30 41 64544
+22 23 23 187438 41 57 94061
+23 35 35 193614 32 39 98859
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 28
+us 234 234 1840690
+ca 54 54 343353
+cn 32 32 252180
+jp 28 28 220669
+bg 26 26 204877
+gb 22 22 185746
+ip 20 20 149732
+id 20 20 53465
+ch 15 15 118201
+ru 13 13 102448
+se 12 12 94575
+be 12 12 94565
+au 11 11 86699
+nl 8 8 63051
+de 8 8 63044
+fr 7 7 55167
+gr 5 5 39400
+ge 5 5 51758
+lb 4 4 31528
+lt 4 4 37700
+in 4 4 31523
+nz 4 4 31524
+kh 2 2 15758
+eu 1 1 7880
+hr 1 1 7883
+vn 1 1 7882
+pa 1 1 7878
+hn 1 1 7882
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 18
+no_user_agent 33 295282 20240430161235 0
+AhrefsBot/ 28 257727 20240430072620 0
+bot[\s_+:,\.\;\/\\-] 7 55163 20240423202300 0
+(firefox/)([0-9]\.|[0-1][0]\.) 7 47278 20240430165647 0
+DotBot/ 6 59637 20240430203426 0
+crawl 6 53466 20240422175803 0
+Googlebot/ 5 39395 20240422203703 0
+link 4 37698 20240405094809 0
+Apache\-HttpClient/ 3 23646 20240415043851 0
+nbot 3 29821 20240402051849 0
+survey 3 23643 20240403175804 0
+nutch 3 29821 20240410160603 0
+Go\-http\-client/ 2 15762 20240425053309 0
+bingbot/ 2 15767 20240422162955 0
+CCBot/ 1 7879 20240419144232 0
+MJ12bot/ 1 7881 20240412195208 0
+FirePHP/ 1 7879 20240419084907 0
+SemrushBot/ 1 7882 20240426134043 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 555 4207058 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 28
+blackberry 1 1
+win7 9 9
+androidnougat 1 1
+android 2 2
+androidjellybean 1 1
+winvista 1 1
+androidpie 3 3
+win10 238 238
+win8.1 3 3
+linux 24 24
+androidoreo 1 1
+ios_iphone 56 56
+androidmarshmallow 3 3
+macosx14 10 10
+winnt 3 3
+android10 26 26
+macosx15 42 42
+bsdopenbsd 1 1
+macosx7 9 9
+macosx11 1 1
+macosx 16 16
+winxp 2 2
+macosx9 1 1
+linuxubuntu 4 4
+Unknown 94 94
+macosx13 1 1
+macosx10 1 1
+j2me 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 103
+chrome94.0.4606.61 1 1
+chrome99.0.4844.51 1 1
+chrome122.0.6261.64 1 1
+chrome121.0.0.0 23 23
+firefox33.0 2 2
+chrome99.0.4844.82 1 1
+chrome110.0.0.0 1 1
+msie8.0 1 1
+firefox117.0 10 10
+opera8.01 1 1
+firefox60.4.0 1 1
+chrome67.0.3396.87 1 1
+firefox114.0 8 8
+firefox123 1 1
+chrome114.0.5735.289 1 1
+chrome100.0.4896.75 1 1
+chrome80.0.3987.162 1 1
+chrome79.0.3945.130 8 8
+chrome89.0.4389.114 17 17
+chrome19.0.1084.9 1 1
+chrome89.0.1969 1 1
+chrome101.0.4950.0 1 1
+chrome100.0.4895.86 1 1
+firefox66.0 1 1
+safari17.0 1 1
+safari17.3.1 1 1
+safari6.0.0.141 1 1
+firefox14.0.1 1 1
+chrome91.0.4472.101 1 1
+safari13.0.3 54 54
+opera80.4.4244.7786 1 1
+chrome81.0.4044.92 1 1
+chrome91.0.381 1 1
+safari16.6 2 2
+opera102.0.0.0 1 1
+opera86.0.4363.50 1 1
+netscape5.0 9 9
+chrome108.0.0.0 3 3
+chrome83.0.4103.97 8 8
+firefox40.0 2 2
+chrome88.0.4324.192 1 1
+chrome101.0.4853.129 1 1
+chrome58.0.3029.110 1 1
+firefox115. 1 1
+chrome51.0.2704.103 3 3
+chrome76.0.3809.111 1 1
+chrome120.0.0.0 5 5
+chrome100.0.4896.60 21 21
+chrome101.0.4951.41 1 1
+chrome104.0.5112.79 1 1
+firefox81.0 1 1
+chrome107.0.0.0 3 3
+chrome76.0.3809.89 1 1
+chrome117.0.5938.132 2 2
+chrome95.0.4638.54 1 1
+android 1 1
+chrome78.0.3904.108 76 76
+chrome117.0.0.0 16 16
+chrome112.0.0.0 1 1
+safari15.4 4 4
+chrome97.0.4280.67 3 3
+msie7.0 1 1
+chrome74.0.3729.169 4 4
+firefox108.0 3 3
+firefox115 1 1
+chrome91.0.4472.114 3 3
+chrome89.0.4389.90 2 2
+chrome114.0.0.0 8 8
+chrome88.0.4324.150 2 2
+chrome75.0.3377.88 1 1
+chrome105.0.0.0 6 6
+chrome123.0.0.0 24 24
+chrome75.0.3770.80 1 1
+iphone 1 1
+chrome58.0.1393 1 1
+mozilla 53 53
+chrome55.0.1355 1 1
+opera18.0.1284.49 1 1
+chrome97.0.4692.71 1 1
+firefox118.0 5 5
+chrome66.0.3359.181 11 11
+chrome17.0.963.56 9 9
+chrome120.0.6099.71 1 1
+firefox54.0 1 1
+chrome116.0.0.0 5 5
+chrome70.0.3538.102 1 1
+chrome88.0.4240.193 25 25
+chrome100.0.4896.127 3 3
+chrome114.0.5814.214 2 2
+chrome103.0.5042.0 1 1
+chrome106.0.0.0 3 3
+chrome101.0.4951.67 1 1
+Unknown 31 31
+msie6.0 1 1
+chrome51.0.2704.106 1 1
+chrome87.0.4280.88 2 2
+edge18 1 1
+chrome79.0.3945.117 1 1
+chrome81.0.4044.138 10 10
+chrome103.0.5060.134 1 1
+firefox28.0 1 1
+firefox115.0 1 1
+chrome122.0.0.0 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240429092105
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240430072933
+Mozilla/5.0_(compatible;_Domains_Project/1.3.7;__https://domainsproject.org) 20240413231935
+python-requests/2.31.0 20240414130357
+WhatsApp/2.23.20.0 20240404164527
+Mozilla/5.0_Firefox/33.0 20240414220050
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240425003943
+undici 20240413094929
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240413220519
+quic-go-HTTP/3 20240413190512
+python-requests/2.22.0 20240425124236
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240425090631
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+python-requests/2.31.0 20240414130357
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240430072933
+WhatsApp/2.23.20.0 20240404164527
+python-requests/2.22.0 20240425124236
+quic-go-HTTP/3 20240413190512
+undici 20240413094929
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 434 434
+From1 1 1
+From2 0 0
+From3 17 17
+From4 103 103
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 11
+http://islandiaprize.com:8080 4 4
+http://www.islandiaprize.com:8080 3 3
+http://islandiaprize.com:8880 2 2
+https://onic4dpasaran.site 1 1
+http://www.islandiaprize.com:8880 1 1
+http://islandiaprize.com:2086 1 1
+http://www.islandiaprize.com:2095 1 1
+http://www.islandiaprize.com:2082 1 1
+http://www.islandiaprize.com:2052 1 1
+http://islandiaprize.com:2095 1 1
+http://www.islandiaprize.com:2086 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 1690 2111688
+403 17 21114
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 418
+/wp-admin/includes/sx.php 3 -
+/ynz.PhP7 3 -
+/wp-includes/inputs.php 1 www.google.com
+/shop 1 -
+/old 2 -
+/admin.php 5 islandiaprize.com
+/wp-content/plugins/royal-elementor-addons/readme.txt 4 -
+//wp-json/wp/v2/users/ 25 -
+/wp-content/style-css.php 3 -
+/wp-content/plugins/backup-backup/includes/n 1 -
+/wp-includes/sx.php 3 -
+/wp-admin/user/sx.php 3 -
+/wp-admin/edit-forms.php 1 islandiaprize.com
+/wp-content/plugins/revslider/includes/external/page/index.php 3 -
+/cgi-bin/about.php 3 -
+/link.php 3 -
+/wp-content/plugins/gotmls/readme.txt 2 -
+/repeater.php 3 -
+/wp-includes/SimplePie/about.php 3 -
+/wp-content/plugins/index.php 3 -
+/.well-known/security.txt 2 -
+/wp-p.php7 3 -
+/wp-content/themes/sketch/404.php 3 -
+/wp-includes/ID3/about.php 3 -
+/wp-admin/network/xmrlpc.php 3 -
+/author/w-padmine/ 1 -
+/wp-theme.php 1 islandiaprize.com
+/libraries/legacy/updates.php 3 -
+/author/wpsecuritypatch/ 1 -
+/img/xmrlpc.php 3 -
+/index_sso.php 5 -
+/wp-admin/widgets-blocks.php 1 islandiaprize.com
+/wp-content/plugins/WordPressCore/include.php 3 -
+/.vscode/sftp.json 2 -
+/rendixd.php 3 -
+/wp-content/blogs.dir/about.php 3 -
+/archivarix.cms.php 1 -
+/wp-json/litespeed/v1/cdn_status 18 -
+/.well-known/sx.php 3 -
+/sitemaps.xml 4 -
+/wp-includes/ID3/sx.php 3 -
+/sitemap/sitemap.xml 1 -
+/wp-content/index.php 4 -
+/wp-content/plugins/moveto/assets/lib/loader_ajax.php 2 http://islandiaprize.com
+/wp-includes/sts.php 3 -
+/wp-admin/css/colors/cloud.php 3 -
+/.wp-cli/wp-login.php 3 -
+/robots.txt 112 -
+/assets/filemanager/dialog.php 1 -
+/mah.php 4 islandiaprize.com
+/dist/jquery.min.js 34 -
+/wp-content/plugins/ai-engine/readme.txt 2 -
+/cgi-bin/cloud.php 3 -
+/wp-content/plugins/genesis-simple-share/includes/class-genesis-simple-share-view.php 1 islandiaprize.com
+/wp-scripts.php 1 islandiaprize.com
+/author/crander/ 1 -
+/wp-content/plugins/forminator/assets/fonts/wpmudev-plugin-icons.svg 1 -
+/login 1 -
+/wp-admin/.wp-admin.php 1 islandiaprize.com
+/radio.php 4 islandiaprize.com
+/wp-admin/js/widgets/cloud.php 3 -
+/wp-admin/includes/about.php 3 -
+/filefuns.php 3 -
+/wp-content/gallery/about.php 3 -
+/wp-admin/css/colors/coffee/xmrlpc.php 3 -
+/class.api.php 3 -
+/ajax-actions.php 3 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 29 -
+/wp-includes/rest-api/sx.php 3 -
+/wp-admin/users.php 3 -
+/phpmyadmin/index.php 5 -
+/wp-content/plugins/linkpreview/db.php 3 -
+/wp-content/plugins/LayerSlider/static/js/builder.js 1 islandiaprize.com
+/sitemap.txt 3 -
+/wp-admin/css/.css.php 1 islandiaprize.com
+/sx.php 3 -
+/wp-content/uploads/error_log.php 3 -
+/wp-configs.php 3 -
+/sitemap1.xml 1 -
+/wp-ver.php 1 islandiaprize.com
+/wp-admin/includes/upfile.php 1 islandiaprize.com
+/.vscode/ftp-sync.json 2 -
+/st.php 3 -
+/wp-content/themes/wp-admin/css/index.php 1 islandiaprize.com
+/wp-content/updraft/about.php 3 -
+/images/cloud.php 3 -
+/wp-content/plugins/user-registration/assets/js/frontend/ur-login.js 1 -
+/wp-content/themes/rehub-theme/icons/modulobox.svg 1 -
+//wp-includes/wlwmanifest.xml 31 -
+/corn.php 1 -
+/.well-known/admin.php 3 -
+/wp-admin/css/colors/light/index.php 1 islandiaprize.com
+/.env.example 1 -
+/wp-consar.php 3 -
+/atomlib.php 2 islandiaprize.com
+/author/greeceman/ 1 -
+/wp-includes/css/buttons.css 1 http://islandiaprize.com/wp-includes/css/buttons.css
+/css/cloud.php 3 -
+/wp-admin/css/index.php 4 -
+/updates.php 3 -
+/wp-content/sx.php 3 -
+//icelandpools.com/wp-content/themes/lottery/assets/js/flipclock.js 31 -
+/options.php 3 -
+/wp-includes/ 1 -
+/alfanew.php7 3 -
+/wp-includes/js/jcrop/sx.php 3 -
+/wp-includes/.wp-includes.php 1 islandiaprize.com
+/01.php 3 -
+/.ftp-sync.json 3 -
+/wp-json/instawp-connect/v1/config 2 http://islandiaprize.com
+/wp-cron.php 2 -
+/sftp-config.json 2 -
+/about.php7 3 -
+/wp-includes/block-patterns/about.php 3 -
+/images/about.php 3 -
+/cloud.php 3 -
+/wp-includes/customize/about.php 3 -
+/author/stender/ 1 -
+/wp/xmlrpc.php 1 -
+/.DS_Store 3 -
+/wp-content/plugins/fix/sx.php 3 -
+/wp-includes/repeater.php 3 -
+/wp-admin/css/sx.php 3 -
+/images/header-bg.jpg 35 https://islandiaprize.com/
+/avaa.php 3 -
+/wp-content/repeater.php 3 -
+/chosen 3 -
+/theme.php 1 -
+//s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js 32 -
+/wp-includes/images/about.php 3 -
+/wp-includes/js/tinymce/skins/wordpress/images/index.php 3 -
+/wp-content/upgrade/sx.php 3 -
+/wp-admin/js/index.php 1 islandiaprize.com
+/wp-content/ 1 -
+/wp-content/themes/seotheme/db.php 3 -
+/wp-content/plugins/backup-backup/modules/gdrivebanner/assets/css/styles.css 1 -
+/wp-content/plugins/chauffeur-booking-system/script/jquery.chauffeurBookingFormAdmin.js 1 islandiaprize.com
+/wp-includes/block-supports/sx.php 3 -
+/wp-admin/js/widgets/xmrlpc.php 3 -
+/user.php 3 -
+/wp/wp-admin/includes/class-wp-page-mvb2yr.php 3 -
+/new 2 -
+/wp-mail.php 3 -
+/wp-includes/js/tinymce/skins/lightgray/fonts/sx.php 3 -
+/wp.php 3 -
+/php/thinkphp/aaaffff123.php 5 -
+/wordpress 2 -
+//wp-json/oembed/1.0/embed 25 -
+/wp-admin/css/admin.php 3 -
+/themes.php 3 -
+/wp-roto/wp-admin/css/index.php 1 islandiaprize.com
+/wp-admin/inputs.php 2 www.google.com
+/img/cloud.php 3 -
+/wp-admin/images/index.php 3 -
+/ws.php 4 -
+/wp-admin/smaxx.php 3 -
+/ebs.php7 3 -
+/wp-admin/includes/users.php 4 -
+/autoload_classmap.php 3 -
+/wp-content/plugins/seoplugins/db.php 3 -
+/wp-content/plugins/pwnd/pwnd.php 4 www.google.com
+/wp-content/themes/lottery_iceland_pools/readme.txt 10 -
+/wp-json/wp/v2/users 2 https://www.google.com
+/yanz.php 3 -
+/wp-admin/images/xmrlpc.php 3 -
+/ext.php 1 islandiaprize.com
+/wp-content/themes/theme_log.php 1 islandiaprize.com
+/css/xmrlpc.php 3 -
+/wp-admin/includes/.includes.php 1 islandiaprize.com
+/about.php 7 islandiaprize.com
+/media.php 3 -
+/wp-includes/smaxx.php 3 -
+/sitemap.xml 25 -
+/.well-known/pki-validation/file.php 3 -
+/author/wpservices/ 1 -
+/wp-admin/js/.js.php 1 islandiaprize.com
+/smaxx.php 3 -
+/wp-admin/css/colors/blue/xmrlpc.php 3 -
+/security.txt 1 http://www.islandiaprize.com/security.txt
+/a2.php 1 islandiaprize.com
+/cong.php 3 -
+/wp-includes/Requests/Text/admin.php 3 -
+/wp-includes/pomo/about.php 3 -
+/plugin.php 3 -
+/wp-content/themes/pridmag/db.php 3 -
+/wp-content/themes/about.php 3 -
+/wp-content/themes/twentyfive/smaxx.php 3 -
+/wp-content/themes/seotheme/mar.php 3 -
+/wp 2 -
+/0z.php 3 -
+/cgi-bin/xmrlpc.php 3 -
+/wp-content/.wp-content.php 1 islandiaprize.com
+/wp-admin/user/upfile.php 2 islandiaprize.com
+/wp-includes/IXR/wp-login.php 3 -
+/revision.php 3 -
+/wp-content/plugins/wp-automatic/inputs.php 1 islandiaprize.com
+/wp-content/uploads/cache.php 3 -
+/admin-post.php 3 -
+/.well-known/pki-validation/about.php 3 -
+/wp-admin/user/xmrlpc.php 3 -
+/.well-known/pki-validation/sx.php 3 -
+/wp-includes/rest-api/endpoints/html.php 3 -
+/wp-content/languages/about.php 3 -
+/wp-admin/admin-ajax.php 14 -
+/wp-content/plugins/pwnd-1/pwnd.php 3 -
+/libraries/phpmailer/updates.php 3 -
+/wp-admin/cloud.php 3 -
+/wso112233.php 1 -
+/wp-includes/Requests/Text/index.php 1 islandiaprize.com
+/wp-content/plugins/wp-ver.php 1 islandiaprize.com
+/wp-boards.php 1 islandiaprize.com
+/upload.php 3 -
+/wp-content/plugins/smaxx.php 3 -
+/function.php 3 -
+/wp-admin/user/cloud.php 3 -
+/wp-includes/Requests/dropdown.php 3 -
+/cgi-bin/.cgi-bin.php 1 islandiaprize.com
+/jp.php 1 islandiaprize.com
+/humans.txt 4 http://islandiaprize.com/humans.txt
+/google.php 3 -
+/doc.php 3 -
+/ws.php7 3 -
+/wp-includes/pomo/fgertreyersd.php.suspected 3 -
+/xt/smaxx.php 3 -
+//icelandpools.com/xmlrpc.php 3 -
+/cache-compat.php 3 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 2 -
+/wp-l0gin.php 1 islandiaprize.com
+/lv.php 3 -
+/wp-content/plugins/seoo/wsoyanz1.php 3 -
+/wordpress/wp-includes/IXR/allez.php 3 -
+/.well-known/pki-validation/xmrlpc.php 3 -
+/.well-known//.well-known/owlmailer.php 3 -
+/js/filemanager/dialog.php 1 -
+/wp-includes/images/smilies/about.php 3 -
+/wp-admin/setup-config.php 1 -
+/wp-editor.php 1 islandiaprize.com
+/wp-content/plugins/backup-backup/includes/E 1 -
+/wp-content/themes/bute/lang.php 1 www.google.com
+/wp-content/plugins/WordPressCore/smaxx.php 3 -
+/wp-content/plugins/seoplugins/mar.php 3 -
+/wp-admin/js/widgets/cong.php 3 -
+/wp-content/themes/torofilm/changelog.txt 2 -
+/style.php 5 www.google.com
+/xmrlpc.php 3 -
+/wp-content/smaxx.php 3 -
+/wp-admin/images/sx.php 3 -
+/PHPMailer/web_config.php 1 islandiaprize.com
+/libraries/vendor/updates.php 3 -
+/licenses.php 1 islandiaprize.com
+/wp-content/themes/wp-classic/inc/index.php 3 -
+/wp-includes/IXR/about.php 3 -
+/dist/js/bootstrap.bundle.min.js 33 -
+/bypass.php 1 -
+/wp-includes/fonts/wp-login.php 3 -
+/assets/administrator/filemanager/dialog.php 1 -
+/wp-admin/images/.images.php 1 islandiaprize.com
+/assets/images/1p.php 3 -
+/wp-content/plugins/core-plugin/smaxx.php 3 -
+/wp-content/plugins/user-registration/assets/css/user-registration.css 1 -
+/wp-json 14 -
+/sitemap.php 1 -
+/wp-admin/js/about.php 3 -
+//icelandpools.com/wp-content/themes/lottery_iceland_pools/assets/js/lottery.js 30 -
+/wp-content/plugins/wp-statistics/readme.txt 2 -
+/wp-admin/includes/xmrlpc.php 3 -
+/comfunctions.php 3 -
+/wp-admin/js/privacy-tools.min.php 3 -
+/ads.txt 4 http://islandiaprize.com/ads.txt
+/wp-head.php 1 -
+/wp-content/plugins/work-list/lang.php 1 www.google.com
+/.env 12 -
+/wp-content/themes/qoe/vendor/ernilambar/wp-admin-notice/src/Start-home.php 1 islandiaprize.com
+/wp-admin/network/index.php 3 -
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 3 -
+/wp-admin/css/about.php 3 -
+/wordpress/ 2 https://www.google.com
+/wp-content/about.php 3 -
+/wp-content/inputs.php 2 www.google.com
+/wp-includes/rest-api/about.php 3 -
+/wp-admin/js/widgets/about.php7 3 -
+//xmlrpc.php 56 -
+/wp-emoji-release.min.js 32 -
+/wp-admin/dropdown.php 3 -
+/alfanew2.php7 3 -
+/wp-includes/js/jquery/jquery.min.js 1 www.google.com
+/dropdown.php 3 -
+/wp-admin/css/colors/xmrlpc.php 3 -
+/sitemap-index.xml 1 -
+/defaults.php 3 -
+/wp-includes/Text/about.php 3 -
+/sitemap_index.xml 5 -
+/wp-content/upgrade-temp-backup/about.php 3 -
+/assets/plugins/filemanager/dialog.php 1 -
+/.vscode/.sftp.json 1 -
+/wp-admin/repeater.php 3 -
+/shell.php 1 -
+/wp-login.php 48 http://islandiaprize.com/wp-login.php
+/simple.php 7 www.google.com
+/wp-admin/network/cloud.php 3 -
+/wp-admin/mb.php 1 islandiaprize.com
+/wp-admin/network/sx.php 3 -
+/sitemap.xml.gz 3 -
+/wp-json/wpgmza/v1/markers 2 -
+/xmlrpc.php 7 -
+/wp-admin/css/colors/index.php 5 -
+/wp-admin/network/licenses.php 1 islandiaprize.com
+/author/superadmin/ 1 -
+/sitemap/index.xml 1 -
+/author/wpadminne/ 1 -
+/wp-admin/ajax-actions.php 3 -
+/admin-ajax.php 3 -
+/wp-admin/images/about.php 3 -
+/author/admim/ 1 -
+/wp-2019.php 3 -
+/admin/ 2 -
+/wp-woulds.php 1 islandiaprize.com
+/wp-content/plugins/wp-meta-seo/readme.txt 2 -
+/cgi-bin/sx.php 3 -
+/sitemap 1 -
+/wp-checkbex.php 1 -
+/test 2 -
+/wp-includes/IXR/sx.php 3 -
+/wp-admin/css/colors/blue/CasperExV1.php 3 -
+/wp-content/plugins/wp-automatic/inc/csv.php 1 -
+/media/system/js/core.js 1 http://islandiaprize.com/media/system/js/core.js
+/.sftp-config.json 2 -
+/content.php 4 islandiaprize.com
+/wp-content/plugins/forminator/readme.txt 2 -
+/alfanew.php 4 -
+/wp-admin/xmrlpc.php 3 -
+/lock360.php 1 islandiaprize.com
+/wp-includes/about.php 3 -
+/wp-content/themes/twentytwentytwo/inputs.php 1 islandiaprize.com
+/a.nel.cloud 4 -
+/.well-known/pki-validation/cloud.php 3 -
+/wp-admin/privacy-guides.php 1 islandiaprize.com
+/wp-privacys.php 1 islandiaprize.com
+/wp-admin/css/colors/blue/cloud.php 3 -
+/wp-includes/pomo/wp-login.php 3 -
+/adminfuns.php7 3 -
+/blog 2 -
+/wp-content/themes/lottery/readme.txt 10 -
+/wp-admin/link-forms.php 1 islandiaprize.com
+/wp-includes/images/include.php 3 -
+/wp-includes/blocks/about.php 3 -
+/wp-22.php 3 -
+/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js 3 -
+/wp-content/uploads/cong.php 3 -
+/wp-content/plugins/master/mode/table.php 1 islandiaprize.com
+/.well-known/about.php 3 -
+/chosen.php 9 www.google.com
+/assets/admin/js/filemanager/dialog.php 1 -
+/edit.php 3 -
+/wp-includes/images/smaxx.php 3 -
+/wordpress/xmlrpc.php 1 -
+/dede/ 1 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 30 -
+/wp-content/plugins/fix/up.php 4 www.google.com
+/wp-admin/maint/maint/ajax-actions.php 3 -
+/ftp-sync.json 2 -
+/wp-content/plugins/background-image-cropper/ 1 http://www.google.com
+/login.php 1 -
+/wp-content/themes/soledad/style.css 2 -
+/wp-content/plugins/elementor/sx.php 3 -
+/wp-admin/sx.php 3 -
+/wp-blog.php 1 islandiaprize.com
+/wp-admin/includes/cloud.php 3 -
+/wp-admin/maint/.maint.php 1 islandiaprize.com
+/wp-admin/index.php 1 islandiaprize.com
+/index.php 4 islandiaprize.com
+/wp-includes/widgets/about.php 3 -
+/wp-content/plugins/Cache/Cache.php 3 -
+/images/xmrlpc.php 3 -
+/wp-admin/css/colors/blue/blue.php 3 -
+/.well-known/pki-validation/upfile.php 1 islandiaprize.com
+/wp-content/plugins/hellopress/wp_filemanager.php 3 -
+/wp-admin/a2.php 1 islandiaprize.com
+/wp-content/banners/about.php 3 -
+/gel4y.php 3 -
+/wp-admin/install.php 1 -
+/authorize.php 3 -
+/alfa-rex.php7 3 -
+/wp-admin/css/colors/blue/index.php 1 islandiaprize.com
+/wsoyanz.php 3 -
+/alfa-rex2.php7 3 -
+/wp-content/uploads/wp-login.php.suspected 3 -
+/filemanager/dialog.php 1 -
+/fw.php 1 -
+/inputs.php 3 www.google.com
+/wp-includes/Requests/about.php 3 -
+/.quarantine/upfile.php 1 islandiaprize.com
+/wp-includes.bak/html-api/about.php 3 -
+/music/bak_config.php 1 islandiaprize.com
+/worm0.PhP7 3 -
+/css.php 1 -
+/wp-includes/blocks/sx.php 3 -
+/da1.php 1 islandiaprize.com
+/db.php 3 -
+//wp-login.php 6 -
+/wp-admin/images/cloud.php 3 -
+/admin/filemanager/dialog.php 1 -
+/radio.txt 1 islandiaprize.com
+/install.php 3 -
+//cdn.js 31 -
+/input.php 3 -
+/img/about.php 3 -
+/wp-content/updates.php 3 -
+/wp-content/plugins/core-plugin/include.php 3 -
+/wp-includes/style-engine/about.php 3 -
+/wp-content/plugins/seoo/wsoyanz.php 3 -
+/sitemapindex.xml 1 -
+/admin 1 -
+/wp-content/plugins/WordPressCore/blkfqnikz.php 3 -
+/wp-content/install.php 3 -
+/wp-admin/css/colors/coffee/cloud.php 3 -
+/css/sgd.php 3 -
+/wp-admin/js/widgets/upfile.php 1 islandiaprize.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 285
+142.198.109.116 18 18 59646 20240413231935
+152.42.180.8 16 16 126108 20240415222512
+36.74.42.197 16 16 29822 20240425170249
+91.92.242.111 15 15 118190 20240419103348
+35.171.144.152 12 12 94561 20240424095254
+159.223.55.19 12 12 94588 20240414045015
+91.92.255.116 10 10 78805 20240420191741
+217.35.144.53 9 9 70947 20240413172318
+54.88.179.33 9 9 70922 20240424095302
+2607:5300:60:2e23::1 9 9 70924 20240424034743
+158.220.97.36 9 9 70920 20240410081027
+146.70.212.85 8 8 75400 20240429203721
+174.138.27.156 8 8 63060 20240426062100
+137.226.113.44 8 8 63044 20240425003943
+139.59.250.187 8 8 63056 20240426180857
+109.238.14.123 7 7 55167 20240403000334
+165.154.10.175 6 6 47286 20240423151036
+149.56.150.2 6 6 53472 20240413220451
+165.154.36.113 6 6 47292 20240426012421
+34.150.224.113 5 5 39400 20240415230629
+34.174.197.116 5 5 39395 20240419130356
+152.32.215.226 5 5 39400 20240422034411
+193.222.96.157 5 5 39400 20240406223448
+34.174.28.239 5 5 39405 20240423024751
+128.199.20.67 4 4 31520 20240429122440
+199.45.154.68 1 1 7881 20240402023101
+46.19.138.210 1 1 7881 20240404032452
+43.130.7.211 1 1 7880 20240406184518
+199.244.88.219 1 1 7878 20240417122101
+178.62.199.103 1 1 7880 20240430082851
+167.94.138.50 1 1 7879 20240410235028
+128.90.141.40 1 1 7880 20240406181559
+52.81.44.220 1 1 7882 20240426013407
+223.244.35.77 1 1 7882 20240424155935
+50.3.196.76 2 2 7880 20240416035117
+54.185.20.21 1 1 7880 20240418051310
+54.67.79.173 1 1 7882 20240426131554
+52.81.60.5 1 1 7880 20240428203450
+185.190.42.200 1 1 7880 20240416071909
+43.159.141.180 1 1 7880 20240406003510
+167.172.169.200 1 1 7879 20240428091931
+89.248.172.115 3 3 23648 20240414130357
+42.83.147.56 2 2 15760 20240410040419
+43.133.38.182 1 1 7883 20240421004041
+64.227.152.120 1 1 7880 20240416090612
+84.32.41.136 4 4 37700 20240406130959
+130.255.166.24 1 1 7881 20240404005245
+34.76.58.228 1 1 7880 20240429072424
+87.236.176.231 1 1 7879 20240419131949
+43.163.6.124 1 1 7880 20240410100459
+35.91.5.252 1 1 7881 20240402051451
+198.235.24.107 1 1 7880 20240422164510
+43.134.89.111 1 1 7882 20240425032405
+180.254.226.122 1 1 7879 20240404164743
+152.42.226.220 4 4 31520 20240416025945
+199.45.155.23 1 1 7881 20240402013048
+54.176.91.0 1 1 7882 20240408030144
+36.41.75.167 1 1 7880 20240428221551
+199.45.155.37 1 1 7882 20240425032233
+170.106.171.77 1 1 7883 20240414134416
+167.179.87.108 4 4 31524 20240409185531
+35.90.77.173 1 1 7880 20240410050421
+209.127.97.25 1 1 7881 20240413061712
+198.235.24.184 1 1 7880 20240410095257
+43.128.100.220 1 1 7880 20240430075652
+178.128.58.178 4 4 31520 20240407124851
+216.83.35.156 1 1 7882 20240426125227
+34.217.83.18 2 2 15756 20240420055704
+38.150.5.90 1 1 7880 20240430003952
+43.159.63.75 1 1 7882 20240408001928
+89.248.174.182 2 2 15760 20240410133201
+198.235.24.58 1 1 7881 20240412163534
+87.236.176.242 1 1 7882 20240425082102
+64.23.239.143 1 1 7882 20240426092943
+182.42.105.85 1 1 7882 20240425142856
+223.113.128.132 1 1 7883 20240420165847
+54.213.180.76 1 1 7880 20240418051311
+205.210.31.48 1 1 7880 20240416061007
+198.235.24.81 1 1 7882 20240408161459
+104.248.159.147 4 4 31524 20240422210055
+2600:1900:2000:a7::1:1501 1 1 7882 20240425092704
+8.36.86.63 2 2 15764 20240414220050
+193.198.221.42 1 1 7883 20240421021114
+113.141.91.58 1 1 7878 20240417145142
+87.236.176.13 1 1 7882 20240425143052
+114.142.173.13 1 1 7881 20240403164812
+5.133.167.8 1 1 7878 20240417151321
+199.45.155.54 1 1 7880 20240405231640
+87.236.176.42 1 1 7879 20240419113708
+121.229.185.160 1 1 7882 20240426020809
+65.154.226.170 1 1 7881 20240404013150
+43.130.62.164 1 1 7880 20240410005413
+38.154.198.85 1 1 7881 20240413071326
+49.13.68.249 1 1 7882 20240425004349
+205.210.31.213 1 1 7882 20240409003350
+35.95.9.71 1 1 7882 20240426055803
+43.163.8.148 2 2 15763 20240412120220
+64.227.64.196 1 1 7882 20240412093940
+77.246.105.178 2 2 15762 20240404140938
+152.32.236.116 2 2 15760 20240430050351
+154.28.229.54 1 1 7881 20240402165123
+149.56.160.138 1 1 7883 20240413220519
+205.210.31.208 1 1 7880 20240405234741
+135.148.195.3 1 1 7882 20240414235010
+2a13:36c0:0:15e::1 1 1 7880 20240406233442
+182.43.70.143 2 2 15759 20240429204207
+205.210.31.81 1 1 7882 20240426043818
+103.164.81.98 2 2 15758 20240405082859
+158.69.247.77 2 2 15762 20240407214903
+5.133.192.167 1 1 7882 20240414205614
+212.30.36.138 4 4 31528 20240412061824
+162.243.168.97 1 1 7880 20240410095617
+114.142.173.36 1 1 7880 20240422164158
+69.160.160.56 3 3 29822 20240412090605
+117.33.163.216 3 3 23644 20240426133736
+2a01:4f8:c010:86e8::1 1 1 7882 20240412104357
+54.213.44.117 2 2 15760 20240430051411
+152.32.162.60 2 2 15760 20240430012504
+128.90.170.38 2 2 15761 20240417012828
+2607:5300:60:7e27::1 1 1 7880 20240429225257
+182.42.104.32 1 1 7881 20240403135816
+205.210.31.171 1 1 7881 20240402063331
+167.99.12.206 1 1 7881 20240403101411
+198.235.24.106 1 1 7879 20240404160346
+3.101.139.49 1 1 7880 20240405190057
+43.133.77.230 1 1 7881 20240402093244
+2001:4ca0:108:42::15 1 1 0 20240413190512
+157.245.49.0 4 4 31512 20240430210123
+60.188.57.0 1 1 7881 20240423045147
+178.18.15.20 1 1 7879 20240419094103
+198.235.24.233 1 1 7880 20240405180907
+44.204.94.213 1 1 7880 20240429014940
+147.45.50.16 1 1 7882 20240408124906
+192.3.26.78 1 1 7881 20240403215625
+206.168.34.43 1 1 7882 20240425090631
+154.28.229.148 1 1 7881 20240402140617
+199.45.154.70 2 2 15762 20240402003217
+54.254.162.138 1 1 7881 20240413094929
+205.210.31.100 1 1 7882 20240423200213
+150.109.16.20 2 2 15759 20240410195125
+154.28.229.185 1 1 7881 20240402140618
+35.91.2.154 1 1 7881 20240404053901
+2001:4ba0:cafe:c13::1 1 1 7882 20240425041225
+38.45.127.226 1 1 7878 20240430225232
+135.148.195.8 1 1 7880 20240407132933
+166.1.135.185 1 1 0 20240418210224
+2400:9800:2b8:b81b:1:0:b3e7:411b 1 1 7882 20240414171150
+77.246.102.95 2 2 15762 20240404132014
+87.236.176.226 1 1 7882 20240425095616
+2001:448a:10a5:14dc:c00b:3cd3:6593:d282 1 1 7879 20240404164604
+42.83.147.53 1 1 7880 20240430120103
+34.222.98.16 1 1 7879 20240428050621
+43.159.128.68 1 1 7882 20240409135427
+89.248.174.42 1 1 7882 20240408073831
+87.236.176.143 1 1 7880 20240429092105
+93.158.90.70 1 1 7882 20240409162254
+124.248.183.41 2 2 15758 20240404164527
+49.7.227.204 2 2 15760 20240404191333
+207.154.243.250 1 1 7878 20240417051247
+54.189.138.155 1 1 7882 20240424050417
+159.223.177.101 1 1 7880 20240418101435
+58.49.233.126 1 1 7879 20240428104554
+34.79.93.76 2 2 15760 20240429072333
+154.29.101.180 1 1 7878 20240417052554
+87.236.176.60 1 1 7879 20240419070926
+35.91.144.241 1 1 7881 20240402061851
+130.255.166.11 1 1 7882 20240425165742
+116.206.14.59 1 1 7880 20240409165703
+154.29.100.160 1 1 7878 20240417151325
+87.236.176.116 1 1 7879 20240419111533
+129.226.147.7 1 1 7879 20240419062342
+5.133.192.133 1 1 7882 20240409013859
+93.158.91.11 1 1 7881 20240403054828
+43.131.249.153 1 1 7882 20240408185156
+45.82.15.54 1 1 7881 20240423144051
+54.241.156.9 3 3 23642 20240425124236
+199.45.154.65 1 1 7882 20240424032659
+205.210.31.247 1 1 7880 20240430022354
+52.39.135.36 1 1 7882 20240424050421
+35.87.132.25 1 1 7879 20240411004835
+87.236.176.247 1 1 7881 20240401031049
+146.190.91.79 4 4 31528 20240408021109
+38.122.112.147 1 1 7879 20240428125059
+167.86.74.62 1 1 7878 20240416230828
+54.153.63.75 1 1 7881 20240412192544
+93.158.91.31 1 1 7882 20240426121305
+46.8.223.60 1 1 7881 20240413055732
+43.134.66.205 1 1 7882 20240408090944
+159.223.110.114 1 1 7878 20240420085947
+199.45.155.52 1 1 7880 20240405202555
+222.79.104.23 1 1 7880 20240416060856
+205.210.31.201 1 1 7879 20240405015855
+5.133.162.82 1 1 7888 20240417052555
+5.188.62.76 1 1 7880 20240422040334
+44.200.113.200 1 1 7882 20240424045612
+27.115.124.5 1 1 7882 20240412072538
+87.236.176.243 1 1 7881 20240401051731
+43.159.129.209 1 1 7882 20240424042648
+114.142.172.7 1 1 7882 20240414165712
+2a00:6800:3:b78::1 1 1 7882 20240408035034
+154.29.100.216 1 1 7878 20240417052554
+5.133.165.202 1 1 14052 20240417151325
+198.235.24.110 1 1 7878 20240417050501
+167.99.250.222 1 1 7883 20240414110733
+147.182.237.87 1 1 7880 20240422094932
+93.158.90.30 1 1 7882 20240415054653
+43.153.216.189 2 2 15762 20240415190824
+199.45.155.33 1 1 7882 20240424043027
+5.133.164.30 1 1 7888 20240417151326
+35.89.191.136 1 1 7882 20240424060935
+205.210.31.108 1 1 7881 20240402012547
+199.45.154.16 1 1 7882 20240425064346
+42.83.147.34 1 1 7881 20240422185726
+36.111.67.189 1 1 7881 20240401053134
+180.97.221.86 1 1 7880 20240429211741
+192.241.67.138 1 1 7882 20240415055312
+45.139.67.250 1 1 7883 20240413202241
+93.158.90.65 1 1 7883 20240420185806
+2a00:6800:3:b9f::1 1 1 7880 20240416040458
+206.168.34.37 1 1 7879 20240411001123
+112.215.65.166 1 1 7882 20240408163920
+209.127.107.162 1 1 7883 20240413211451
+199.45.155.26 1 1 7882 20240424043636
+52.81.87.90 1 1 7882 20240409125204
+45.32.38.228 2 2 15762 20240403143613
+74.226.249.236 2 2 15756 20240417022031
+94.247.172.129 1 1 7882 20240415084320
+87.236.176.115 1 1 7882 20240425095209
+38.89.70.199 1 1 7881 20240403080848
+3.136.86.238 1 1 7880 20240416152713
+43.163.0.99 1 1 7882 20240423171238
+46.246.122.90 1 1 7878 20240417102947
+191.102.170.250 1 1 7882 20240415043856
+198.211.106.221 1 1 7881 20240403092349
+5.188.62.21 2 2 15760 20240421172310
+43.128.100.206 1 1 7883 20240414042448
+5.133.162.53 1 1 14052 20240417052555
+101.91.148.219 1 1 7881 20240412214710
+64.176.47.133 2 2 15760 20240410023201
+165.232.119.94 1 1 7882 20240408091750
+179.43.167.18 1 1 7878 20240430172223
+199.45.154.22 2 2 15759 20240410233355
+206.168.34.46 1 1 7882 20240424070714
+205.210.31.102 2 2 15761 20240430072933
+205.210.31.164 1 1 7882 20240423195734
+120.71.59.24 1 1 7883 20240427005806
+35.214.190.212 2 2 15762 20240423120154
+161.35.158.58 1 1 7881 20240404100353
+34.22.246.229 2 2 15760 20240429072333
+35.93.226.45 1 1 7881 20240402051454
+39.173.116.9 1 1 7882 20240409094045
+5.133.192.94 1 1 7878 20240420163511
+205.210.31.73 1 1 7878 20240419191547
+54.245.38.213 2 2 15764 20240412063600
+2001:448a:2010:ac9:ecaf:9acd:39e0:106a 1 1 7879 20240419161910
+142.93.171.1 1 1 7878 20240416233741
+43.135.129.233 3 3 23644 20240430200131
+43.156.108.103 1 1 7880 20240430063334
+3.142.141.20 1 1 7881 20240413022448
+165.232.37.113 1 1 7882 20240424083455
+154.39.66.38 1 1 7883 20240414084025
+43.135.166.178 1 1 7879 20240405053354
+173.212.200.32 1 1 7882 20240409133646
+87.236.176.50 1 1 7879 20240419132240
+91.92.242.243 1 1 7882 20240409024445
+205.210.31.22 1 1 7881 20240413081443
+35.233.124.221 1 1 7880 20240429072413
+77.238.237.38 2 2 15762 20240404144735
+13.228.225.19 1 1 7881 20240413094726
+140.213.15.228 2 2 7882 20240408164447
+123.60.68.42 1 1 7878 20240417163451
+64.225.65.142 1 1 7880 20240406095213
+89.248.172.92 1 1 7880 20240410004311
+54.249.203.181 2 2 15760 20240418144859
+157.230.39.131 4 4 31524 20240404055632
+69.10.48.160 1 1 7878 20240420020758
+13.48.190.46 1 1 7881 20240403053142
+34.221.93.25 1 1 7880 20240410054553
+43.163.8.36 2 2 15759 20240419165548
+188.166.105.150 1 1 7881 20240402085730
+43.130.37.62 2 2 15761 20240418105754
+92.119.130.80 1 1 7880 20240430003623
+129.226.158.26 1 1 7880 20240407135149
+182.44.67.97 3 3 23641 20240416173523
+118.69.175.73 1 1 7882 20240412024759
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240401 4 4 31524 4
+20240402 18 18 141858 15
+20240403 18 18 141858 11
+20240404 25 25 197013 20
+20240405 20 20 157593 12
+20240406 18 18 148020 10
+20240407 9 9 70922 6
+20240408 17 17 126112 13
+20240409 14 14 110342 12
+20240410 24 24 189117 14
+20240411 4 4 31516 3
+20240412 24 24 195334 14
+20240413 52 52 325937 18
+20240414 25 25 197069 15
+20240415 17 17 133974 10
+20240416 15 15 110314 11
+20240417 24 24 201440 20
+20240418 22 22 165478 15
+20240419 22 22 173331 13
+20240420 16 16 126103 8
+20240421 5 5 39409 4
+20240422 15 15 118205 8
+20240423 23 23 181266 10
+20240424 16 16 126112 14
+20240425 32 32 155934 16
+20240426 23 23 181290 12
+20240427 2 2 15766 2
+20240428 7 7 55155 7
+20240429 23 23 193600 11
+20240430 21 21 165466 15
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 2
+1h+ 1
+30mn-1h 2
+5mn-15mn 3
+0s-30s 330
+2mn-5mn 2
+15mn-30mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 471 3546321 339 311
+// 56 441337 0 25
+/history-result/ 14 140520 2 4
+/live-draw/ 14 78880 2 3
+END_SIDER

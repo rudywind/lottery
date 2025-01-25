@@ -1,0 +1,349 @@
+/**** begin countdown colors ****/
+.flip-clock-wrapper ul,
+.flip-clock-wrapper ul li a div div.inn,
+.flip-clock-divider .flip-clock-dot {
+	background-color: var(--flipclock-bg-color);
+}
+.flip-clock-wrapper ul li a div div.inn {
+	color: var(--flipclock-color);
+}
+/**** endof countdown colors ****/
+
+/**** begin custom style ****/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Fira Sans', sans-serif;
+}
+body.prevent-scroll {
+    overflow: hidden;
+}
+
+button, button:focus, button:hover {
+    box-shadow: none !important;
+    outline: 0 !important;
+}
+
+section {
+    display: block;
+    position: relative;
+}
+
+
+
+section.sidebar {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 350px;
+    height: auto;
+    background-image: url(../images/bg-cta.png);
+    background-repeat: repeat;
+    background-size: 500px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    transition: left 500ms ease-in-out;
+    z-index: 99999;
+}
+section.sidebar.hide {
+    left: -100%;
+    transition: left 500ms ease-in-out;
+}
+section.sidebar .sidebar-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: auto;
+    height: 150px;
+}
+section.sidebar .sidebar-header .logo-wrapper {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 150px;
+}
+section.sidebar .sidebar-header .logo-wrapper img {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+section.sidebar .sidebar-header .navbar-toggler {
+    display: block;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    font-size: 35px;
+}
+section.sidebar .sidebar-header .navbar-toggler span.fi {
+    display: block;
+    position: relative;
+    width: 35px;
+    height: 35px;
+}
+section.sidebar .sidebar-content {
+    display: block;
+    position: absolute;
+    top: 150px;
+    left: 0;
+    right: 0;
+    bottom: 150px;
+    padding: 20px;
+    width: auto;
+    height: auto;
+}
+section.sidebar .sidebar-content .menu-bar {
+    display: block;
+    position: relative;
+}
+section.sidebar .sidebar-content .menu-bar .navbar .navbar-nav > .nav-item {
+    margin-bottom: 10px;
+}
+section.sidebar .sidebar-content .menu-bar .navbar .navbar-nav > .nav-item:last-child {
+    margin-bottom: 0;
+}
+section.sidebar .sidebar-content .menu-bar .navbar .navbar-nav > .nav-item > .nav-link {
+    padding: 0;
+    background-image: var(--gradient-1);
+    border-radius: 50px;
+    color: var(--white);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+section.sidebar .sidebar-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 15px;
+    width: auto;
+    height: 150px;
+}
+section.sidebar .sidebar-footer .copyright {
+    display: block;
+    position: relative;
+    margin: 15px 0 0 0;
+}
+
+
+
+section.content {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    background-color: var(--color-9);
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+section.content.prevent-scroll {
+    overflow: hidden;
+}
+section.content .header-wrapper {
+    display: block;
+    position: sticky;
+    top: 0;
+    padding: 15px;
+    background-image: url(../images/bg-cta.png);
+    background-repeat: repeat;
+    background-size: 500px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    z-index: 9999;
+}
+section.content .header-wrapper .logo-wrapper {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 120px;
+}
+section.content .header-wrapper .logo-wrapper img {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+section.content .header-wrapper .navbar-toggler {
+    display: block;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    font-size: 28px;
+}
+section.content .header-wrapper .navbar-toggler span.fi {
+    display: block;
+    position: relative;
+    margin-top: 6px;
+    width: 28px;
+    height: 28px;
+}
+section.content .content-header {
+    display: block;
+    position: relative;
+}
+section.content .content-header .marquee-wrapper {
+    display: block;
+    position: relative;
+    font-size: 14px;
+}
+section.content .content-header .marquee-wrapper marquee {
+    display: block;
+    position: relative;
+}
+section.content .content-wrapper {
+    display: block;
+    position: relative;
+    padding: 15px;
+}
+section.content .content-footer {
+    display: block;
+    position: relative;
+}
+section.content .content-footer .footer-separator {
+    display: block;
+    position: relative;
+    margin: 25px 0 15px;
+    width: auto;
+    height: 1px;
+    background-image: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.5), transparent);
+}
+section.content .content-footer .logo-wrapper {
+    display: block;
+    position: relative;
+    max-width: 120px;
+}
+section.content .content-footer .logo-wrapper img {
+    width: 100%;
+}
+section.content .content-footer .email-wrapper {
+    display: block;
+    position: relative;
+    max-width: 550px;
+}
+section.content .content-footer .email-wrapper .input-wrapper {
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 3px 5px;
+    background-color: var(--white);
+    border-radius: 50px;
+}
+section.content .content-footer .email-wrapper .input-wrapper input.form-control {
+    border: 0 !important;
+    border-radius: 50px 0 0 50px;
+    box-shadow: none !important;
+    outline: 0 !important;
+}
+section.content .content-footer .email-wrapper .input-wrapper .btn {
+    min-width: 130px;
+    border-radius: 0 50px 50px 0;
+}
+section.content .content-footer .navbar.navbar-footer .navbar-nav > .nav-item {
+    margin-right: 15px;
+}
+section.content .content-footer .navbar.navbar-footer .navbar-nav > .nav-item:last-child {
+    margin-right: 0;
+}
+section.content .content-footer .navbar.navbar-footer .navbar-nav > .nav-item > .nav-link {
+    color: var(--color-9);
+    font-weight: 300;
+}
+section.content .content-banner {
+    display: block;
+    position: relative;
+}
+section.content .content-banner .banner-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 15px;
+    min-height: 112px;
+    background-color: var(--white);
+    border-radius: 12px;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+section.content .content-banner .banner-wrapper .banner-icon {
+    display: block;
+    position: relative;
+    margin-right: 10px;
+    width: 50px;
+    height: 50px;
+}
+section.content .content-banner .banner-wrapper .banner-icon img {
+    width: 100%;
+}
+section.content .content-banner .banner-wrapper .banner-text {
+    display: block;
+    position: relative;
+}
+section.content .content-banner .banner-wrapper .banner-text .banner-title {
+    font-size: 20px;
+}
+section.content .content-banner .banner-wrapper .banner-text .banner-description {
+    font-size: 12px;
+}
+section.content .page-title {
+    display: block;
+    position: relative;
+    margin-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    background-image: linear-gradient(to right, var(--color-5), var(--color-6), transparent);
+}
+section.content .page-title::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 5px;
+    height: auto;
+    background-color: var(--color-7);
+    border-radius: 50px;
+}
+section.content .page-title .title,
+section.content .page-title .subtitle {
+    display: block;
+    position: relative;
+    color: var(--white);
+    font-size: 24px;
+}
+section.content .page-title .subtitle {
+    font-size: 14px;
+}
+
+
+
+.line-height-1 {
+    line-height: 1 !important;
+}
+
+.pagination .paginate_button a {
+    background-color: var(--color-7) !important;
+    border-color: var(--color-7) !important;
+    box-shadow: none !important;
+    color: var(--color-9) !important;
+    outline: none !important;
+}
+.pagination .paginate_button.active a {
+    background-color: var(--color-7) !important;
+    border-color: var(--color-7) !important;
+    box-shadow: none !important;
+    color: var(--color-9) !important;
+    font-weight: 700;
+    outline: none !important;
+}
+/**** endof custom style ****/

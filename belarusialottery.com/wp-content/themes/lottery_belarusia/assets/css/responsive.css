@@ -1,0 +1,54 @@
+/**** begin responsive style ****/
+@media (min-width: 993px) {
+    header .logo-wrapper {
+        max-width: 200px;
+    }
+    header .navbar-header .navbar-nav > .nav-item {
+        margin-right: 15px;
+    }
+    header .navbar-header .navbar-nav > .nav-item > .nav-link {
+        padding: 0 25px;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 40px;
+    }
+
+    section .welcome-wrapper .welcome-title {
+        font-size: 50px;
+    }
+    section .welcome-wrapper .welcome-subtitle {
+        font-size: 34px;
+    }
+    section .welcome-wrapper .welcome-description {
+        font-size: 24px;
+    }
+    section .page-title {
+        font-size: 50px;
+    }
+    section .page-subtitle {
+        font-size: 34px;
+    }
+    section .banner-wrapper .banner-item .banner-text .banner-title {
+        font-size: 18px;
+    }
+    section .banner-wrapper .banner-item .banner-text .banner-description {
+        font-size: 14px;
+    }
+
+    footer .icon-wrapper {
+        margin-left: auto;
+        margin-right: 0;
+        max-width: 300px;
+    }
+
+    .card.card-result.main-prize {
+        width: 350px;
+    }
+    .card.card-result.main-prize.history {
+        width: 100%;
+    }
+}
+
+@media (min-width: 1200px) {
+}
+/**** endof responsive style ****/

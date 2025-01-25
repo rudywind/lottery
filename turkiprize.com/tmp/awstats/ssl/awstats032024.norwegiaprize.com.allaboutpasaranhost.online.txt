@@ -1,0 +1,918 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202403 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.norwegiaprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2045                
+POS_TIME 2718                
+POS_VISITOR 23407               
+POS_DAY 33007               
+POS_DOMAIN 3498                
+POS_LOGIN 4057                
+POS_ROBOT 4212                
+POS_WORMS 4869                
+POS_EMAILSENDER 5000                
+POS_EMAILRECEIVER 5143                
+POS_SESSION 33798               
+POS_SIDER 33977               
+POS_FILETYPES 5278                
+POS_DOWNLOADS 5363                
+POS_OS 5411                
+POS_BROWSER 5776                
+POS_SCREENSIZE 7480                
+POS_UNKNOWNREFERER 7554                
+POS_UNKNOWNREFERERBROWSER 8282                
+POS_ORIGIN 8678                
+POS_SEREFERRALS 8818                
+POS_PAGEREFS 8996                
+POS_SEARCHWORDS 9266                
+POS_KEYWORDS 9418                
+POS_MISC 2382                
+POS_ERRORS 9477                
+POS_CLUSTER 3913                
+POS_SIDER_404 9581                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240401030809 4 591 5653420432313
+FirstTime 20240301041314
+LastTime 20240331222625
+LastUpdate 20240401081342 4 0 3 0 0
+TotalVisits 323                 
+TotalUnique 247                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 247                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 16 250864 19 22 81589
+1 16 16 277505 15 30 177445
+2 13 13 168858 58 65 261098
+3 5 5 45146 12 14 201354
+4 26 26 336839 15 22 27513
+5 19 19 273761 54 73 191751
+6 8 8 200979 11 17 63856
+7 6 6 80784 10 15 84382
+8 19 19 205100 13 25 72189
+9 22 22 429700 20 29 214704
+10 16 16 241816 23 35 57472
+11 7 7 87980 3 4 79735
+12 12 12 104661 12 20 69152
+13 6 6 80780 17 21 102382
+14 46 46 261451 20 27 32526
+15 45 45 3834591 18 33 145537
+16 20 20 696533 33 35 65280
+17 18 18 275945 55 57 125375
+18 15 15 375010 14 22 186412
+19 16 16 250838 16 26 180739
+20 17 17 203034 6 6 7488
+21 18 18 424428 8 10 52844
+22 23 23 416289 10 14 37231
+23 10 10 102765 35 38 73189
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 24
+us 133 133 5397267
+cn 67 67 803714
+id 46 46 226793
+jp 46 46 619937
+ca 24 24 589128
+ru 14 14 310842
+se 12 12 108305
+fr 12 12 321202
+ro 11 11 330444
+gb 11 11 189818
+de 11 11 228046
+sc 5 5 36120
+in 4 4 59133
+be 4 4 36116
+nl 3 3 27070
+eu 3 3 129368
+bd 2 2 16358
+ch 2 2 18060
+kh 2 2 14416
+es 2 2 120217
+hn 2 2 18038
+il 1 1 7207
+lt 1 1 9030
+bg 1 1 9028
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+AhrefsBot/ 27 286273 20240330112339 0
+no_user_agent 16 570208 20240331060217 0
+crawl 12 517447 20240328195151 0
+Go\-http\-client/ 10 90281 20240329175753 0
+Googlebot/ 8 57666 20240315195353 0
+bot[\s_+:,\.\;\/\\-] 6 52314 20240315232112 0
+SemrushBot/ 3 27208 20240328072909 0
+BLEXBot/ 3 129349 20240329020308 0
+link 3 129365 20240327180440 0
+Apache\-HttpClient/ 1 9012 20240324094526 0
+Firefox/1\.5 1 9018 20240306104143 0
+MJ12bot/ 1 7207 20240313171052 0
+YandexBot/ 1 9025 20240301090629 0
+Applebot/ 1 9018 20240305221537 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 419 9625657 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+win8.1 1 1
+androidnougat 1 1
+macosx13 1 1
+winxp 1 1
+androidmarshmallow 1 1
+win7 13 13
+androidkitkat 1 1
+winlong 3 3
+linux 28 28
+linuxubuntu 5 5
+androidlollipop 1 1
+wince 1 1
+win10 111 111
+android 8 8
+ios_iphone 106 106
+android10 47 47
+macosx15 47 47
+macosx 12 12
+Unknown 26 26
+macosx9 1 1
+winnt 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 81
+chrome100.0.4896.127 3 3
+safari15.5 1 1
+chrome34.0.1847.114 1 1
+chrome106.0.0.0 2 2
+chrome71.0.1874.88 1 1
+chrome64.0.1753 1 1
+chrome89.0.4389.82 2 2
+chrome80.0.3987.162 1 1
+msie7.0 1 1
+iphone 1 1
+mozilla 11 11
+netscape5.0 4 4
+safari 2 2
+chrome81.0.4044.138 1 1
+chrome79.0.3945.117 1 1
+chrome68.0.2609 1 1
+chrome115.0.0.0 1 1
+safari17.3.1 2 2
+chrome34.0.1847.116 3 3
+chrome104.0.0.0 6 6
+chrome88.0.4240.193 5 5
+chrome100.0.4758.11 1 1
+chrome121.0.0.0 19 19
+chrome108.0.0.0 8 8
+chrome51.0.2704.103 3 3
+firefox108.0 2 2
+chrome57.0.2987.108 3 3
+safari13.0.3 102 102
+safari1.0.3 1 1
+firefox119.0 1 1
+chrome117.0.0.0 47 47
+chrome100.0.4896.60 18 18
+chrome122.0.0.0 26 26
+chrome123.0.0.0 2 2
+chrome60.0.3112.107 1 1
+chrome97.0.2263 1 1
+chrome95.0.4638.74 1 1
+chrome89.0.4389.114 2 2
+firefox52.0 1 1
+firefox122.0 1 1
+chrome110.0.0.0 3 3
+chrome11.0.696.71 2 2
+chrome96.0.4664.110 6 6
+chrome52.0.277 1 1
+Unknown 12 12
+chrome118.0.0.0 3 3
+firefox40.0 1 1
+chrome69.0.581 1 1
+chrome120.0.0.0 1 1
+chrome51.0.2704.106 14 14
+firefox123.0 2 2
+firefox118.0 1 1
+chrome70.0.2826.88 1 1
+firefox114.0 6 6
+chrome97.0.699 1 1
+chrome87.0.4280.88 3 3
+chrome98.0.2739 1 1
+firefox116.0 1 1
+chrome83.0.4103.97 4 4
+chrome101.0.4951.54 1 1
+chrome97.0.4280.67 3 3
+chrome95.0.4638.54 2 2
+chrome107.0.0.0 1 1
+chrome65.0.3325.162 1 1
+chrome79.0.2312.88 1 1
+firefox117.0 5 5
+msie11.0 2 2
+chrome14.0.835.163 1 1
+chrome50.0.2241 1 1
+chrome116.0.0.0 3 3
+chrome85.0.4183.121 1 1
+chrome120.0.6099.230 1 1
+chrome74.0.3729.169 5 5
+chrome66.0.3359.181 7 7
+chrome114.0.0.0 11 11
+firefox33.0 1 1
+chrome13.0.782.41 1 1
+chrome105.0.0.0 7 7
+chrome91.0.4472.114 3 3
+msie6.0 2 2
+chrome68.0.3440.106 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240304160305
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240330134512
+panscient.com 20240314092037
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240326220219
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240328095037
+Mozilla/5.0_(compatible;_Example3/1.0;__https://www.example3.com/domain/norwegiaprize.com) 20240325170217
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+panscient.com 20240314092037
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240330134512
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 265 265
+From1 1 1
+From2 4 4
+From3 11 11
+From4 138 138
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 2 2
+google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://marwahhijau.site 5 5
+https://secure.livechatinc.com 4 4
+https://onicforyou.com 1 1
+https://onic4dpasaran.site 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 22 27324
+404 528 660528
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 258
+/st.php 1 http://norwegiaprize.com//st.php
+/wp-includes/assets/plugins.php 1 norwegiaprize.com
+/wp-includes/widgets/plugins.php 1 norwegiaprize.com
+/wp-includes/theme-compat/index.php 1 norwegiaprize.com
+/wp-includes/css/dist/format-library/index.php 1 norwegiaprize.com
+/wp-includes/SimplePie/Decode/index.php 1 norwegiaprize.com
+//2020/wp-includes/wlwmanifest.xml 1 -
+/phpfox.php 1 http://norwegiaprize.com/phpfox.php
+/wp-admin/maint/moon.php 1 http://norwegiaprize.com//wp-admin/maint/moon.php
+/wp-l0gin.php 1 http://norwegiaprize.com//wp-l0gin.php
+/wp-content/style-css.php 1 norwegiaprize.com
+/wp-content/plugins/WordPressCore/ 1 http://norwegiaprize.com//wp-content/plugins/WordPressCore/
+/wp-content/wso.php 1 http://norwegiaprize.com//wp-content/wso.php
+/wp-content/plugins/index.php 1 norwegiaprize.com
+/.well-known/admin.php 1 http://norwegiaprize.com//.well-known/admin.php
+/wp-content/plugins.php 1 norwegiaprize.com
+/sites/all/libraries/elfinder/elfinder.html 1 -
+//wp-includes/ID3/license.txt 1 -
+//site/wp-includes/wlwmanifest.xml 1 -
+/.well-known/acme-challenge/install.php 1 http://norwegiaprize.com//.well-known/acme-challenge/install.php
+/repeater.php 2 -
+/admin.php 8 norwegiaprize.com
+/wp-includes/rest-api/about.php 1 http://norwegiaprize.com//wp-includes/rest-api/about.php
+/text.php 1 http://norwegiaprize.com//text.php
+/wp-login.php 7 -
+//wp1/wp-includes/wlwmanifest.xml 1 -
+//2021/wp-includes/wlwmanifest.xml 1 -
+/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-admin/dropdown.php 2 -
+/xxl.php 1 -
+/style.php 3 www.google.com
+/wp-content/install.php 1 http://norwegiaprize.com//wp-content/install.php
+/wp-admin/css/index.php 1 norwegiaprize.com
+/wp-admin/js/plugins.php 1 norwegiaprize.com
+/wp-content/upgrade/plugins.php 1 norwegiaprize.com
+/misc/ajax.js 1 -
+/alfanew.PHP7 1 http://norwegiaprize.com//alfanew.PHP7
+/dropdown.php 1 http://norwegiaprize.com//dropdown.php
+/sitemap.txt 3 -
+/.well-known/acme-challenge/admin.php 1 http://norwegiaprize.com//.well-known/acme-challenge/admin.php
+/sitemaps.xml 2 -
+/wp-includes/block-patterns/plugins.php 1 norwegiaprize.com
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 1 http://norwegiaprize.com//wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php
+/author-sitemap.xml 1 -
+/wp-includes/blocks/template-part/index.php 1 norwegiaprize.com
+/wp 1 -
+/install.php 1 http://norwegiaprize.com//install.php
+/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/blocks/preformatted/index.php 1 norwegiaprize.com
+/wp-includes/certificates/plugins.php 2 norwegiaprize.com
+/robots.txt 79 -
+/humans.txt 7 http://norwegiaprize.com/humans.txt
+//wp/wp-includes/wlwmanifest.xml 1 -
+/wp-json 13 -
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 2 -
+/wp-includes/images/plugins.php 1 norwegiaprize.com
+/wp-json/ 3 http://norwegiaprize.com/wp-json/
+/wp-admin/css/colors/sunrise/index.php 1 norwegiaprize.com
+/checkbex.php 1 norwegiaprize.com
+//wp-json/wp/v2/users/ 1 -
+/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_imaged.php 1 -
+//xmlrpc.php 3 -
+/wp-json/wp/v2/users/1 1 https://norwegiaprize.com/
+/sitemap.ashx 1 -
+/wp-hoard.php 1 http://norwegiaprize.com//wp-hoard.php
+/wp-admin/css/colors/blue/ 1 http://norwegiaprize.com//wp-admin/css/colors/blue/
+/wp-includes/fonts/plugins.php 1 norwegiaprize.com
+/wordpress 1 -
+/js/elfinder/php/connector.minimal.php 1 -
+/js/elfinder/php/connector.php 1 -
+/.well-known/security.txt 1 http://www.norwegiaprize.com/.well-known/security.txt
+/old 1 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/network/admin.php 1 http://norwegiaprize.com//wp-admin/network/admin.php
+/cgi-bin/plugins.php 1 norwegiaprize.com
+/themes.php 2 http://norwegiaprize.com//themes.php
+/wp-json/wp/v2/posts 1 -
+/wp-content/plugins/ioptimization/IOptimize.php 2 www.google.com
+/wp-includes/theme-compat/network.php 1 http://norwegiaprize.com//wp-includes/theme-compat/network.php
+/wp-admin/css/colors/coffee/index.php 1 -
+/php/thinkphp/aaaffff123.php 8 -
+/chart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-info.php 1 http://norwegiaprize.com//wp-info.php
+/.well-known/pki-validation/xmrlpc.php 1 http://norwegiaprize.com//.well-known/pki-validation/xmrlpc.php
+/security.txt 1 http://www.norwegiaprize.com/security.txt
+/administrator/index.php 1 -
+/general.php 1 http://norwegiaprize.com//general.php
+/admin/fileupload/server/php/index.php 1 -
+//cdn.js 5 -
+/cgi-bin/cgi-bin/about.php7 1 http://norwegiaprize.com//cgi-bin/cgi-bin/about.php7
+/.well-known/acme-challenge/xmrlpc.php 1 http://norwegiaprize.com//.well-known/acme-challenge/xmrlpc.php
+/assets/plugins/fileupload/server/php/index.php 1 -
+/index.php 3 -
+/ads.txt 8 http://norwegiaprize.com/ads.txt
+/assets/filemanager/dialog.php 1 -
+/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/api/index.php/v1/users 2 -
+/wp-content/about.php 1 http://norwegiaprize.com//wp-content/about.php
+/wp-admin/css/colors/coffee/profile.php 1 http://norwegiaprize.com//wp-admin/css/colors/coffee/profile.php
+/wp-includes/images/smilies/index.php 1 norwegiaprize.com
+/view-source: 1 -
+/wp-uploads-config.php 1 http://norwegiaprize.com//wp-uploads-config.php
+/inputs.php 2 norwegiaprize.com
+/wp-content/plugins/Cache/Cache.php 1 http://norwegiaprize.com//wp-content/plugins/Cache/Cache.php
+/wp-includes/blocks/plugins.php 1 norwegiaprize.com
+/js/filemanager/dialog.php 1 -
+/wp-content/uploads/wpr-addons/forms/ 1 http://norwegiaprize.com//wp-content/uploads/wpr-addons/forms/
+/sites/all/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-admin/css/plugins.php 2 norwegiaprize.com
+/sites/all/modules/contrib/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/wso.php 2 -
+/wp-content/themes/themes.php 1 norwegiaprize.com
+/wp-content/plugins/fix/up.php 1 -
+/classwithtostring.php 1 http://norwegiaprize.com//classwithtostring.php
+/wp-includes/css/buttons.css 1 http://norwegiaprize.com//wp-includes/css/buttons.css
+/assets/js/fileupload/server/php/index.php 1 -
+/wp-content/uploads/wp-apxupx.php 1 http://norwegiaprize.com//wp-content/uploads/wp-apxupx.php
+/sites/all/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/about.php 9 www.google.com
+/wp-content/uploads/2023/01/index.php 1 norwegiaprize.com
+//wp-json/oembed/1.0/embed 1 -
+/wp-admin/network/subjects.php 1 -
+/typo3conf/ext/hi_surveystats/res/php-ofc-library/ofc_upload_image.php 1 -
+/wp-admin/install.php 2 -
+/radio.php 2 -
+/wp-content/patior/ 1 http://norwegiaprize.com//wp-content/patior/
+/wp-includes/js/tinymce/index.php 1 norwegiaprize.com
+/.env 9 -
+/.well-known/acme-challenge/plugins.php 1 http://norwegiaprize.com//.well-known/acme-challenge/plugins.php
+/assets/administrator/filemanager/dialog.php 1 -
+/wp-includes/SimplePie/plugins.php 1 norwegiaprize.com
+//newtownlottery.com/wp-content/themes/lottery_newtown/assets/js/lottery.js 5 -
+/wp-includes/sitemaps/plugins.php 1 norwegiaprize.com
+/cgi-bin/install.php 1 http://norwegiaprize.com//cgi-bin/install.php
+/wp-includes/ID3/plugins.php 1 http://norwegiaprize.com//wp-includes/ID3/plugins.php
+/wp-content/plugins/ 1 http://norwegiaprize.com//wp-content/plugins/
+/wp-admin/network/index.php 1 http://norwegiaprize.com//wp-admin/network/index.php
+//wp-includes/wlwmanifest.xml 2 -
+/wp-includes/html-api/plugins.php 1 norwegiaprize.com
+//feed/ 1 -
+/sitemap_index.xml.gz 1 -
+/nf_tracking.php 1 http://norwegiaprize.com//nf_tracking.php
+/assets/plugins/filemanager/dialog.php 1 -
+/.DS_Store 7 -
+/wp-aa.php 1 -
+//test/wp-includes/wlwmanifest.xml 1 -
+/shop 1 -
+/delete3.php 1 http://norwegiaprize.com//delete3.php
+/phpmyadmin/index.php 8 -
+/wp-admin/images/admin.php 1 http://norwegiaprize.com//wp-admin/images/admin.php
+/wp-content/uploads/plugins.php 1 norwegiaprize.com
+/wp-includes/install.php 1 http://norwegiaprize.com//wp-includes/install.php
+/wp-emoji-release.min.js 5 -
+/sitemap_index.xml 2 -
+/wp-includes/random_compat/about.php 1 http://norwegiaprize.com//wp-includes/random_compat/about.php
+/wp-content/cong.php 1 -
+/wp-content/themes/seotheme/db.php 2 www.google.com
+/wp-head.php 2 -
+/filemanager/dialog.php 1 -
+/wp-admin/images/Mhbgf.php 1 http://norwegiaprize.com//wp-admin/images/Mhbgf.php
+/wp-content/themes/plugins.php 1 http://norwegiaprize.com//wp-content/themes/plugins.php
+/wp-includes/blocks/pullquote/index.php 1 norwegiaprize.com
+/wp-content/mah.php 1 http://norwegiaprize.com//wp-content/mah.php
+/wp-includes/ID3/index.php 1 norwegiaprize.com
+/wp-includes/PHPMailer/plugins.php 1 norwegiaprize.com
+/blog 1 -
+/wp-json/wp/v2/posts/ 1 -
+/dist/js/bootstrap.bundle.min.js 5 -
+/wp-admin/images/install.php 1 http://norwegiaprize.com//wp-admin/images/install.php
+/.well-known/pki-validation/cloud.php 1 http://norwegiaprize.com//.well-known/pki-validation/cloud.php
+/wp-admin/setup-config.php 1 -
+/wp-content/themes/twenty/twenty.php 1 http://norwegiaprize.com//wp-content/themes/twenty/twenty.php
+/wp-content/themes/twentytwentythree/patterns/ 1 http://norwegiaprize.com//wp-content/themes/twentytwentythree/patterns/
+/wp-json/litespeed/v1/cdn_status 7 -
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 2 www.google.com
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/simple.php 5 www.google.com
+//cms/wp-includes/wlwmanifest.xml 1 -
+/assets/admin/js/filemanager/dialog.php 1 -
+/wp-admin/admin-ajax.php 1 http://norwegiaprize.com//wp-admin/admin-ajax.php
+/ee.php 2 -
+/dist/jquery.min.js 5 -
+//web/wp-includes/wlwmanifest.xml 1 -
+/wp-content/upgrade-temp-backup/about.php 1 http://norwegiaprize.com//wp-content/upgrade-temp-backup/about.php
+/sample.php 1 http://norwegiaprize.com//sample.php
+/wp-content/themes/mero-megazines/ws.php 1 -
+/wp-includes/style-engine/plugins.php 1 norwegiaprize.com
+/wp-admin/js/about.php 1 http://norwegiaprize.com//wp-admin/js/about.php
+/wp-admin/includes/index.php 1 norwegiaprize.com
+/installer.php 1 -
+/administrator/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/admin/php-ofc-library/ofc_upload_image.php 1 -
+/wp-content/themes/signify/firkon.php 1 -
+/users.php 1 http://norwegiaprize.com//users.php
+/wp-includes/js/tinymce/plugins/paste/index.php 1 norwegiaprize.com
+/chosen.php 11 -
+/wp-admin/user/about.php 1 http://norwegiaprize.com//wp-admin/user/about.php
+/meta.json 1 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 4 -
+/css/install.php 1 http://norwegiaprize.com//css/install.php
+/cong.php 1 http://norwegiaprize.com//cong.php
+/cgi-bin/themes.php 1 http://norwegiaprize.com//cgi-bin/themes.php#xleet
+/wp-content/languages/plugins.php 1 norwegiaprize.com
+/wp-includes/js/dist/vendor/index.php 1 norwegiaprize.com
+/wp-admin/user/plugins.php 2 norwegiaprize.com
+/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-admin/about.php 1 http://norwegiaprize.com//wp-admin/about.php
+/sitemap.xml 26 -
+/wp-content/uploads/ 1 http://norwegiaprize.com//wp-content/uploads/
+/wp-admin/images/revision.php 1 http://norwegiaprize.com//wp-admin/images/revision.php
+//newtownlottery.com/wp-content/themes/lottery/assets/js/flipclock.js 5 -
+/wp-content/dropdown.php 1 http://norwegiaprize.com//wp-content/dropdown.php
+/sitemap.xml.gz 3 -
+/wp-admin/images/plugins.php 1 norwegiaprize.com
+/wp-includes/sodium_compat/plugins.php 1 norwegiaprize.com
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 5 -
+/wp-json/wp/v2/users 1 -
+/wp-includes/css/plugins.php 1 norwegiaprize.com
+/wp-includes/customize/plugins.php 2 norwegiaprize.com
+/wp-rocket.php 1 http://norwegiaprize.com//wp-rocket.php
+/wp-admin/cong.php 1 http://norwegiaprize.com//wp-admin/cong.php
+//wp-login.php 1 -
+/wp-includes/wso.php 1 http://norwegiaprize.com//wp-includes/wso.php
+/wp-admin/network/plugins.php 1 http://norwegiaprize.com//wp-admin/network/plugins.php
+/wp-includes/block-supports/plugins.php 1 norwegiaprize.com
+/admin/plugins/fileupload/server/php/index.php 1 -
+/wp-content/plugins/install.php 1 http://norwegiaprize.com//wp-content/plugins/install.php
+/wp-content/plugins/Cache/dropdown.php 2 -
+//blog/wp-includes/wlwmanifest.xml 1 -
+/new 1 -
+/sitemap 1 -
+/wp-content/pm.php 1 norwegiaprize.com
+/admin/ 1 -
+/wp-admin/includes/plugins.php 1 http://norwegiaprize.com//wp-admin/includes/plugins.php
+/radio.txt 1 -
+/wp-seo.php 1 http://norwegiaprize.com//wp-seo.php
+//shop/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/js/about.php7 1 http://norwegiaprize.com//wp-admin/js/about.php7
+/index_sso.php 8 -
+//2019/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/wp-class.php 2 -
+/wp-admin/css/colors/midnight/index.php 1 norwegiaprize.com
+/sites/default/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-json/wp/v2/users/2 1 https://norwegiaprize.com/
+/wp-includes/Text/about.php 1 http://norwegiaprize.com//wp-includes/Text/about.php
+/php-ofc-library/ofc_upload_image.php 1 -
+/wp-includes/php-compat/plugins.php 1 norwegiaprize.com
+/.well-known/acme-challenge/cloud.php 1 http://norwegiaprize.com//.well-known/acme-challenge/cloud.php
+/wp-22.php 1 http://norwegiaprize.com//wp-22.php
+/wpwp.php 1 http://norwegiaprize.com//wpwp.php
+/wp-content/themes/finley/min.php 1 -
+/admin/filemanager/dialog.php 1 -
+/cgi-bin/cgi-bin/about.php 1 http://norwegiaprize.com//cgi-bin/cgi-bin/about.php
+/feed/atom/ 1 -
+/shellv3.php 1 http://norwegiaprize.com//shellv3.php
+/wp-admin/maint/atomlib.php 1 http://norwegiaprize.com//wp-admin/maint/atomlib.php
+/test 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 247
+36.75.20.202 23 23 46797 20240301141741
+35.171.144.152 11 11 392018 20240322193209
+114.10.142.227 8 8 46804 20240317151953
+84.239.41.135 7 7 267752 20240314092037
+54.88.179.33 7 7 249466 20240315215313
+114.5.251.51 7 7 39592 20240315152007
+144.217.135.219 6 6 3296918 20240304155311
+74.143.174.35 6 6 79137 20240310233056
+54.36.139.152 6 6 54108 20240312043435
+185.218.125.179 5 5 178190 20240315164516
+36.99.136.136 4 4 36116 20240325090152
+146.70.195.46 4 4 46801 20240306174716
+42.83.147.34 4 4 36104 20240328001220
+87.98.153.11 4 4 142552 20240304183803
+192.95.30.227 4 4 36108 20240301221308
+162.0.209.76 4 4 36052 20240331222625
+43.163.6.35 3 3 27087 20240318040039
+43.134.37.211 3 3 27061 20240302234531
+51.254.199.11 3 3 27070 20240321021804
+43.153.216.189 3 3 231523 20240304053742
+123.60.68.42 3 3 27087 20240328190949
+182.44.9.147 3 3 129227 20240323191134
+43.133.38.182 3 3 27077 20240325133925
+36.99.136.137 3 3 27085 20240316010937
+51.89.211.248 3 3 106914 20240306173732
+43.130.31.48 1 1 9017 20240304104706
+182.44.2.148 1 1 9012 20240321091738
+43.128.110.17 1 1 9011 20240311101731
+52.81.44.220 1 1 9026 20240314192931
+87.236.176.134 1 1 9029 20240313091214
+64.23.230.236 1 1 9027 20240315204253
+87.236.176.216 1 1 9028 20240326064132
+185.18.53.223 1 1 9031 20240319161847
+129.226.158.26 2 2 18058 20240323001629
+44.236.207.248 1 1 7209 20240315122621
+94.156.64.15 1 1 9028 20240318101538
+68.183.82.225 1 1 9028 20240329211326
+38.45.123.36 1 1 9030 20240328173236
+34.220.98.13 1 1 9028 20240318051505
+87.236.176.17 1 1 9029 20240313145934
+138.197.159.195 1 1 9031 20240325060135
+185.241.208.97 2 2 71276 20240314201038
+222.79.104.23 1 1 9028 20240328091257
+52.81.67.84 2 2 18031 20240324083600
+175.6.217.4 2 2 18057 20240330054833
+135.148.195.12 1 1 9028 20240321202553
+100.26.54.205 1 1 9028 20240322052949
+146.190.242.166 1 1 9028 20240321204347
+35.91.249.0 1 1 9012 20240324043711
+193.31.75.129 1 1 111186 20240305164029
+152.39.192.53 1 1 9151 20240325222456
+106.227.49.113 2 2 18056 20240321190355
+180.110.203.108 1 1 9025 20240301131620
+54.151.13.182 1 1 9029 20240323014117
+45.61.55.132 1 1 35638 20240308105645
+182.42.111.156 2 2 18179 20240331024600
+113.141.91.58 2 2 18048 20240319075521
+192.175.111.232 1 1 35638 20240316182439
+114.96.103.33 2 2 18059 20240322050742
+87.98.140.71 2 2 71276 20240306015939
+49.7.227.204 1 1 9012 20240320224406
+5.133.192.138 1 1 9011 20240310182135
+199.244.88.229 1 1 9026 20240315044254
+43.155.136.16 2 2 18179 20240331110302
+43.131.243.208 1 1 9018 20240302224037
+43.159.63.75 1 1 9031 20240309184543
+192.175.111.246 1 1 35638 20240316182442
+43.155.138.79 1 1 9026 20240306221743
+64.23.146.3 1 1 9029 20240301203432
+46.228.199.158 2 2 18061 20240319001911
+43.155.169.133 1 1 9019 20240308051336
+52.81.208.114 1 1 9026 20240314064430
+205.210.31.106 1 1 35638 20240322221704
+101.35.239.216 1 1 9030 20240327135204
+112.215.171.72 1 1 7208 20240304140554
+85.10.143.139 1 1 9028 20240326064123
+65.154.226.169 1 1 9026 20240314020907
+49.51.206.130 1 1 9029 20240302104511
+64.15.129.120 1 1 35638 20240316182443
+104.236.202.188 1 1 9028 20240327205500
+43.133.72.69 2 2 18182 20240320025920
+46.101.4.160 1 1 9011 20240311091741
+192.175.111.235 1 1 35638 20240316182444
+170.106.171.77 1 1 9017 20240303205223
+124.226.222.66 1 1 9029 20240304142224
+191.102.157.26 1 1 9012 20240324094628
+35.94.171.185 1 1 9026 20240314051030
+45.55.112.20 1 1 9030 20240319001040
+5.61.55.96 2 2 18059 20240326000736
+60.188.57.0 2 2 18057 20240318130110
+43.163.8.36 1 1 9029 20240313123150
+52.81.237.92 1 1 9028 20240325155506
+170.106.159.160 2 2 18058 20240323091312
+185.220.101.38 1 1 9025 20240301101259
+152.39.146.112 1 1 9028 20240325200203
+64.15.129.105 1 1 35638 20240316182438
+129.226.147.7 2 2 222372 20240304213532
+49.13.23.32 1 1 9028 20240322035822
+18.197.97.14 1 1 9019 20240307202552
+135.148.195.15 2 2 18047 20240328194628
+42.83.147.53 1 1 9018 20240312054234
+157.245.97.98 1 1 9031 20240309204107
+149.56.150.182 1 1 7208 20240304160305
+43.159.141.180 1 1 9018 20240303104721
+43.159.128.149 1 1 9029 20240305104621
+176.9.18.134 1 1 9031 20240325142203
+52.81.248.110 1 1 9029 20240301145114
+130.255.161.237 1 1 9026 20240307102102
+54.38.211.230 3 3 106914 20240306173733
+145.220.91.19 1 1 9028 20240328071213
+205.210.31.214 1 1 35638 20240330134512
+192.95.30.15 2 2 18036 20240302170847
+165.22.112.120 1 1 111186 20240309063831
+192.175.111.253 1 1 35638 20240316182442
+157.245.70.5 1 1 9151 20240309024935
+69.10.48.174 1 1 35638 20240330191153
+93.158.91.12 1 1 9028 20240327235131
+116.206.14.35 1 1 7210 20240320085104
+137.184.13.234 1 1 9018 20240311215933
+202.80.215.80 3 3 39591 20240308141608
+138.197.32.162 2 2 18058 20240305080743
+124.225.164.130 1 1 9028 20240326003555
+13.239.129.160 1 1 9031 20240319210023
+43.130.32.224 1 1 9031 20240324163347
+46.19.138.210 2 2 18060 20240325080915
+185.10.5.209 1 1 7207 20240309082443
+43.163.8.148 1 1 9030 20240328182852
+87.236.176.30 1 1 9030 20240326220219
+144.202.75.134 1 1 9028 20240327221517
+34.221.129.185 1 1 9028 20240326045955
+24.144.104.176 1 1 9012 20240323221053
+182.42.104.32 1 1 9017 20240303152448
+5.101.157.11 1 1 7208 20240326153639
+3.110.112.143 1 1 7208 20240324124646
+93.158.90.74 1 1 9029 20240313014106
+202.57.27.81 3 3 39593 20240313151514
+150.109.16.20 1 1 9029 20240302120916
+93.158.90.71 1 1 9028 20240330053900
+14.215.163.132 1 1 9012 20240324060308
+180.149.29.117 1 1 9151 20240305185248
+36.99.136.128 1 1 9018 20240306025606
+125.75.66.97 3 3 27076 20240326092310
+176.9.76.162 1 1 35638 20240303073327
+195.28.11.250 2 2 18036 20240303122626
+66.102.8.110 1 1 7208 20240303174050
+43.159.129.209 1 1 9029 20240301144456
+116.206.14.33 1 1 7203 20240331151741
+185.36.254.124 1 1 9018 20240305154118
+137.226.113.44 3 3 27066 20240328095037
+54.190.3.194 2 2 18056 20240318051502
+38.45.123.34 2 2 18057 20240312154856
+94.247.172.129 1 1 9030 20240328210019
+103.242.105.177 1 1 7208 20240304200058
+108.61.216.149 1 1 7209 20240318205722
+3.95.23.35 1 1 7210 20240329112627
+52.81.185.110 1 1 9029 20240305121324
+178.254.12.183 1 1 9030 20240329071955
+64.225.79.235 1 1 9028 20240318142709
+54.193.11.93 1 1 9027 20240316001036
+198.235.24.51 1 1 35638 20240316100812
+141.94.174.211 1 1 9031 20240309225941
+203.2.64.59 3 3 27071 20240317074233
+199.244.88.228 1 1 9030 20240327025816
+43.163.0.99 1 1 9011 20240311004844
+198.235.24.138 1 1 35638 20240325155154
+64.225.110.72 1 1 9028 20240308204922
+93.158.91.239 1 1 9029 20240301195219
+192.175.111.245 1 1 35638 20240316182441
+86.127.230.205 1 1 35638 20240321063109
+58.49.233.126 2 2 18059 20240329044951
+101.91.148.219 1 1 9026 20240314181605
+54.190.80.255 1 1 9026 20240314051024
+52.42.175.135 1 1 35638 20240311023537
+52.55.154.111 1 1 7207 20240313172823
+43.163.1.85 3 3 27203 20240313222856
+35.87.161.140 1 1 9018 20240306040130
+93.159.230.89 1 1 9026 20240315143226
+54.203.73.198 1 1 7209 20240319022455
+134.122.95.197 1 1 9028 20240317213023
+43.131.248.209 1 1 9017 20240304045823
+208.80.194.42 1 1 35638 20240302004248
+125.94.144.102 1 1 9030 20240318223305
+178.62.82.141 3 3 129368 20240324161744
+36.99.136.129 1 1 9031 20240325090150
+93.159.230.87 1 1 9030 20240329150655
+159.223.156.73 1 1 9031 20240319202452
+43.155.183.138 3 3 27075 20240328003728
+192.175.111.233 1 1 35638 20240316182445
+20.187.44.26 2 2 18052 20240306143604
+54.69.222.98 1 1 9012 20240324044110
+124.156.193.7 1 1 9027 20240316211818
+182.42.110.255 1 1 9026 20240315044927
+43.134.190.89 1 1 9018 20240303123108
+36.133.172.82 2 2 18046 20240312052132
+165.227.192.154 1 1 9017 20240304053829
+128.90.170.38 1 1 9028 20240328142922
+34.219.162.181 1 1 9018 20240312045116
+43.135.181.13 1 1 9018 20240302145133
+124.248.183.41 2 2 14416 20240301141744
+43.131.48.214 3 3 27078 20240320122307
+205.210.31.250 1 1 35638 20240312112433
+5.188.62.26 2 2 18060 20240326165453
+54.218.24.195 2 2 18036 20240306040129
+18.144.22.223 1 1 9028 20240330001714
+54.235.59.92 1 1 9012 20240324094531
+64.227.153.16 1 1 9028 20240325214440
+167.172.167.245 1 1 9013 20240331210310
+43.128.100.220 1 1 9019 20240307183040
+103.220.22.117 1 1 7257 20240317151947
+157.230.109.182 1 1 9018 20240305192721
+154.92.115.77 2 2 9030 20240327103640
+35.89.186.220 1 1 9018 20240312045041
+178.33.149.171 2 2 71276 20240307090720
+212.80.200.124 1 1 111186 20240325222453
+35.84.22.33 1 1 9028 20240326050000
+119.96.24.54 1 1 111186 20240305044608
+93.158.90.67 1 1 9028 20240318121802
+117.33.163.216 1 1 9026 20240315150301
+185.64.104.47 1 1 9030 20240319020926
+165.232.95.164 1 1 9017 20240303195612
+159.203.140.224 1 1 9028 20240309010956
+191.102.135.196 1 1 9026 20240306230543
+93.159.230.90 1 1 9027 20240315153553
+116.203.44.248 1 1 35638 20240325170217
+182.44.12.37 2 2 18047 20240326192046
+3.25.152.141 2 2 18052 20240306142550
+43.133.77.230 1 1 9029 20240301203418
+38.46.8.202 1 1 9029 20240323111855
+36.41.75.167 3 3 27077 20240325031117
+5.133.192.131 1 1 9029 20240304223958
+116.206.14.4 1 1 7210 20240328153718
+52.81.203.9 1 1 9028 20240330012513
+43.163.3.58 2 2 18044 20240314082907
+5.133.192.128 1 1 9027 20240316113316
+192.36.109.108 1 1 9012 20240324142830
+37.128.144.106 1 1 9031 20240320015716
+68.183.195.181 1 1 9019 20240307191818
+180.149.26.249 1 1 7207 20240309082218
+87.106.158.5 2 2 18034 20240304081624
+150.109.253.34 2 2 18168 20240304082946
+113.219.218.197 1 1 9030 20240327060312
+47.88.78.84 1 1 7208 20240324162143
+135.148.195.8 1 1 9026 20240314122827
+93.158.91.10 1 1 9028 20240322053927
+154.91.83.168 3 3 27090 20240329082740
+103.189.123.4 1 1 7210 20240313151407
+43.135.166.178 1 1 9028 20240322133938
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240301 41 41 232266 16
+20240302 19 19 433407 16
+20240303 14 14 279978 13
+20240304 31 31 3877115 25
+20240305 17 17 384627 16
+20240306 19 19 261979 13
+20240307 6 6 80747 6
+20240308 13 13 236293 10
+20240309 11 11 197962 11
+20240310 11 11 124272 7
+20240311 6 6 80707 6
+20240312 16 16 250790 10
+20240313 15 15 224124 12
+20240314 19 19 429288 12
+20240315 22 22 386063 11
+20240316 14 14 365877 14
+20240317 12 12 81144 5
+20240318 10 10 88463 9
+20240319 10 10 88484 10
+20240320 5 5 43315 5
+20240321 7 7 89758 7
+20240322 14 14 312662 9
+20240323 7 7 63169 7
+20240324 13 13 215899 11
+20240325 14 14 281914 14
+20240326 12 12 106524 11
+20240327 8 8 63204 7
+20240328 13 13 115556 12
+20240329 6 6 52358 6
+20240330 6 6 107388 6
+20240331 8 8 70324 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+2mn-5mn 1
+5mn-15mn 3
+30s-2mn 3
+0s-30s 316
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 374 4661269 305 300
+/history-result/ 21 4650085 8 12
+/live-draw/ 21 207389 10 10
+// 3 106914 0 1
+END_SIDER

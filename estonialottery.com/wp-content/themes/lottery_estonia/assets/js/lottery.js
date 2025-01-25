@@ -1,0 +1,1 @@
+$(document).ready(function(){$('.table.table-data').DataTable({searching:false,ordering:false,lengthChange:false,pageLength:4,});});

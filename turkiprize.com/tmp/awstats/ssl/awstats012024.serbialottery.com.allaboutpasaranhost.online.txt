@@ -1,0 +1,1252 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202401 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.serbialottery.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2045                
+POS_TIME 2722                
+POS_VISITOR 30348               
+POS_DAY 42031               
+POS_DOMAIN 3522                
+POS_LOGIN 4202                
+POS_ROBOT 4357                
+POS_WORMS 5159                
+POS_EMAILSENDER 5290                
+POS_EMAILRECEIVER 5433                
+POS_SESSION 42844               
+POS_SIDER 43033               
+POS_FILETYPES 5568                
+POS_DOWNLOADS 5653                
+POS_OS 5701                
+POS_BROWSER 6071                
+POS_SCREENSIZE 8312                
+POS_UNKNOWNREFERER 8386                
+POS_UNKNOWNREFERERBROWSER 9235                
+POS_ORIGIN 9845                
+POS_SEREFERRALS 9985                
+POS_PAGEREFS 10183               
+POS_SEARCHWORDS 10447               
+POS_KEYWORDS 10628               
+POS_MISC 2386                
+POS_ERRORS 10718               
+POS_CLUSTER 4058                
+POS_SIDER_404 10824               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240201004211 39 7956 9097539660782
+FirstTime 20240101022431
+LastTime 20240131224636
+LastUpdate 20240201070800 39 0 38 0 0
+TotalVisits 430                 
+TotalUnique 301                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 301                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 83403 21 31 71905
+1 27 27 208250 16 29 67838
+2 15 15 212586 40 49 80236
+3 16 16 278348 22 31 70189
+4 19 19 243492 47 66 406512
+5 13 13 97823 13 21 87097
+6 21 21 282998 131 144 268891
+7 20 20 200315 40 52 331414
+8 44 44 749405 90 105 488481
+9 12 12 97002 182 189 381198
+10 56 56 855370 63 69 358779
+11 20 20 388566 15 21 98055
+12 22 22 381321 25 31 86038
+13 42 42 2225543 20 31 55772
+14 17 17 390749 28 31 54935
+15 36 36 537090 32 41 80437
+16 10 10 197125 31 37 61399
+17 22 22 455544 21 25 97564
+18 17 17 279918 77 101 193434
+19 27 27 296144 32 37 116495
+20 18 18 145167 42 48 125957
+21 52 52 440248 33 64 207510
+22 7 7 82777 16 36 213036
+23 13 13 135538 66 79 278954
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 34
+us 200 200 4282374
+jp 78 78 640891
+cn 64 64 521306
+fr 45 45 1353549
+de 19 19 200342
+ru 19 19 321603
+gb 18 18 289696
+se 11 11 115659
+kh 11 11 85219
+ca 10 10 233764
+lb 8 8 267856
+nl 8 8 82796
+at 7 7 55941
+cz 6 6 175629
+bg 6 6 31114
+sa 5 5 167410
+no 5 5 167410
+in 4 4 83401
+ro 3 3 48336
+id 3 3 19909
+es 3 3 13274
+rs 3 3 19910
+il 2 2 1384
+pl 2 2 13274
+iq 1 1 6635
+au 1 1 8206
+jo 1 1 6636
+lt 1 1 6635
+zz 1 1 8213
+ba 1 1 6636
+lk 1 1 6637
+tr 1 1 6637
+gr 1 1 8221
+md 1 1 8219
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+crawl 48 1072576 20240125102135 0
+AhrefsBot/ 31 278014 20240130213538 0
+MJ12bot/ 29 296460 20240131044006 0
+Googlebot/ 24 155810 20240131052317 0
+Lightspeed 16 301160 20240129085829 0
+no_user_agent 10 334820 20240129062509 0
+spider 7 142843 20240124114009 0
+bot[\s_+:,\.\;\/\\-] 6 49316 20240121053936 0
+Go\-http\-client/ 6 49368 20240113215218 0
+TelegramBot 4 26542 20240131013625 0
+Applebot/ 4 32876 20240126135858 0
+survey 3 100446 20240131121507 0
+SemrushBot/ 3 24631 20240123141429 0
+facebookexternalhit/ 1 33482 20240129084634 0
+Apache\-HttpClient/ 1 8212 20240102184848 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 8224 20240115101622 0
+YandexBot/ 1 8221 20240111005031 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 550 9264722 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+androidpie 1 1
+macosx11 8 8
+win10 175 175
+macosx15 23 23
+linux 58 58
+macosx10 6 6
+winxp 7 7
+macosx6 3 3
+macosx14 5 5
+win2000 2 2
+macosx 3 3
+win8 1 1
+macosx12 2 2
+winnt 2 2
+ios_iphone 168 168
+win7 14 14
+android10 21 21
+win8.1 2 2
+android 9 9
+macosx13 2 2
+androidkitkat 2 2
+androidnougat 5 5
+Unknown 31 31
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 109
+safari13.0.3 158 158
+chrome114.0.0.0 12 12
+opera11.61 1 1
+iphone 1 1
+chrome88.0.4324.146 1 1
+chrome91.0.4472.101 1 1
+chrome88.0.4240.193 10 10
+chrome117.0.0.0 9 9
+safari5.1.9 1 1
+msie6.0 4 4
+firefox33.0 1 1
+chrome51.0.2704.103 4 4
+chrome87.0.4280.141 5 5
+chrome41.0.2226.0 1 1
+firefox114.0 1 1
+chrome83.0.4103.97 16 16
+safari12.0.1 1 1
+chrome103.0.5060.71 1 1
+chrome78.0.3904.108 17 17
+chrome91.0.4472.114 3 3
+edge15 1 1
+chrome118.0.5993.111 1 1
+firefox104.0 1 1
+chrome79.0.2323.88 1 1
+firefox52.0.1 1 1
+chrome61.0.3163.100 1 1
+chrome106.0.0.0 2 2
+firefox119.0 1 1
+firefox103.0 1 1
+firefox102.0 1 1
+opera10.54 1 1
+chrome51.0.2704.106 12 12
+chrome76.0.3809.132 4 4
+chrome77.0.3436.88 1 1
+chrome115.0.0.0 4 4
+firefox48.0 2 2
+firefox89.0 1 1
+chrome95.0.4638.54 2 2
+chrome39.0.2171.95 3 3
+firefox58.0 1 1
+chrome119.0.0.0 2 2
+netscape5.0 4 4
+safari15.6 1 1
+safari10.1.2 1 1
+chrome108.0.0.0 20 20
+chrome100.0.4896.75 1 1
+chrome100.0.4896.127 2 2
+chrome60.0.3112.107 5 5
+firefox52.0 9 9
+opera92.0.0.0 1 1
+chrome120.0.6099.43 1 1
+firefox118.0 2 2
+chrome113.0.0.0 1 1
+firefox56.0 1 1
+firefox42.0 1 1
+chrome79.0.3234.88 1 1
+opera94.0.0.0 1 1
+chrome72.0.3626.121 1 1
+opera84.0.4316.14 1 1
+chrome94.0.4606.81 1 1
+firefox122.0 1 1
+safari16.6 3 3
+chrome80.0.3987.162 1 1
+chrome107.0.0.0 1 1
+chrome104.0.0.0 3 3
+chrome96.0.4664.110 5 5
+chrome60.0.3112.90 1 1
+edge17 1 1
+chrome120.0.0.0 36 36
+chrome103.0.5060.134 1 1
+opera10.10 1 1
+chrome100.0.4896.60 15 15
+safari16.2 1 1
+chrome101.0.4951.54 1 1
+chrome52.0.2743.116 1 1
+chrome121.0.0.0 2 2
+chrome76.0.3809.100 2 2
+chrome74.0.3729.169 6 6
+safari16.1 2 2
+chrome89.0.4389.114 42 42
+chrome87.0.4280.88 2 2
+chrome109.0.0.0 2 2
+chrome101.0.4951.41 1 1
+opera105.0.0.0 1 1
+chrome116.0.0.0 2 2
+android 2 2
+chrome103.0.5060.66 3 3
+mozilla 12 12
+chrome105.0.0.0 5 5
+safari 3 3
+Unknown 16 16
+chrome106.0.5249.126 1 1
+chrome103.0.0.0 1 1
+chrome74.0.3729.180 1 1
+firefox49.0 2 2
+safari14.0.3 1 1
+chrome70.0.3538.102 1 1
+chrome120.0.6099.130 1 1
+firefox121.0 1 1
+chrome118.0.0.0 4 4
+firefox117.0 2 2
+safari17.2 3 3
+chrome101.0.4951.61 1 1
+chrome63.0.3239.132 1 1
+chrome53.0.2785.90 1 1
+chrome56.0.2924.76 1 1
+chrome76.0.3809.111 1 1
+chrome11.0.696.71 4 4
+opera6.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Mozilla/5.0 20240120073242
+python-requests/2.31.0 20240130145103
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240118154145
+undici 20240129060744
+ALittle_Client 20240126041515
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240121024141
+WhatsApp/2.23.20.0 20240121082729
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240129152117
+python-requests/2.28.2 20240108225704
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240119133142
+Python/3.8_aiohttp/3.9.1 20240117213535
+Python/3.11_aiohttp/3.9.1 20240120004950
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+python-requests/2.31.0 20240130145103
+python-requests/2.28.2 20240108225704
+undici 20240129060744
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240129152117
+WhatsApp/2.23.20.0 20240121082729
+Python/3.11_aiohttp/3.9.1 20240120004950
+ALittle_Client 20240126041515
+Python/3.8_aiohttp/3.9.1 20240117213535
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 297 297
+From1 4 4
+From2 26 26
+From3 5 5
+From4 218 218
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google_com 4 4
+www_google_de 1 1
+www_google_com 21 21
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://serbialottery.com:443 2 2
+https://susuabah.top 1 1
+https://secure.livechatinc.com 1 1
+https://itl4d.org 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//serbialottery.com/ 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+//serbialottery.com/ 1
+https 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 1121 1315931
+403 36 43194
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 477
+/composere.php 1 https://serbialottery.com/composere.php
+/yanz.php 1 -
+/admin-post.php 1 -
+/wp-includes/shell20211028.php 2 www.google.com
+/wp-admin/includes/ 1 www.google.com
+/wp-includes/ 3 -
+/wp-admin/includes/logs.php 2 www.google.com
+//2021/wp-includes/wlwmanifest.xml 1 -
+/admin/ 2 www.google.com
+/wp-content/themes/pridmag/db.php 2 www.google.com
+/oldsite/wp-admin/install.php 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/web/wp-admin/install.php 2 -
+/filemanager/dialog.php 2 -
+/wp-head.php 1 -
+/mini.php 2 www.google.com
+/wp-stad.php 2 www.google.com
+/ads.txt 7 http://serbialottery.com/ads.txt
+/.Wp-back.phP 2 www.google.com
+/wp-includes/js/jquery/jquery.js 4 -
+/wp-content/themes/seotheme/mar.php 2 www.google.com
+/wp-includes/Text/ 1 www.google.com
+/lib.php 1 www.google.com
+/wp-includes/wlwmanifest.xml 3 -
+/wp-admin/xl2023.php 2 www.google.com
+/wp-includes/pomo/ 2 www.google.com
+/wp-includes/wso112233.php 2 www.google.com
+/cache-compat.php 1 -
+//web/wp-includes/wlwmanifest.xml 1 -
+/wp-content/themes/photocrati-theme-v4/admin/scripts/scripts-update.php 1 -
+/wp-admin/shell20211028.php 2 www.google.com
+/Admin/uploads/ 2 www.google.com
+/.well-known/pki-validation/index.php 1 -
+/sitemap.xml 13 -
+/wp-content/plugins/wp-post-author/readme.txt 1 -
+/wp-content/updates.php 3 -
+//site/wp-includes/wlwmanifest.xml 1 -
+/wp-touch.js 1 serbialottery.com
+/upload/image/ 2 www.google.com
+/wp-includes/block-patterns/ 2 www.google.com
+/gank.php.PhP 2 www.google.com
+/wp-content/themes/index.php 1 serbialottery.com
+/wp-content/plugins/better-search-replace/assets/js/better-search-replace.js 2 -
+/shell.php 3 -
+/xmlrpc.php 1 -
+/accesson.php 1 serbialottery.com
+/wp-includes/SimplePie/Content/Type/ 2 www.google.com
+/home 3 http://serbialottery.com/home
+/wp-content/themes/ccx/index.php 2 www.google.com
+/6index.php 2 www.google.com
+/admin/images/slider/ 1 www.google.com
+/wp-consar.php 1 -
+/.well-known/admin.php 1 serbialottery.com
+/wp-content/repeater.php 2 -
+/wp-admin/js/widgets/cloud.php 3 -
+/blog/wp-admin/install.php 2 -
+/wp-json/wp/v2/users/4 3 https://serbialottery.com/
+/wp-content/themes/twentystd/index.php 1 www.google.com
+/wp-content/shell20211028.php 2 www.google.com
+/1.php 2 www.google.com
+/uploads/cmd.php 1 -
+/wp-content/plugins/wp-gdpr-compliance/Resources/scss/front/_modal.scss 1 serbialottery.com
+/wp-includes/pomo/treame.php 2 www.google.com
+/wp-content/admin.php 1 serbialottery.com
+/doc.php 2 www.google.com
+/wp-includes/block-supports/ 2 www.google.com
+/lock360.php 2 www.google.com
+/img/cloud.php 3 -
+/wp-json 4 -
+/libraries/vendor/updates.php 2 -
+/ajax-actions.php 1 -
+/bc 3 http://serbialottery.com/bc
+/webadmin/about.php 2 www.google.com
+/wp-content/plugins/1234.php 1 -
+/x.php 2 www.google.com
+/wp-content/ 4 www.google.com
+/wp-includes/sitemaps/providers/ 1 www.google.com
+/images/ 2 www.google.com
+/libraries/legacy/updates.php 2 -
+/web_system.php 1 https://serbialottery.com/web_system.php
+/wp-includes/SimplePie/Content/ 2 www.google.com
+/wp-content/plugins/seoo/wsoyanz.php 1 -
+//test/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/kadence-blocks/readme.txt 1 -
+//wp-login.php 1 -
+/wp-includes/css/ 2 www.google.com
+/wp-admin/html.php 1 www.google.com
+/wp-content/themes/photocrati-theme/admin/scripts/scripts-update.php 1 -
+/wp-admin/network/index.php 1 serbialottery.com
+/wp-admin/css/ 1 www.google.com
+/wp-admin/fw.php 2 www.google.com
+/wp-admin/js/widgets/about.php7 2 -
+/406.php 2 www.google.com
+/admin/uploads/ 2 www.google.com
+/wp-content/themes/holding_pattern/admin/options-tab-sample.txt 1 -
+/wp-admin/css/colors/ectoplasm/ 1 www.google.com
+/wp-admin/css/index.php 1 -
+//harvardpools.com/wp-content/themes/lottery/assets/js/flipclock.js 5 -
+/wp-admin/setup-config.php 2 -
+/wp-includes/SimplePie/ 1 www.google.com
+/wp-includes/fonts/ 1 www.google.com
+/contact 2 http://serbialottery.com/contact
+/wp-json/wp/v2/users/5 3 https://serbialottery.com/
+/wp-admin/repeater.php 2 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 2 -
+/template/ 2 www.google.com
+//wp-json/oembed/1.0/embed 14 -
+/updates.php 2 -
+/wp-emoji-release.min.js 3 -
+/upload/ 1 www.google.com
+/input.php 2 www.google.com
+//wp-json/wp/v2/users/ 14 -
+/wp-admin/ 4 www.google.com
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 2 www.google.com
+/wp-content/themes/lightspeed/framework/_scripts/valums_uploader/php.php 1 -
+/cmd.php 1 -
+/wp-includes/ID3/vp.php 2 www.google.com
+/admin/controller/extension/extension/ 1 www.google.com
+/site/wp-admin/install.php 2 -
+/wp-content/plugins/Cache/Cache.php 2 -
+/wp-content/plugins/wp-apxupx.php 2 -
+/wp-content/plugins/fix/up.php 7 -
+/css/admin.php 1 serbialottery.com
+/xl2023.php 2 www.google.com
+/5index.php 2 www.google.com
+/wp-includes/xl2023.php 2 www.google.com
+/files/ 2 www.google.com
+/bk 3 http://serbialottery.com/bk
+/wp-content/plugins/ninja-forms/readme.txt 1 -
+/general.php 2 www.google.com
+/ccx/index.php 2 www.google.com
+/upload.php 2 www.google.com
+/main 3 http://serbialottery.com/main
+/index.php 7 -
+/wp-content/plugins/core-stab/index.php 2 www.google.com
+/wp-includes/sitemaps/ 1 www.google.com
+/wp.php 2 www.google.com
+/wp-content/plugins/wp-file-manager-pro/css/fm_common.css 1 -
+/css.php 2 www.google.com
+/wp-content/plugins/import-xml-feed/readme.txt 1 -
+/wp-includes/pomo/newup.php 2 www.google.com
+/exec.php 1 -
+/.well-knownold/ 4 www.google.com
+/.well-knownold/.well-known/ 1 -
+/wp-admin/network/ 1 www.google.com
+/wp-includes/blocks/index.php 1 serbialottery.com
+/warm.PhP7 1 -
+/sample.php 2 www.google.com
+/systems.php 1 https://serbialottery.com/systems.php
+//feed/ 1 -
+/sftp-config.json 1 -
+/wp-content/plugins/sid/sidwso.php 2 www.google.com
+/include/ 2 www.google.com
+/assets/filemanager/dialog.php 2 -
+/wp-includes/sodium_compat/ 1 www.google.com
+/wp-content/themes/satoshi/styles/functions.css 1 -
+/wp-admin/user/ 1 www.google.com
+/wp-content/plugins/backup-backup/admin/css/bmi-plugin.min.css 1 -
+/.well-known/index.php 2 -
+/install.php 1 -
+/wp-json/wp/v2/posts 1 -
+/assets/index.php 1 serbialottery.com
+/wp-json/wp/v2/users 1 http://www.google.com
+/simple.php 8 -
+/images/stories/ 2 www.google.com
+/wp-content/themes/piccione-theme/style.css 1 -
+/c.php 3 -
+/wp-content/plugins/seoo/wsoyanz1.php 1 -
+/wp-content/plugins/wp-automatic/changelog 1 -
+/wp-p.php7 2 -
+/helpdesk//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/css/cloud.php 3 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 5 -
+/wp-content/plugins/woocommerce-payments/readme.txt 1 -
+/repeater.php 1 -
+/wp-blog.php 2 www.google.com
+/wp-class.php 2 www.google.com
+/util/login.aspx 1 -
+/.well-known/security.txt 1 http://www.serbialottery.com/.well-known/security.txt
+/wp-includes/index.php 1 serbialottery.com
+/wp-content/406.php 2 www.google.com
+/.vscode/sftp.json 2 http://serbialottery.com/.vscode/sftp.json
+/test/wp-admin/install.php 2 -
+/wp-includes/wso.php 3 -
+/wp-content/plugins/td-composer/license.txt 5 -
+/wp-includes/customize/ 1 www.google.com
+/wp-admin/x.php 6 www.google.com
+/humans.txt 6 http://serbialottery.com/humans.txt
+/wp-includes/js/crop/ 1 www.google.com
+/wp-includes/Requests/Text/admin.php 3 -
+/support//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/wp-admin/cloud.php 2 -
+/wikindex.php 2 www.google.com
+/wp-admin/maint/ 1 www.google.com
+/wp-admin/css/colors/coffee/cloud.php 3 -
+/sites/default/files/ 1 www.google.com
+//blog/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/Requests/Utility/ 1 www.google.com
+/wp-content/plugins/zendrop-dropshipping-and-fulfillment/readme.txt 1 -
+/wp-content/themes/wp-classic/inc/index.php 1 www.google.com
+/wp-content/plugins/ioptimization/IOptimize.php 2 www.google.com
+/wp-includes/PHPMailer/ 1 www.google.com
+/wp-content/plugins/post-smtp/readme.txt 6 -
+/wp-content/plugins/avaa/avamar.php 1 -
+/administrator/index.php 6 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 1 -
+/wp-admin/dropdown.php 1 -
+/wp-content/plugins/post-smtp/style/testEmail.html 2 -
+//s3.tradingview.com/tv.js 4 -
+/wp-content/plugins/task-controller/index.php 1 www.google.com
+/backup 3 http://serbialottery.com/backup
+/1index.php 2 www.google.com
+/cms/wp-admin/install.php 2 -
+/contact-us 2 http://serbialottery.com/contact-us
+/Public/ 2 www.google.com
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 2 -
+/%5C/harvardpools.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 2 -
+//xmlrpc.php 17 -
+/modules/mod_simplefileuploadv1.3/elements/ 1 www.google.com
+/misc/ajax.js 3 -
+/wp-content/themes/aahana/json.php 1 www.google.com
+/wp-admin/network/cloud.php 3 -
+/lol.php 1 www.google.com
+/wp-includes/theme-compat/ 1 www.google.com
+/up.php 2 www.google.com
+/shop/ 2 www.google.com
+/cgi-bin/cloud.php 3 -
+/wp-content/plugins/ccx/index.php 2 www.google.com
+/wp-content/uploads/ 3 -
+/wp-content/uploads/ac_assets/IndoSec.php 2 www.google.com
+/3index.php 2 www.google.com
+/new-index.php 2 www.google.com
+/403.php 2 www.google.com
+/wp-content/plugins/ 1 www.google.com
+/about.php7 1 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/sodium_compat/src/ 1 www.google.com
+/inputs.php 7 serbialottery.com
+/wp-content/uploads/2023/12/about.php 1 -
+/wp-admin/user/cloud.php 3 -
+/wp-includes/random_compat/ 1 www.google.com
+/options-discussion.php 1 serbialottery.com
+/wp-includes/images/crystal/ 1 www.google.com
+/wp-admin/includes/cloud.php 2 -
+/wp-includes/IXR/ 1 www.google.com
+/wp-pano 1 -
+/wp-includes/js/codemirror/ 1 www.google.com
+/wp-includes/php-compat/ 1 www.google.com
+/post-sitemap.xml 3 -
+/wsoyanzorng.php 2 www.google.com
+/wordpress 3 http://serbialottery.com/wordpress
+/wp-content/themes/purevision/scripts/admin/uploadify/uploadify.css 1 -
+/wp-includes/ID3/ 1 www.google.com
+/wp-includes/certificates/ 2 www.google.com
+/modules/ 2 www.google.com
+/%22 4 -
+/tmp/cmd.php 1 -
+/wp-includes/images/media/ 1 www.google.com
+/new 3 http://serbialottery.com/new
+/locales.php 3 www.google.com
+/wp/wp-admin/install.php 2 -
+/wp-content/plugins/forminator/readme.txt 1 -
+/serbialottery.com/index.html 19 -
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 2 -
+//2020/wp-includes/wlwmanifest.xml 1 -
+/wp-json/wp/v2/users/1 2 https://serbialottery.com/
+/wp-includes/embed-wp.php 2 www.google.com
+/wp-json/lp/v1/load_content_via_ajax 1 serbialottery.com
+/Site/ 2 www.google.com
+/wp-admin/js/about.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/ 2 www.google.com
+/x/index.php 2 -
+/wp-content/plugins/backup-backup/includes/cld.php 1 serbialottery.com
+//2019/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/jupiterx-core/readme.txt 1 -
+/wordpress/wp-admin/install.php 2 -
+/.well-known/traffic-advice 3 -
+/wp-content/themes/classic/inc/index.php 2 www.google.com
+/wp-includes/Requests/Transport/ 1 www.google.com
+/wso112233.php 2 www.google.com
+//shop/wp-includes/wlwmanifest.xml 1 -
+/shell20211028.php 2 www.google.com
+/.well-known/acme-challenge/Alfa.php 1 www.google.com
+/wp-content/plugins/mw-wp-form/css/admin-common.css 1 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 2 -
+/wp-content/plugins/ai-engine/themes/_codeDark.scss 1 serbialottery.com
+/alfa-rex.php7 2 -
+/wp-admin/alfa.php 2 www.google.com
+/wp-includes/rest-api/ 2 www.google.com
+/ticket/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/wp-content/plugins/instabuilder2/cache/plugins/moon.php 2 www.google.com
+/wp-content/plugins/hellopress/wp_filemanager.php 3 -
+//harvardpools.com/wp-content/themes/lottery_harvard_pools/assets/js/lottery.js 5 -
+/wp-login.php 1 -
+/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 3 -
+/old 3 http://serbialottery.com/old
+/.well-known/acme-challenge/admin.php 1 serbialottery.com
+/wp-includes/images/wlw/ 1 www.google.com
+/wp-includes/repeater.php 2 -
+/radio.php 2 www.google.com
+/wp-content/themes/intense/block-css.php 3 -
+/robots.txt 115 -
+/dist/jquery.min.js 3 -
+/wp-includes/rest-api/fields/ 2 www.google.com
+/alfanew.php 2 -
+/wp-content/themes/theagency/includes/uploadify/uploadify.css 1 -
+/.env 9 -
+/chosen.php 15 -
+/wp-admin/wso.php 2 www.google.com
+/.aws/credentials 2 -
+/plugins/ 2 www.google.com
+/about.php 6 www.google.com
+/wp-includes/atom.php 1 www.google.com
+/system/ 2 www.google.com
+/view-source: 3 -
+/wp-content/plugins/syntax-highlighting-code-block/build/php5.php 1 serbialottery.com
+/a.php 2 www.google.com
+/local/ 2 www.google.com
+/wp-content/plugins/instabuilder2/cache/up.php 2 www.google.com
+//cms/wp-includes/wlwmanifest.xml 1 -
+/wp-content/themes/cameleonthemeforest/includes/fileuploader/upload_handler.php 1 -
+/wsoyanz.php 1 -
+/assets/images/ 2 www.google.com
+/wp-includes/Requests/Cookie/ 2 www.google.com
+/wp-content/plugins/ultimate-member/readme.txt 1 -
+/wp-content/plugins/core-builder/index.php 1 www.google.com
+/wp-content/options-discussion.php 1 serbialottery.com
+/wp-content/jp.php 1 serbialottery.com
+/wp-content/themes/buddyboss-theme/style.css 2 -
+//cdn.js 5 -
+/wp-22.php 2 www.google.com
+/dup-installer/main.installer.php 1 http://serbialottery.com/dup-installer/main.installer.php
+/old-index.php 2 www.google.com
+/wp-includes/images/ 1 www.google.com
+/wp-content/themes/photocrati-theme-v4.07/admin/scripts/scripts-update.php 1 -
+/wp-includes/assets/ 2 www.google.com
+/wp-json/wpgmza/v1/markers 1 -
+/index.php//vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/style.php 14 www.google.com
+/wp-admin/maint/maint/ajax-actions.php 1 -
+/wp-content/index.php 2 www.google.com
+/wp-admin/user/index.php 1 serbialottery.com
+/assets/admin.php 1 serbialottery.com
+/tmp/admin.php 1 serbialottery.com
+/wp-content/wso.php 2 www.google.com
+/mt/pekok.php 2 www.google.com
+/live-draw/serbialottery.com/live-draw/ 3 https://serbialottery.com/history-result/
+/admin/editor/ 2 www.google.com
+/wp-includes/Requests/Exception/HTTP/ 1 www.google.com
+/new/wp-admin/install.php 2 -
+/wp-content/themes/oxygen-theme/style.css 1 -
+/wp-content/themes/twentyfive/include.php 2 www.google.com
+/magento_version 1 -
+/wp-includes/Requests/Response/ 2 www.google.com
+/wp-admin/css/colors/ 1 www.google.com
+/.vscode/ftp-sync.json 1 -
+/wp-includes/js/ 2 www.google.com
+/wp-includes/html-api/ 1 www.google.com
+/wp-content/plugins/seoplugins/mar.php 2 www.google.com
+/wp 3 http://serbialottery.com/wp
+/wp-includes/style-engine/ 1 www.google.com
+/wp-content/plugins/index.php 1 serbialottery.com
+/admin.php 3 serbialottery.com
+/wp-content/plugins/backup-backup/includes/restore-batching.php 1 -
+/wp-content/upgrade/ 4 www.google.com
+/sitemap-1.xml 3 -
+/wp-admin/images.php 2 www.google.com
+/wp-includes/Text/Diff/ 2 www.google.com
+/glpi/vendor/htmlawed/htmlawed/htmLawedTest.php 1 -
+/wp-includes/widgets/ 2 www.google.com
+/wp-content/plugins/ai-engine/app/index.js 1 -
+/wp-json/wp/v2/users/2 2 https://serbialottery.com/
+/ALFA_DATA/ 1 www.google.com
+/.well-known/acme-challenge/atomlib.php 2 www.google.com
+/.well-known/acme-challenge/cloud.php 3 -
+/installer.php 3 -
+/history-result/serbialottery.com/history-result/ 3 https://serbialottery.com/
+/serbialottery.com/ 8 -
+/complete-order/ 1 -
+/wp-content/plugins/ht-mega-for-elementor/readme.txt 1 -
+/wp-includes/Requests/ 1 www.google.com
+/wp-content/themes/mero-magazine/ws.php 2 www.google.com
+/wp-includes/Text/Diff/Engine/Engine/ 1 www.google.com
+/admin/fckeditor/editor/filemanager/ 1 www.google.com
+/wp-includes/Requests/Auth/ 1 www.google.com
+/fw.php 2 www.google.com
+/wp-content/themes/ 1 www.google.com
+/wp-includes/rest-api/endpoints/ 2 www.google.com
+/wp-content/plugins/ai-engine/app/chatbot.js 1 -
+/wp-content/themes/radial-theme/style.css 1 -
+/wp-includes/Text/Diff/Engine/ 2 www.google.com
+/wp-includes/images/smilies/ 1 www.google.com
+/wp-admin/wso112233.php 2 www.google.com
+/old/wp-admin/install.php 2 -
+/Assets/ 2 www.google.com
+/security.txt 1 http://www.serbialottery.com/security.txt
+/wp-content/plugins/email-posts-to-subscribers/readme.txt 1 -
+/wp-content/plugins/ai-engine/readme.txt 4 -
+/wp-content/xl2023.php 2 www.google.com
+/wp-includes/Requests/Proxy/ 2 www.google.com
+/wp-content/plugins/easy-digital-downloads/readme.txt 1 -
+/admin/uploads/images/ 1 www.google.com
+/dist/js/bootstrap.bundle.min.js 3 -
+/wp-admin/css/colors/blue/cloud.php 2 -
+/wp-content/plugins/mstore-api/readme.txt 1 -
+/wp-sitemap-posts-post-1.xml 3 -
+/js/admin.php 1 serbialottery.com
+/.well-known/pki-validation/cloud.php 3 -
+/wp-content/themes/Nuance/functions/jwpanel/scripts/valums_uploader/php.php 1 -
+/data.php 2 www.google.com
+/wp-content/themes/nuance/functions/jwpanel/scripts/valums_uploader/php.php 1 -
+/wp-includes/js/tinymce/plugins/wpautoresize/index.php 1 serbialottery.com
+/admin/index.php 6 -
+/wp-includes/rest-api/search/ 1 www.google.com
+/wp-aa.php 4 -
+/dropdown.php 1 -
+/wp-content/xxx/xxx-xxx/xxxx-xx-xx/pages/xxxxxx.php 2 www.google.com
+/wp-content/themes/u-design/scripts/admin/uploadify/uploadify.css 1 -
+/wp-content/themes/dp_evolve/js/back-end/libraries/fileuploader/upload_handler.php 1 -
+/modules/explorerpro/form.php 1 -
+/wp-info.php 2 www.google.com
+/wp-admin/images/cloud.php 3 -
+/wp-admin/images/ 1 www.google.com
+/wp-admin/406.php 2 www.google.com
+/wp-content/plugins/ioxi/ioxi-rex.php 1 -
+/wp-json/wp/v2/users/3 2 https://serbialottery.com/
+/wp-includes/js/tinymce/plugins/wpeditimage/index.php 1 serbialottery.com
+/composer.php 1 https://serbialottery.com/composer.php
+/wp-content/themes/wp-avatar/admin/uploadify/uploadify.css 1 -
+/.well-known/acme-challenge/ 2 www.google.com
+/wp-content/themes/evolve/js/back-end/libraries/fileuploader/upload_handler.php 1 -
+/2index.php 2 www.google.com
+/wp-includes/blocks/ 2 www.google.com
+/wzy.php 2 www.google.com
+//wp/wp-includes/wlwmanifest.xml 1 -
+/.wp-cli/admin.php 1 serbialottery.com
+/wp-content/themes/my-custom-theme/index.php 1 serbialottery.com
+/wp-includes/widgets/class-wp-widget-index.php 2 www.google.com
+/edit-form.php 2 www.google.com
+/.well-known/pki-validation/atomlib.php 1 www.google.com
+/wp-content/plugins/wp-task-scheduler/scheduler.php 1 www.google.com
+/wp-content/plugins/wp-email-capture/readme.txt 1 -
+/libraries/phpmailer/updates.php 2 -
+//wp-includes/wlwmanifest.xml 16 -
+/wp-content/themes/photocrati/admin/scripts/scripts-update.php 1 -
+/wp-content/uploads/wp-logout.php 2 www.google.com
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 4 -
+/uploads/ 1 www.google.com
+/wp-admin/install.php 3 -
+/wp-content/plugins/wordfence/readme.txt 1 -
+/wp-content/plugins/userpro/changelog.txt 4 -
+/wp-content/plugins/learnpress/assets/js/admin/admin-tools.min.js 1 serbialottery.com
+/4index.php 2 www.google.com
+/wp-includes/Requests/Exception/ 1 www.google.com
+/wp-includes/SimplePie/Cache/ 2 www.google.com
+/wp-includes/js/jquery/jquery.min.js 2 www.google.com
+/wp-content/fw.php 2 www.google.com
+/wp-admin/ajax-actions.php 1 -
+/wp-content/wso112233.php 2 www.google.com
+/media/system/js/core.js 3 -
+/assets/ 2 www.google.com
+/wp-admin/meta/ 1 www.google.com
+//wp-includes/ID3/license.txt 1 -
+/php/ 2 www.google.com
+/wp-includes/wp-class.php 2 www.google.com
+/wp-content/plugins/backup-backup/readme.txt 3 -
+/404.php 2 www.google.com
+/wp-content/themes/sketch/404.php 2 www.google.com
+/cloud.php 3 -
+/wp-admin/css/colors/cloud.php 2 -
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/backup/wp-admin/install.php 2 -
+/.ftpconfig 1 -
+/components/ 1 www.google.com
+/vendor/ 2 www.google.com
+/images/cloud.php 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 301
+3.8.87.239 11 11 217477 20240115101622
+34.34.182.211 11 11 57519 20240117213535
+54.88.179.33 10 10 334820 20240126023845
+45.79.74.34 10 10 334820 20240131140303
+163.5.64.69 10 10 334820 20240129145046
+124.248.183.41 9 9 61733 20240131095635
+149.56.160.211 8 8 1876629 20240119133114
+49.51.206.130 7 7 57556 20240121200156
+217.182.193.41 6 6 49308 20240106124506
+170.106.104.42 6 6 49332 20240119214949
+170.106.159.160 6 6 49352 20240126103744
+35.171.144.152 5 5 167410 20240126023845
+43.135.181.13 5 5 41095 20240118103905
+43.130.31.48 5 5 41096 20240124195825
+84.247.129.164 5 5 167410 20240118034641
+104.232.209.20 5 5 47688 20240130231420
+163.5.64.70 5 5 167410 20240130084825
+163.5.169.26 5 5 167410 20240125084441
+85.209.176.123 5 5 167410 20240108104612
+104.28.250.135 5 5 13271 20240131013631
+163.5.210.83 5 5 167410 20240117081156
+89.187.163.218 5 5 167410 20240121112047
+194.233.82.51 5 5 41095 20240131152140
+129.226.158.26 5 5 41068 20240125200227
+185.164.121.40 4 4 133928 20240121181631
+154.47.28.110 2 2 8220 20240109075952
+43.159.129.209 2 2 16436 20240106133416
+135.148.195.9 1 1 8208 20240121021654
+144.202.123.247 2 2 16437 20240108044001
+111.7.96.160 2 2 16444 20240116013447
+185.246.188.67 1 1 8219 20240124182523
+43.153.93.68 3 3 24645 20240107213335
+135.148.195.14 1 1 8218 20240111180415
+149.202.88.65 3 3 100446 20240115150043
+113.219.218.197 2 2 16454 20240112125601
+139.59.62.203 1 1 8206 20240114095501
+124.226.222.66 3 3 24657 20240118175356
+198.235.24.216 1 1 33482 20240111153331
+134.122.41.15 1 1 8219 20240126080453
+47.243.9.61 1 1 8220 20240109074701
+43.135.129.233 1 1 8219 20240108213439
+199.16.208.238 1 1 8228 20240113213812
+106.55.200.246 1 1 6637 20240120035444
+31.223.128.160 1 1 6636 20240108183110
+180.102.134.69 1 1 8221 20240110144345
+178.254.24.91 1 1 8217 20240117070937
+92.118.39.249 1 1 8221 20240122180048
+209.170.91.202 1 1 6636 20240104214726
+185.220.100.245 1 1 8213 20240130153419
+182.44.2.148 1 1 8219 20240129213456
+111.172.249.49 1 1 8217 20240119171032
+111.118.140.53 1 1 8208 20240121082729
+178.254.12.183 2 2 16431 20240125232128
+198.235.24.163 1 1 33482 20240127074435
+43.133.72.69 2 2 16438 20240124044103
+109.70.100.71 1 1 8213 20240130153415
+144.217.212.93 1 1 8219 20240125011446
+104.199.31.214 1 1 8213 20240130145103
+188.166.63.144 1 1 8219 20240124074737
+168.151.110.206 1 1 6635 20240130063126
+36.99.136.128 1 1 8208 20240121074341
+34.213.156.177 1 1 33482 20240111045500
+8.217.3.231 1 1 8220 20240118052556
+164.90.189.252 1 1 8219 20240120082435
+134.247.251.246 1 1 6635 20240130040724
+128.199.55.136 1 1 8221 20240122083839
+43.131.62.4 2 2 16418 20240123103903
+3.93.176.89 1 1 33482 20240127015956
+144.172.118.41 1 1 8219 20240124182525
+85.215.236.41 1 1 6636 20240108205833
+43.134.89.111 2 2 16429 20240111102712
+178.33.149.171 3 3 100446 20240104224101
+54.190.58.76 1 1 8218 20240111082731
+34.220.99.40 1 1 8219 20240131081231
+91.92.241.173 1 1 8241 20240105085621
+5.133.192.171 2 2 16438 20240109114421
+54.37.76.179 1 1 8219 20240131025641
+43.134.142.8 1 1 8219 20240126095747
+198.235.24.79 1 1 33482 20240117110933
+198.235.24.145 1 1 33482 20240118185146
+54.254.162.138 1 1 6637 20240129060744
+38.122.112.147 2 2 16439 20240124201246
+44.222.237.239 1 1 8211 20240125040935
+144.126.238.14 1 1 8219 20240108085323
+46.8.155.102 1 1 33482 20240120164709
+23.137.249.185 1 1 8213 20240130153420
+5.133.192.173 1 1 8218 20240103182454
+193.46.255.175 3 3 24660 20240109153409
+43.130.62.164 3 3 24636 20240123135537
+43.131.44.218 1 1 8227 20240107102429
+79.119.40.119 1 1 6637 20240110213434
+193.186.4.155 1 1 6637 20240122074741
+194.5.48.242 3 3 100446 20240108175113
+84.114.162.58 1 1 6637 20240117191008
+34.213.136.199 1 1 8220 20240109081623
+67.220.86.160 1 1 8208 20240121090704
+44.237.114.60 1 1 6636 20240108133550
+185.6.11.146 1 1 8211 20240125115325
+43.130.39.101 1 1 8208 20240121135544
+144.217.135.229 1 1 6637 20240119133142
+185.195.71.244 1 1 8218 20240104010747
+109.123.232.177 1 1 8219 20240108225704
+107.189.10.175 1 1 8218 20240104010755
+128.90.90.120 1 1 0 20240125080919
+114.96.103.33 1 1 8209 20240101201654
+54.219.85.156 1 1 8213 20240112153634
+185.174.136.114 1 1 8213 20240130153425
+175.157.167.63 1 1 6637 20240117042512
+35.90.110.209 1 1 8209 20240101083619
+107.189.2.108 1 1 8219 20240124182515
+78.191.2.173 1 1 6637 20240117160650
+117.33.163.216 1 1 8232 20240115032147
+43.155.138.79 1 1 8211 20240125022020
+109.70.100.6 1 1 8213 20240130153412
+114.122.71.255 1 1 6637 20240103012050
+129.226.146.179 3 3 24659 20240115195431
+82.0.183.59 1 1 6637 20240117135506
+144.76.157.102 1 1 8221 20240122215638
+44.211.124.44 1 1 6637 20240119034827
+86.106.74.251 1 1 33482 20240123064419
+106.119.167.146 3 3 24638 20240111214042
+15.204.194.30 1 1 8222 20240116082923
+157.245.217.253 1 1 8211 20240104092748
+43.159.141.180 3 3 24641 20240123215736
+159.65.87.15 1 1 8206 20240114052642
+8.217.114.126 1 1 8222 20240117005807
+52.88.42.6 1 1 8217 20240119080942
+35.89.53.218 1 1 8221 20240127082636
+43.155.183.138 1 1 8219 20240131224636
+159.203.58.138 1 1 8218 20240128085838
+36.99.136.129 2 2 16429 20240121074341
+206.232.1.8 1 1 8218 20240103234252
+182.42.105.85 1 1 8220 20240109024912
+175.6.217.4 1 1 8227 20240107051306
+182.42.111.156 1 1 8217 20240117033102
+128.199.74.118 2 2 66964 20240126192019
+51.79.64.33 2 2 33482 20240107203622
+35.85.51.89 1 1 8206 20240123100317
+93.158.91.13 1 1 8208 20240122010036
+23.229.110.100 1 1 6635 20240130231421
+188.166.41.98 1 1 8220 20240118080009
+170.247.220.24 1 1 8211 20240104061338
+34.220.112.192 1 1 8219 20240131081247
+165.232.137.23 1 1 8221 20240110065540
+43.133.66.151 2 2 16454 20240112102818
+101.91.148.219 1 1 8218 20240103040327
+43.135.166.178 4 4 32888 20240125104813
+164.90.171.202 1 1 8222 20240116092556
+106.227.49.113 1 1 8218 20240103175913
+184.94.240.88 1 1 33482 20240112172113
+35.165.71.7 1 1 8217 20240119081021
+185.180.231.185 2 2 33482 20240114151929
+52.86.122.187 1 1 8211 20240104040342
+72.14.201.32 1 1 6633 20240114164504
+87.246.8.207 1 1 8221 20240127094426
+93.158.90.67 1 1 8213 20240130122827
+194.38.22.71 2 2 66964 20240126041515
+193.31.106.200 1 1 8220 20240118102938
+85.215.155.77 1 1 6636 20240108182151
+176.29.112.132 1 1 6636 20240128042858
+188.166.155.160 1 1 8217 20240119192943
+89.105.219.170 1 1 8232 20240115084653
+69.167.45.159 1 1 0 20240110085057
+204.242.179.29 1 1 8221 20240127094425
+141.98.255.144 1 1 8206 20240114170742
+91.92.253.89 1 1 692 20240119204024
+199.45.155.18 1 1 811 20240104044152
+109.245.201.188 1 1 6638 20240115102703
+54.244.96.43 1 1 8218 20240111082654
+43.159.128.149 3 3 24644 20240125215738
+174.138.86.47 1 1 8221 20240110093816
+85.118.78.95 1 1 6634 20240118070657
+91.92.253.85 1 1 692 20240122204543
+184.73.4.154 1 1 6637 20240105211627
+188.166.146.73 1 1 8218 20240128050402
+208.80.194.41 2 2 66964 20240108190319
+180.243.4.233 1 1 6636 20240112013100
+68.183.14.70 1 1 8218 20240106073017
+43.155.166.202 1 1 8211 20240125153533
+134.209.145.214 1 1 8212 20240102095227
+38.13.21.203 1 1 8228 20240113194314
+51.89.211.248 3 3 100446 20240105174629
+36.111.67.189 1 1 8220 20240118061940
+54.203.26.12 1 1 8217 20240119081012
+75.119.142.240 1 1 8218 20240104010748
+47.242.182.173 1 1 8220 20240109074710
+205.210.31.206 1 1 33482 20240122181039
+43.133.38.182 4 4 32868 20240120200026
+135.148.195.15 1 1 8211 20240125224505
+94.23.210.48 1 1 6635 20240121112036
+123.60.68.42 3 3 24677 20240120131451
+18.197.97.14 1 1 8219 20240129022616
+42.83.147.56 3 3 24661 20240122121040
+72.14.201.79 1 1 6636 20240112134712
+43.134.37.211 2 2 16449 20240113195054
+203.33.203.148 3 3 24649 20240109233940
+182.44.12.37 2 2 16424 20240114104430
+5.133.192.94 1 1 8218 20240128081034
+43.153.110.177 2 2 16439 20240109213523
+64.226.118.222 1 1 8219 20240124130801
+81.181.56.5 1 1 8217 20240120004950
+213.152.162.181 1 1 0 20240104184108
+43.131.243.208 2 2 16440 20240129061402
+87.98.153.11 3 3 100446 20240102101831
+109.248.49.229 1 1 33482 20240131045415
+95.17.242.93 3 3 13274 20240129123328
+118.193.44.213 1 1 8217 20240117024335
+50.19.147.15 1 1 8221 20240110034649
+54.226.186.199 1 1 8221 20240110034710
+93.158.90.34 1 1 8220 20240109215223
+158.69.247.77 1 1 8212 20240102120354
+165.154.0.25 1 1 8220 20240118060402
+111.118.140.52 1 1 15278 20240111065010
+35.93.16.110 1 1 8206 20240123102731
+103.215.127.179 1 1 8219 20240120073242
+51.15.62.151 1 1 8219 20240126032417
+185.107.44.117 1 1 33482 20240127151135
+117.62.235.53 2 2 16429 20240117175758
+208.80.194.42 1 1 33482 20240115214806
+170.106.171.77 2 2 16449 20240122195716
+217.146.2.41 1 1 8218 20240104010750
+185.7.33.146 1 1 8213 20240130153408
+128.90.43.42 1 1 0 20240122103526
+43.133.77.230 2 2 16435 20240117135134
+212.30.36.168 4 4 133928 20240115122845
+165.232.177.220 1 1 8213 20240112095816
+43.157.66.187 1 1 8206 20240114102929
+43.130.32.224 2 2 16434 20240119140053
+35.162.161.210 1 1 8217 20240119080546
+43.155.160.173 2 2 16431 20240130093432
+35.87.123.154 1 1 8218 20240111083543
+152.32.131.99 2 2 16434 20240117030252
+45.154.98.200 1 1 8218 20240128225607
+193.186.4.154 1 1 6637 20240122074728
+43.159.128.172 1 1 8219 20240124103710
+193.233.133.109 1 1 8218 20240104010745
+188.126.94.248 1 1 33482 20240127003657
+49.7.227.204 2 2 16447 20240131013237
+198.235.24.206 1 1 33482 20240129152117
+20.172.154.149 2 2 16442 20240122102823
+188.166.155.109 1 1 8208 20240121053748
+43.155.152.154 3 3 24634 20240114195227
+43.131.248.209 3 3 24646 20240125140552
+185.4.81.104 1 1 6634 20240118070659
+54.183.6.69 1 1 8241 20240105152602
+45.138.16.85 2 2 66964 20240117135118
+93.158.91.25 1 1 8232 20240115174128
+182.44.67.97 1 1 8219 20240120173528
+77.83.64.67 3 3 24654 20240111210813
+113.200.73.7 2 2 13268 20240101152524
+85.215.106.92 1 1 6638 20240115032257
+199.45.155.33 1 1 812 20240121024141
+35.87.128.101 1 1 8218 20240103014049
+213.188.90.154 1 1 6635 20240130063327
+54.153.42.11 1 1 8219 20240126151415
+4.246.213.213 2 2 16422 20240104215921
+165.232.145.234 1 1 8213 20240130073024
+180.110.203.108 1 1 8222 20240116102723
+89.116.56.58 1 1 6635 20240130231344
+54.70.48.150 1 1 8217 20240119080530
+95.29.229.82 1 1 6638 20240111011641
+62.210.246.183 1 1 8220 20240118213847
+43.157.40.112 2 2 16432 20240118073922
+182.42.104.32 2 2 16428 20240121232007
+104.28.218.135 3 3 19908 20240128011840
+170.106.82.193 4 4 32874 20240121103818
+51.254.199.11 4 4 32896 20240129111208
+176.123.7.11 1 1 8219 20240126223646
+212.30.36.101 4 4 133928 20240106162600
+124.225.164.130 1 1 8221 20240127040540
+222.79.104.23 2 2 16425 20240121070655
+137.226.113.44 3 3 24649 20240118154145
+45.83.104.137 1 1 8219 20240124182517
+170.106.101.31 4 4 32884 20240118200709
+18.237.152.188 1 1 8209 20240101083740
+49.51.179.103 1 1 8219 20240108134316
+178.221.226.210 1 1 6637 20240120171656
+114.5.213.72 1 1 6636 20240129012403
+43.134.66.205 1 1 8206 20240123111125
+87.98.140.71 2 2 66964 20240104033126
+150.109.16.20 1 1 8221 20240122200522
+109.93.204.62 1 1 6635 20240130051630
+43.135.149.154 1 1 8208 20240121215336
+2.57.121.121 2 2 1384 20240101062753
+43.131.48.214 3 3 24638 20240122215210
+54.38.211.230 1 1 33482 20240105080833
+199.45.155.35 1 1 812 20240118053013
+178.208.85.118 1 1 6638 20240111113125
+203.2.64.59 2 2 16460 20240131112111
+185.241.208.115 1 1 8218 20240104010752
+45.90.196.8 1 1 33482 20240130065756
+43.130.37.62 3 3 24653 20240122110726
+93.158.90.72 1 1 8219 20240120074201
+36.99.136.137 2 2 16431 20240118051644
+52.37.191.25 2 2 16426 20240113010218
+104.28.250.136 1 1 6637 20240127012258
+60.188.57.0 2 2 16468 20240107194627
+13.38.36.181 1 1 6638 20240115175639
+65.154.226.170 1 1 8219 20240129144347
+54.153.89.72 1 1 8217 20240119153736
+43.159.128.68 1 1 8219 20240108150150
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240101 17 17 222461 15
+20240102 9 9 124448 9
+20240103 18 18 271082 16
+20240104 25 25 263944 24
+20240105 15 15 197734 15
+20240106 16 16 232544 8
+20240107 10 10 89479 9
+20240108 22 22 401853 16
+20240109 19 19 147960 16
+20240110 13 13 95484 13
+20240111 22 22 311016 18
+20240112 10 10 104245 10
+20240113 11 11 90478 10
+20240114 11 11 105763 10
+20240115 28 28 529389 14
+20240116 9 9 73998 8
+20240117 43 43 586167 23
+20240118 26 26 354712 21
+20240119 25 25 2004053 18
+20240120 14 14 137163 14
+20240121 24 24 415489 17
+20240122 22 22 313497 17
+20240123 9 9 97560 9
+20240124 13 13 105264 13
+20240125 22 22 391667 16
+20240126 14 14 256842 12
+20240127 10 10 181670 10
+20240128 8 8 54362 8
+20240129 14 14 261897 10
+20240130 27 27 370520 19
+20240131 24 24 471981 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 1
+30s-2mn 3
+30mn-1h 1
+0s-30s 424
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 488 6025856 426 409
+// 38 1272316 0 14
+/history-result/ 10 1852147 1 4
+/live-draw/ 10 111635 0 0
+/.well-known/ 4 2768 3 3
+END_SIDER

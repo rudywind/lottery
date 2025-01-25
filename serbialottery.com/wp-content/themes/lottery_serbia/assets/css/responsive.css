@@ -1,0 +1,26 @@
+/**** begin responsive style ****/
+@media (min-width: 993px) {
+    header .logo-wrapper {
+        max-width: 250px;
+    }
+    header .navbar .navbar-nav .nav-item .nav-link {
+        margin-right: 15px;
+        padding: 0;
+        line-height: 50px;
+    }
+    header .navbar .navbar-nav .nav-item:last-child .nav-link {
+        margin-right: 0;
+    }
+
+    section .card.card-pool {
+        max-width: 375px;
+    }
+
+    footer .logo-wrapper {
+        max-width: 150px;
+    }
+}
+
+@media (min-width: 1200px) {
+}
+/**** endof responsive style ****/

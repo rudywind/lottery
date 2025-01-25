@@ -1,0 +1,301 @@
+/**** begin card style ****/
+.card.card-result {
+    position: relative;
+    margin: 0 auto;
+    border-radius: 12px;
+}
+.card.card-result .wrapper-number {
+    border-radius: 0 0 12px 12px;
+}
+.card.card-result .wrapper-number .pattern-circles {
+    border-radius: 0 0 12px 12px;
+    background-image: url(../images/pattern.png);
+    opacity: .65;
+}
+.card.card-result .wrapper-number .text-date {
+    font-family: 'Pacifico', cursive;
+}
+.card.card-result .pattern-circles {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.card.card-result .pattern-circles div {
+    position: absolute;
+    border-radius: 50%;
+    background-color: var(--color-3);
+    opacity: .1;
+}
+.card.card-result .pattern-circles .circle1 {
+    width: 55px;
+    height: 55px;
+    top: 25%;
+    right: 3%;
+}
+.card.card-result .pattern-circles .circle2 {
+    width: 109px;
+    height: 109px;
+    top: 0;
+    right: 0;
+    transform: translate(16%,-30%);
+}
+.card.card-result .pattern-circles .circle3 {
+    width: 144px;
+    height: 144px;
+    right: 0;
+    bottom: 0;
+    transform: translate(-50%,67%);
+}
+.card.card-result .pattern-circles .circle4 {
+    width: 288px;
+    height: 288px;
+    bottom: 0;
+    left: 0;
+    top: 100%;
+    transform: translate(-50%,-52%);
+}
+.card.card-result .pattern-circles .circle5 {
+    top: 0;
+    left: 5%;
+    transform: translateY(-54%);
+    width: 88px;
+    height: 88px;
+}
+.card.card-result .pattern-circles .circle6 {
+    top: 100%;
+    left: 11%;
+    transform: translateY(-50%);
+    width: 144px;
+    height: 144px;
+    bottom: 0;
+}
+.card.card-result .prize-wrapper .prize-block {
+    position: relative;
+    display: inline-block;
+    margin: 0 2.5px;
+    width: 35px;
+    height: 35px;
+    background-image: linear-gradient(to bottom, var(--color-2), var(--color-1), var(--color-2));
+    border: 2px solid #000000;
+    border-radius: 50px;
+    padding: 2.5px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.65);
+}
+.card.card-result .prize-wrapper .prize-block:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 16px;
+    height: 8px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.45);
+    border-radius: 50px;
+}
+.card.card-result .prize-wrapper .prize-block:before {
+    content: "";
+    position: absolute;
+    bottom: -9px;
+    left: 0;
+    right: 0;
+    width: auto;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #07133080;
+    filter: blur(3px);
+}
+.card.card-result .prize-wrapper .prize-block .prize-digit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    color: var(--color-9);
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+.card.card-result .prize-wrapper .prize-block.winner {
+    position: relative;
+    display: inline-block;
+    margin: 0 2.5px;
+    width: 45px;
+    height: 45px;
+    background-image: linear-gradient(to right, var(--color-7), var(--color-5), var(--color-7));
+    border: 2px solid #071330;
+    border-radius: 50px;
+    padding: 5px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.65);
+}
+.card.card-result .prize-wrapper .prize-block.winner:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 16px;
+    height: 8px;
+    margin: 0 auto;
+    background-color: rgba(225, 225, 225, 0.45);
+    border-radius: 50px;
+}
+.card.card-result .prize-wrapper .prize-block.winner:before {
+    content: "";
+    position: absolute;
+    bottom: -9px;
+    left: 0;
+    right: 0;
+    width: auto;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #07133080;
+    filter: blur(3px);
+}
+.card.card-result .prize-wrapper .prize-block.winner .prize-digit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    color: var(--color-1);
+    border-radius: 50px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.list-group .list-group-item .prize-wrapper .prize-block {
+    position: relative;
+    display: inline-block;
+    margin: 0 2.5px;
+    width: 35px;
+    height: 35px;
+    background-image: linear-gradient(to bottom, var(--color-2), var(--color-1), var(--color-2));
+    border: 2px solid var(--color-2);
+    border-radius: 50px;
+    padding: 2.5px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.65);
+}
+.list-group .list-group-item .prize-wrapper .prize-block.winner {
+    background-image: linear-gradient(to right, var(--color-7), var(--color-5), var(--color-7));
+}
+.list-group .list-group-item .prize-wrapper .prize-block.mini {
+    margin: 0 1.5px;
+    width: 30px;
+    height: 30px;
+    padding: 1.5px;
+}
+.list-group .list-group-item .prize-wrapper .prize-block:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 16px;
+    height: 8px;
+    margin: 0 auto;
+    background-color: rgba(225, 225, 225, 0.45);
+    border-radius: 50px;
+}
+.list-group .list-group-item .prize-wrapper .prize-block:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 16px;
+    height: 8px;
+    margin: 0 auto;
+    background-color: rgba(225, 225, 225, 0.45);
+    border-radius: 50px;
+}
+.list-group .list-group-item .prize-wrapper .prize-block.mini:after {
+    width: 10px;
+}
+.list-group .list-group-item .prize-wrapper .prize-block:before {
+    content: "";
+    position: absolute;
+    bottom: -9px;
+    left: 0;
+    right: 0;
+    width: auto;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #07133080;
+    filter: blur(3px);
+}
+.list-group .list-group-item .prize-wrapper .prize-block .prize-digit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    color: var(--color-9);
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.list-group .list-group-item .prize-wrapper .prize-block.winner .prize-digit {
+    color: var(--color-1);
+}
+.list-group .list-group-item .prize-wrapper .prize-block.mini .prize-digit {
+    width: 23px;
+    height: 23px;
+    line-height: 23px;
+    font-size: 16px;
+}
+/**** endof card style ****/
+
+
+
+/**** begin card-banner style ****/
+.card.card-banner {
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.card.card-banner .card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px 12px 0 0;
+}
+.card.card-banner .card-body img {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 250px;
+}
+.card.card-banner .card-footer {
+    border-radius: 0 0 12px 12px;
+}
+.card.card-banner .card-footer h5 {
+    font-size: 16px;
+    line-height: 1.25 !important;
+}
+.card.card-banner .card-footer p {
+    font-size: 14px;
+    line-height: 1 !important;
+}
+/**** endof card-banner style ****/

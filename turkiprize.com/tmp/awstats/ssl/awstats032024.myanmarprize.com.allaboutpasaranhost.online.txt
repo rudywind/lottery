@@ -1,0 +1,1364 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202403 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.myanmarprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2044                
+POS_TIME 2719                
+POS_VISITOR 38072               
+POS_DAY 50085               
+POS_DOMAIN 3567                
+POS_LOGIN 4188                
+POS_ROBOT 4343                
+POS_WORMS 5028                
+POS_EMAILSENDER 5159                
+POS_EMAILRECEIVER 5302                
+POS_SESSION 50935               
+POS_SIDER 51143               
+POS_FILETYPES 5437                
+POS_DOWNLOADS 5638                
+POS_OS 5686                
+POS_BROWSER 6134                
+POS_SCREENSIZE 8597                
+POS_UNKNOWNREFERER 8671                
+POS_UNKNOWNREFERERBROWSER 9779                
+POS_ORIGIN 10267               
+POS_SEREFERRALS 10410               
+POS_PAGEREFS 10590               
+POS_SEARCHWORDS 10975               
+POS_KEYWORDS 11127               
+POS_MISC 2383                
+POS_ERRORS 11186               
+POS_CLUSTER 4044                
+POS_SIDER_404 11318               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240401033310 7 1220 10372470971223
+FirstTime 20240301001949
+LastTime 20240331233604
+LastUpdate 20240401081341 7 0 6 0 0
+TotalVisits 401                 
+TotalUnique 297                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 311                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 36 42 1520875 18 48 291365
+1 51 74 4167070 55 79 528755
+2 29 34 1786324 16 22 146250
+3 18 51 3176540 15 26 79661
+4 24 51 5942212 100 103 202307
+5 43 52 2335502 25 48 436725
+6 39 57 2531972 6 19 57488
+7 80 153 10427796 26 106 1321481
+8 128 231 16078426 34 114 953245
+9 149 303 14266797 19 51 1750167
+10 138 250 11041988 58 205 3056898
+11 50 68 1757414 19 39 441942
+12 28 46 823569 17 31 75449
+13 10 10 107453 10 11 59990
+14 13 13 114945 25 36 75958
+15 14 16 198138 261 289 797819
+16 19 23 1236590 271 300 887166
+17 20 21 696244 42 55 162133
+18 25 25 497775 13 29 1184505
+19 10 10 189034 14 19 30011
+20 15 40 2065756 37 50 183135
+21 13 14 542164 26 29 161164
+22 17 19 1650272 208 220 310361
+23 20 22 1698154 37 55 131933
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 27
+kh 517 793 29949977
+us 173 343 29309373
+cn 68 86 4409921
+jp 32 32 334636
+ru 27 28 1015739
+id 26 140 10708865
+ca 22 24 1350991
+sc 16 16 560570
+se 12 17 1611606
+nl 12 12 102058
+de 12 17 218431
+fr 11 11 74919
+lv 10 10 76130
+bg 8 14 257340
+cl 6 6 212066
+es 5 5 39705
+ch 5 6 36274
+in 5 5 102114
+be 4 8 1246397
+gb 4 5 67103
+th 4 21 1534122
+ro 3 3 56812
+il 2 2 0
+au 2 18 1519267
+za 1 1 7507
+at 1 1 9406
+vn 1 1 41681
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+AhrefsBot/ 92 1559941 20240331115612 0
+Googlebot/ 62 212743 20240330113729 0
+MJ12bot/ 23 166799 20240330230920 0
+no_user_agent 23 940647 20240331104821 0
+Go\-http\-client/ 19 1576106 20240330012521 0
+SemrushBot/ 5 57448 20240321141859 0
+bot[\s_+:,\.\;\/\\-] 5 47042 20240331044045 0
+BLEXBot/ 4 42833 20240329023354 0
+TelegramBot 4 30025 20240328071658 0
+Googlebot\-Image/ 3 606322 20240324165739 0
+crawl 3 120541 20240307163648 0
+survey 2 74354 20240305205623 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 19649 20240323111852 0
+Applebot/ 1 7563 20240304031728 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+js 111 331756 0 0
+jpg 36 2045349 0 0
+Unknown 14 1399171 0 0
+png 249 68249590 0 0
+svg 3 1015 0 0
+css 237 677858 0 0
+html 975 12148271 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 26
+linux 40 37
+winlong 3 3
+macosx 8 5
+androidnougat 15 11
+winvista 1 1
+androidoreo 1 0
+Unknown 93 55
+macosx10 3 3
+bsdopenbsd 1 1
+win7 16 16
+android10 231 39
+ios_iphone 123 123
+linuxubuntu 1 0
+macosx14 2 2
+androidjellybean 1 0
+win10 919 609
+macosx9 1 1
+ios_ipad 1 1
+androidmarshmallow 10 4
+winxp 1 1
+androidkitkat 1 1
+androidpie 20 3
+android 37 8
+bsdnetbsd 1 0
+winnt 6 3
+macosx15 89 62
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 119
+chrome71.0.2623.112 1 1
+firefox123 1 1
+firefox119.0 1 1
+chrome104.0.0.0 8 8
+chrome97.0.4692.87 18 1
+chrome105.0.353 1 0
+firefox114.0 6 5
+chrome83.0.2121 1 1
+chrome72.0.1763.88 1 1
+Unknown 23 15
+chrome70.0.2938.88 1 1
+chrome118.0.0.0 2 2
+chrome92.0.4515.159 1 1
+chrome53.0.305 1 0
+safari16.6 1 1
+chrome86.0.1368 1 1
+chrome94.0.3396.87 3 3
+chrome100.0.1936 1 0
+chrome80.0.3987.149 4 4
+chrome70.0.3538.102 1 1
+safari 1 1
+chrome84.0.1553 1 1
+chrome80.0.3987.162 2 2
+chrome94.0.4606.61 1 1
+firefox52.0 1 1
+chrome78.0.3904.108 4 4
+chrome76.0.3809.89 1 0
+chrome108.0.0.0 6 6
+firefox117.0 5 5
+safari13.0.3 86 86
+chrome71.0.3649.88 1 1
+chrome81.0.4044.138 1 1
+firefox123.0 48 30
+chrome50.0.1210 1 1
+chrome51.0.2704.103 3 3
+chrome84.0.4147.105 1 1
+chrome82.0.214 1 0
+msie11.0 1 1
+chrome110.0.0.0 23 7
+firefox97.0 3 1
+safari6.0 1 1
+chrome91.0.4472.114 4 4
+chrome57.0.2987.108 1 1
+safari17.3.1 3 3
+chrome114.0.0.0 26 23
+firefox118.0 2 2
+chrome54.0.267 1 1
+chrome97.0.4280.67 3 3
+chrome67.0.2906 1 0
+chrome120.0.0.0 16 6
+firefox43.0 1 1
+safari15.0.0 31 31
+safari15.6 1 1
+chrome60.0.3112.107 14 11
+chrome91.0.4472.101 2 2
+chrome79.0.3945.88 11 10
+chrome63.0.3239.132 1 1
+safari13.1.2 1 1
+chrome36.0.1985.125 1 1
+chrome34.0.1847.116 3 3
+chrome116.0.0.0 5 5
+chrome89.0.4389.82 1 1
+chrome88.0.4240.193 5 5
+chrome115.0.0.0 1 1
+chrome83.0.1490 1 1
+mozilla 55 25
+chrome103.0.1782 1 1
+opera102.0.0.0 3 3
+safari15.3.1 1 1
+firefox115.0 1 0
+chrome68.0.123 1 0
+chrome88.0.4324.150 4 4
+opera10.54 2 2
+chrome117.0.0.0 23 23
+chrome100.0.4896.60 9 9
+chrome71.0.3578.99 1 0
+chrome75.0.3770.102 1 0
+chrome90.0.4430.85 3 3
+firefox40.0 2 2
+chrome100.0.4896.127 2 2
+chrome19.0.1084.9 1 1
+chrome123.0.0.0 58 10
+chrome123.0.6312.46 1 1
+chrome34.0.1847.114 1 1
+chrome76.0.3809.111 3 2
+firefox44.0 1 1
+chrome88.0.2938 1 0
+chrome4.0.277.0 1 0
+chrome83.0.4103.97 11 11
+chrome107.0.0.0 1 1
+chrome75.0.3770.101 1 0
+chrome109.0.0.0 33 9
+firefox16.0 1 0
+chrome74.0.3729.169 7 7
+chrome103.0.0.0 2 2
+msie7.0 1 1
+chrome103.0.5060.134 1 1
+chrome62.0.1240 1 0
+safari17.1.2 1 1
+chrome122.0.0.0 761 450
+chrome104.0.5112.101 1 1
+firefox77.0 1 1
+chrome69.0.128 1 1
+opera10.00 1 1
+chrome114.0.5735.289 1 1
+chrome95.0.4638.54 2 2
+chrome105.0.0.0 11 6
+msie9.0 1 1
+netscape5.0 9 9
+chrome106.0.0.0 1 1
+chrome111.0.0.0 1 1
+chrome77.0.3865.35 1 1
+chrome121.0.0.0 173 50
+firefox103.0 2 2
+firefox108.0 8 8
+firefox82.0 1 1
+edge44 6 6
+firefox48.0 1 1
+chrome86.0.4240.111 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240329021545
+Chrome 20240326050247
+Mozilla/5.0 20240320105403
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240329060337
+WhatsApp/2.23.20.0 20240305090005
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240328083203
+axios/1.6.5 20240317004605
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240325062515
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240331065911
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_GeedoProductSearch;__http://www.geedo.com/product-search.html)_Chrome/79.0.3945.88_Safari/537.36 20240322063640
+python-requests/2.31.0 20240318200536
+Mozilla/5.0_(compatible;_Example3/1.0;__https://www.example3.com/domain/myanmarprize.com) 20240325170217
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+WhatsApp/2.23.20.0 20240305090005
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240329060337
+Chrome 20240326050247
+axios/1.6.5 20240317004605
+python-requests/2.31.0 20240318200536
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 665 753
+From1 9 12
+From2 33 33
+From3 17 17
+From4 265 810
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 31 31
+google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+https://onic4dpasaran.site 5 5
+https://onic-4d.com 3 3
+https://jpmanis.site 3 3
+https://secure.livechatinc.com 2 2
+https://republikceria.site 1 1
+https://marwahkerenn.site 1 1
+https://barongterbaik.site 1 1
+https://www.w3schools.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 1582 1941552
+301 7 5565
+403 22 27324
+206 90 5889454
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 563
+/admin-post.php 4 -
+/autoload_classmap.php 1 http://myanmarprize.com/autoload_classmap.php
+//wp-admin/css/colors/blue/blue.php 1 -
+//cdn.js 5 -
+/wp-content/shell20211028.php 1 http://myanmarprize.com/wp-content/shell20211028.php
+/cgi-bin/cgi-bin/about.php7 1 http://myanmarprize.com//cgi-bin/cgi-bin/about.php7
+/wp-includes/blocks/column/class.api.php 1 -
+/dropdown.php 7 http://myanmarprize.com//dropdown.php
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 5 www.google.com
+/wp-includes/blocks/columns/class.api.php 1 -
+/wp-content/cong.php 1 -
+/wp-includes/Requests/Response/class.api.php 1 -
+/wp-includes/css/buttons.css 1 http://myanmarprize.com/wp-includes/css/buttons.css
+/wp-includes/SimplePie/class.api.php 1 -
+/wp-includes/assets/class.api.php 1 -
+/fm1.php 2 http://myanmarprize.com/fm1.php
+/api/index.php/v1/users 8 -
+/wp-includes/js/tinymce/plugins/charmap/class.api.php 1 -
+/wp-content/themes/plugins.php 1 myanmarprize.com
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 5 -
+/sites/default/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-content/plugins/core/include.php 3 myanmarprize.com
+/wp-includes/css/dist/nux/class.api.php 1 -
+/wp-includes/IXR/themes.php 2 http://myanmarprize.com/wp-includes/IXR/themes.php
+/cgi-bin/cloud.php 4 -
+/wp-content/upgrade-temp-backup/about.php 4 -
+/includes/backup-heart.php 1 -
+//rindex.php 1 -
+/admin.php 14 myanmarprize.com
+//wp-admin/taf.php 1 -
+/img/xmrlpc.php 4 -
+/cgi-bin/class.api.php 1 -
+/wp-admin/images/admin.php 1 http://myanmarprize.com/wp-admin/images/admin.php
+/wp-includes/blocks/site-logo/class.api.php 1 -
+/wp-includes/blocks/spacer/class.api.php 1 -
+/wp-includes.bak/html-api/about.php 4 -
+/wp-admin/user/about.php 1 http://myanmarprize.com/wp-admin/user/about.php
+/images/cloud.php 4 -
+/wp-includes/plugins.php 1 myanmarprize.com
+/sitemap.xml 22 -
+/wp-admin/css/ 3 binance.com
+/wp-admin/includes/class.api.php 1 -
+/.well-known/class.api.php 1 -
+/.wp-cli/cache/class.api.php 1 -
+/alfacgiapi/perl.alfa 4 www.google.com
+//2019/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/css/dist/list-reusable-blocks/class.api.php 1 -
+/alfanew.php 6 http://myanmarprize.com/alfanew.php
+/sitemap_index.xml 1 -
+/wp-admin/network/class.api.php 1 -
+/M1.php 2 http://myanmarprize.com/M1.php
+/plugins/content/apismtp/apismtp.php 4 -
+/wp-admin/images/class.api.php 1 -
+/view-source: 1 -
+/wp-includes/Requests/class.api.php 1 -
+/wp-content/plugins/Cache/dropdown.php 2 http://myanmarprize.com//wp-content/plugins/Cache/dropdown.php
+/wp-includes/install.php 1 http://myanmarprize.com//wp-includes/install.php
+/blog/wp-admin/install.php 1 -
+/ads.txt 8 http://www.myanmarprize.com/ads.txt
+/administrator/index.php 1 -
+/assets/administrator/filemanager/dialog.php 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 4 www.google.com
+/.well-known/pki-validation/about.php 6 http://myanmarprize.com/.well-known/pki-validation/about.php
+/wp-includes/blocks/archives/class.api.php 1 -
+/wso112233.php 1 http://myanmarprize.com/wso112233.php
+/ftpsync.setting 1 -
+/wp-includes/SimplePie/Decode/HTML/class.api.php 1 -
+/wp-includes/Requests/about.php 4 -
+/testing 2 -
+/wp-includes/Requests/Exception/Transport/class.api.php 1 -
+/wp-content/plugins/Cache/Cache.php 5 http://myanmarprize.com/wp-content/plugins/Cache/Cache.php
+/Wp-includes/amaxx.php 1 http://myanmarprize.com/Wp-includes/amaxx.php
+/wp-includes/blocks/quote/class.api.php 1 -
+/wp-includes/blocks/paragraph/class.api.php 1 -
+/wp-includes/ID3/plugins.php 1 myanmarprize.com
+/wp-includes/blocks/post-title/class.api.php 1 -
+/wp-includes/blocks/separator/class.api.php 1 -
+/repeater.php 7 http://myanmarprize.com/repeater.php
+/wp-content/themes/seotheme/mar.php 4 -
+/libraries/legacy/updates.php 4 -
+/cloud.php 4 -
+/wp-json/ 4 http://myanmarprize.com/wp-json/
+/filemanager/dialog.php 2 -
+/wp-includes/Text/plugins.php 1 myanmarprize.com
+/wp-content/plugins/install.php 1 http://myanmarprize.com//wp-content/plugins/install.php
+/index_sso.php 8 -
+/wp-includes/ID3/wp-login.php 2 http://myanmarprize.com/wp-includes/ID3/wp-login.php
+/wp-includes/pomo/about.php 4 -
+/wp-content/plugins/masterstudy-lms-learning-management-system/assets/course-builder/css/main.css 1 myanmarprize.com
+/wp-content/plugins/linkpreview/db.php 4 -
+/wp-content/dropdown.php 1 http://myanmarprize.com//wp-content/dropdown.php
+/wp-includes/about.php 4 -
+/wp-includes/IXR/class.api.php 1 -
+/wp-includes/blocks/separator/index.php 1 myanmarprize.com
+/wp-includes/blocks/query/class.api.php 1 -
+/img/cloud.php 4 -
+/wp-includes/blocks/verse/class.api.php 1 -
+/wp-includes/blocks/calendar/class.api.php 1 -
+//wp-admin/css/admin.php 1 -
+/cgi-bin/about.php 4 -
+//2020/wp-includes/wlwmanifest.xml 1 -
+/images/ 3 binance.com
+//wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/taf.php 1 -
+/wp-includes/blocks/page-list/class.api.php 1 -
+//wp-json/wp/v2/users/ 3 -
+/assets/filemanager/dialog.php 2 -
+/wp-admin/dropdown.php 7 http://myanmarprize.com//wp-admin/dropdown.php
+/wp-includes/Requests/plugins.php 1 myanmarprize.com
+/wp-admin/images/cloud.php 4 -
+/administrator/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-includes/css/dist/customize-widgets/class.api.php 1 -
+/php/thinkphp/aaaffff123.php 8 -
+/dist/js/bootstrap.bundle.min.js 4 -
+/wp-admin/js/widgets/cloud.php 4 -
+/js/elfinder/php/connector.php 1 -
+/.ftpconfig 1 -
+/wp-includes/block-patterns/about.php 4 -
+/.well-known/pki-validation/class.api.php 1 -
+/sitemap-index.xml 1 -
+/wp-info.php 1 http://myanmarprize.com/wp-info.php
+/wp-content/themes/mero-megazines/ws.php 1 -
+/css/install.php 1 http://myanmarprize.com//css/install.php
+/wp-json/wp/v2/users/1 2 https://myanmarprize.com/
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 1 http://myanmarprize.com/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+/images/xmrlpc.php 4 -
+/ftp-sync.json 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 2 http://myanmarprize.com//wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/wp-includes/blocks/text-columns/class.api.php 1 -
+//myanmarprize.com/xmlrpc.php 1 -
+/cgi-bin/xmrlpc.php 4 -
+/radio.txt 1 -
+/wp-admin/includes/plugins.php 1 myanmarprize.com
+/wp-admin/css/colors/coffee/index.php 1 -
+/wp-includes/blocks/site-tagline/class.api.php 1 -
+/css/xmrlpc.php 4 -
+/wp-content/upgrade/class.api.php 1 -
+/wp-includes/blocks/tag-cloud/class.api.php 1 -
+/wp-content/install.php 1 http://myanmarprize.com//wp-content/install.php
+//wp-json/oembed/1.0/embed 3 -
+/yanz.php 4 -
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php 1 http://myanmarprize.com/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php
+/wp-content/plugins/content.php 1 myanmarprize.com
+/wp-content/plugins/seoplugins/mar.php 4 -
+/wp-includes/css/dist/edit-widgets/class.api.php 1 -
+/wp-includes/blocks/button/class.api.php 1 -
+/wp-includes/js/jquery/class.api.php 1 -
+/.env 12 -
+/alfanew.php7 6 http://myanmarprize.com/alfanew.php7
+/wp-admin/images/plugins.php 1 myanmarprize.com
+/.well-known/acme-challenge/cloud.php 8 -
+/wp-includes/Requests/Auth/class.api.php 1 -
+/wp-admin/css/colors/coffee/class.api.php 1 -
+/.ftpsync.setting 1 -
+/wp-admin/css/about.php 4 -
+/wp-includes/blocks/heading/class.api.php 1 -
+/xmrlpc.php 4 -
+/shell20211028.php 1 http://myanmarprize.com/shell20211028.php
+/home 5 http://myanmarprize.com/home
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 1 www.google.com
+/wp-includes/blocks/cover/class.api.php 1 -
+/wp-includes/js/jcrop/class.api.php 1 -
+/wp-includes/css/dist/block-directory/class.api.php 1 -
+/wso.php 1 -
+/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/test 2 -
+//wp-includes/Requests/Exception/HTTP/taf.php 1 -
+/.well-known/acme-challenge/install.php 1 http://myanmarprize.com//.well-known/acme-challenge/install.php
+/.well-known/security.txt 2 http://www.myanmarprize.com/.well-known/security.txt
+/wp-includes/blocks/image/class.api.php 1 -
+//wp-includes/ID3/license.txt 1 -
+//wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/smoothness.php 1 -
+/wp-includes/SimplePie/Content/Type/class.api.php 1 -
+/wp-admin/network/subjects.php 1 -
+/.well-known/about.php 4 -
+/wp-admin/maint/moon.php 1 http://myanmarprize.com//wp-admin/maint/moon.php
+/wp-includes/block-patterns/plugins.php 1 myanmarprize.com
+/cache-compat.php 4 -
+/wp-includes/css/dist/block-library/style.min.css 26 -
+/sites/all/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/fileupload/server/php/index.php 1 -
+//wp-includes/wlwmanifest.xml 3 -
+/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_imaged.php 1 -
+/wp-includes/Text/about.php 5 http://myanmarprize.com//wp-includes/Text/about.php
+/blog 2 -
+/wp-content/plugins/alfa-rex.php 2 http://myanmarprize.com/wp-content/plugins/alfa-rex.php
+/wp-includes/Text/Diff/Engine/class.api.php 1 -
+/wp-includes/blocks/pullquote/class.api.php 1 -
+/wp-includes/js/jquery/2index.php 1 myanmarprize.com
+/wp-content/plugins/backup-backup/readme.txt 2 -
+/wp-consar.php 4 -
+/wp-includes/Requests/Exception/HTTP/class.api.php 1 -
+/robots.txt 115 -
+/wp-content/plugins/fix/up.php 9 -
+/adminfuns.php7 4 -
+/wp-includes/IXR/about.php 4 -
+/wp-content/themes/lottery_panama/assets/css/lottery.css 50 https://myanmarprize.com/history-result/index.html
+/avaa.php 4 -
+/my1.php 1 http://myanmarprize.com//my1.php
+/.well-known/pki-validation/cloud.php 4 -
+/wp-content/themes/myanmar_prize/assets/images/icon-1.png 10 -
+/wp-admin/ajax-actions.php 4 -
+/ws.php7 4 -
+//blog/wp-includes/wlwmanifest.xml 1 -
+/wp-content/themes/seotheme/db.php 13 -
+/svdbqbdr.php 2 www.google.com
+/sites/all/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-includes/blocks/about.php 4 -
+/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 1 http://myanmarprize.com/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+//web/wp-includes/wlwmanifest.xml 1 -
+/wp-content/blogs.dir/about.php 4 -
+/libraries/vendor/updates.php 4 -
+/wp-includes/repeater.php 4 -
+/xmlrpc.php 3 https://myanmarprize.com/
+/wp-json/wp/v2/users/3 1 https://myanmarprize.com/
+/wp-content/themes/lottery_myanmar/assets/images/header-bg.jpg 3 https://myanmarprize.com/wp-content/themes/lottery_myanmar/assets/css/default.css
+/wp-admin/user/class.api.php 1 -
+/old 5 http://myanmarprize.com/old
+/wp-content/uploads/ 1 http://myanmarprize.com//wp-content/uploads/
+/wp-includes/js/tinymce/class.api.php 1 -
+/media/system/js/core.js 3 http://myanmarprize.com/media/system/js/core.js
+/wp-admin/user/cloud.php 4 -
+/wp-admin/network/xmrlpc.php 4 -
+/wp-content/updraft/about.php 4 -
+/wp-includes/pomo/plugins.php 1 myanmarprize.com
+/wp-content/plugins/seoplugins/db.php 4 -
+/.vscode/ftp-sync.json 1 -
+/wp-includes/SimplePie/Parse/class.api.php 1 -
+/bykqhoxn.php 1 www.google.com
+/wp-includes/rest-api/plugins.php 1 myanmarprize.com
+/st.php 1 http://myanmarprize.com//st.php
+/wp-content/plugins.php 1 myanmarprize.com
+/web/wp-admin/install.php 1 -
+/wp-includes/customize/amaxx.php 1 http://myanmarprize.com/wp-includes/customize/amaxx.php
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 5 -
+/wp-admin/css/plugins.php 1 myanmarprize.com
+/wp-admin/css/colors/class.api.php 1 -
+/uploads/ 3 binance.com
+/wp-admin/css/colors/ectoplasm/class.api.php 1 -
+/.DS_Store 7 -
+/wp-includes/blocks/audio/class.api.php 1 -
+/.well-known/plugins.php 1 myanmarprize.com
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 1 -
+/site/wp-admin/install.php 1 -
+/wp-includes/blocks/gallery/class.api.php 1 -
+/wp-includes/blocks/query-pagination/class.api.php 1 -
+/bk 3 http://myanmarprize.com/bk
+/css/cloud.php 4 -
+//cms/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/js/mediaelement/renderers/class.api.php 1 -
+/wp-includes/blocks/post-excerpt/class.api.php 1 -
+/wp-emoji-release.min.js 4 -
+/dnizlbfx.php 1 www.google.com
+/wp-admin/css/class.api.php 1 -
+/wp-includes/blocks/social-links/class.api.php 1 -
+/wp-includes/block-patterns/class.api.php 1 -
+/wordpress/wp-admin/install.php 1 -
+/wp-login.php 2 http://myanmarprize.com/wp-login.php
+/wp-admin/css/colors/modern/class.api.php 1 -
+/wp-content/plugins/class.api.php 1 -
+/images/class.api.php 1 -
+/wp-admin/repeater.php 4 -
+/wp-admin/includes/xmrlpc.php 4 -
+/wp-content/languages/about.php 4 -
+/c.php 1 http://myanmarprize.com/c.php
+/author-sitemap.xml 1 -
+/myanmarprize.com/wp-content/themes/myanmar_prize/assets/image/icon-1.png 4 https://myanmarprize.com/index.html
+/wp-includes/css/dist/reusable-blocks/class.api.php 1 -
+/admin/php-ofc-library/ofc_upload_image.php 1 -
+/.well-known/pki-validation/xmrlpc.php 4 -
+/wp-content/repeater.php 4 -
+/cms/wp-admin/install.php 1 -
+/wp-admin/css/colors/ocean/class.api.php 1 -
+/wp-content/gallery/about.php 4 -
+/wp-includes/blocks/missing/class.api.php 1 -
+/wp-admin/css/colors/coffee/cloud.php 4 -
+/wp-content/plugins/backup-backup/includes/ 1 http://myanmarprize.com/wp-content/plugins/backup-backup/includes/
+/wp-json/wp/v2/posts/ 1 -
+/wp-includes/blocks/latest-comments/class.api.php 1 -
+/sites/all/modules/contrib/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-includes/css/dist/components/class.api.php 1 -
+/wp-content/themes/signify/firkon.php 1 -
+/new 5 http://myanmarprize.com/new
+/wp-includes/js/imgareaselect/class.api.php 1 -
+/img/about.php 4 -
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 2 www.google.com
+/core 2 -
+/test/wp-admin/install.php 1 -
+/new/wp-admin/install.php 1 -
+/about.php7 4 -
+/backup/wp-admin/install.php 1 -
+/wp-includes/blocks/categories/class.api.php 1 -
+/wp-content/themes/twenty/twenty.php 1 http://myanmarprize.com//wp-content/themes/twenty/twenty.php
+/wp-includes/fonts/index.php 1 myanmarprize.com
+/.wp-cli/class.api.php 1 -
+/misc/ajax.js 1 -
+/wp-content/upgrade/edit.php 1 http://myanmarprize.com/wp-content/upgrade/edit.php
+/wp-admin/css/colors/cloud.php 4 -
+/wp-admin/maint/class.api.php 1 -
+/libraries/phpmailer/updates.php 4 -
+/text.php 1 http://myanmarprize.com/text.php
+/wp-includes/SimplePie/Cache/class.api.php 1 -
+/wp-includes/SimplePie/Net/class.api.php 1 -
+/wp-includes/blocks/more/class.api.php 1 -
+/wp-includes/images/smilies/class.api.php 1 -
+/wp-admin/js/widgets/about.php7 4 -
+/images/about.php 4 -
+/wordpress 6 http://myanmarprize.com/wordpress
+/wp-admin/xmrlpc.php 4 -
+/.well-known/acme-challenge/plugins.php 1 myanmarprize.com
+/wp-includes/blocks/code/class.api.php 1 -
+/wp-admin/network/amaxx.php 1 http://myanmarprize.com/wp-admin/network/amaxx.php
+/wp-admin/css/colors/blue/xmrlpc.php 4 -
+//2021/wp-includes/wlwmanifest.xml 1 -
+/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/wp-includes/js/codemirror/class.api.php 1 -
+/security.txt 2 http://www.myanmarprize.com/security.txt
+/wp-includes/style-engine/plugins.php 1 myanmarprize.com
+/wp-includes/js/swfupload/class.api.php 1 -
+/wp-includes/blocks/post-template/class.api.php 1 -
+/sites/default/files/ 3 binance.com
+/css/class.api.php 1 -
+/wp-admin/css/colors/xmrlpc.php 4 -
+/wp-includes/blocks/video/class.api.php 1 -
+/wp-includes/Requests/Exception/class.api.php 1 -
+/wp-includes/blocks/html/class.api.php 1 -
+/alfa-rex2.php7 4 -
+/wp-admin/includes/about.php 4 -
+//test/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/css/colors/index.php 4 -
+/about.php 11 www.google.com
+/wp-includes/IXR/plugins.php 1 myanmarprize.com
+/wp-includes/blocks/embed/class.api.php 1 -
+/ee.php 2 http://myanmarprize.com//ee.php
+/wp-admin/setup-config.php 11 -
+/wp-admin/js/class.api.php 1 -
+/wp-includes/blocks/table/class.api.php 1 -
+/sample.php 2 www.google.com
+/xxl.php 1 -
+//wp-includes/Requests/Exception/HTTP/HTTP.php 1 -
+/wp-json/litespeed/v1/cdn_status 8 -
+/wp-admin/css/colors/midnight/class.api.php 1 -
+/wp-admin/js/about.php 9 http://myanmarprize.com//wp-admin/js/about.php
+/wp-includes/blocks/media-text/class.api.php 1 -
+/wp-content/uploads/wpr-addons/forms/b1ack.php 1 -
+/cgi-bin/cgi-bin/about.php 1 http://myanmarprize.com//cgi-bin/cgi-bin/about.php
+/radio.php 2 -
+/license.txt 2 -
+/wp-includes/Text/class.api.php 1 -
+/sftp-config.json 1 -
+/wp-includes/theme-compat/plugins.php 1 myanmarprize.com
+/wp-includes/blocks/query-pagination-previous/class.api.php 1 -
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/js/crop/class.api.php 1 -
+/wp-content/plugins/press/wp-class.php 2 http://myanmarprize.com/wp-content/plugins/press/wp-class.php
+/wp-json 6 -
+/wp-content/themes/myanmar_prize/assets/images/header-bg.jpg 1 -
+/wp-includes/class.api.php 1 -
+/wp-head.php 4 http://myanmarprize.com//wp-head.php
+/wp-includes/blocks/query-title/class.api.php 1 -
+/old/wp-admin/install.php 1 -
+/style.php 6 www.google.com
+/wp-includes/fonts/class.api.php 1 -
+/wp-header.php 2 http://myanmarprize.com/wp-header.php
+/ajax-actions.php 4 -
+/wp-admin/js/widgets/xmrlpc.php 4 -
+/wp-json/wpgmza/v1/markers 4 -
+/cgi-bin/install.php 1 http://myanmarprize.com//cgi-bin/install.php
+/wp-includes/blocks/query-pagination-next/class.api.php 1 -
+/index.php 5 -
+/wp-includes/js/plupload/class.api.php 1 -
+/wp-includes/blocks/preformatted/class.api.php 1 -
+/wp-includes/css/dist/widgets/class.api.php 1 -
+/admin/plugins/fileupload/server/php/index.php 1 -
+/wp-includes/blocks/block/class.api.php 1 -
+/class.api.php 4 http://myanmarprize.com//class.api.php
+/.well-known/wso112233.php 2 http://myanmarprize.com/.well-known/wso112233.php
+/wp-content/plugins/seoo/wsoyanz1.php 4 -
+/txrtaiuw.php 1 www.google.com
+/files/ 3 binance.com
+/wp-includes/style-engine/about.php 4 -
+/wp-includes/random_compat/about.php 1 http://myanmarprize.com//wp-includes/random_compat/about.php
+/wp-includes/blocks/plugins.php 1 myanmarprize.com
+/wp-admin/maint/plugins.php 1 myanmarprize.com
+/wp-includes/SimplePie/HTTP/class.api.php 1 -
+//shop/wp-includes/wlwmanifest.xml 1 -
+/dist/jquery.min.js 4 -
+/wp-content/themes/class.api.php 1 -
+//taf.php 1 -
+/wp-content/plugins/core-plugin/.nxd.php 1 http://myanmarprize.com/wp-content/plugins/core-plugin/.nxd.php
+/wp-22.php 1 www.google.com
+/wp-includes/images/media/class.api.php 1 -
+/wp-content/plugins/seofile/log403.php 1 myanmarprize.com
+/wp-includes/css/dist/format-library/class.api.php 1 -
+/wp-content/upgrade/plugins.php 1 myanmarprize.com
+/wp-includes/html-api/plugins.php 1 myanmarprize.com
+/js/elfinder/php/connector.minimal.php 1 -
+/wp-includes/blocks/nextpage/class.api.php 1 -
+/wp-includes/blocks/query-pagination-numbers/class.api.php 1 -
+/wp-includes/blocks/rss/class.api.php 1 -
+/wp-includes/ID3/class.api.php 1 -
+/admin/controller/extension/extension/ 3 binance.com
+/wp-content/themes/lottery_myanmar/assets/css/lottery.css 43 -
+/wp-includes/blocks/file/class.api.php 1 -
+/wp-includes/Requests/Text/admin.php 4 -
+/wp-includes/block-supports/plugins.php 1 myanmarprize.com
+/wp-admin/css/colors/blue/cloud.php 4 -
+/wp-includes/blocks/buttons/class.api.php 1 -
+/wp-admin/cloud.php 4 -
+/wp-includes/js/thickbox/class.api.php 1 -
+/.well-known/wp-login.php 1 myanmarprize.com
+/wp-includes/blocks/social-link/class.api.php 1 -
+/wp-content/plugins/miniorange-malware-protection/includes/js/settings_page.js 1 myanmarprize.com
+/wp-admin/js/plugins.php 1 myanmarprize.com
+/wp-content/plugins/seoo/wsoyanz.php 4 -
+/wp-includes/js/plugins.php 1 myanmarprize.com
+/phpfox.php 1 http://myanmarprize.com/phpfox.php
+/wp-content/themes/pridmag/db.php 4 -
+/wp-admin/css/colors/blue/class.api.php 1 -
+/wp-json/wp/v2/users/5 2 https://myanmarprize.com/
+/wp-includes/blocks/post-featured-image/class.api.php 1 -
+/wp-includes/js/class.api.php 1 -
+/wp-includes/blocks/more/index.php 1 myanmarprize.com
+/cjfuns%20.php 1 http://myanmarprize.com/cjfuns%20.php
+/checkbex.php 1 myanmarprize.com
+/wp-admin/user/xmrlpc.php 4 -
+//xmlrpc.php 2 -
+/wp-includes/images/class.api.php 1 -
+/wp-admin/class.api.php 1 -
+/newsite 2 -
+/plugins/content/apismtp/apismtp.php.suspected 4 -
+/wp-content/plugins/hellopress/wp_filemanager.php 3 -
+/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-admin/maint/maint/ajax-actions.php 4 -
+/wp-content/themes/finley/min.php 3 http://myanmarprize.com/wp-content/themes/finley/min.php
+/wp-includes/PHPMailer/class.api.php 1 -
+/wp-includes/css/class.api.php 1 -
+/wp-includes/customize/class.api.php 1 -
+/wp-includes/js/dist/vendor/class.api.php 1 -
+/wp-content/updates.php 4 -
+//s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js 5 -
+/ioxi02.php 1 http://myanmarprize.com/ioxi02.php
+/wp-content/themes/lottery_panama/assets/js/lottery.js 48 https://myanmarprize.com/history-result/index.html
+/wp-includes/blocks/post-date/class.api.php 1 -
+/assets/fileupload/server/php/index.php 1 -
+/.ftp-sync.json 1 -
+/wp-includes/Requests/Transport/class.api.php 1 -
+/inputs.php 4 -
+/wp-includes/blocks/class.api.php 1 -
+/wp-p.php7 4 -
+/wp-includes/Requests/Proxy/class.api.php 1 -
+/humans.txt 7 http://www.myanmarprize.com/humans.txt
+/wp-includes/theme-compat/wp-conflg.php 1 http://myanmarprize.com/wp-includes/theme-compat/wp-conflg.php
+/wp-content/plugins/blog-designer-pack/freemius/templates/connect/permission-help.php 1 myanmarprize.com
+/wp-admin/install.php 14 -
+/wp-content/banners/about.php 4 -
+/wp-admin/css/index.php 5 -
+/chosen.php 12 -
+/wp-includes/blocks/post-terms/class.api.php 1 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/css/dist/edit-post/class.api.php 1 -
+/admin/filemanager/dialog.php 1 -
+//wp-admin/admin.php 1 -
+/phpmyadmin/index.php 8 -
+//site/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/css/dist/editor/class.api.php 1 -
+/assets/plugins/filemanager/dialog.php 1 -
+/wp-content/themes/zakra/inc/deprecated/deprecated-slave.php 1 myanmarprize.com
+/wp-admin/admin-ajax.php 3 http://myanmarprize.com//wp-admin/admin-ajax.php
+/wp-includes/blocks/loginout/class.api.php 1 -
+/wp-admin/network/cloud.php 4 -
+/backup 3 http://myanmarprize.com/backup
+/wp-admin/css/colors/coffee/xmrlpc.php 4 -
+/simple.php 11 http://myanmarprize.com/simple.php
+/wp-plain.php 4 www.google.com
+/alfa-rex.php7 4 -
+/main 3 http://myanmarprize.com/main
+/wp-includes/php-compat/plugins.php 1 myanmarprize.com
+/wp-includes/customize/plugins.php 1 myanmarprize.com
+/wp-includes/js/dist/class.api.php 1 -
+/myanmarprize.com/wp-content/themes/myanmar_prize/assets/image/icon-2.png 5 https://myanmarprize.com/index.html
+/alfanew2.php7 4 -
+/assets/admin/js/filemanager/dialog.php 1 -
+/wp-includes/customize/about.php 4 -
+/wp-admin/images/xmrlpc.php 4 -
+/wp-content/languages/plugins.php 1 myanmarprize.com
+/wp-includes/SimplePie/about.php 4 -
+/wp-includes/images/about.php 4 -
+/%5C/myanmarprize.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 1 -
+/wp-includes/Requests/Utility/class.api.php 1 -
+/ebs.php7 4 -
+//wp-admin/css/colors/blue/taf.php 1 -
+/wp-content/languages/class.api.php 1 -
+/cjfuns.php 2 http://myanmarprize.com//cjfuns.php
+/wp-content/plugins/backup-backup/includes/backup-heart.php 4 http://myanmarprize.com/wp-content/plugins/backup-backup/includes/backup-heart.php
+/updates.php 4 -
+/wp-content/uploads/class.api.php 1 -
+/wp-includes/blocks/list/class.api.php 1 -
+/assets/plugins/fileupload/server/php/index.php 1 -
+/wp-includes/images/crystal/class.api.php 1 -
+/wp-includes/images/wlw/class.api.php 1 -
+/wp-includes/blocks/site-title/class.api.php 1 -
+/wp-includes/blocks/legacy-widget/class.api.php 1 -
+/bc 3 http://myanmarprize.com/bc
+/.sftp-config.json 1 -
+/wp-includes/blocks/latest-posts/class.api.php 1 -
+/wp-includes/block-supports/class.api.php 1 -
+/wp-includes/blocks/group/class.api.php 1 -
+/wp-admin/js/about.php7 1 http://myanmarprize.com//wp-admin/js/about.php7
+/chart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-content/plugins/backup-backup/includes/Q 1 -
+/wp-admin/images/about.php 4 -
+/wp-includes/certificates/class.api.php 1 -
+/wp-includes/js/tinymce/langs/class.api.php 1 -
+/oldsite/wp-admin/install.php 1 -
+/wp-content/plugins/ioptimization/IOptimize.php 2 www.google.com
+/wp-includes/wp-class.php 1 -
+/wp-content/plugins/apikey/apikey.php 4 -
+/.well-known/acme-challenge/xmrlpc.php 4 -
+/wp/wp-admin/install.php 1 -
+/wp-checkbex.php 1 -
+/wp-includes/rest-api/about.php 5 http://myanmarprize.com//wp-includes/rest-api/about.php
+/_well-known/amaxx.php 1 http://myanmarprize.com/_well-known/amaxx.php
+/wp-admin/js/widgets/class.api.php 1 -
+/wp-includes/blocks/post-content/class.api.php 1 -
+/wp-content/about.php 4 -
+/wp-includes/blocks/shortcode/class.api.php 1 -
+/wp 5 http://myanmarprize.com/wp
+//feed/ 1 -
+/general.php 2 www.google.com
+/wp-admin/images/index.php 4 -
+/install.php 2 http://myanmarprize.com//install.php
+/wp-includes/blocks/freeform/class.api.php 1 -
+/menu.php 1 http://myanmarprize.com/menu.php
+/wp-content/plugins/apikey/apikey.php.suspected 4 -
+/js/filemanager/dialog.php 1 -
+/wp-includes/js/mediaelement/class.api.php 1 -
+/wp-includes/Text/Diff/Renderer/class.api.php 1 -
+//wp/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/about.php 2 http://myanmarprize.com/wp-content/plugins/about.php
+/wp-includes/widgets/about.php 4 -
+/wp-admin/includes/cloud.php 4 -
+/wp-json/wp/v2/users 1 -
+/wp-content/plugins/backup-backup/includes/q 1 -
+/wp-json/oembed/1.0/embed 16 -
+/wp-includes/blocks/search/class.api.php 1 -
+/wp-content/themes/about.php 6 http://myanmarprize.com/wp-content/themes/about.php
+/wp-content/class.api.php 2 -
+/.vscode/sftp.json 1 -
+/wp-content/plugins/core-plugin/nxd.php 1 http://myanmarprize.com/wp-content/plugins/core-plugin/nxd.php
+/wp-includes/SimplePie/plugins.php 3 myanmarprize.com
+/wp-content/patior/ 1 http://myanmarprize.com//wp-content/patior/
+/wp-2019.php 1 http://myanmarprize.com/wp-2019.php
+/wp-content/plugins/ 1 http://myanmarprize.com//wp-content/plugins/
+/wp-includes/Requests/Cookie/class.api.php 1 -
+/wp-includes/SimplePie/XML/Declaration/class.api.php 1 -
+/wp-content/themes/lottery_panama/assets/images/header-bg.jpg 1 -
+/wp-includes/js/jquery/ui/class.api.php 1 -
+/wsoyanz.php 4 -
+/wp-includes/ID3/about.php 6 http://myanmarprize.com/wp-includes/ID3/about.php
+/wp-admin/images/install.php 1 http://myanmarprize.com//wp-admin/images/install.php
+/wp-includes/Text/Diff/class.api.php 1 -
+/wp-includes/js/jquery/jquery.min.js 5 www.google.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 311
+124.248.183.41 507 783 29886484 20240331091739
+83.99.151.70 8 8 60589 20240322063638
+3.85.20.238 8 8 113565 20240304223440
+35.171.144.152 7 7 291767 20240323070402
+36.71.241.100 7 23 1568025 20240308082258
+173.236.208.81 7 7 57234 20240312022350
+181.214.167.211 6 6 212066 20240316233908
+149.56.150.178 6 6 1120375 20240301234621
+103.11.219.14 6 6 36215 20240305091718
+36.75.20.202 6 6 24094 20240301082836
+51.255.79.114 6 6 30739 20240326061227
+95.215.108.74 6 6 212073 20240313184853
+144.217.135.224 6 6 387479 20240331064520
+44.234.19.83 5 21 3976569 20240309042211
+185.218.125.179 5 5 208405 20240315164522
+104.225.216.192 5 5 36347 20240306135753
+104.28.250.135 4 52 4537084 20240330094918
+150.109.253.34 4 4 32096 20240309090638
+43.134.142.8 4 4 33943 20240310143804
+91.92.255.48 4 4 166724 20240315080733
+35.87.245.221 4 12 54513 20240307042728
+162.0.209.76 4 4 37624 20240331222621
+42.83.147.34 4 4 35793 20240327043318
+20.11.59.26 4 4 166724 20240317012400
+154.91.83.168 3 3 26374 20240329082740
+36.134.147.75 1 1 9403 20240329165049
+92.240.207.164 1 1 9417 20240326050239
+101.44.251.126 1 1 9414 20240331010301
+223.15.245.170 1 1 9409 20240320120954
+88.87.85.189 3 3 49222 20240301035544
+149.56.160.132 1 18 1514511 20240331065909
+128.90.141.17 1 1 9403 20240316110225
+182.42.104.32 1 1 10237 20240307081908
+213.202.233.34 1 3 21087 20240330010255
+159.203.10.144 1 1 9409 20240317101320
+35.89.91.172 1 1 7563 20240302061430
+36.133.172.82 2 2 18812 20240330052739
+141.138.208.43 1 1 9409 20240311071855
+182.43.70.143 2 2 18826 20240324161829
+49.7.227.204 2 2 16977 20240328085712
+43.153.216.189 2 2 41666 20240304082956
+101.44.249.172 1 1 7556 20240303060742
+68.183.93.124 1 1 9407 20240314072912
+209.182.219.227 1 1 41681 20240314154516
+93.158.91.25 2 4 623203 20240331233604
+192.175.111.228 1 1 41681 20240309014202
+206.189.129.172 1 1 7563 20240301092953
+205.210.31.210 1 1 41681 20240329060337
+52.36.207.88 1 1 9404 20240310073118
+158.220.125.31 1 1 767 20240314170841
+94.25.184.141 1 1 41681 20240324222755
+5.42.65.47 1 1 7507 20240319052237
+144.76.120.253 0 3 53080 
+182.2.165.224 1 17 1509860 20240311091825
+212.80.203.219 1 1 7581 20240305094837
+43.155.138.79 1 1 7563 20240301232144
+192.175.111.230 1 1 41681 20240309014211
+202.93.153.70 1 1 6059 20240305090040
+46.19.138.210 2 3 25252 20240331200831
+101.91.148.219 1 1 7563 20240304075512
+164.92.255.167 1 1 9407 20240315101546
+138.197.161.153 1 1 9407 20240329091052
+199.45.154.70 1 5 1218183 20240329021520
+38.45.123.34 2 2 18824 20240312154856
+165.22.6.220 1 1 9404 20240309082841
+223.113.128.132 1 2 1128833 20240314084319
+43.135.166.178 1 1 9413 20240324055027
+43.130.62.164 1 1 9406 20240331104803
+192.175.111.247 1 1 41681 20240309014202
+188.241.240.17 1 1 7563 20240302081520
+161.35.81.99 1 1 9419 20240308122244
+139.59.83.92 1 1 9409 20240328025504
+185.220.100.246 1 1 9406 20240331140537
+199.45.154.50 1 1 812 20240306001044
+52.80.187.17 1 5 1437651 20240308090800
+135.148.195.5 1 1 9409 20240328050819
+94.177.57.15 1 1 7568 20240305094836
+43.133.38.182 1 1 9414 20240331023058
+182.44.9.147 2 2 18816 20240320222226
+183.136.225.46 2 2 51088 20240324121902
+199.45.154.65 1 3 613786 20240311165856
+205.210.31.224 1 1 41681 20240312215837
+93.174.93.215 2 2 15162 20240305155040
+54.70.143.45 1 1 9407 20240315002451
+35.94.135.48 1 1 41681 20240311021342
+5.133.192.135 1 1 7556 20240303030945
+135.148.195.7 0 1 1119426 
+207.254.93.117 1 1 9407 20240329001424
+86.127.230.205 1 1 41681 20240316150648
+170.106.171.77 1 1 9411 20240323085736
+35.92.56.160 1 1 9408 20240322073730
+45.94.31.129 1 1 0 20240301115604
+140.213.171.181 3 19 1525400 20240316081239
+198.244.154.200 1 1 9410 20240327005504
+136.144.147.242 2 2 15112 20240302165254
+212.80.202.240 1 1 9417 20240325204251
+216.126.238.122 1 1 9419 20240308160256
+88.87.70.158 1 1 7499 20240326235024
+64.15.129.113 1 1 41681 20240309014210
+198.235.24.92 1 1 37177 20240302010309
+43.155.166.202 2 2 19593 20240311192327
+87.236.176.62 1 1 9398 20240311171137
+54.70.68.122 1 1 9407 20240316084054
+143.110.247.241 1 1 9396 20240319081640
+182.42.105.85 1 1 9417 20240325132407
+93.158.90.71 1 1 9407 20240328112015
+87.236.176.113 1 1 9411 20240322120248
+45.135.232.26 1 1 9408 20240308005628
+36.111.67.189 2 2 16962 20240313221008
+18.144.161.109 1 1 9407 20240316005437
+100.26.54.205 1 3 16019 20240324150108
+159.203.94.187 1 1 9419 20240308105447
+124.226.222.66 1 1 7563 20240304053857
+134.209.155.21 2 2 15110 20240305074601
+182.232.187.59 2 2 12104 20240306025311
+199.167.29.93 1 1 9419 20240309072831
+43.163.0.99 2 2 16978 20240327055113
+118.99.109.226 1 17 1509853 20240326011256
+185.70.93.6 2 2 15126 20240301215727
+205.210.31.151 1 1 41681 20240316125737
+137.226.113.44 3 3 28225 20240328083203
+101.44.251.69 1 1 9409 20240310164907
+196.240.51.60 3 3 23052 20240311075829
+52.81.203.9 1 2 1128829 20240330012513
+91.92.241.173 1 3 16893 20240307072243
+167.99.176.89 1 1 9417 20240325101154
+196.242.178.225 3 3 23052 20240310174018
+110.166.71.39 3 3 28215 20240322132023
+45.154.35.82 1 1 41681 20240328041829
+101.44.248.101 1 1 9407 20240314030737
+114.142.173.28 1 17 1509858 20240318100958
+199.250.251.37 1 13 1502432 20240322082207
+175.100.113.235 2 2 15162 20240306025844
+165.227.35.124 1 1 9414 20240331085805
+36.133.35.23 2 2 18812 20240330161324
+199.45.155.22 1 4 915989 20240329001024
+34.212.97.147 1 1 7563 20240302061432
+217.76.60.242 1 1 812 20240316132127
+51.254.199.11 3 3 29054 20240322175015
+185.220.101.38 1 1 9405 20240312195432
+13.70.71.195 1 1 41681 20240321170649
+144.217.135.185 1 1 6052 20240301234654
+2.58.56.107 2 2 0 20240312171800
+93.159.230.88 1 1 7563 20240303165159
+43.159.128.68 1 1 9413 20240323185622
+146.190.254.38 1 1 9398 20240311092821
+116.206.14.49 1 17 1509853 20240325091701
+104.28.218.136 1 17 1509856 20240317092651
+130.255.162.249 1 1 7581 20240305162206
+114.80.36.40 1 1 7563 20240303235032
+203.78.124.53 3 19 1525923 20240328093052
+65.154.226.169 1 1 9396 20240318121502
+158.220.97.36 2 2 10255 20240327213800
+93.159.230.87 1 1 9406 20240331180259
+185.12.149.40 1 1 9411 20240322203654
+180.110.203.108 1 1 10236 20240306215856
+223.244.35.77 1 1 9407 20240315144509
+66.102.8.32 0 4 9486 
+118.69.175.73 1 1 41681 20240330092418
+87.236.176.2 1 1 9405 20240313025332
+116.203.157.33 1 1 9407 20240324192520
+54.67.18.161 1 1 9403 20240329121232
+164.90.192.139 1 1 7563 20240303084007
+123.60.68.42 3 3 28215 20240330205924
+45.116.219.5 1 18 1514510 20240311031953
+58.49.233.126 2 2 18818 20240327143233
+43.163.8.148 1 1 9403 20240317072741
+66.102.8.38 0 5 23822 
+206.189.136.14 1 1 9408 20240321094312
+13.52.184.254 1 1 9411 20240322134010
+43.131.243.208 2 2 16960 20240309182755
+91.92.246.131 1 1 41681 20240317205736
+182.44.12.37 1 1 9392 20240320024440
+162.142.125.14 1 1 810 20240322001433
+52.81.184.97 1 1 7581 20240305121337
+154.90.48.145 3 3 125043 20240328211913
+178.254.24.91 1 1 9396 20240319065910
+87.236.176.186 0 1 302194 
+5.133.192.146 1 2 311601 20240314162300
+89.248.172.174 2 2 18818 20240327112804
+64.15.129.118 1 1 41681 20240309014205
+114.122.137.168 1 18 1525141 20240310202731
+66.102.8.39 1 2 57492 20240306120153
+138.68.166.114 1 1 10237 20240307091904
+38.45.123.36 1 1 9407 20240328173235
+43.155.160.173 1 1 9404 20240310050944
+93.158.91.24 1 2 311611 20240326043017
+43.163.3.58 2 2 18814 20240318034358
+64.227.181.49 1 1 7581 20240305093438
+192.175.111.235 1 1 41681 20240309014207
+83.99.151.68 1 1 8036 20240322063640
+107.151.200.193 2 2 16990 20240320105403
+178.254.29.124 1 1 7543 20240301001949
+34.79.162.186 1 1 9396 20240318200536
+93.158.91.244 1 1 9403 20240316194404
+35.93.95.209 1 1 9409 20240318075253
+168.119.64.222 2 2 15126 20240303120916
+125.75.66.97 2 2 15126 20240304075545
+159.65.18.58 1 1 9411 20240309105514
+87.236.176.14 0 1 302194 
+135.148.195.4 0 2 1421620 
+65.109.9.217 1 1 41681 20240325170217
+168.151.104.196 1 1 9425 20240326050238
+122.154.118.66 1 1 7508 20240311042355
+43.163.6.35 2 2 18814 20240316005204
+176.9.76.162 1 1 41681 20240311192034
+35.212.205.117 1 1 9392 20240319140727
+103.137.45.12 1 1 7507 20240322123047
+43.155.136.16 3 3 51083 20240311003120
+113.197.108.36 1 18 1514517 20240308081602
+77.74.177.119 1 1 9409 20240317175657
+106.227.49.113 2 2 16971 20240307181252
+114.122.83.158 3 3 6052 20240301092721
+222.79.103.59 2 2 18814 20240329043637
+44.204.171.2 1 1 7501 20240324053221
+5.166.121.205 1 1 41681 20240308004008
+46.101.80.192 3 3 33391 20240320063725
+109.70.100.65 1 1 9406 20240331140536
+192.159.99.51 1 1 767 20240319185337
+35.88.209.100 1 1 9404 20240310073119
+107.189.31.232 1 1 9405 20240312195415
+192.175.111.234 0 1 302194 
+124.221.186.82 1 1 9403 20240329131305
+152.42.160.212 3 19 1525406 20240322072531
+199.45.154.19 1 1 812 20240304010609
+89.248.172.92 2 2 18808 20240309152444
+5.133.192.87 1 2 311613 20240308215206
+135.148.195.16 1 2 311603 20240321043510
+111.172.249.49 3 3 49255 20240306020155
+18.236.94.204 1 1 7581 20240306065859
+198.235.24.55 1 1 41681 20240307190708
+64.23.214.55 1 1 9408 20240321233105
+142.93.222.125 1 1 9410 20240327090539
+198.235.24.231 1 1 41681 20240312130250
+107.165.238.99 1 1 9408 20240307172808
+87.236.176.108 1 1 9407 20240325062514
+194.26.192.60 1 1 767 20240321231100
+144.126.209.194 1 1 9404 20240309094940
+135.148.195.9 1 1 9407 20240313225606
+51.15.17.105 0 1 5842 
+203.189.154.201 1 1 6057 20240304134015
+93.100.144.207 1 1 41681 20240314123603
+54.218.255.165 1 1 9409 20240318075252
+205.210.31.172 1 1 41681 20240308110807
+43.131.62.4 1 1 9408 20240322045637
+41.169.78.142 1 1 7507 20240318203422
+167.71.154.251 1 1 7507 20240318205950
+38.122.112.147 2 2 19645 20240318060913
+178.254.12.183 1 1 9409 20240310180738
+135.148.195.14 0 2 1421620 
+144.202.75.134 2 2 10238 20240319161111
+128.90.128.36 2 2 15126 20240304071816
+43.128.100.220 1 1 9419 20240308141546
+124.156.193.7 1 1 9405 20240312152819
+185.225.33.15 1 1 7509 20240324155332
+85.25.177.176 2 2 24007 20240329061157
+101.44.251.60 1 1 9409 20240317111226
+64.15.129.123 1 2 343875 20240309014206
+52.80.162.245 1 2 1128839 20240324083627
+199.45.155.51 1 1 7556 20240302100534
+34.234.83.252 1 1 7504 20240310054951
+119.96.24.54 2 2 16966 20240311095835
+178.254.38.45 1 1 9403 20240329145633
+198.235.24.168 1 1 37177 20240305183752
+94.156.64.15 1 3 16021 20240318003612
+176.193.38.6 1 1 41681 20240323201249
+83.99.151.71 1 1 7505 20240321183639
+109.238.14.123 2 2 15126 20240304075913
+198.235.24.214 1 1 41681 20240316095907
+43.128.100.206 2 2 16962 20240315043002
+137.184.38.124 1 1 9407 20240313092834
+212.80.221.129 1 1 7581 20240305091325
+49.51.179.103 1 1 9410 20240326190216
+87.236.176.109 0 1 302194 
+34.211.187.38 1 1 9407 20240316083954
+128.199.24.201 1 1 41681 20240330040653
+101.44.248.28 1 1 9407 20240316033255
+87.121.69.30 1 3 16021 20240327201650
+182.44.8.254 2 2 18792 20240318221752
+13.201.135.120 1 2 309696 20240317004604
+223.113.128.136 1 2 1128833 20240314100455
+182.42.110.255 1 1 9411 20240323000247
+94.247.172.129 1 1 9408 20240322084516
+196.240.143.250 1 1 174013 20240310174030
+154.37.180.224 2 2 9403 20240329124549
+199.45.155.50 1 1 7581 20240306030752
+45.80.158.96 1 1 9414 20240330143525
+52.81.254.49 1 1 9417 20240325155445
+182.44.2.148 1 1 9392 20240319170002
+195.201.81.113 0 1 302194 
+43.134.66.205 2 2 16980 20240326090651
+128.90.128.18 2 2 18810 20240312173328
+89.248.174.34 2 2 15112 20240303004738
+196.196.147.174 3 3 189036 20240311075938
+207.32.219.80 2 2 18822 20240323014231
+64.15.129.112 1 1 41681 20240309014206
+113.141.91.58 1 1 9403 20240316111154
+128.90.170.38 3 3 28223 20240329210419
+35.90.4.144 1 1 9407 20240316084121
+52.80.71.82 1 1 7563 20240301144817
+69.10.48.174 1 1 41681 20240330191120
+54.88.179.33 2 2 83362 20240315184320
+87.236.176.180 0 1 302194 
+88.214.3.222 1 1 14600 20240326050241
+65.108.31.121 0 3 306452 
+114.96.103.33 1 1 9407 20240325025319
+5.61.55.96 1 1 9404 20240309201652
+36.41.75.167 2 2 16966 20240316210109
+45.148.105.144 1 1 34111 20240305094839
+143.198.57.71 1 1 9413 20240323104224
+60.188.57.0 1 1 7555 20240305041117
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240301 32 32 1293466 15
+20240302 11 11 109755 9
+20240303 12 12 81657 9
+20240304 34 34 372512 22
+20240305 30 30 257316 19
+20240306 103 133 1183136 18
+20240307 332 494 23072625 10
+20240308 48 104 6821333 20
+20240309 23 41 5008467 18
+20240310 23 60 3079833 12
+20240311 21 57 4324133 16
+20240312 20 20 222061 13
+20240313 15 29 2017525 9
+20240314 14 18 2723186 13
+20240315 19 19 545302 9
+20240316 27 44 1981782 18
+20240317 14 42 2082501 10
+20240318 14 32 1623620 13
+20240319 14 14 92621 11
+20240320 13 19 400358 8
+20240321 15 17 1573596 11
+20240322 23 52 3468611 16
+20240323 12 29 1731142 9
+20240324 15 36 2456114 11
+20240325 10 44 3486870 9
+20240326 13 32 2226113 12
+20240327 12 15 122656 9
+20240328 15 57 5012411 11
+20240329 17 25 2315010 15
+20240330 14 31 2833307 12
+20240331 24 42 2333991 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 4
+30mn-1h 6
+30s-2mn 9
+15mn-30mn 4
+5mn-15mn 12
+1h+ 6
+0s-30s 360
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 695 6617860 377 357
+/history-result/ 149 4505884 9 16
+/live-draw/ 112 723093 9 13
+// 8 292579 1 4
+/wp-json/ 8 6554 0 6
+/wp-json/json 7 1218091 2 1
+/wp-json/wp/v2/pages/8 4 4191 0 0
+/.well-known/ 3 2301 3 3
+/wp-json/wp/v2/pages/10 1 1431 0 1
+/wp-json/wp/v2/pages/12 1 1445 0 0
+/wp-json/wp-json 1 174013 0 0
+END_SIDER

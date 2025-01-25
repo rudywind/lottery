@@ -1,0 +1,1876 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202408 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.lithuanialottery.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2048                
+POS_TIME 2725                
+POS_VISITOR 67083               
+POS_DAY 78367               
+POS_DOMAIN 3557                
+POS_LOGIN 4252                
+POS_ROBOT 4407                
+POS_WORMS 5298                
+POS_EMAILSENDER 5429                
+POS_EMAILRECEIVER 5572                
+POS_SESSION 79157               
+POS_SIDER 79335               
+POS_FILETYPES 5707                
+POS_DOWNLOADS 5793                
+POS_OS 5841                
+POS_BROWSER 6236                
+POS_SCREENSIZE 8403                
+POS_UNKNOWNREFERER 8477                
+POS_UNKNOWNREFERERBROWSER 9378                
+POS_ORIGIN 9929                
+POS_SEREFERRALS 10069               
+POS_PAGEREFS 10305               
+POS_SEARCHWORDS 10453               
+POS_KEYWORDS 10605               
+POS_MISC 2389                
+POS_ERRORS 10664               
+POS_CLUSTER 4108                
+POS_SIDER_404 10772               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240901004217 29 5551 4772737559384
+FirstTime 20240801004700
+LastTime 20240831212655
+LastUpdate 20240901083334 29 0 28 0 0
+TotalVisits 336                 
+TotalUnique 287                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 287                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 15 15 5140817 60 77 1169497
+1 16 16 365749 39 49 249996
+2 16 16 316675 738 754 1100567
+3 7 7 108947 164 173 374928
+4 25 25 347040 662 669 921310
+5 19 19 188425 41 75 113664
+6 15 15 341138 66 75 478829
+7 6 6 59391 29 42 525289
+8 10 10 102750 31 51 4973730
+9 10 10 141875 159 169 361838
+10 20 20 415240 49 163 284712
+11 16 16 203691 268 293 621565
+12 19 19 547983 52 65 5015125
+13 9 9 127191 257 263 367319
+14 7 7 69646 58 77 277704
+15 43 43 5560732 296 312 5316997
+16 35 35 587929 153 162 382527
+17 17 17 193057 30 50 210742
+18 12 12 118923 20 29 291702
+19 17 17 213678 54 59 125301
+20 12 12 280105 20 32 58046
+21 31 31 5379906 49 62 733811
+22 23 23 425601 65 92 1306544
+23 28 28 5335050 330 356 2122087
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 35
+us 189 189 23042561
+cn 62 62 669362
+kh 23 23 199234
+jp 22 22 225905
+ru 14 14 289425
+se 13 13 133551
+id 13 13 102794
+ca 12 12 476044
+de 10 10 141948
+in 8 8 82219
+nl 7 7 203342
+fr 6 6 216203
+gr 4 4 80287
+be 4 4 41028
+lb 4 4 197880
+bg 4 4 41095
+pl 4 4 32156
+ma 4 4 41064
+gb 3 3 30821
+au 3 3 24109
+my 2 2 38448
+es 2 2 1538
+ip 2 2 20548
+ro 2 2 98940
+lv 1 1 8036
+vn 1 1 49470
+zz 1 1 10294
+pa 1 1 10261
+eu 1 1 10276
+ch 1 1 10273
+lt 1 1 8047
+fi 1 1 8046
+cl 1 1 10258
+pt 1 1 8040
+nz 1 1 8036
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 20
+crawl 92 19174445 20240831064408 0
+AhrefsBot/ 44 488035 20240831183122 0
+no_user_agent 26 1236750 20240830153659 0
+Googlebot/ 21 168806 20240829163342 0
+(firefox/)([0-9]\.|[0-1][0]\.) 19 174649 20240829010142 0
+bot[\s_+:,\.\;\/\\-] 16 211364 20240831195656 0
+MJ12bot/ 10 80381 20240831020323 0
+Go\-http\-client/ 8 52963 20240825021429 0
+SeznamBot/ 8 82150 20240831040441 0
+bingbot/ 7 97701 20240829160920 0
+facebookexternalhit/ 5 247350 20240831065528 0
+survey 3 148410 20240808171533 0
+SemrushBot/ 3 164493 20240815230128 0
+nbot 3 164514 20240820182958 0
+Applebot/ 3 30807 20240830071154 0
+Barkrowler 2 20549 20240825153344 0
+CCBot/ 1 8033 20240812165052 0
+php 1 10286 20240804050654 0
+[\s_+:,\.\;\/\\-]bot 1 8035 20240810080221 0
+java 1 0 20240821103249 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 428 26571539 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 24
+androidpie 1 1
+Unknown 68 68
+macosx15 22 22
+androidoreo 2 2
+winnt 5 5
+unix 1 1
+win10 149 149
+linuxubuntu 1 1
+androidmarshmallow 1 1
+macosx 3 3
+macosx14 1 1
+linuxcentos 1 1
+ios_ipad 1 1
+macosx6 1 1
+android10 32 32
+macosx13 2 2
+ios_iphone 73 73
+linux 28 28
+win7 13 13
+android 8 8
+winxp 3 3
+androidnougat 5 5
+macosx9 1 1
+win8.1 6 6
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 103
+edge17 1 1
+chrome55.0.648 1 1
+opera112.0.0.0 1 1
+chrome128.0.0.0 9 9
+chrome61.0.3163.100 1 1
+firefox108.0 2 2
+opera8.0 1 1
+firefox122.0 1 1
+chrome82.0.1710 1 1
+opera102.0.0.0 1 1
+chrome79.0.3945.147 1 1
+chrome59.0.3071.125 1 1
+chrome96.0.4664.110 4 4
+chrome118.0.0.0 1 1
+safari17.3.1 2 2
+chrome126.0.6478.127 1 1
+chrome70.0.1168.88 1 1
+firefox33.0 1 1
+safari 1 1
+chrome127.0.6533.64 1 1
+chrome79.0.3945.79 1 1
+safari17.4.1 3 3
+chrome51.0.2019 1 1
+chrome115.0.0.0 1 1
+safari17.5 3 3
+mozilla 42 42
+chrome107.0.0.0 1 1
+chrome121.0.0.0 1 1
+chrome124.0.0.0 3 3
+chrome41.0.2228.0 1 1
+chrome83.0.4103.7 2 2
+chrome76.0.3809.100 2 2
+chrome126.0.0.0 22 22
+chrome76.0.3809.111 2 2
+chrome89.0.4389.82 2 2
+msie8.0 1 1
+chrome100.0.4896.60 12 12
+chrome87.0.4280.88 2 2
+chrome116.0.0.0 4 4
+chrome85.0.1054 1 1
+chrome114.0.0.0 3 3
+chrome84.0.4147.89 1 1
+chrome93.0.2937 1 1
+firefox120.0 1 1
+msie6.0 1 1
+chrome57.0.2987.132 1 1
+chrome58.0.3029.110 2 2
+chrome102.0.5005.197 1 1
+chrome81.0.4044.145 1 1
+chrome80.0.3987.162 4 4
+chrome124.0.6367.63 2 2
+safari16.0 1 1
+chrome124.0.6367.62 1 1
+chrome90.0.4430.85 2 2
+safari17.1.2 1 1
+netscape5.0 4 4
+chrome97.0.4692.71 1 1
+chrome106.0.0.0 5 5
+chrome66.0.3359.117 4 4
+chrome74.0.3729.136 1 1
+chrome127.0.0.0 29 29
+chrome104.0.0.0 1 1
+chrome110.0.0.0 3 3
+chrome78.0.3904.62 2 2
+chrome119.0.0.0 11 11
+Unknown 25 25
+chrome117.0.5938.132 2 2
+safari5.0.3 1 1
+chrome117.0.0.0 1 1
+chrome120.0.0.0 7 7
+chrome73.0.2259.88 1 1
+chrome60.0.3112.113 4 4
+firefox81.0 1 1
+msie11.0 1 1
+chrome88.0.4240.193 4 4
+chrome60.0.3112.107 2 2
+chrome83.0.4103.61 1 1
+chrome83.0.4103.97 4 4
+chrome124.0.6367.119 1 1
+chrome92.0.4515.131 2 2
+chrome112.0.0.0 4 4
+safari10.0 1 1
+chrome122.0.6261.95 1 1
+chrome51.0.2704.64 1 1
+safari13.0.3 65 65
+chrome105.0.0.0 9 9
+chrome91.0.4472.114 10 10
+chrome78.0.3904.108 14 14
+chrome122.0.0.0 6 6
+firefox117.0 4 4
+chrome89.0.4389.114 6 6
+firefox126.0 2 2
+chrome51.0.2704.103 4 4
+chrome92.0.4515.159 1 1
+firefox115 2 2
+chrome90.0.4430.72 1 1
+msie10.0 1 1
+chrome80.0.3987.149 4 4
+chrome74.0.3729.169 5 5
+firefox63.0 3 3
+chrome127.0.6533.103 1 1
+firefox55.0 1 1
+chrome78.0.3888.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+python-requests/2.28.1 20240801015507
+Mozilla/5.0_zgrab/0.x 20240831143741
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240815053207
+python-requests/2.26.0 20240818162732
+python-requests/2.27.1 20240825092048
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240831212655
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240808041416
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240830010735
+python-requests/2.32.3 20240823093616
+GlobalWebSearchx 20240809210646
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240816004117
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+python-requests/2.27.1 20240825092048
+python-requests/2.26.0 20240818162732
+python-requests/2.28.1 20240801015507
+GlobalWebSearchx 20240809210646
+python-requests/2.32.3 20240823093616
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240830010735
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 286 286
+From1 5 5
+From2 36 36
+From3 0 0
+From4 101 101
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+yandexru 4 4
+www_google_com 26 26
+bing_com_catchall 4 4
+duckduckgo 1 1
+search_yahoo_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 110 136620
+404 3740 4677489
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1125
+/wp-content/plugins/masterstudy-lms-learning-management-system/readme.txt 2 -
+/cache/accesson0.php 1 -
+/admin/upload.php 1 -
+/admin/plugins/uploadify/uploadify.css 1 -
+//chonburipoolsnight.com/wp-content/themes/lottery_chonburi_pools_night/assets/js/lottery.js 9 -
+/wp-admin/includes/about.php 18 -
+/ebs.php7 17 -
+/wp-content/plugins/three-column-screen-layout/db.php 1 http://lithuanialottery.com/wp-content/plugins/three-column-screen-layout/db.php
+/wp-content/plugins/wpgateway/css/style.css 1 -
+/xmrlpc.php 19 -
+/wp-content/plugins/rencontre/readme.txt 1 -
+/s.php 1 http://lithuanialottery.com/s.php
+/wp-content/upgrade-temp-backup/about.php 17 -
+/404.php 2 -
+/wp-content/themes/bolster-theme/include/lang_upload.php 1 -
+/.wp-cli/about.php 1 -
+/.well-known/acme-challenge/upfile.php 1 http://lithuanialottery.com/.well-known/acme-challenge/upfile.php
+/wp-admin/images/atomlib.php 1 http://lithuanialottery.com/wp-admin/images/atomlib.php
+/wp-includes/ID3/about.php 21 -
+//wp-login.php 4 -
+/tiny/ 1 -
+/wp-content/plugins/hello.php 1 http://lithuanialottery.com/wp-content/plugins/hello.php
+/wp-includes/customize/atomlib.php 1 http://lithuanialottery.com/wp-includes/customize/atomlib.php
+/sitemaps.xml 4 -
+/wp-content/upgrade/about.php 1 -
+/tf.php 1 -
+/options-head.php 1 http://lithuanialottery.com/options-head.php
+/wp-includes/js/tinymce/plugins/hr/about.php 1 -
+/wp-content/plugins/ai-engine/readme.txt 1 -
+/wp-includes/class-wp-user-wp.php 1 http://lithuanialottery.com/wp-includes/class-wp-user-wp.php
+/wp-includes/blocks/columns/about.php 1 -
+/admin/php/index.php 1 -
+/wp-admin/css/colors/ocean/colour.php 1 http://lithuanialottery.com/wp-admin/css/colors/ocean/colour.php
+/.idea/workspace.xml 1 -
+/wp-config.php 1 http://lithuanialottery.com/wp-config.php
+/wp-content/themes/arvana/400.php 1 http://lithuanialottery.com/wp-content/themes/arvana/400.php
+/thoms.php 1 -
+/xmlrpc.php 4 -
+/wp-content/plugins/contact-form-7/includes/content.php 1 -
+/wp-p.php7 17 -
+/old/.env 1 -
+/wp-content/plugins/learnpress/readme.txt 1 -
+/tinyfilemanager/ 1 -
+/wp-includes/customize/about.php 21 -
+/wp-content/batm.php 1 http://lithuanialottery.com/wp-content/batm.php
+/test.php 1 http://lithuanialottery.com/test.php
+/humans.txt 4 http://www.lithuanialottery.com/humans.txt
+/wp-content/plugins/ccx/about.php 1 -
+/wp-admin/network/about.php 2 -
+/wp-content/plugins/WordPressCore/include.php 6 www.google.com
+/WSOEnigma.php 1 http://lithuanialottery.com/WSOEnigma.php
+/vote.php 1 http://lithuanialottery.com/vote.php
+/wp-admin/css/colors/blue/cloud.php 17 -
+/wp-includes/js/tinymce/plugins/compat3x/content.php 1 http://lithuanialottery.com/wp-includes/js/tinymce/plugins/compat3x/content.php
+/alfanew.php7 17 -
+/index.php 12 -
+/wp-includes/rest-api/endpoints/about.php 1 -
+/wp-content/plugins/instawp-connect/readme.txt 1 -
+/wp-content/plugins/shortcode-addons/readme.txt 1 -
+/old/wp-admin/install.php 2 -
+/style2.php 1 http://lithuanialottery.com/style2.php
+/444.php 1 http://lithuanialottery.com/444.php
+/wp-includes/Requests/Cookie/about.php 1 -
+/.well-known/pki-validation/worksec.php 1 http://lithuanialottery.com/.well-known/pki-validation/worksec.php
+/site/wp-admin/install.php 2 -
+/wp-comments-post.php 1 -
+/wp-content/themes/mtaza/mobile.php 2 http://lithuanialottery.com/wp-content/themes/mtaza/mobile.php
+/wp-content/plugins/Cache/Cache.php 18 -
+/wp-content/plugins/seoo/wsoyanz1.php 17 -
+/wp-includes/Text/wp-login.php 1 http://lithuanialottery.com/wp-includes/Text/wp-login.php
+/wp-json/wp/v2/users 2 -
+/.tmb/file.php 1 http://lithuanialottery.com/.tmb/file.php
+/blog 4 -
+/elfinder/src/connectors/php/connector.php 1 -
+/c.php 1 http://lithuanialottery.com/c.php
+/version.php 1 http://lithuanialottery.com/version.php
+/css/wp-blog.php 1 http://lithuanialottery.com/css/wp-blog.php
+/defaul1.php 1 http://lithuanialottery.com/defaul1.php
+/files.php 1 -
+/assets/uploadify/uploadify.css 1 -
+/.well-known/acme-challenge/xmrlpc.php 18 -
+/wp-content/inputs.php 2 -
+/simple.php 6 -
+/.well-known/acme-challenge/install.php 1 http://lithuanialottery.com/.well-known/acme-challenge/install.php
+/wp-content/plugins/contact-form-7/languages/content.php 1 -
+/uploads/ 2 binance.com
+/wp-content/plugins/ubh/up.php 1 http://lithuanialottery.com/wp-content/plugins/ubh/up.php
+/blog/ 3 -
+/.well-known/acme-challenge/cloud.php 34 -
+/wp-content/plugins/core-plugin/include.php 2 www.google.com
+/sftp-config.json 2 -
+/ads.txt 4 http://www.lithuanialottery.com/ads.txt
+/wordpress/logsxxyyzz.php 1 http://lithuanialottery.com/wordpress/logsxxyyzz.php
+/haxor.php 1 http://lithuanialottery.com/haxor.php
+/wp-includes/js/about.php 1 -
+/wp-content/themes/worship/block-css.php 1 http://lithuanialottery.com/wp-content/themes/worship/block-css.php
+/wp-includes/repeater.php 17 -
+/about.php7 17 -
+/wp-admin/css/about.php 19 -
+/sendgrid.env 1 -
+/wp-admin/xmrlpc.php 17 -
+/wp-content/plugins/woo-refund-and-exchange-lite/readme.txt 1 -
+/admin.php 19 -
+/wp-includes/js/thickbox/about.php 1 -
+/wp-admin/admin.php 1 http://lithuanialottery.com/wp-admin/admin.php
+/tinyfilemanager.php 1 -
+/wp-content/themes/rocky-theme/include/lang_upload.php 1 -
+/.wp-cli/cache/about.php 1 -
+/wp-content/plugins/mapsvg-lite-interactive-vector-maps/gm_download.php 1 -
+/wp-content/plugins/mstore-api/readme.txt 2 -
+/wp-admin/css/colors/coffee/index.php 1 http://lithuanialottery.com/wp-admin/css/colors/coffee/index.php
+/vendor/phpunit/phpunit/Util/PHP/eval-stdin.php 1 http://lithuanialottery.com//vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
+/wp-admin/css/colors/ectoplasm/about.php 1 -
+/wp-includes/PHPMailer/about.php 1 -
+/wp-content/plugins/wpcargo/readme.txt 1 -
+/plugins/uploadify/uploadify.css 1 -
+/wp-content/themes/hideo/network.php 1 http://lithuanialottery.com/wp-content/themes/hideo/network.php
+/templates/beez3/index.php 1 http://lithuanialottery.com/templates/beez3/index.php
+/wp-content/plugins/all-in-one-video-gallery/readme.txt 1 -
+/bless.php 1 -
+/wp-content/plugins/chatbot-chatgpt/readme.txt 1 -
+/wp-includes/SimplePie/HTTP/about.php 1 -
+/wp-includes/blocks/spacer/about.php 1 -
+/wp-admin/js/widgets/xmrlpc.php 18 -
+/wp-content/plugins/bertha-ai-free/readme.txt 1 -
+/wp-content/plugins/background-image-cropper/image/ico/accesson.php 1 -
+/wp-includes/mah.php 1 http://lithuanialottery.com/wp-includes/mah.php
+/wp-includes/js/tinymce/themes/modern/about.php 1 -
+/assets/library.php 1 http://lithuanialottery.com/assets/library.php
+/wp-includes/random_compat/about.php 2 -
+/.well-known/pki-validation/alfa.php 1 http://lithuanialottery.com/.well-known/pki-validation/alfa.php
+/.well-known/pki-validation/xmrlpc.php 18 -
+/old-index.php 1 http://lithuanialottery.com/old-index.php
+/wp-login.php 10 -
+/wp-content/blogs.dir/about.php 17 -
+/.tmb/cloud.php 1 http://lithuanialottery.com/.tmb/cloud.php
+/wp-content/themes/Newspaper/404.php/wp-content/themes/Newspaper/404.php 1 -
+/contact 1 https://lithuanialottery.com/contact
+/libraries/legacy/updates.php 17 -
+/upload/server/php/ 1 -
+/ioxi-rex4.php7 1 http://lithuanialottery.com/ioxi-rex4.php7
+/wp-includes/blocks/social-link/about.php 1 -
+/wp-content/admin.php 1 http://lithuanialottery.com/wp-content/admin.php
+/misc/ajax.js 3 -
+/wp-includes/blocks/latest-comments/about.php 1 -
+/jp.php 1 http://lithuanialottery.com/jp.php
+/wp-admin/user/xmrlpc.php 18 -
+/wp-includes/js/tinymce/plugins/wpemoji/about.php 1 -
+/conf/.env 1 -
+/apps/.env 1 -
+/sitemap.txt 2 -
+/about.php 25 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 9 -
+/wp-includes/blocks/categories/about.php 1 -
+/wp-content/themes/travelscape/json.php 1 http://lithuanialottery.com/wp-content/themes/travelscape/json.php
+/lx.php 1 http://lithuanialottery.com/lx.php
+/blog/.env 1 -
+/libraries/phpmailer/updates.php 17 -
+/wp-content/themes/Newspaper/404.php/wwryeryyj 1 -
+/ae.php 1 -
+/home 4 -
+/wp-includes/Text/about.php 21 -
+/editor.php 1 http://lithuanialottery.com/editor.php
+/src/.env 1 -
+/new/.env 1 -
+/wp-includes/blocks/query/about.php 1 -
+/wp-content/themes/panama/json.php 1 http://lithuanialottery.com/wp-content/themes/panama/json.php
+/wp-admin/css/colors/index.php 18 -
+/wp-includes/Requests/network.php 1 http://lithuanialottery.com/wp-includes/Requests/network.php
+/wp-admin/css/colors/modern/about.php 1 -
+/wp-content/radio.php 1 http://lithuanialottery.com/wp-content/radio.php
+/wp-admin/js/about.php 36 -
+/chosen.php 9 -
+/wp-includes/blocks/cover/about.php 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/download-content.php 1 -
+/cjfuns.php 1 http://lithuanialottery.com/cjfuns.php
+/.well-known/pki-validation/bless.php 1 http://lithuanialottery.com/.well-known/pki-validation/bless.php
+/wp-content/plugins/nd-donations/readme.txt 1 -
+/wp-content/uploads/2023/02/zdexnz.php 1 http://lithuanialottery.com/wp-content/uploads/2023/02/zdexnz.php
+/wp-includes/blocks/query-pagination-next/about.php 1 -
+/upload.php 1 http://lithuanialottery.com/upload.php
+/wp-admin/css/colors/ocean/about.php 1 -
+/wp-content/plugins/revslider/includes/external/page/index.php 1 http://lithuanialottery.com/wp-content/plugins/revslider/includes/external/page/index.php
+/wp-content/plugins/nd-learning/readme.txt 1 -
+/class.api.php 1 http://lithuanialottery.com/class.api.php
+/wp-content/plugins/themegrill-demo-importer/readme.txt 1 -
+/ccx/about.php 1 -
+/crm/.env 1 -
+/web/wp-admin/css/colors/blue/atomlib.php 1 http://lithuanialottery.com/web/wp-admin/css/colors/blue/atomlib.php
+/vendor/.env 1 -
+/ALFA_DATA/alfacgiapi/alfa.php 1 http://lithuanialottery.com/ALFA_DATA/alfacgiapi/alfa.php
+/wp-content/themes/seotheme/db.php 17 -
+/js/autoload_classmap.php 1 http://lithuanialottery.com/js/autoload_classmap.php
+/dist/js/bootstrap.bundle.min.js 3 -
+/wp-includes/blocks/table/about.php 1 -
+/x.php 2 http://lithuanialottery.com/x.php
+/w0.php 1 http://lithuanialottery.com/w0.php
+/f.php 1 http://lithuanialottery.com/f.php
+/wp-includes/css/about.php 1 -
+/wp-content/plugins/wp-config.php 1 http://lithuanialottery.com/wp-content/plugins/wp-config.php
+/wp-content/plugins/forminator/readme.txt 1 -
+/wp-includes/js/tinymce/skins/lightgray/about.php 1 -
+/sites/all/libraries/elfinder-1.1/connectors/php/connector.php 1 -
+/uploadify/uploadify.css 1 -
+/goat.php 3 -
+/wp-content/plugins/activedemand/readme.txt 1 -
+/.well-known/pki-validation/index.php 1 http://lithuanialottery.com/.well-known/pki-validation/index.php
+/wp-content/plugins/wp-pinterest-automatic/changelog 1 -
+/wp-includes/blocks/list/about.php 1 -
+/wp-2018.php 1 http://lithuanialottery.com/wp-2018.php
+/wp-includes/Requests/Auth/about.php 1 -
+/wp-includes/wp-login.php 1 http://lithuanialottery.com/wp-includes/wp-login.php
+/wp-ldd.php 1 http://www.google.com
+/wp-includes/js/tinymce/langs/about.php 1 -
+/images/autoload_classmap.php 1 http://lithuanialottery.com/images/autoload_classmap.php
+//web/wp-includes/wlwmanifest.xml 4 -
+/wp-includes/js/tinymce/plugins/textcolor/about.php 1 -
+/wp-content/plugins/wp-config-sample.php 1 -
+/admin/controller/extension/extension/ 2 binance.com
+/wp-includes/Text/Diff/Engine/about.php 1 -
+/sitemap.xml.gz 2 -
+//blog/wp-includes/wlwmanifest.xml 4 -
+/wp-admin/admin-ajax.php 9 -
+/wp-includes/images/media/about.php 2 -
+/author/expander/ 1 -
+/wp-admin/js/widgets/about.php7 17 -
+/wp-settings.php 1 http://lithuanialottery.com/wp-settings.php
+/wp-includes/SimplePie/Net/about.php 1 -
+/images/v1.php 1 http://lithuanialottery.com/images/v1.php
+/wp-includes/blocks/shortcode/about.php 1 -
+/wp-content/plugins/wp-email-capture/readme.txt 1 -
+/js/uploadify/uploadify.css 1 -
+/wp-admin/maint/about.php 1 -
+/wp-includes/blocks/verse/about.php 1 -
+/wp-includes/SimplePie/index.php 1 http://lithuanialottery.com/wp-includes/SimplePie/index.php
+/wp-links.php 1 http://lithuanialottery.com/wp-links.php
+/wp-mail.php 2 -
+/new-index.php 1 http://lithuanialottery.com/new-index.php
+/wp-includes/css/buttons.css 5 http://lithuanialottery.com/wp-includes/css/buttons.css
+/wp-content/themes/appetizo/400.php 1 http://lithuanialottery.com/wp-content/themes/appetizo/400.php
+/wp-admin/wp-ldd.php 1 http://www.google.com
+/wp-content/plugins/super-interactive-maps/css/sim-wp-admin.css 1 -
+/wp-2020.php 1 http://lithuanialottery.com/wp-2020.php
+/wp-admin/.env 1 -
+/author/admim/ 1 -
+/wp-cached.php 1 http://lithuanialottery.com/wp-cached.php
+/wp-admin/includes/cloud.php 17 -
+/wp-content/ai1wm-backups/index.php 1 -
+/b.php 1 http://lithuanialottery.com/b.php
+/wp-content/backups-dup-lite/index.php 1 -
+/wp-content/themes/about.php 18 -
+/wp-admin/shell20211028.php 1 http://lithuanialottery.com/wp-admin/shell20211028.php
+/wp-content/content.php 1 http://lithuanialottery.com/wp-content/content.php
+/wp-content/themes/faith-theme/include/lang_upload.php 1 -
+/wp-includes/blocks/file/about.php 1 -
+/filemanager.php 1 -
+/user.php 1 http://lithuanialottery.com/user.php
+/wp-signup.php 2 -
+/wikindex.php 1 http://lithuanialottery.com/wikindex.php
+/wp-admin/css/colors/blue/ 1 http://lithuanialottery.com/wp-admin/css/colors/blue/
+/sites/all/libraries/elfinder-1.1/src/connectors/php/connector.php 1 -
+/ini.php 2 -
+/wsoyanz.php 17 -
+/wordpress/wp-includes/js/tinymce/radio.php 1 http://lithuanialottery.com/wordpress/wp-includes/js/tinymce/radio.php
+/ws.php 2 -
+/wp-content/ 1 http://lithuanialottery.com/wp-content/
+/wp-includes/rest-api/fields/about.php 1 -
+/wp-includes/blocks/freeform/about.php 1 -
+/wp-admin/js/index.php 1 http://lithuanialottery.com/wp-admin/js/index.php
+/wp-includes/SimplePie/Decode/HTML/about.php 1 -
+/wp-content/plugins/sitemap-by-click5/readme.txt 1 -
+/.env 22 -
+/wp-admin/repeater.php 17 -
+/backup/wp-admin/install.php 2 -
+/test/wp-admin/install.php 2 -
+/indosec.php 1 http://lithuanialottery.com/indosec.php
+/data.php 1 http://lithuanialottery.com/data.php
+/storage/.env 1 -
+/repeater.php 18 -
+/wp-content/plugins/armember-membership/readme.txt 1 -
+/wp-includes/Requests/Exception/Transport/about.php 1 -
+/wp-includes/blocks/calendar/about.php 1 -
+/wp-content/plugins/superstorefinder-wp/css/ssf-wp-admin.css 1 -
+/wp-admin/wso.php 1 http://lithuanialottery.com/wp-admin/wso.php
+/wp-admin/css/colors/blue/xmrlpc.php 17 -
+/.sftp-config.json 1 -
+/ioxi-rex3.php7 1 http://lithuanialottery.com/ioxi-rex3.php7
+/html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-content/plugins/mapsvg/gm_download.php 1 -
+/css/index.php 2 -
+/wp-content/themes/extol/settings.php 1 http://lithuanialottery.com/wp-content/themes/extol/settings.php
+/wp-includes/blocks/archives/about.php 1 -
+/images/ 2 binance.com
+/wp-content/plugins/ait-csv-import-export/changelog.txt 1 -
+/wp-content/themes/listingo/js/listingo_callbacks.js 1 -
+/wp-content/plugins/contact-form-7/radio.php 1 -
+/wp-content/plugins/capability-manager-enhanced/readme.txt 1 -
+/wp-includes/js/tinymce/about.php 1 -
+/wp-content/shell.php 1 http://lithuanialottery.com/wp-content/shell.php
+/wp-content/plugins/woocommerce-upload-files/js/wcuf-admin-menu.js 1 -
+/wp-content/plugins/alphabetic-pagination/readme.txt 1 -
+/wp-admin/wso112233.php 1 http://lithuanialottery.com/wp-admin/wso112233.php
+/wp-content/plugins/fix/up.php 6 -
+/css/xmrlpc.php 17 -
+/wp-content/themes/footysquare/include/lang_upload.php 1 -
+/wp-content/plugins/core-stab/fmanager.php 1 http://lithuanialottery.com/wp-content/plugins/core-stab/fmanager.php
+/wp-content/plugins/jupiterx-core/readme.txt 1 -
+/_fragment 2 -
+/wp-admin/dropdown.php 18 -
+/wp-includes/js/tinymce/plugins/link/about.php 1 -
+/fr/priv8.php 1 http://lithuanialottery.com/fr/priv8.php
+/wp-content/gallery/about.php 17 -
+/wp-includes/fonts/index.php 1 http://lithuanialottery.com/wp-includes/fonts/index.php
+/keanggotaan/site/login 1 -
+/wp-content/plugins/contact-form-7/includes/radio.php 1 -
+/author/superadmin/ 1 -
+/wp-includes/js/tinymce/plugins/wplink/about.php 1 -
+/wp-content/plugins/quiz-master-next/readme.txt 1 -
+//wordpress/wp-includes/wlwmanifest.xml 4 -
+/wp-includes/pomo/about.php 19 -
+/wp-content/plugins/ph-file-manager/wp-file.php 2 www.google.com
+/ALFA_DATA/alfacgiapi/c99.php 1 http://lithuanialottery.com/ALFA_DATA/alfacgiapi/c99.php
+/bypass403.php 1 http://lithuanialottery.com/bypass403.php
+/hello-world/ 1 -
+/wp-includes/blocks/post-template/about.php 1 -
+/wp-json/litespeed/v1/cdn_status 2 -
+/wp-content/plugins/image-hover-effects-ultimate/readme.txt 1 -
+/wp-content/plugins/zendrop-dropshipping-and-fulfillment/readme.txt 1 -
+/uploads/b374k.php 1 http://lithuanialottery.com/uploads/b374k.php
+/wp-content/plugins/linkpreview/db.php 17 -
+/.well-known/autoload_classmap.php 1 http://lithuanialottery.com/.well-known/autoload_classmap.php
+//xmlrpc.php 14 -
+/.inc/403.php 1 http://lithuanialottery.com/.inc/403.php
+/modules/simpleimportproduct/index.php 2 -
+/ftp-sync.json 1 -
+/wp-includes/js/tinymce/plugins/wpeditimage/about.php 1 -
+/wp-includes/blocks/text-columns/about.php 1 -
+/wp-content/themes/intense/block-css.php 1 http://lithuanialottery.com/wp-content/themes/intense/block-css.php
+/wp-includes.bak/html-api/about.php 18 -
+/wp-content/themes/soundblast/include/lang_upload.php 1 -
+/wp-includes/blocks/audio/about.php 1 -
+/wp-includes/css/dist/nux/about.php 1 -
+/wp-content/plugins/ultimate-member/readme.txt 2 -
+/wp-content/plugins/ht-mega-for-elementor/readme.txt 1 -
+/wp-content/themes/bolster/include/lang_upload.php 1 -
+/wp-content/plugins/alfa-rex.php 1 http://lithuanialottery.com/wp-content/plugins/alfa-rex.php
+/wp-admin/network/bGc17B.php 1 http://lithuanialottery.com/wp-admin/network/bGc17B.php
+/1.php 2 http://lithuanialottery.com/1.php
+/ws.php7 17 -
+/wp-includes/images/about.php 18 -
+/wp-admin/network/XFEnd.php 1 http://lithuanialottery.com/wp-admin/network/XFEnd.php
+/wp-content/plugins/pwnd-1/pwnd.php 1 -
+/olux.php 1 http://lithuanialottery.com/olux.php
+/wp-includes/js/tinymce/plugins/image/about.php 1 -
+/new/ 3 -
+/security.txt 5 http://www.lithuanialottery.com/security.txt
+/wp-includes/blocks/page-list/about.php 1 -
+/images/about.php 18 -
+/wp-includes/rest-api/about.php 21 -
+/wp-content/uploads/index.php 1 http://lithuanialottery.com/wp-content/uploads/index.php
+/wp-includes/sodium_compat/src/about.php 1 -
+/wp-admin.php 1 http://lithuanialottery.com/wp-admin.php
+/images/Marvins.php 1 http://lithuanialottery.com/images/Marvins.php
+/wp-includes/SimplePie/plugins.php 1 http://lithuanialottery.com/wp-includes/SimplePie/plugins.php
+/wp-admin/install.php 8 -
+/about/function.php 3 -
+/xx.php/wp-cron.php 1 http://lithuanialottery.com/xx.php/wp-cron.php
+/edit.php 4 -
+/wp-content/themes/travel/issue.phpp 1 http://lithuanialottery.com/wp-content/themes/travel/issue.phpp
+/XxX.php 1 http://lithuanialottery.com/XxX.php
+/.well-known/pki-validation/admin.php 1 http://lithuanialottery.com/.well-known/pki-validation/admin.php
+/wp-includes/rest-api/index.php 1 http://lithuanialottery.com/wp-includes/rest-api/index.php
+/%5C/chonburipoolsnight.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 3 -
+/cgi-bin/inputs.php 1 http://lithuanialottery.com/cgi-bin/inputs.php
+/js/elfinder/php/connector.minimal.php 1 -
+/alf.php 1 http://lithuanialottery.com/alf.php
+/img/xmrlpc.php 17 -
+/wp-content/plugins/learning-management-system/readme.txt 1 -
+/templates/beez3/error.php 1 http://lithuanialottery.com/templates/beez3/error.php
+/wp-admin/css/colors/coffee/about.php 1 -
+/wp-content/plugins/extensive-vc-addon/readme.txt 1 -
+/phpinfo.php 1 http://lithuanialottery.com/phpinfo.php
+/tfm.php 1 -
+/wp-content/themes/westand/include/lang_upload.php 1 -
+/wp-includes/PHPMailer/admin.php 1 -
+/wp-includes/js/jquery/ui/about.php 1 -
+/mariju.php 1 http://lithuanialottery.com/mariju.php
+/inputs.php 5 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 1 -
+/wp-includes/ID3/getid3s.php 1 http://lithuanialottery.com/wp-includes/ID3/getid3s.php
+/wp-content/plugins/google-seo-rank/module.php 1 -
+/wp-content/plugins/wp-catcher/index.php 5 www.google.com
+/wp-content/plugins/wp-live-chat-support-pro/css/wplc_styles_pro.css 1 -
+/wp-content/plugins/contact-form-7/languages/radio.php 2 -
+/.well-known/plugins.php 1 http://lithuanialottery.com/.well-known/plugins.php
+/wp-content/themes/seotheme/mar.php 17 -
+/ALFA_DATA/alfacgiapi/ups.php 1 http://lithuanialottery.com/ALFA_DATA/alfacgiapi/ups.php
+/wp-admin/css/colors/blue/index.php 1 http://lithuanialottery.com/wp-admin/css/colors/blue/index.php
+//site/wp-includes/wlwmanifest.xml 4 -
+/wp-includes/css/dist/components/about.php 1 -
+/wp-load.php 1 -
+/wp-content/themes/fremo/mobile.php 1 http://lithuanialottery.com/wp-content/themes/fremo/mobile.php
+/wp-content/plugins/include.php 2 -
+/wp-content/about.php 21 -
+/testing 4 -
+/.well-known/pki-validation/about.php 20 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 6 -
+/public/.env 1 -
+/w.php 1 http://lithuanialottery.com/w.php
+/wp-content/plugins/videowhisper-live-streaming-integration/readme.txt 1 -
+/wp-content/plugins/woocommerce-simple-registration/readme.txt 1 -
+/wp-includes/sodium_compat/namespaced/Core/Poly1305/about.php 1 -
+/wp-admin/maint/index.php 2 -
+/general.php 1 http://www.google.com
+/server/php/ 1 -
+/wp-content/backups-dup-pro/index.php 1 -
+/wp-includes/js/thickbox/thickbox.php 3 -
+/wp-admin/images/xmrlpc.php 18 -
+/.ftp-sync.json 1 -
+/wp-includes/ 1 -
+/wp-content/plugins/web-portal-lite-client-portal-secure-file-sharing-private-messaging/includes/libs/pdf/dompdf.php 1 -
+/ALFA_DATA/alfa_shtml/alfa_ssi.shtml 1 http://lithuanialottery.com/ALFA_DATA/alfa_shtml/alfa_ssi.shtml
+/wp 4 -
+/wp-trackback.php 1 -
+/ova-tools.php 1 http://lithuanialottery.com/ova-tools.php
+/wp-admin/js/widgets/cloud.php 17 -
+/wp-admin/css/colors/about.php 1 -
+/wp-content/themes/upamana/mobile.php 2 http://lithuanialottery.com/wp-content/themes/upamana/mobile.php
+/wp-content/plugins/wp-user-avatar/changelog.txt 1 -
+/ee.php 1 http://lithuanialottery.com/ee.php
+/wp-includes/SimplePie/XML/Declaration/about.php 1 -
+/wp-admin/maint/maint/ajax-actions.php 17 -
+/wp-content/plugins/press/wp-class.php 1 http://lithuanialottery.com/wp-content/plugins/press/wp-class.php
+/wp-content/plugins/tatsu/changelog.md 1 -
+/wp-includes/SimplePie/about.php 20 -
+/wp-content/plugins/shell/about.php 1 www.google.com
+/new.PhP7 1 http://lithuanialottery.com/new.PhP7
+/wp-content/themes/workreap/style.css 1 -
+/css.php 2 -
+/old/ 3 -
+/wp-content/plugins/wholesale-market-for-woocommerce/readme.txt 1 -
+/sites/default/files/ 2 binance.com
+/_profiler/phpinfo 1 -
+/wp-content/plugins/post-pdf-export/dompdf/dompdf.php 1 -
+/wp-admin/wp-add.php 1 http://www.google.com
+/wp.php 3 -
+/wp-content/uploads/duck.php 1 http://lithuanialottery.com/wp-content/uploads/duck.php
+/wp-includes/js/tinymce/plugins/directionality/about.php 1 -
+/.well-known/radio.php 1 http://lithuanialottery.com/.well-known/radio.php
+/wp-admin/user/cloud.php 17 -
+/wp-includes/blocks/heading/about.php 1 -
+/wp-includes/js/tinymce/plugins/tabfocus/about.php 1 -
+/tfile.php 1 -
+/cgi-bin/cloud.php 17 -
+/index/function.php 1 http://lithuanialottery.com/index/function.php
+/admin/assets/file-uploader/server/php/index.php 1 -
+/wp-content/plugins/yith-woocommerce-gift-cards-premium/readme.txt 1 -
+/wp-content/plugins/edwiser-bridge/readme.txt 1 -
+/copypaths.php 1 http://lithuanialottery.com/copypaths.php
+/wp-content/plugins/woocommerce-payments/readme.txt 1 -
+/wp-includes/blocks/loginout/about.php 1 -
+/wp-includes/blocks/post-content/about.php 1 -
+/wp-includes/blocks/rss/about.php 1 -
+/ss.php 2 -
+/backend/.env 1 -
+/upgrade.php 1 http://lithuanialottery.com/upgrade.php
+/x/index.php 4 -
+/wp-content/plugins/membership-for-woocommerce/readme.txt 1 -
+/wp-admin/images/index.php 18 -
+/wp-admin/network/wp-login.php 1 http://lithuanialottery.com/wp-admin/network/wp-login.php
+/wp-content/languages/about.php 20 -
+/wp-content/plugins/wp-automatic/changelog 2 -
+/cong.php 1 http://lithuanialottery.com/cong.php
+/rc.php 1 http://lithuanialottery.com/rc.php
+/t.php 1 -
+/wp-includes/fm.php 1 http://lithuanialottery.com/wp-includes/fm.php
+/wp-db.php 1 http://lithuanialottery.com/wp-db.php
+/wp-content/plugins/backup-backup/includes/o 1 -
+/wp-admin/css/ 3 binance.com
+/wp-content/themes/ollie/doc.php 1 http://lithuanialottery.com/wp-content/themes/ollie/doc.php
+/alfanew2.php7 17 -
+/sample.php 1 http://www.google.com
+/wp-content/themes/theme-deejay/include/lang_upload.php 1 -
+/wp-includes/js/crop/about.php 1 -
+/wp-includes/PHPMailer/plugins.php 1 http://lithuanialottery.com/wp-includes/PHPMailer/plugins.php
+/js/about.php 1 http://lithuanialottery.com/js/about.php
+/elfinder/elfinder.html 1 -
+/alfa.php 1 http://lithuanialottery.com/alfa.php
+/.vscode/ftp-sync.json 1 -
+/wp-content/plugins/wp-db-ajax-made/wp-ajax.php 1 http://lithuanialottery.com/wp-content/plugins/wp-db-ajax-made/wp-ajax.php
+/cache-compat.php 17 -
+/fileupload/index.php 1 -
+/wp-includes/Text/themes.php 1 http://lithuanialottery.com/wp-includes/Text/themes.php
+/wp-content/plugins/dzs-zoomsounds/admin/admin.css 1 -
+/site/admin.php 1 http://lithuanialottery.com/site/admin.php
+/fm1.php 1 http://lithuanialottery.com/fm1.php
+/filemanager/tinyfilemanager.php 1 -
+/wp-admin/css/colors/cloud.php 17 -
+/wordpress 4 -
+/wp-content/themes/calmly/issue.php 1 http://lithuanialottery.com/wp-content/themes/calmly/issue.php
+/elfinder/php/connector.php 1 -
+/up.php 1 http://lithuanialottery.com/up.php
+/wp-includes/js/mediaelement/renderers/about.php 1 -
+/wp-includes/blocks/query-pagination/about.php 1 -
+/alfa-rex.php8 1 http://lithuanialottery.com/alfa-rex.php8
+/wp-includes/js/tinymce/plugins/charmap/about.php 1 -
+/wp-includes/blocks/html/about.php 1 -
+/admin/uploadify/uploadify.css 1 -
+/cache/plugins.php 1 http://lithuanialottery.com/cache/plugins.php
+/wp-content/plugins/ninja-forms/readme.txt 2 -
+/xxx.php 1 http://lithuanialottery.com/xxx.php
+/wp-includes/js/tinymce/skins/wordpress/images/about.php 1 -
+/wp-includes/wlwmanifest.xml 3 -
+/apps/admin/view/default/layui/images/face/11.gif 1 http://lithuanialottery.com/apps/admin/view/default/layui/images/face/11.gif
+/author/crander/ 1 -
+//cms/wp-includes/wlwmanifest.xml 4 -
+/new/wp-admin/install.php 2 -
+/M1.php 1 http://lithuanialottery.com/M1.php
+/wp-includes/blocks/quote/about.php 1 -
+/ioxi002.PhP7 1 http://lithuanialottery.com/ioxi002.PhP7
+/wp-content/themes/exs-church/fnc.php 1 -
+/wp-content/plugins/Core-Econ/upH.php 1 http://lithuanialottery.com/wp-content/plugins/Core-Econ/upH.php
+/Enigma.php 1 http://lithuanialottery.com/Enigma.php
+/wp-includes/Requests/Response/about.php 1 -
+/priv8.php 1 http://lithuanialottery.com/priv8.php
+/wp-content/themes/newsreach/sett.php 1 http://lithuanialottery.com/wp-content/themes/newsreach/sett.php
+/wp-content/plugins/emails-verification-for-woocommerce/readme.txt 1 -
+/member/templets/images/icon1.gif 1 http://lithuanialottery.com/member/templets/images/icon1.gif
+/file-uploader/server/php/index.php 1 -
+/m.php 1 http://lithuanialottery.com/m.php
+/radio.php 2 -
+/wp-content/plugins/background-image-cropper/ups.php 2 www.google.com
+/defaults.php 1 http://lithuanialottery.com/defaults.php
+/wp-includes/blocks/query-title/about.php 1 -
+/wp-content/masshp.php 1 http://lithuanialottery.com/wp-content/masshp.php
+/wp-includes/js/tinymce/plugins/lists/about.php 1 -
+/wp-info.php 1 http://lithuanialottery.com/wp-info.php
+/wp-includes/css/dist/format-library/about.php 1 -
+/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-includes/IXR/about.php 19 -
+/wp-includes/ID3/ 1 -
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 1 http://lithuanialottery.com/wp-includes/js/tinymce/skins/lightgray/img/index.php
+/assets/js/dropzone/dropzone-amd-module.min.js 1 -
+/wp-content/.env 1 -
+/wp-admin/X.php 1 http://lithuanialottery.com/wp-admin/X.php
+/991176.php 1 http://lithuanialottery.com/991176.php
+/wp-content/plugins/backup-backup/readme.txt 1 -
+/wordpress/wp-admin/install.php 1 -
+/wp-includes/inputs.php 1 -
+/wp-includes/blocks/embed/about.php 1 -
+/mc.php 1 http://lithuanialottery.com/mc.php
+/dropdown.php 21 -
+/nf_tracking.php 1 http://lithuanialottery.com/nf_tracking.php
+/wp-includes/certificates/about.php 1 -
+/wp-admin/includes/xleet-shell.php 1 http://lithuanialottery.com/wp-admin/includes/xleet-shell.php
+/wp-includes/Requests/Transport/about.php 1 -
+/wp-includes/blocks/tag-cloud/about.php 1 -
+/mail.php 1 -
+/wp-includes/js/tinymce/themes/inlite/about.php 1 -
+/wp-content/languages/index.php 1 http://lithuanialottery.com/wp-content/languages/index.php
+//wp1/wp-includes/wlwmanifest.xml 4 -
+/link.php 4 -
+/wp-content/themes/sahifa/index.php 1 -
+/wp-ver.php 3 www.google.com
+/blog/wp-admin/install.php 2 -
+/newsite 4 -
+/wp-includes/blocks/site-title/about.php 1 -
+//s3.tradingview.com/tv.js 10 -
+/images/i 1 http://lithuanialottery.com/images/i
+/wp-includes/blocks/query-pagination-numbers/about.php 1 -
+/wp-includes/rest-api/search/about.php 1 -
+/wp-content/index.php 2 -
+/ALFA_DATA/alfacgiapi/fw.php 1 http://lithuanialottery.com/ALFA_DATA/alfacgiapi/fw.php
+/wp-content/plugins/poikdmp/index.php 1 http://lithuanialottery.com/wp-content/plugins/poikdmp/index.php
+/.well-known/about.php 21 -
+/wp-includes/js/plupload/about.php 1 -
+/privet-mir/ 1 -
+/wp-admin/ajax-actions.php 17 -
+//cdn.js 5 -
+/wp-includes/css/dist/block-editor/about.php 1 -
+/view-source: 3 -
+/wordpress/ 3 -
+/wp-content/plugins/nd-restaurant-reservations/readme.txt 1 -
+/.vscode/sftp.json 2 -
+/wp-content/plugins/simply-schedule-appointments/readme.txt 1 -
+/wp-content/themes/index.php 1 -
+/wp-includes/block-patterns/about.php 18 -
+/wp-includes/js/tinymce/plugins/fullscreen/about.php 1 -
+/goat1.php 3 -
+/wp-content/plugins/wp-post-author/readme.txt 1 -
+/wp-includes/admin.php 1 http://lithuanialottery.com/wp-includes/admin.php
+/content.php 2 -
+/inc.php 1 http://lithuanialottery.com/inc.php
+/wp-content/plugins/miniorange-malware-protection/readme.txt 1 -
+/shell20211028.php 1 http://lithuanialottery.com/shell20211028.php
+/403.php 1 http://lithuanialottery.com/403.php
+/alfa3.php 1 http://lithuanialottery.com/alfa3.php
+/base/.env 1 -
+/app/config/.env 1 -
+/wp-content/themes/aidreform/include/lang_upload.php 1 -
+/revision.php 1 http://lithuanialottery.com/revision.php
+/wp-includes/Requests/about.php 21 -
+/assets/css/403.php 1 http://lithuanialottery.com/assets/css/403.php
+/core 4 -
+/wp-includes/blocks/image/about.php 1 -
+/wp-includes/wp-class.php 1 http://lithuanialottery.com/wp-includes/wp-class.php
+/wp-includes/blocks/preformatted/about.php 1 -
+/wp-includes/IXR/network.php 1 -
+/wp-includes/blocks/more/about.php 1 -
+/en/index.php 1 http://lithuanialottery.com/en/index.php
+/adminfuns.php7 17 -
+/wp-l0gin.php 1 http://lithuanialottery.com/wp-l0gin.php
+/wp-content/plugins/e-signature/page-template/default/style.css 1 -
+/images/xmrlpc.php 17 -
+/wp-content/plugins/plugins.php 1 -
+/wp-content/plugins/startklar-elmentor-forms-extwidgets/readme.txt 1 -
+/inlislite3/keanggotaan/site/login 1 -
+/wp-content/plugins/armember/js/arm_widgets_js.js 1 -
+/wp-content/cong.php 1 http://lithuanialottery.com/wp-content/cong.php
+/wp-content/themes/churchlife/include/lang_upload.php 1 -
+/wp-content/plugins/js-support-ticket/readme.txt 1 -
+/by.php 1 http://lithuanialottery.com/by.php
+/wp-includes/blocks/search/about.php 1 -
+/xt/index.php 1 http://lithuanialottery.com/xt/index.php
+/wp-includes/Requests/Exception/HTTP/about.php 1 -
+/api.php 1 http://lithuanialottery.com/api.php
+/wp-includes/blocks/about.php 18 -
+/autoload_classmap.php 1 http://lithuanialottery.com/autoload_classmap.php
+/assets/images/accesson.php 1 -
+/worksec.php 1 http://lithuanialottery.com/worksec.php
+/sitemap_index.xml 4 -
+/wp-content/plugins/contact-form-7/includes/ 1 -
+/css/cloud.php 17 -
+/wp-content/plugins/contact-form-7/assets/radio.php 1 -
+/mage.php 1 http://lithuanialottery.com/mage.php
+//feed/ 4 -
+/wp-content/plugins/seoplugins/mar.php 17 -
+/wp-includes/Requests/Text/admin.php 17 -
+/wp-content/mah.php 1 http://lithuanialottery.com/wp-content/mah.php
+/assets/dropdown.php 1 http://lithuanialottery.com/assets/dropdown.php
+/assets/plugins/file-uploader/server/php/index.php 1 -
+/wp-content/plugins/core/include.php 1 http://lithuanialottery.com/wp-content/plugins/core/include.php
+/byp.php 1 http://lithuanialottery.com/byp.php
+/wso.php 1 http://lithuanialottery.com/wso.php
+/wp-content/plugins/woocommerce-jetpack/readme.txt 1 -
+/wp-admin/setup-config.php 6 -
+/media/system/js/core.js 5 http://lithuanialottery.com/media/system/js/core.js
+/wp-includes/blocks/paragraph/about.php 1 -
+/wp-content/plugins/keydatas/readme.txt 1 -
+/wp-includes/js/tinymce/plugins/wordpress/about.php 1 -
+/wp-content/plugins/contact-form-7/content.php 1 -
+/wp-includes/css/dist/edit-widgets/about.php 1 -
+/wp-content/plugins/phppoet-checkout-fields/readme.txt 1 -
+/wp-content/themes/kingclub-theme/include/lang_upload.php 1 -
+/dup-installer/main.installer.php 2 http://lithuanialottery.com/dup-installer/main.installer.php
+/author/w-padmine/ 1 -
+/cgi-bin/xmrlpc.php 18 -
+/install.php 2 -
+/wp-includes/block-supports/about.php 1 -
+/plugins.php 2 -
+/wp-includes/css/dist/block-directory/about.php 1 -
+/moon.php 2 -
+/edit-comments.php 1 http://lithuanialottery.com/edit-comments.php
+/wp-content/themes/listingo/readme.txt 1 -
+/assets/plugins/jquery-file-upload/server/php/ 1 -
+/wp-includes/assets/index.php 1 http://lithuanialottery.com/wp-includes/assets/index.php
+/wp-22.php 1 http://lithuanialottery.com/wp-22.php
+/include/ckeditor/images/addon.gif 1 http://lithuanialottery.com/include/ckeditor/images/addon.gif
+/lock.php 2 -
+/.well-known/js.php 1 http://lithuanialottery.com/.well-known/js.php
+/wp-content/plugins/contact-form-7/admin/radio.php 2 -
+/wp-content/themes/travel/issue.php 1 www.google.com
+/alfanew.php 17 -
+/assets/colors/accesson.php 1 -
+/wp-includes/js/tinymce/utils/about.php 1 -
+/wp-includes/images/wlw/about.php 1 -
+/batm.php 1 http://lithuanialottery.com/batm.php
+/rxr.php 1 http://lithuanialottery.com/rxr.php
+/fox.php 1 http://lithuanialottery.com/fox.php
+/wp-content/bypass.php 1 http://lithuanialottery.com/wp-content/bypass.php
+/wp-content/plugins/admin.php 1 -
+/wp-admin/xleet-shell.php 1 http://lithuanialottery.com/wp-admin/xleet-shell.php
+/local/.env 1 -
+/xml.php 1 http://lithuanialottery.com/xml.php
+/wp-content/plugins/user-verification/readme.txt 1 -
+/.well-known/pki-validation/wp.php 1 http://lithuanialottery.com/.well-known/pki-validation/wp.php
+/contact.php 1 http://lithuanialottery.com/contact.php
+/2index.php 1 http://lithuanialottery.com/2index.php
+/fileupload/server/php/ 1 -
+/wp-includes/css/dist/edit-post/about.php 1 -
+/wp-content/style-css.php 1 http://lithuanialottery.com/wp-content/style-css.php
+/new 4 -
+//wp-json/wp/v2/users/ 5 -
+/wp-content/themes/soccer-theme/include/lang_upload.php 1 -
+/wp-content/themes/include.php 3 -
+/wp-content/json.php 1 http://lithuanialottery.com/wp-content/json.php
+//wp-json/oembed/1.0/embed 5 -
+/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/goods.php 1 http://lithuanialottery.com/goods.php
+/wp-content/plugins/contact-form-7/modules/radio.php 1 -
+/img/cloud.php 17 -
+/wp-includes/css/dist/widgets/about.php 1 -
+/wp-content/plugins/dsp_dating/wpdating-gallery/lib/server/php/index.php 1 -
+/wp-content/shell20211028.php 1 http://lithuanialottery.com/wp-content/shell20211028.php
+/cfide/scripts/ajax/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/alfa-rex.php7 17 -
+/avaa.php 17 -
+/wp-includes/js/tinymce/plugins/compat3x/css/about.php 1 -
+/wp-content/plugins/login-as-customer-or-user/readme.txt 1 -
+/wp-content/plugins/wp-ecommerce-shop-styling/includes/download.php 1 -
+/wp-includes/plugins.php 1 -
+/wp-content/themes/snapture/include/lang_upload.php 1 -
+/log.php 2 -
+/post.php 1 -
+/wp-includes/blocks/post-date/about.php 1 -
+/xx.php 1 http://lithuanialottery.com/xx.php
+/bs1.php 1 http://lithuanialottery.com/bs1.php
+/wp-includes/js/tinymce/plugins/wpview/about.php 1 -
+/wp-includes/js/swfupload/about.php 1 -
+/ll.php 1 -
+/wp-includes/js/tinymce/plugins/wpgallery/about.php 1 -
+/wp-content/plugins/root-file-manager/wp-file.php 1 www.google.com
+/wp-includes/images/include.php 1 www.google.com
+/wp-includes/Text/Diff/about.php 1 -
+/.well-known/traffic-advice 5 -
+/oldsite/wp-admin/install.php 2 -
+/wp-content/plugins/wp-theme-editor/include.php 1 www.google.com
+/wp-includes/css/dist/customize-widgets/about.php 1 -
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 6 -
+/wp-admin/js/network.php 1 http://lithuanialottery.com/wp-admin/js/network.php
+/adminer.php 1 http://lithuanialottery.com/adminer.php
+/wp-includes/css/dist/editor/about.php 1 -
+/wp-content/themes/travelscape/index.php 1 http://lithuanialottery.com/wp-content/themes/travelscape/index.php
+/wp-content/themes.php 1 http://lithuanialottery.com/wp-content/themes.php
+/tinyfilemanager/tinyfilemanager.php 1 -
+//2020/wp-includes/wlwmanifest.xml 4 -
+/fosil.php 1 http://lithuanialottery.com/fosil.php
+/wp-content/plugins/nd-booking/readme.txt 1 -
+/wp-content/plugins/iwp-client/readme.txt 1 -
+/wp-includes/Requests/Proxy/about.php 1 -
+/wp-content/themes/club-theme/include/lang_upload.php 1 -
+/wp-admin/js/widgets/about.php 1 -
+/wp-content/uploads/wp-login.php 1 http://lithuanialottery.com/wp-content/uploads/wp-login.php
+/wp-includes/SimplePie/Parse/about.php 1 -
+/author/stender/ 1 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 1 -
+/function.php 1 http://lithuanialottery.com/function.php
+/network/SDGDG.php 1 http://lithuanialottery.com/network/SDGDG.php
+/wp-admin/images/admin.php 1 http://lithuanialottery.com/wp-admin/images/admin.php
+/wp-json 2 -
+/elfinder/connectors/php/connector.php 1 -
+/alfaindex.php 1 http://lithuanialottery.com/alfaindex.php
+/wp-admin/inputs.php 1 -
+/b374k.php 1 http://lithuanialottery.com/b374k.php
+//wp/wp-includes/wlwmanifest.xml 4 -
+/wp-content/plugins/dummyyummy/wp-signup.php 1 http://lithuanialottery.com/wp-content/plugins/dummyyummy/wp-signup.php
+/wp-includes/widgets/include.php 2 www.google.com
+/dropzone/dropzone-amd-module.min.js 1 -
+/audio/.env 1 -
+/h.php 1 http://lithuanialottery.com/h.php
+/uploads/Alex-Cross.php 1 http://lithuanialottery.com/uploads/Alex-Cross.php
+/wp-includes/blocks/gallery/about.php 1 -
+/sites/all/libraries/mailchimp/.env 1 -
+/www/.env 1 -
+/wp-includes/js/dist/about.php 1 -
+/wp-includes/blocks/block/about.php 1 -
+/js/elfinder/php/connector.php 1 -
+/wp-content/plugins/usc-e-shop/functions/content-log.php 1 -
+/wp-includes/js/jquery/jquery.js 1 -
+/user-new.php 1 http://lithuanialottery.com/user-new.php
+/wp-content/upgrade/pdf.php 1 http://lithuanialottery.com/wp-content/upgrade/pdf.php
+/wp-term.php 1 http://lithuanialottery.com/wp-term.php
+/wp-content/themes/spikes/include/lang_upload.php 1 -
+//chonburipoolsnight.com/wp-content/themes/lottery/assets/js/flipclock.js 9 -
+/wp-sigunq.php 1 -
+/libraries/vendor/updates.php 17 -
+/wp-cXjq2.php 1 http://lithuanialottery.com/wp-cXjq2.php
+/wp-content/plugins/wp-time-capsule/readme.txt 3 -
+/wp-content/uploads/json.php 1 http://lithuanialottery.com/wp-content/uploads/json.php
+/wp-content/plugins/nd-shortcodes/readme.txt 1 -
+/css/about.php 1 -
+/wp-content/tmpls.php 1 http://lithuanialottery.com/wp-content/tmpls.php
+/menu.php 1 http://lithuanialottery.com/menu.php
+/wp-admin/network/SDGDG.php 1 http://lithuanialottery.com/wp-admin/network/SDGDG.php
+/wp-includes/js/dist/vendor/about.php 1 -
+/lock360.php 1 http://lithuanialottery.com/lock360.php
+/classsmtps.php 1 -
+/mini.php 1 http://lithuanialottery.com/mini.php
+/admin-post.php 18 -
+/wp-includes/blocks/button/about.php 1 -
+/files/ 2 binance.com
+/ALFA_DATA/alfacgiapi/perl.alfa 1 http://lithuanialottery.com/ALFA_DATA/alfacgiapi/perl.alfa
+/newsite/.env 1 -
+/wp-includes/js/jcrop/Jcrop.php 4 -
+/ajax-actions.php 17 -
+/wp-content/plugins/vc-tabs/readme.txt 1 -
+/fm.php 1 http://lithuanialottery.com/fm.php
+/temp/ 3 -
+/wp-content/themes/finley/min.php 1 http://lithuanialottery.com/wp-content/themes/finley/min.php
+/f0x.php 1 http://lithuanialottery.com/f0x.php
+/wp-includes/js/quicktags.js 2 -
+/wp-content/plugins/pwnd/autoload_classmap.php 1 http://lithuanialottery.com/wp-content/plugins/pwnd/autoload_classmap.php
+/wp-content/item.php 1 http://lithuanialottery.com/wp-content/item.php
+/wp-includes/style-engine/about.php 20 -
+/wp-apxupx.php 1 http://lithuanialottery.com/wp-apxupx.php
+/core/.env 1 -
+/wp-includes/widgets/about.php 18 -
+/plus/img/df_dedetitle.gif 1 http://lithuanialottery.com/plus/img/df_dedetitle.gif
+/admin/server/php/ 1 -
+/wp-content/x/index.php 3 -
+/wp-admin/network/wp-term.php 1 http://lithuanialottery.com/wp-admin/network/wp-term.php
+/alfa-rex2.php7 17 -
+/classfuns.php 1 http://lithuanialottery.com/classfuns.php
+/wp-content/updraft/about.php 17 -
+/wp-includes/blocks/media-text/about.php 1 -
+/.well-known/acme-challenge/LA.php 1 http://lithuanialottery.com/.well-known/acme-challenge/LA.php
+/wp-content/plugins/booking-calendar/readme.txt 1 -
+/admin/public/js/uploadify/uploadify.css 1 -
+/wp-content/plugins/directorist/readme.txt 1 -
+/wp-content/themes/sonoran/mobile.php 1 http://lithuanialottery.com/wp-content/themes/sonoran/mobile.php
+/wp-includes/blocks/nextpage/about.php 1 -
+/wp-admin/css/colors/midnight/about.php 1 -
+/.well-known/admin.php 1 http://lithuanialottery.com/.well-known/admin.php
+/classwithtostring.php 5 -
+/wp-content/themes/jaida/lang.php 1 www.google.com
+/a.php 1 http://lithuanialottery.com/a.php
+/wp-includes/blocks/legacy-widget/about.php 1 -
+/database/.env 1 -
+/wp-includes/js/mediaelement/about.php 1 -
+/wp-content/plugins/n-media-woocommerce-checkout-fields/readme.txt 1 -
+/wp-content/updates.php 18 -
+/site/as.php 1 http://lithuanialottery.com/site/as.php
+/wp-content/plugins/jobboardwp/readme.txt 1 -
+/wp-includes/about.php 18 -
+/wp-includes/blocks/post-featured-image/about.php 1 -
+/wp-admin/images/wp-signup.php 1 http://lithuanialottery.com/wp-admin/images/wp-signup.php
+/wp-includes/Requests/Utility/about.php 1 -
+/wp-includes/js/jcrop/about.php 1 -
+/img/about.php 19 -
+/wp-includes/Requests/Exception/about.php 1 -
+/wp-admin/css/colors/blue/about.php 1 -
+/wp-admin/classwithtostring.php 1 http://lithuanialottery.com/wp-admin/classwithtostring.php
+/wp-includes/images/wp-login.php 1 http://lithuanialottery.com/wp-includes/images/wp-login.php
+/plugins/file-uploader/server/php/index.php 1 -
+/upfile.php 2 -
+/wp-includes/blocks/social-links/about.php 1 -
+/mah.php 5 -
+/wp-admin/accesson.php 1 -
+/sites/all/libraries/elfinder/php/connector.minimal.php 1 -
+/sites/all/libraries/elfinder-1.2/src/connectors/php/connector.php 2 -
+/app/.env 1 -
+//test/wp-includes/wlwmanifest.xml 4 -
+/wp-admin/user/about.php 2 -
+/web.php 1 http://lithuanialottery.com/web.php
+/wp-admin/network/MdFvb.php 1 http://lithuanialottery.com/wp-admin/network/MdFvb.php
+/api/index.php/v1/config/application 1 -
+/wp-content/plugins/udraw/readme.txt 1 -
+/wp-includes/blocks/post-terms/about.php 1 -
+/api/.env 1 -
+/cms/wp-admin/install.php 2 -
+/wp-includes/customize/radio.php 1 -
+/old 4 -
+/wp-includes/js/tinymce/plugins/media/about.php 1 -
+/wp-content/themes/greyd_suite/style.css 1 -
+/wp/wp-admin/install.php 2 -
+/wp-includes/js/tinymce/wp-tinymce.php 1 http://lithuanialottery.com/wp-includes/js/tinymce/wp-tinymce.php
+/sidwsi.PhP7 1 http://lithuanialottery.com/sidwsi.PhP7
+/wp-admin/css/colors/blue/uploader.php 1 http://lithuanialottery.com/wp-admin/css/colors/blue/uploader.php
+//2021/wp-includes/wlwmanifest.xml 4 -
+/wp/menu.php 1 http://lithuanialottery.com/wp/menu.php
+/wp-content/plugins/angwp/__%20UPDATES.txt 1 -
+/.well-known/pki-validation/defaults.php 1 http://lithuanialottery.com/.well-known/pki-validation/defaults.php
+/wp-content/plugins/seoplugins/db.php 17 -
+/504.php 1 http://lithuanialottery.com/504.php
+/ccx/index.php 1 http://lithuanialottery.com/ccx/index.php
+//wp-includes/wlwmanifest.xml 9 -
+/admin/assets/uploadify/uploadify.css 1 -
+/1337.php 1 http://lithuanialottery.com/1337.php
+/backup/ 3 -
+/delpaths.php 1 http://lithuanialottery.com/delpaths.php
+/wp-content/plugins/ioxi/ioxi/about.php 3 -
+/.well-known/acme-challenge/iR7SzrsOUEP.php 1 http://lithuanialottery.com/.well-known/acme-challenge/iR7SzrsOUEP.php
+/.well-known/pki-validation/file.php 1 http://lithuanialottery.com/.well-known/pki-validation/file.php
+/wp-content/plugins/seoo/wsoyanz.php 17 -
+/jindex.php 1 http://lithuanialottery.com/jindex.php
+//shop/wp-includes/wlwmanifest.xml 4 -
+/wp-content/plugins/import-xml-feed/readme.txt 1 -
+/wp-content/plugins/give/readme.txt 1 -
+/wp-consar.php 17 -
+/alfa-rex.php56 1 http://lithuanialottery.com/alfa-rex.php56
+/images/wp-login.php 1 http://lithuanialottery.com/images/wp-login.php
+/wp-admin/css/index.php 19 -
+/wp-content/plugins/wp-upg/readme.txt 1 -
+/wp-content/themes/Newspaper/404.php 1 -
+/wp-admin/maint/wp-mail.php 1 http://lithuanialottery.com/wp-admin/maint/wp-mail.php
+/wp-content/plugins/miniorange-2-factor-authentication/readme.txt 1 -
+/wp-content/alfa.php 1 http://lithuanialottery.com/wp-content/alfa.php
+/wp-activate.php 2 -
+/wp-admin/about.php 2 -
+/wp-includes/blocks/missing/about.php 1 -
+/wp-aa.php 2 www.google.com
+/wp-content/plugins/pwnd-2/pwnd.php 1 -
+/wp-admin/css/colors/xmrlpc.php 18 -
+/wp-content/plugins/mmk/ava.php 1 http://lithuanialottery.com/wp-content/plugins/mmk/ava.php
+/wp-includes/images/smilies/about.php 1 -
+/wp-HbJxZ2.php 1 http://lithuanialottery.com/wp-HbJxZ2.php
+/bypass.php 2 -
+/wp-includes/Xl2023.php 1 http://lithuanialottery.com/wp-includes/Xl2023.php
+/wp-admin/includes/xmrlpc.php 18 -
+/wp-content/plugins/pwnd/pwnd.php 3 -
+/wp-includes/blocks/video/about.php 1 -
+/wp-includes/css/dist/list-reusable-blocks/about.php 1 -
+/.rxr.php 1 http://lithuanialottery.com/.rxr.php
+/ALFA_DATA/alfacgiapi/mini.php 1 http://lithuanialottery.com/ALFA_DATA/alfacgiapi/mini.php
+/wp-includes/css/index.php 2 -
+/wp-includes/blocks/code/about.php 1 -
+/wp-includes/js/tinymce/plugins/colorpicker/about.php 1 -
+/wwryeryyj 1 -
+/yanz.php 17 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 4 -
+/wp-includes/css/dist/reusable-blocks/about.php 1 -
+/wp-includes/blocks/buttons/about.php 1 -
+/wp-includes/js/codemirror/about.php 1 -
+/fw.php 2 -
+/wp-admin/images/cloud.php 17 -
+/wp-includes/js/tinymce/plugins/wpdialogs/about.php 1 -
+/wp-includes/images/crystal/about.php 1 -
+/wp-2019.php 2 -
+/lufix.php 1 http://lithuanialottery.com/lufix.php
+/wp-includes/fonts/about.php 1 -
+/wp-content/themes/pridmag/db.php 18 -
+/blog.php 1 -
+/sad/about.php 1 -
+/library/.env 1 -
+/wp-cron.php 24 -
+/wp-admin/network/class.php 1 http://lithuanialottery.com/wp-admin/network/class.php
+/test 4 -
+/wp-conflg.php 2 -
+/wp-content/themes/statfort-new/include/lang_upload.php 1 -
+/wp-admin/network/cloud.php 17 -
+/alfa-rex.php 1 http://lithuanialottery.com/alfa-rex.php
+/wp-content/mu-plugins/about.php 1 -
+/wp-content/plugins/index.php 3 -
+//wp-includes/ID3/license.txt 4 -
+/wp-includes/content.php 1 http://lithuanialottery.com/wp-includes/content.php
+/test/ 3 -
+/files/index.php 1 -
+/wp-includes/js/tinymce/skins/wordpress/about.php 1 -
+/css/radio.php 1 http://lithuanialottery.com/css/radio.php
+/.well-known/pki-validation/classwithtostring.php 1 http://lithuanialottery.com/.well-known/pki-validation/classwithtostring.php
+/customize.php 1 http://lithuanialottery.com/customize.php
+/%5C/s.w.org%5C/images%5C/core%5C/emoji%5C/14.0.0%5C/72x72%5C/%22,%22ext%22:%22.png%22,%22svgUrl%22:%22https:%5C/%5C/s.w.org%5C/images%5C/core%5C/emoji%5C/14.0.0%5C/svg%5C/%22,%22svgExt%22:%22.svg%22,%22source%22:%7B%22concatemoji%22:%22https:%5C/%5C/chonb 2 -
+/administrator/components/com_simplephotogallery/lib/uploadFile.php 1 -
+/wp-content/plugins/wp-ver.php 1 -
+/cgi-bin/.env 1 -
+/public/assets/file-uploader/server/php/index.php 1 -
+/wp-includes/js/tinymce/plugins/wptextpattern/about.php 1 -
+/.DS_Store 4 -
+/as.php 2 -
+/admin/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-admin/network/editor.php 1 http://lithuanialottery.com/wp-admin/network/editor.php
+/wp-content/plugins/hash-form/readme.txt 1 -
+/wp-content/plugins/woo-product-table/readme.txt 1 -
+/lv.php 1 http://lithuanialottery.com/lv.php
+/wp/ 3 -
+/Wordpress/wp-content/ 1 http://lithuanialottery.com/Wordpress/wp-content/
+/init.php 1 http://lithuanialottery.com/init.php
+/xxc.php 1 www.google.com
+/.well-known/pki-validation/doc.php 1 http://lithuanialottery.com/.well-known/pki-validation/doc.php
+/wp-includes/blocks/post-excerpt/about.php 1 -
+/wp-includes/js/tinymce/plugins/wpautoresize/about.php 1 -
+/wp-content/plugins/about.php 1 -
+/uploader.php 1 http://lithuanialottery.com/uploader.php
+/credits.php 1 http://lithuanialottery.com/credits.php
+/wp-includes/js/tinymce/radio.php 1 http://lithuanialottery.com/wp-includes/js/tinymce/radio.php
+/ova.phpalfa 1 http://lithuanialottery.com/ova.phpalfa
+/complete-order/ 1 -
+/web/wp-admin/install.php 2 -
+/sitemap.xml 42 -
+/.well-known/pki-validation/moon.php 1 http://lithuanialottery.com/.well-known/pki-validation/moon.php
+/bak.php 1 -
+/wp-content/repeater.php 18 -
+/wp-sitemap-users-1.xml 1 https://lithuanialottery.com
+/wp-emoji-release.min.js 11 -
+/wp-content/plugins/wp-photo-album-plus/changelog.txt 1 -
+/wp-head.php 1 http://lithuanialottery.com/wp-head.php
+/wp-content/uploads/about.php 1 -
+/wp-pano.php 1 http://lithuanialottery.com/wp-pano.php
+/wp-includes/blocks/group/about.php 1 -
+/wp-includes/SimplePie/Content/Type/about.php 1 -
+/wp-content/themes/twentyfive/include.php 1 http://lithuanialottery.com/wp-content/themes/twentyfive/include.php
+/wp-admin/css/colors/coffee/cloud.php 17 -
+/wp-admin/images/about.php 18 -
+/tiny.php 2 -
+/wp-includes/fonts/wp-login.php 1 http://lithuanialottery.com/wp-includes/fonts/wp-login.php
+/wp-content/themes/.index.php 1 -
+/author/wpadminne/ 1 -
+/filemanager/ 1 -
+/wp-content/plugins/wp-help/mini.php 1 www.google.com
+/wp-admin/css/colors/blue/blue.php 1 http://lithuanialottery.com/wp-admin/css/colors/blue/blue.php
+/wp-includes/js/tinymce/skins/lightgray/img/about.php 1 -
+/images/img.php 1 http://lithuanialottery.com/images/img.php
+/wp-content/themes/statfort/include/lang_upload.php 1 -
+/assets/jquery-file-upload/server/php/ 1 -
+/.well-known/acme-challenge/file.php 1 http://lithuanialottery.com/.well-known/acme-challenge/file.php
+/file.php 1 http://lithuanialottery.com/file.php
+/themes.php 3 -
+/.well-known/security.txt 5 http://www.lithuanialottery.com/.well-known/security.txt
+/wp-content/themes/seotheme/about.php 1 -
+/.well-known/pki-validation/cloud.php 18 -
+/wp-content/plugins/armember/documentation/index.html 1 -
+/include/ckeditor/plugins/smiley/images/angel_smile.gif 1 http://lithuanialottery.com/include/ckeditor/plugins/smiley/images/angel_smile.gif
+/css/class-config.php 1 http://lithuanialottery.com/css/class-config.php
+/wp-content/plugins/email-posts-to-subscribers/readme.txt 1 -
+/tn.php 1 -
+/wp-content/plugins/kadence-blocks/readme.txt 1 -
+/sites/all/libraries/elfinder/php/connector.php 1 -
+/wp-content/plugins/wp-file-manager/readme.txt 1 -
+/wp-includes/js/tinymce/skins/lightgray/fonts/about.php 1 -
+/cloud.php 17 -
+/wp-content/themes/sketch/404.php 1 http://lithuanialottery.com/wp-content/themes/sketch/404.php
+/wp-content/themes/onelife/include/lang_upload.php 1 -
+/wp-content/plugins/wp-automatic/css/style.css 1 -
+/wso112233.php 2 -
+/.well-known/pki-validation/cong.php 1 http://lithuanialottery.com/.well-known/pki-validation/cong.php
+/doc.php 2 -
+/assets/file-uploader/server/php/index.php 1 -
+/wp-config-sample.php 1 http://lithuanialottery.com/wp-config-sample.php
+//2019/wp-includes/wlwmanifest.xml 4 -
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 1 http://lithuanialottery.com/wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/README.md 1 http://lithuanialottery.com/README.md
+/cgi-bin/wp-2019.php 1 http://lithuanialottery.com/cgi-bin/wp-2019.php
+/style.php 2 -
+/wp-admin/css/colors/blue/atomlib.php 1 http://lithuanialottery.com/wp-admin/css/colors/blue/atomlib.php
+/randkeyword.php 1 http://lithuanialottery.com/randkeyword.php
+/wp-includes/product.php 1 http://lithuanialottery.com/wp-includes/product.php
+/wp-blog-header.php 2 -
+/makeasmtp.php 1 -
+/wp-content/plugins/capabilities-pro/readme.txt 1 -
+/home.php 1 http://lithuanialottery.com/home.php
+/marijuana.php 1 http://lithuanialottery.com/marijuana.php
+/.well-known/atomlib.php 1 http://lithuanialottery.com/.well-known/atomlib.php
+/text.php 1 http://lithuanialottery.com/text.php
+/wp-includes/js/tinymce/plugins/paste/about.php 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 4 www.google.com
+/small.php 1 http://lithuanialottery.com/small.php
+/wp-content/banners/about.php 19 -
+/wp-includes/blocks/pullquote/about.php 1 -
+/indo.php 1 http://lithuanialottery.com/indo.php
+/elfinder/php/connector.minimal.php 1 -
+/c99.php 1 http://lithuanialottery.com/c99.php
+/cux.php 1 http://lithuanialottery.com/cux.php
+/wp-content/ice.php 1 http://lithuanialottery.com/wp-content/ice.php
+/wp-includes/js/imgareaselect/about.php 1 -
+/wp-content/plugins/wp-sms/readme.txt 1 -
+/wp-content/plugins/advanced-import/readme.txt 1 -
+/administrator/index.php 3 -
+/wp-includes/SimplePie/Cache/about.php 1 -
+/wp-content/plugins/ioxi/alfa-ioxi.php 3 -
+/wp-includes/blocks/site-tagline/about.php 1 -
+/readme.html 1 -
+/cgi-bin/about.php 19 -
+/dist/jquery.min.js 4 -
+/robots.txt 177 -
+/images/cloud.php 18 -
+/wp-includes/IXR/wp-login.php 1 http://lithuanialottery.com/wp-includes/IXR/wp-login.php
+/wp-admin/css/colors/coffee/xmrlpc.php 17 -
+/wp-content/plugins/wp-user-extra-fields/js/wpuef-configurator.js 1 -
+/wp-content/plugins/ulisting/readme.txt 1 -
+/wp-includes/blocks/column/about.php 1 -
+/wp-includes/assets/about.php 1 -
+/wp-admin/cloud.php 17 -
+/tmanager.php 1 -
+/wp-admin/maint/upfile.php 1 http://lithuanialottery.com/wp-admin/maint/upfile.php
+/assets/js/uploadify/uploadify.css 1 -
+/cw.php 1 http://lithuanialottery.com/cw.php
+/cache/accesson.php 1 -
+/js/custom.php 1 http://lithuanialottery.com/js/custom.php
+/atomlib.php 2 -
+/vendor/laravel/.env 1 -
+/users.php 1 http://lithuanialottery.com/users.php
+/wp-includes/js/tinymce/plugins/compat3x/about.php 1 -
+/aspera/faspex/ 1 -
+/wp-includes/js/jquery/about.php 1 -
+/wp-content/themes/suntech/css_blocks.php 1 http://lithuanialottery.com/wp-content/themes/suntech/css_blocks.php
+/wp-content/plugins/easy-digital-downloads/readme.txt 1 -
+/wp-content/plugins/book-form/lndex.php 1 http://lithuanialottery.com/wp-content/plugins/book-form/lndex.php
+/wp-includes/css/dist/block-library/about.php 1 -
+/wp-admin/network/xmrlpc.php 18 -
+/wp-includes/blocks/post-title/about.php 1 -
+/wp-content/plugins/superlogoshowcase-wp/css/sls-wp-admin.css 1 -
+/wp-content/plugins/post-smtp/readme.txt 1 -
+/3m/wp-admin/css/colors/blue/ 1 http://lithuanialottery.com/3m/wp-admin/css/colors/blue/
+/protected/.env 1 -
+/wp-includes/Text/Diff/Renderer/about.php 1 -
+/cache/about.php 1 -
+/shell.php 2 -
+/wp-header.php 1 http://lithuanialottery.com/wp-header.php
+/wp-includes/blocks/separator/about.php 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 8 -
+/class.php 1 http://lithuanialottery.com/class.php
+/wp-content/small.php 1 http://lithuanialottery.com/wp-content/small.php
+/assets/js/file-uploader/server/php/index.php 1 -
+/wp-includes/blocks/latest-posts/about.php 1 -
+/wp-includes/feed-atom-comments-meta.php 1 http://lithuanialottery.com/wp-includes/feed-atom-comments-meta.php
+/wp-content/plugins/contact-form-7/admin/content.php 1 -
+/laravel/.env 1 -
+/wp-content/classwithtostring.php 1 http://lithuanialottery.com/wp-content/classwithtostring.php
+/wp-add.php 3 http://www.google.com
+/wp-includes/dir/wp-login.php 1 http://lithuanialottery.com/wp-includes/dir/wp-login.php
+/wp-content/plugins/hellopress/wp_filemanager.php 9 -
+/wp-includes/class-json-meta.php 1 http://lithuanialottery.com/wp-includes/class-json-meta.php
+/wp-commentin.php 1 http://lithuanialottery.com/wp-commentin.php
+/wp-content/themes/spikes-black/include/lang_upload.php 1 -
+/wp-content/plugins/userpro/changelog.txt 2 -
+/plugin.php 1 http://lithuanialottery.com/plugin.php
+/wp-content/plugins/scripts-organizer/plugins/meta-box/readme.txt 1 -
+/updates.php 17 -
+/wp-includes/blocks/query-pagination-previous/about.php 1 -
+/wp-includes/item.php 1 http://lithuanialottery.com/wp-includes/item.php
+/wp-includes/blocks/site-logo/about.php 1 -
+/admin/.env 1 -
+/wp-content/plugins/wp-mlm/readme.txt 1 -
+/wp-includes/class-response.php 1 http://lithuanialottery.com/wp-includes/class-response.php
+/wp-content/themes/inputs.php 1 http://lithuanialottery.com/wp-content/themes/inputs.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 287
+124.248.183.41 20 20 152709 20240831155859
+34.34.153.240 10 10 102580 20240805192955
+35.171.144.152 6 6 296820 20240821040831
+149.56.160.248 6 6 5026146 20240810210428
+149.56.150.153 6 6 5026146 20240811150351
+149.56.150.74 6 6 5026146 20240811234339
+149.56.150.174 6 6 5026146 20240816004059
+54.88.179.33 6 6 296820 20240821040831
+45.32.34.145 6 6 296820 20240814230739
+54.188.40.72 5 5 49243 20240828183531
+134.209.146.102 4 4 197880 20240806013427
+45.86.202.51 4 4 197880 20240822150434
+163.5.241.117 4 4 197880 20240815122746
+4.213.102.97 4 4 197880 20240809065818
+45.227.254.34 4 4 41064 20240830041055
+212.30.36.164 4 4 197880 20240804124731
+117.33.163.216 4 4 41044 20240824155703
+49.51.72.76 4 4 41089 20240809061901
+72.14.201.146 3 3 24113 20240805154932
+125.167.38.214 3 3 46527 20240811233550
+175.100.79.22 3 3 46525 20240809154427
+46.101.80.192 3 3 164498 20240806103926
+154.38.175.68 3 3 30786 20240818234625
+209.38.17.50 3 3 30873 20240818103642
+42.83.147.34 3 3 30816 20240823150352
+54.39.250.85 1 1 8036 20240820072050
+45.92.1.17 1 1 10282 20240803090004
+107.3.120.141 1 1 10273 20240830223923
+111.7.96.181 1 1 10264 20240818211114
+199.45.154.113 1 1 10252 20240816022411
+54.187.57.244 1 1 10274 20240801050125
+91.92.248.131 1 1 10267 20240825092048
+117.62.235.53 1 1 10260 20240812214500
+111.7.96.160 2 2 20520 20240812171008
+18.232.79.53 1 1 49470 20240801005742
+147.45.114.227 1 1 10264 20240811015432
+205.210.31.85 1 1 49470 20240814035700
+104.28.204.81 1 1 8045 20240820160407
+92.118.39.244 2 2 20548 20240818110108
+207.135.200.63 1 1 10258 20240816211819
+146.70.185.138 1 1 10294 20240828130618
+128.90.170.16 1 1 10261 20240810125403
+128.14.209.42 1 1 10258 20240808191416
+18.144.88.188 1 1 10273 20240830132046
+157.245.139.11 1 1 10258 20240808221703
+94.156.66.116 1 1 10273 20240831143518
+36.111.67.189 1 1 10260 20240807234103
+103.14.143.67 1 1 8036 20240820055916
+178.140.233.237 1 1 8040 20240816220721
+137.226.113.44 2 2 20534 20240808041416
+43.159.143.187 2 2 20578 20240829022325
+87.236.176.33 1 1 10257 20240814084808
+205.210.31.181 1 1 49470 20240827020008
+149.56.150.184 1 1 8038 20240810210537
+107.178.194.141 1 1 8036 20240820045701
+128.14.209.30 1 1 10267 20240826023854
+93.158.91.25 1 1 10288 20240805085946
+198.145.174.35 1 1 10264 20240810164607
+38.242.247.242 2 2 18321 20240801015507
+94.247.172.129 1 1 10294 20240828155631
+114.10.79.150 2 2 8035 20240805154742
+114.10.22.84 1 1 8033 20240812225407
+111.7.96.162 2 2 20576 20240805120553
+5.182.110.209 1 1 10294 20240820163417
+151.115.59.32 1 1 10267 20240826003106
+87.236.176.4 1 1 10257 20240815053207
+43.159.63.75 1 1 10288 20240811194733
+46.228.199.158 1 1 10286 20240803181332
+54.176.176.36 1 1 10282 20240802162746
+36.41.75.167 1 1 10274 20240801064213
+188.16.80.194 1 1 8045 20240820232729
+223.244.35.77 2 2 20546 20240831010418
+193.186.4.146 1 1 8043 20240805155053
+124.225.164.130 1 1 10276 20240822174407
+18.144.28.178 1 1 10263 20240823195449
+43.135.133.194 1 1 10267 20240824164236
+52.80.13.3 1 1 10267 20240825192141
+77.74.177.119 1 1 10260 20240808073407
+5.133.192.167 1 1 10267 20240825075859
+71.132.53.61 1 1 10252 20240816075637
+170.106.84.136 2 2 20540 20240830132533
+52.81.249.147 1 1 10257 20240813221257
+150.109.16.20 1 1 10294 20240827120406
+178.254.29.124 2 2 20563 20240828224200
+52.53.153.23 1 1 10258 20240817025846
+188.143.169.41 1 1 49470 20240828100316
+43.130.39.101 1 1 10264 20240820054554
+143.198.54.253 2 2 20552 20240818162732
+182.40.104.255 1 1 10282 20240802162657
+205.210.31.72 1 1 49470 20240809165200
+138.201.60.47 1 1 49470 20240830212857
+54.201.53.87 2 2 20522 20240810050241
+58.49.150.210 2 2 20552 20240811100109
+128.90.170.14 1 1 10252 20240815222944
+93.159.230.88 1 1 10266 20240822144914
+49.51.233.46 1 1 10294 20240827111702
+193.29.15.252 1 1 10273 20240831143741
+36.68.220.43 1 1 0 20240801014601
+123.249.103.170 1 1 8028 20240828155820
+34.220.165.109 1 1 49470 20240811061815
+139.59.245.215 1 1 8033 20240812164405
+199.45.155.66 1 1 10264 20240819184918
+106.75.64.160 1 1 10286 20240803163711
+192.36.109.116 1 1 10302 20240829024957
+79.98.181.46 1 1 8036 20240820060339
+130.255.166.166 1 1 10276 20240823024521
+182.43.70.143 1 1 10294 20240821055928
+185.6.11.146 1 1 10286 20240804001627
+205.169.39.26 1 1 10266 20240822063446
+35.93.151.106 1 1 10267 20240825045123
+44.223.23.225 1 1 10264 20240820045651
+165.22.0.144 1 1 10264 20240818220746
+101.44.160.10 1 1 8035 20240828235408
+192.42.116.210 1 1 10264 20240820045711
+205.169.39.43 1 1 8036 20240821172815
+124.243.139.210 1 1 8040 20240812023807
+165.232.159.241 1 1 10294 20240826210909
+150.109.13.194 1 1 10302 20240829080942
+5.133.192.131 1 1 10273 20240831103153
+107.178.194.140 1 1 8036 20240820045652
+31.220.76.144 1 1 769 20240814171043
+72.14.201.162 2 2 16079 20240823130813
+199.244.88.218 1 1 10257 20240814221154
+43.163.6.35 2 2 20524 20240821174320
+192.36.109.70 1 1 10264 20240819103749
+45.156.129.125 2 2 20588 20240828113714
+199.45.154.135 1 1 10252 20240816013021
+87.236.176.185 1 1 10257 20240815045215
+199.45.154.152 1 1 10274 20240806182103
+5.133.192.99 1 1 10264 20240819053439
+64.227.155.91 1 1 10264 20240818211531
+49.51.47.100 1 1 10258 20240817083611
+15.237.210.97 1 1 10302 20240829014229
+5.133.192.184 1 1 10258 20240809134909
+193.186.4.147 1 1 8035 20240831154011
+178.62.210.19 1 1 10276 20240822205948
+34.163.43.237 1 1 10257 20240814041113
+161.35.57.31 1 1 10260 20240812203537
+188.17.214.60 1 1 8046 20240825160658
+124.220.171.218 1 1 10264 20240819052124
+158.69.25.39 1 1 10282 20240802225913
+144.91.106.14 2 2 20552 20240822190310
+43.133.77.230 1 1 10266 20240822061809
+5.133.192.171 1 1 10264 20240811090602
+93.158.90.72 1 1 10257 20240815052814
+35.87.183.252 1 1 10274 20240801050133
+94.103.83.241 1 1 49470 20240814223330
+44.212.90.195 1 1 10288 20240805054935
+43.152.72.247 1 1 10260 20240813085635
+43.134.190.89 1 1 10273 20240829215254
+43.163.1.85 2 2 20521 20240819051810
+34.31.115.187 1 1 49470 20240820122135
+111.227.122.10 1 1 10258 20240806102017
+144.217.135.171 1 1 8038 20240810210453
+159.148.54.161 1 1 8036 20240820060414
+36.143.189.167 1 1 49470 20240821191053
+157.230.13.59 1 1 10267 20240824212522
+88.118.164.11 1 1 8047 20240802133522
+109.68.211.3 1 1 49470 20240815104020
+92.119.177.24 1 1 49470 20240823095118
+128.14.211.194 1 1 10264 20240810170611
+180.102.134.69 2 2 20546 20240808230108
+185.161.203.44 1 1 10294 20240821124520
+182.44.10.67 1 1 10252 20240816020813
+199.244.88.221 1 1 10302 20240828220159
+104.248.138.154 1 1 10302 20240828204144
+222.79.103.59 2 2 20547 20240809220043
+49.51.204.74 2 2 20521 20240820103945
+43.153.4.55 1 1 10257 20240814182920
+113.23.91.210 1 1 49470 20240805212730
+114.10.122.57 1 1 8047 20240801144901
+198.235.24.167 1 1 49470 20240830010735
+89.114.71.225 1 1 8040 20240816100238
+198.235.24.155 1 1 49470 20240817025212
+194.147.35.12 1 1 10273 20240830111515
+114.10.149.57 1 1 8038 20240814234500
+198.235.24.116 1 1 49470 20240813211407
+205.169.39.35 1 1 8036 20240821172818
+45.141.80.212 1 1 10264 20240819215331
+15.204.182.106 2 2 20582 20240817231612
+45.61.48.223 1 1 49470 20240808134944
+147.185.132.129 1 1 49470 20240819155216
+94.156.65.181 1 1 10261 20240809164744
+199.45.155.65 1 1 10304 20240831212655
+92.118.39.204 1 1 10269 20240802134339
+119.13.210.163 1 1 8036 20240820060250
+104.28.218.135 1 1 8038 20240809160420
+140.179.7.43 1 1 10291 20240818053937
+149.56.150.106 1 1 8038 20240810210607
+134.122.42.173 1 1 10257 20240815041627
+149.56.150.125 1 1 8038 20240810210511
+43.163.6.124 1 1 10258 20240806102230
+87.236.176.116 1 1 10257 20240814233836
+180.244.139.168 1 1 8040 20240811211550
+18.236.249.114 1 1 10274 20240807052512
+149.56.150.6 1 1 8040 20240811234401
+123.60.68.42 2 2 20590 20240829071921
+178.254.24.91 2 2 20528 20240822181447
+104.247.184.211 1 1 10294 20240820233751
+38.18.228.162 1 1 10252 20240815213351
+114.80.36.40 1 1 10273 20240831132826
+146.190.236.186 1 1 10273 20240830205603
+110.166.71.39 1 1 10263 20240824052151
+34.122.147.229 1 1 8036 20240821172817
+2a06:98c0:3600::103 2 2 20548 20240807040602
+205.169.39.44 1 1 8036 20240821172818
+129.226.146.179 1 1 10269 20240801172317
+202.168.78.171 2 2 38448 20240821020422
+13.39.110.212 1 1 10263 20240824143849
+182.44.12.37 1 1 10252 20240816114342
+45.156.128.66 1 1 10261 20240810111121
+149.56.160.165 1 1 8038 20240811150413
+49.51.36.179 1 1 10264 20240811080512
+182.4.69.45 1 1 8036 20240818232623
+205.169.39.47 1 1 8036 20240821172815
+113.141.91.58 1 1 10257 20240813225743
+13.59.84.145 1 1 10264 20240820045651
+120.71.59.24 2 2 20553 20240825044534
+195.154.184.193 1 1 10288 20240811180442
+161.35.246.138 1 1 10294 20240821114347
+107.178.194.139 2 2 0 20240820045701
+149.56.160.129 1 1 8040 20240816004117
+191.96.207.62 1 1 10258 20240817154428
+104.248.75.7 1 1 10258 20240805232022
+43.163.8.148 1 1 10258 20240817025227
+43.128.100.220 1 1 10258 20240809090247
+93.158.91.12 1 1 10258 20240817112244
+135.148.195.16 1 1 10294 20240827231416
+18.234.239.97 1 1 8046 20240825160653
+42.83.147.56 2 2 20588 20240827035720
+67.205.166.210 1 1 10288 20240804202912
+84.239.45.5 2 2 98940 20240814022926
+43.155.183.138 1 1 10276 20240823060422
+114.122.106.67 1 1 8038 20240810225350
+43.134.66.205 1 1 10264 20240819170257
+38.54.105.243 1 1 8046 20240825160649
+128.90.173.60 1 1 10294 20240821114341
+144.217.135.166 1 1 8038 20240811150457
+124.220.161.119 2 2 20532 20240809121916
+62.210.114.68 1 1 8035 20240809183227
+31.220.76.145 1 1 769 20240808213516
+146.190.246.147 1 1 10258 20240805230254
+104.193.255.59 1 1 10264 20240819092432
+146.190.216.60 1 1 10294 20240820214548
+198.235.24.222 1 1 49470 20240805175625
+142.93.210.97 1 1 10258 20240816211238
+23.172.112.238 1 1 10294 20240821114342
+206.168.34.41 1 1 10264 20240819170504
+3.140.248.181 1 1 10264 20240820045651
+143.198.64.82 1 1 10302 20240828222316
+205.169.39.46 1 1 10294 20240828081007
+209.38.202.206 1 1 10276 20240822164853
+143.198.149.132 1 1 10288 20240805030724
+93.159.230.90 1 1 10258 20240816163345
+124.236.100.56 1 1 10258 20240809040023
+143.198.84.137 1 1 10276 20240823093616
+49.51.40.195 1 1 10286 20240804111502
+45.156.128.116 1 1 10257 20240814142121
+221.229.106.25 1 1 10294 20240828063959
+205.169.39.118 2 2 16072 20240820055832
+179.43.191.18 1 1 10261 20240809210646
+193.186.4.145 2 2 16078 20240805154943
+45.148.10.59 3 3 30849 20240827080525
+114.10.147.37 1 1 0 20240815004714
+185.107.56.137 1 1 10286 20240803212259
+38.242.238.150 1 1 10288 20240804220302
+46.8.56.55 1 1 49470 20240805115903
+198.235.24.135 1 1 49470 20240801202354
+182.44.2.148 1 1 10291 20240818030017
+43.131.44.218 1 1 10257 20240814104131
+1.94.203.12 1 1 8040 20240812003433
+114.96.103.33 1 1 10258 20240817125038
+159.89.112.217 1 1 10274 20240801074716
+87.94.233.88 1 1 8046 20240826061257
+123.160.223.73 1 1 10257 20240814100500
+170.106.82.193 1 1 10267 20240826145809
+91.92.244.106 1 1 10294 20240826225925
+145.220.91.19 1 1 10258 20240816174658
+43.159.128.68 2 2 20576 20240827044559
+149.56.150.53 1 1 8038 20240811150431
+167.94.145.106 1 1 10304 20240831212254
+193.118.51.134 1 1 10260 20240813113159
+37.204.4.35 1 1 8036 20240822032607
+178.46.87.23 1 1 8036 20240820005106
+180.110.203.108 1 1 10294 20240827160539
+34.71.214.216 1 1 8036 20240820045651
+43.130.32.224 1 1 10260 20240808094036
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240801 13 13 194994 13
+20240802 8 8 75507 7
+20240803 8 8 69751 7
+20240804 11 11 267637 8
+20240805 31 31 410079 17
+20240806 13 13 423958 8
+20240807 6 6 59391 5
+20240808 8 8 111793 8
+20240809 20 20 408091 14
+20240810 20 20 5156471 14
+20240811 28 28 10260403 16
+20240812 9 9 83474 8
+20240813 7 7 111021 7
+20240814 23 23 614115 17
+20240815 15 15 337436 12
+20240816 19 19 5152810 14
+20240817 13 13 290268 10
+20240818 16 16 279776 11
+20240819 10 10 141846 10
+20240820 29 29 405096 26
+20240821 19 19 354325 17
+20240822 14 14 298370 10
+20240823 10 10 139699 9
+20240824 5 5 51323 5
+20240825 8 8 75473 8
+20240826 11 11 104077 9
+20240827 9 9 131822 8
+20240828 18 18 217748 13
+20240829 8 8 77846 7
+20240830 9 9 170851 9
+20240831 10 10 96088 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 6
+0s-30s 323
+2mn-5mn 5
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 400 6451150 333 326
+// 11 544170 0 5
+/history-result/ 8 19349536 1 3
+/live-draw/ 7 225145 0 0
+/.well-known/ 2 1538 2 2
+END_SIDER

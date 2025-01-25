@@ -1,0 +1,955 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.laoslottery.org.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2043                
+POS_TIME 2721                
+POS_VISITOR 21398               
+POS_DAY 31131               
+POS_DOMAIN 3524                
+POS_LOGIN 4092                
+POS_ROBOT 4247                
+POS_WORMS 5009                
+POS_EMAILSENDER 5140                
+POS_EMAILRECEIVER 5283                
+POS_SESSION 31907               
+POS_SIDER 32098               
+POS_FILETYPES 5418                
+POS_DOWNLOADS 5503                
+POS_OS 5551                
+POS_BROWSER 5959                
+POS_SCREENSIZE 7733                
+POS_UNKNOWNREFERER 7807                
+POS_UNKNOWNREFERERBROWSER 8791                
+POS_ORIGIN 9462                
+POS_SEREFERRALS 9602                
+POS_PAGEREFS 9865                
+POS_SEARCHWORDS 10040               
+POS_KEYWORDS 10192               
+POS_MISC 2385                
+POS_ERRORS 10251               
+POS_CLUSTER 3948                
+POS_SIDER_404 10370               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501004832 55 11758 9117891142021
+FirstTime 20240401063743
+LastTime 20240430235423
+LastUpdate 20240501081730 55 0 54 0 0
+TotalVisits 304                 
+TotalUnique 251                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 251                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 11 255071 68 76 115220
+1 11 11 165184 64 75 183972
+2 23 23 252495 111 127 256800
+3 8 8 231120 27 34 43667
+4 21 21 386616 48 62 162202
+5 25 25 231838 107 138 225927
+6 27 27 399748 53 58 253419
+7 9 9 115198 74 84 254496
+8 27 27 255027 14 23 49079
+9 13 13 248700 67 71 184530
+10 23 23 237132 29 38 102913
+11 10 10 124517 18 28 93575
+12 4 4 37287 17 24 27504
+13 16 16 171903 29 35 62479
+14 18 18 324708 48 64 98611
+15 19 19 256874 148 155 251691
+16 6 6 99628 105 117 318006
+17 19 19 314663 31 65 141372
+18 10 10 82755 66 69 115452
+19 21 21 196128 33 46 68808
+20 15 15 323869 56 59 132330
+21 41 41 418526 62 73 175816
+22 12 12 203901 13 17 74278
+23 10 10 114075 83 88 1012413
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 25
+us 155 155 2386544
+cn 48 48 508172
+jp 44 44 452044
+ru 20 20 311701
+id 18 18 112152
+th 16 16 147819
+de 16 16 180488
+bg 12 12 423058
+se 11 11 133851
+gb 10 10 89755
+br 7 7 65219
+nl 7 7 70910
+ca 5 5 109238
+in 5 5 92124
+la 5 5 53770
+ao 4 4 99900
+be 4 4 37278
+ch 3 3 27969
+au 2 2 14832
+kh 2 2 18643
+lb 1 1 9324
+my 1 1 9319
+co 1 1 40632
+ir 1 1 11589
+vn 1 1 40632
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+Go\-http\-client/ 30 279683 20240430021631 0
+Googlebot/ 26 118691 20240430044514 0
+AhrefsBot/ 24 198812 20240430004751 0
+bingbot/ 21 155735 20240430214628 0
+no_user_agent 13 528216 20240426074019 0
+bot[\s_+:,\.\;\/\\-] 9 81976 20240429200912 0
+DuckDuckGo\-Favicons\-Bot/ 7 65248 20240430065907 0
+crawl 7 86210 20240428025249 0
+nbot 4 58227 20240414163624 0
+(firefox/)([0-9]\.|[0-1][0]\.) 4 37284 20240430165700 0
+DotBot/ 4 846812 20240403230602 0
+MJ12bot/ 4 33833 20240428222717 0
+Apache\-HttpClient/ 3 27960 20240404160119 0
+SemrushBot/ 3 27966 20240412210204 0
+survey 2 81264 20240403174702 0
+Applebot/ 1 9319 20240430160312 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 399 5446963 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 25
+linux 27 27
+android10 30 30
+androidnougat 18 18
+macosx 4 4
+Unknown 40 40
+ios_iphone 81 81
+unix 1 1
+android 11 11
+linuxubuntu 6 6
+linuxcentos 1 1
+macosx14 3 3
+win2000 1 1
+winnt 2 2
+win10 97 97
+win98 1 1
+androidmarshmallow 1 1
+macosx15 47 47
+ios_ipad 1 1
+androidkitkat 5 5
+win7 9 9
+macosx7 1 1
+androidoreo 4 4
+win8.1 5 5
+macosx10 1 1
+winxp 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 87
+chrome121.0.0.0 24 24
+chrome100.0.4896.60 18 18
+safari17.0 2 2
+safari16.6 6 6
+chrome17.0.963.56 1 1
+chrome114.0.5735.289 1 1
+firefox123 2 2
+chrome79.0.3945.130 5 5
+firefox60.0 1 1
+chrome122.0.0.0 5 5
+chrome84.0.4147.105 1 1
+safari13.0.3 72 72
+chrome80.0.3987.162 1 1
+chrome106.0.0.0 1 1
+chrome74.0.3729.169 6 6
+chrome123.0.0.0 26 26
+chrome103.0.5060.114 1 1
+chrome67.0.1180 1 1
+msie6.0 1 1
+netscape5.0 3 3
+chrome88.0.4240.193 5 5
+chrome94.0.4606.61 1 1
+firefox108.0 9 9
+chrome90.0.4430.85 8 8
+chrome88.0.4324.192 1 1
+chrome81.0.4044.138 3 3
+chrome83.0.4103.97 9 9
+chrome120.0.6099.71 2 2
+chrome117.0.0.0 9 9
+chrome101.0.4951.54 1 1
+mozilla 20 20
+Unknown 18 18
+chrome62.0.938 1 1
+chrome112.0.5615.136 1 1
+chrome67.0.330 1 1
+firefox116.0 1 1
+chrome87.0.4280.88 6 6
+chrome67.0.790 1 1
+firefox91.0 1 1
+opera58.0.3135.132 1 1
+firefox119.0 1 1
+firefox114.0 5 5
+chrome116.0.0.0 9 9
+chrome61.0.1192 1 1
+chrome100.0.4896.127 2 2
+chrome91.0.4472.114 3 3
+chrome79.0.3945.117 1 1
+safari14.1 1 1
+chrome73.0.743 1 1
+iphone 1 1
+chrome103.0.0.0 1 1
+opera93.0.0.0 1 1
+chrome105.0.0.0 6 6
+firefox117.0 11 11
+firefox124.0 8 8
+chrome100.0.758 1 1
+chrome71.0.3578.98 1 1
+safari10.0 1 1
+chrome118.0.0.0 1 1
+chrome120.0.0.0 2 2
+firefox73.0 2 2
+chrome81.0.4044.92 1 1
+chrome51.0.2704.103 4 4
+safari 2 2
+chrome110.0.0.0 3 3
+opera102.0.0.0 1 1
+firefox115 1 1
+firefox40.1 1 1
+chrome87.0.4280.141 4 4
+firefox63.0 2 2
+chrome67.0.3396.99 1 1
+chrome96.0.4664.110 3 3
+firefox36.0 1 1
+msie5.0 1 1
+chrome84.0.4147.89 1 1
+android 5 5
+firefox79.0 1 1
+chrome77.0.3865.35 1 1
+chrome122.0.6261.111 1 1
+firefox59.0 1 1
+firefox118.0 1 1
+chrome85.0.4183.121 2 2
+chrome114.0.0.0 1 1
+chrome60.0.3112.107 18 18
+chrome83.0.4103.116 1 1
+msie5.01 1 1
+chrome124.0.0.0 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240429184127
+python-requests/2.31.0 20240411221842
+undici 20240414151510
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240430235423
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240404170237
+python-requests/2.26.0 20240430144818
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240426142142
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240418164641
+Python/3.11_aiohttp/3.9.3 20240401095453
+python-requests/2.25.0 20240409040907
+got_(https://github.com/sindresorhus/got) 20240427155711
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20240410193634
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+Python/3.11_aiohttp/3.9.3 20240401095453
+python-requests/2.25.0 20240409040907
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20240410193634
+got_(https://github.com/sindresorhus/got) 20240427155711
+undici 20240414151510
+python-requests/2.26.0 20240430144818
+python-requests/2.31.0 20240411221842
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240418164641
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 246 246
+From1 9 9
+From2 23 23
+From3 1 1
+From4 120 120
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 7
+www_google_co_th 1 1
+yandexcom 1 1
+www_google_com 13 13
+search_yahoo_com 1 1
+www_bing_com 1 1
+baidu 4 4
+duckduckgo 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://onicforyou.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+301 22 17490
+404 1365 1706364
+403 36 43470
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 262
+/ads.txt 5 http://laoslottery.org/ads.txt
+/wp-content/themes/theme_log.php 1 laoslottery.org
+/wp-includes/js/jquery/jquery.js 2 www.google.com
+/vokalepe.php 1 www.google.com
+/author/wpsecuritypatch/ 1 -
+/wp-content/plugins/chauffeur-booking-system/script/jquery.chauffeurBookingFormAdmin.js 1 laoslottery.org
+/wp-admin/js/index.php 1 laoslottery.org
+/ieqcomjw.php 1 www.google.com
+/wp-woulds.php 1 laoslottery.org
+/wp-content/themes/bute/lang.php 1 www.google.com
+/wp-content/plugins/LayerSlider/static/js/builder.js 1 laoslottery.org
+/wp-admin/js/widgets/upfile.php 1 laoslottery.org
+/wp-content/themes/seotheme/db.php 20 www.google.com
+/blog 7 -
+/style.php 6 www.google.com
+/uniopfht.php 1 www.google.com
+/wp-aa.php 1 www.google.com
+/wp-content/install.php 12 http://laoslottery.org//wp-content/install.php
+/wp/xmlrpc.php 1 -
+/wp-admin/user/upfile.php 2 laoslottery.org
+/css/install.php 12 http://laoslottery.org//css/install.php
+/oarkumvm.php 1 www.google.com
+/wp-includes/install.php 12 http://laoslottery.org//wp-includes/install.php
+/wp-includes/rest-api/about.php 12 http://laoslottery.org//wp-includes/rest-api/about.php
+//2021/wp-includes/wlwmanifest.xml 10 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 5 -
+/wp-content/plugins/install.php 12 http://laoslottery.org//wp-content/plugins/install.php
+//s3.tradingview.com/external-embedding/embed-widget-timeline.js 2 -
+/wp-admin/index.php 1 laoslottery.org
+/wp-admin/edit-forms.php 1 laoslottery.org
+/wp-admin/css/.css.php 1 laoslottery.org
+/.well-known/acme-challenge/install.php 12 http://laoslottery.org//.well-known/acme-challenge/install.php
+/wp-includes/Text/about.php 12 http://laoslottery.org//wp-includes/Text/about.php
+/wp-content/index.php 1 laoslottery.org
+/temp/ 2 -
+//site/wp-includes/wlwmanifest.xml 10 -
+/wp-admin/maint/upfile.php 1 laoslottery.org
+/wp-checkbex.php 2 -
+/ee.php 12 http://laoslottery.org//ee.php
+/radio.php 2 laoslottery.org
+/wp-admin/setup-config.php 14 -
+/wp-content/plugins/ 12 http://laoslottery.org//wp-content/plugins/
+/.vscode/sftp.json 3 -
+/cgi-bin/install.php 12 http://laoslottery.org//cgi-bin/install.php
+/wp-22.php 3 http://laoslottery.org//wp-22.php
+/license.txt 2 -
+/wp-admin/css/ 8 binance.com
+/.well-known/pki-validation/upfile.php 1 laoslottery.org
+/cgi-bin/cgi-bin/about.php 12 http://laoslottery.org//cgi-bin/cgi-bin/about.php
+/core 6 -
+//mawlamyinepools.com/wp-content/themes/lottery_mawlamyine_pools/assets/js/lottery.js 2 -
+//wp-includes/wlwmanifest.xml 1 -
+/wp-content/uploads/sites/8/upfile.php 1 laoslottery.org
+//wp-includes/ID3/license.txt 10 -
+/ufzxkqbk.php 1 www.google.com
+/apple-touch-icon-120x120.png 1 -
+/author/greeceman/ 1 -
+/wp-content/plugins/dzs-zoomsounds/savepng.php 6 -
+/cgi-bin/upfile.php 1 laoslottery.org
+/test/ 2 -
+/admin/controller/extension/extension/ 8 binance.com
+/wp-content/plugins/user-registration/assets/js/frontend/ur-login.js 1 -
+/fmvarbaj.php 1 www.google.com
+/api.php 1 -
+/sftp-config.json 3 -
+/cgi-bin/cgi-bin/about.php7 12 http://laoslottery.org//cgi-bin/cgi-bin/about.php7
+/sitemap/sitemap.xml 2 -
+/wp-content/themes/wp-admin/css/index.php 1 laoslottery.org
+//mawlamyinepools.com/xmlrpc.php 1 -
+/.quarantine/upfile.php 1 laoslottery.org
+/licenses.php 1 laoslottery.org
+//wp/wp-includes/wlwmanifest.xml 10 -
+/old/ 2 -
+/music/bak_config.php 1 laoslottery.org
+/wp-admin/admin-ajax.php 16 http://laoslottery.org//wp-admin/admin-ajax.php
+/wp-plain.php 10 www.google.com
+/chosen.php 4 www.google.com
+/admin.php 14 http://laoslottery.org//admin.php
+/.env 29 -
+/sitemap.xml 28 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/backup/ 2 -
+/login 1 -
+/atomlib.php 1 laoslottery.org
+/radio.txt 1 laoslottery.org
+/uploads/ 8 binance.com
+/media/system/js/core.js 4 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/simple.php 11 www.google.com
+/author/wpservices/ 1 -
+/cgi-bin/upfile_(2).php 1 laoslottery.org
+/files/ 8 binance.com
+/wp-admin/includes/users.php 1 laoslottery.org
+/wp-content/plugins/wp-automatic/inc/csv.php 1 -
+/old 7 -
+/wp-ver.php 1 laoslottery.org
+/wordpress 7 -
+/admin/index.php 6 -
+/wp-json/wp/v2/users/4 1 https://laoslottery.org/
+/wp-content/.wp-content.php 1 laoslottery.org
+/wp-admin/css/colors/index.php 1 laoslottery.org
+/author/w-padmine/ 1 -
+/wp-json/wp/v2/users/1 1 https://laoslottery.org/
+/wp/ 2 -
+/wp-admin/images/install.php 12 http://laoslottery.org//wp-admin/images/install.php
+/sitemap1.xml 2 -
+/ALFA_DATA/alfacgiapi/perl.alfa 10 www.google.com
+/sftp.json 1 -
+/wp-content/themes/twenty/twenty.php 12 http://laoslottery.org//wp-content/themes/twenty/twenty.php
+/author/stender/ 1 -
+/glvfdtit.php 1 www.google.com
+/st.php 12 http://laoslottery.org//st.php
+/wp-content/plugins/hellopress/wp_filemanager.php 2 -
+/alfacgiapi/perl.alfa 10 www.google.com
+/wp-admin/widgets-blocks.php 1 laoslottery.org
+/wp-admin/inputs.php 5 -
+/wp-admin/install.php 26 -
+//cms/wp-includes/wlwmanifest.xml 10 -
+/wp-json/wp/v2/users 1 https://www.google.com
+/humans.txt 4 http://laoslottery.org/humans.txt
+/php/thinkphp/aaaffff123.php 7 -
+/wp-content/plugins/apikey/apikey.php 10 -
+/wp-admin/maint/moon.php 12 http://laoslottery.org//wp-admin/maint/moon.php
+/wp-includes/css/buttons.css 2 http://laoslottery.org/wp-includes/css/buttons.css
+/da1.php 1 laoslottery.org
+/wp-includes/ 1 -
+/wp-content/plugins/wp-automatic/inputs.php 1 laoslottery.org
+/dist/js/bootstrap.bundle.min.js 2 -
+/wp-content/plugins/backup-backup/modules/gdrivebanner/assets/css/styles.css 1 -
+/wp-admin/dropdown.php 12 http://laoslottery.org//wp-admin/dropdown.php
+/.well-known/security.txt 2 http://www.laoslottery.org/.well-known/security.txt
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 2 -
+/wp-content/dropdown.php 12 http://laoslottery.org//wp-content/dropdown.php
+/sitemap 2 -
+/wp-admin/js/.js.php 1 laoslottery.org
+/index_sso.php 7 -
+/wp-includes/Requests/Text/index.php 1 laoslottery.org
+/index.php 5 laoslottery.org
+/wp-content/plugins/user-registration/assets/css/user-registration.css 1 -
+/wp-admin/css/colors/light/index.php 1 laoslottery.org
+/wp-includes/js/jquery/jquery.min.js 2 -
+/wp-json/litespeed/v1/cdn_status 8 -
+/ouxdsien.php 1 www.google.com
+/wp-content/patior/ 12 http://laoslottery.org//wp-content/patior/
+/login.php 1 -
+/author/admim/ 1 -
+/cjfuns.php 12 http://laoslottery.org//cjfuns.php
+//cdn.js 2 -
+/wp-includes/inputs.php 4 -
+/new 7 -
+/wp-admin/privacy-guides.php 1 laoslottery.org
+/PHPMailer/web_config.php 1 laoslottery.org
+/class.api.php 12 http://laoslottery.org//class.api.php
+/wp-content/themes/twentytwentytwo/inputs.php 1 laoslottery.org
+/wp-admin/includes/upfile.php 2 laoslottery.org
+/wp-admin/js/about.php7 12 http://laoslottery.org//wp-admin/js/about.php7
+//2020/wp-includes/wlwmanifest.xml 10 -
+/yejtofew.php 1 www.google.com
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 6 www.google.com
+/sitemapindex.xml 2 -
+/wp-content/plugins/work-list/lang.php 1 www.google.com
+/new/ 2 -
+/wordpress/ 3 https://www.google.com
+/testing 6 -
+/wp-admin/images/.images.php 1 laoslottery.org
+/wp-json/wp/v2/users/3 1 https://laoslottery.org/
+/wp-content/uploads/ 12 http://laoslottery.org//wp-content/uploads/
+/wp-admin/maint/.maint.php 1 laoslottery.org
+/plugins/content/apismtp/apismtp.php 10 -
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/wp-privacys.php 1 laoslottery.org
+/wp-boards.php 1 laoslottery.org
+/wp-json 14 -
+//shop/wp-includes/wlwmanifest.xml 10 -
+/test 7 -
+/ppwyftib.php 1 www.google.com
+/admin/ 1 -
+/dropdown.php 12 http://laoslottery.org//dropdown.php
+/robots.txt 123 -
+//blog/wp-includes/wlwmanifest.xml 10 -
+/cgi-bin/.cgi-bin.php 1 laoslottery.org
+/wp-admin/mb.php 1 laoslottery.org
+/install.php 12 http://laoslottery.org//install.php
+/wp-head.php 14 http://laoslottery.org//wp-head.php
+/wp-emoji-release.min.js 2 -
+//wp1/wp-includes/wlwmanifest.xml 10 -
+/sitemap.txt 6 -
+/wp-admin/css/index.php 1 laoslottery.org
+/wp-content/plugins/Cache/dropdown.php 12 http://laoslottery.org//wp-content/plugins/Cache/dropdown.php
+/sample.php 3 http://laoslottery.org//sample.php
+/misc/ajax.js 1 -
+//s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js 2 -
+/wp-admin/images/upfile.php 1 laoslottery.org
+/my1.php 12 http://laoslottery.org//my1.php
+/wp-content/ 2 -
+/wp-content/inputs.php 5 -
+//wp-json/oembed/1.0/embed 1 -
+/.DS_Store 8 -
+/wp 7 -
+/author/crander/ 1 -
+/wp-content/themes/rehub-theme/icons/modulobox.svg 1 -
+/phpmyadmin/index.php 7 -
+/general.php 3 http://laoslottery.org//general.php
+//feed/ 10 -
+/shop 1 -
+//xmlrpc.php 12 -
+/wp-includes/wlwmanifest.xml 1 -
+//2019/wp-includes/wlwmanifest.xml 10 -
+/wp-admin/network/licenses.php 1 laoslottery.org
+/security.txt 2 http://www.laoslottery.org/security.txt
+/view-source: 1 -
+/wp-roto/wp-admin/css/index.php 1 laoslottery.org
+/sites/default/files/ 8 binance.com
+/sitemap_index.xml 6 -
+/plugins/content/apismtp/apismtp.php.suspected 10 -
+/inputs.php 10 -
+/wp-admin/network/upfile.php 1 laoslottery.org
+/apple-touch-icon.png 7 -
+/wp-json/wp/v2/users/5 1 https://laoslottery.org/
+//wp-json/wp/v2/users/ 1 -
+/wp-includes/.wp-includes.php 1 laoslottery.org
+/wp-admin/js/about.php 12 http://laoslottery.org//wp-admin/js/about.php
+//web/wp-includes/wlwmanifest.xml 10 -
+/wp-admin/.wp-admin.php 1 laoslottery.org
+/wp-content/plugins/apikey/apikey.php.suspected 10 -
+/images/ 8 binance.com
+/blog/ 2 -
+/sitemaps.xml 5 -
+/wp-content/themes/qoe/vendor/ernilambar/wp-admin-notice/src/Start-home.php 1 laoslottery.org
+/images/toggige-arrow.jpg 1 laoslottery.org
+/wp-admin/css/colors/blue/index.php 1 laoslottery.org
+/newsite 6 -
+/administrator/index.php 4 -
+/sitemap.xml.gz 6 -
+/author/superadmin/ 1 -
+/sitemap.php 2 -
+/author/wpadminne/ 1 -
+/sitemap/index.xml 2 -
+//test/wp-includes/wlwmanifest.xml 10 -
+/wp-admin/includes/.includes.php 1 laoslottery.org
+/home 6 -
+//wordpress/wp-includes/wlwmanifest.xml 10 -
+/wp-admin/link-forms.php 1 laoslottery.org
+/about.php 7 laoslottery.org
+/wp-includes/images/smilies/upfile.php 1 laoslottery.org
+/sitemap-index.xml 2 -
+/wp-admin/a2.php 1 laoslottery.org
+/wp-content/plugins/background-image-cropper/ 1 http://www.google.com
+/a2.php 1 laoslottery.org
+//mawlamyinepools.com/wp-content/themes/lottery/assets/js/flipclock.js 2 -
+/wp-content/plugins/genesis-simple-share/includes/class-genesis-simple-share-view.php 1 laoslottery.org
+/wordpress/xmlrpc.php 1 -
+/wp-cron.php 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 12 http://laoslottery.org//wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/wp-content/plugins/wp-ver.php 1 laoslottery.org
+/dist/jquery.min.js 2 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 2 -
+/wp-content/plugins/fix/up.php 4 www.google.com
+/xmlrpc.php 3 -
+/.well-known/acme-challenge/upfile.php 1 laoslottery.org
+/wp-json/wp/v2/users/2 1 https://laoslottery.org/
+/wp-login.php 9 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 251
+173.212.251.220 9 9 83871 20240410101903
+54.88.179.33 9 9 365688 20240424203840
+185.215.167.78 9 9 83916 20240413195648
+35.171.144.152 9 9 365688 20240425113349
+177.10.89.81 7 7 65219 20240405214852
+176.9.105.236 7 7 65282 20240403014116
+69.160.160.56 6 6 95923 20240428025250
+143.198.201.154 5 5 203160 20240416042534
+36.74.40.178 5 5 22247 20240423210325
+3.15.238.169 5 5 44693 20240413215546
+49.229.183.96 4 4 33821 20240410050436
+36.74.43.144 4 4 33829 20240413210532
+58.8.226.224 4 4 33807 20240405085205
+51.222.98.70 4 4 37286 20240419025013
+91.92.254.43 4 4 162528 20240417063658
+202.46.68.201 4 4 26414 20240427211356
+146.70.165.229 4 4 33820 20240418062116
+184.22.34.134 4 4 33827 20240401063859
+194.26.192.41 3 3 2302 20240409001605
+144.217.135.218 3 3 121896 20240404170216
+69.160.29.218 3 3 26414 20240418062601
+42.83.147.34 3 3 27968 20240430203257
+137.226.113.44 3 3 27964 20240426142142
+223.206.239.45 3 3 30594 20240403043734
+43.134.142.8 3 3 27968 20240426175912
+182.42.111.156 1 1 9317 20240415132639
+146.190.28.139 1 1 9319 20240414100136
+170.106.101.31 1 1 9318 20240412060640
+42.83.147.56 2 2 18648 20240409081153
+172.233.136.243 1 1 9323 20240424054708
+54.219.82.33 1 1 9320 20240405195559
+203.161.32.78 1 1 9319 20240430144818
+138.68.77.214 1 1 9323 20240416224257
+192.42.116.213 2 2 18652 20240428132558
+104.244.72.115 1 1 9323 20240416053911
+94.228.169.182 1 1 9321 20240429194145
+135.148.195.9 1 1 9324 20240422022543
+42.83.147.53 1 1 9320 20240419100836
+199.45.155.47 1 1 9323 20240430235423
+161.35.77.123 1 1 9319 20240410193634
+159.203.98.138 1 1 9326 20240403074536
+43.157.66.187 1 1 9323 20240423215223
+150.109.13.194 2 2 18641 20240429025408
+35.162.157.219 1 1 9326 20240428053304
+91.92.246.109 2 2 81264 20240417203252
+37.60.240.225 1 1 9324 20240422145316
+43.134.66.205 1 1 30263 20240402160407
+75.119.150.136 1 1 9321 20240429141900
+77.246.102.95 1 1 40632 20240417200221
+5.133.192.87 2 2 18635 20240412074346
+107.178.105.167 2 2 18652 20240428042822
+183.182.117.166 1 1 11589 20240422055221
+114.96.103.33 1 1 9320 20240405182037
+43.159.128.149 1 1 9315 20240404134339
+18.197.97.14 1 1 9329 20240406221706
+43.163.8.148 2 2 18643 20240406132405
+39.173.116.9 1 1 9324 20240409080140
+154.12.251.250 1 1 9319 20240430033228
+60.188.57.0 1 1 9325 20240401180728
+62.141.44.236 2 2 18647 20240420044120
+154.223.18.236 2 2 81264 20240409212750
+111.7.96.181 2 2 18638 20240430013938
+43.133.77.208 1 1 9325 20240401152835
+52.81.33.66 1 1 9319 20240410124401
+46.19.138.210 1 1 9325 20240401065128
+223.244.35.77 1 1 9324 20240426064142
+182.253.228.108 1 1 7413 20240420210729
+54.212.56.246 1 1 9318 20240412051041
+93.158.91.12 1 1 9321 20240429181814
+87.236.176.204 1 1 9321 20240429100814
+54.176.91.0 1 1 9324 20240409172358
+91.92.246.16 1 1 40632 20240414001616
+52.53.151.212 1 1 9324 20240426225959
+192.42.116.175 1 1 9324 20240409130019
+114.122.71.104 1 1 7416 20240401211114
+43.135.149.154 2 2 18650 20240422220008
+159.203.91.142 1 1 9323 20240424101508
+123.160.221.133 2 2 18648 20240411153442
+43.128.100.206 1 1 9320 20240404232028
+52.37.171.48 1 1 9319 20240430054847
+116.206.15.54 1 1 7416 20240401182211
+185.181.247.180 1 1 9325 20240401095453
+43.252.244.114 1 1 11589 20240420005011
+144.217.135.244 1 1 7417 20240404170237
+128.90.174.26 2 2 18648 20240427020712
+206.168.34.35 1 1 9317 20240406045948
+43.159.128.68 1 1 9318 20240421051117
+45.141.215.111 1 1 9324 20240409130001
+64.227.12.204 1 1 9324 20240408102200
+78.24.121.155 1 1 9321 20240420113518
+101.199.254.198 1 1 9324 20240409022953
+167.99.38.85 1 1 9323 20240416081936
+124.156.193.7 1 1 9315 20240403211650
+43.163.0.99 1 1 9320 20240404212605
+123.6.49.50 1 1 9320 20240402062526
+199.45.155.59 1 1 9324 20240427055350
+192.36.109.83 1 1 9329 20240407053450
+198.235.24.234 1 1 40632 20240418164641
+199.45.155.19 1 1 9324 20240427083243
+199.45.154.70 1 1 9321 20240420114958
+91.92.246.82 1 1 40632 20240413145951
+43.153.89.59 1 1 9322 20240418060839
+123.6.49.9 2 2 18640 20240402062526
+54.210.19.10 1 1 7419 20240427155711
+124.122.14.185 2 2 19003 20240412042238
+64.226.65.122 1 1 9317 20240406100440
+138.68.91.55 1 1 9321 20240420084200
+80.248.225.154 1 1 9318 20240412192436
+114.142.173.8 1 1 7413 20240430211511
+58.10.28.253 1 1 11589 20240408081322
+199.45.154.68 1 1 9320 20240405204532
+84.54.51.61 1 1 9324 20240409130009
+199.244.88.231 1 1 9323 20240417124515
+199.45.155.52 1 1 9320 20240405211146
+129.226.147.7 2 2 18646 20240402231047
+158.220.80.104 1 1 9326 20240423072453
+178.18.15.20 1 1 40632 20240419142305
+43.130.32.224 1 1 9321 20240420175134
+43.134.190.89 1 1 9320 20240405091629
+77.238.237.38 1 1 40632 20240417212515
+167.71.63.8 1 1 9326 20240428104212
+167.94.146.48 1 1 9323 20240424160315
+205.210.31.40 1 1 40632 20240416090112
+159.203.23.156 1 1 9319 20240430085712
+192.36.109.108 1 1 9322 20240418085215
+43.128.110.17 1 1 9317 20240425184559
+158.69.247.77 1 1 9324 20240409092808
+64.23.149.226 1 1 9318 20240412093045
+68.183.47.136 1 1 9324 20240427044434
+54.189.247.216 1 1 9322 20240418052819
+140.213.39.119 1 1 7417 20240414205327
+4.242.238.58 2 2 1532 20240419232406
+43.134.37.211 2 2 18639 20240414175326
+87.236.176.52 1 1 9315 20240404072232
+69.28.85.216 1 1 9326 20240428121723
+18.142.128.26 1 1 7417 20240414151510
+77.246.105.178 1 1 40632 20240417135358
+52.81.87.90 1 1 9324 20240427143728
+43.163.6.124 1 1 9326 20240402212257
+54.67.17.241 1 1 9321 20240419213736
+168.119.64.222 2 2 18646 20240424053734
+118.69.175.73 1 1 40632 20240417143629
+45.80.158.96 1 1 9324 20240408144652
+103.20.82.155 2 2 18643 20240414134729
+43.153.110.177 2 2 18652 20240416002840
+35.91.60.127 1 1 9317 20240406053529
+221.229.106.25 1 1 9323 20240417082808
+106.75.98.60 1 1 9324 20240427143754
+43.131.243.208 1 1 9326 20240402235435
+158.220.80.95 1 1 9318 20240421101206
+117.62.235.53 1 1 9324 20240422020343
+128.90.174.12 2 2 18642 20240420021723
+183.182.110.160 1 1 7414 20240411233750
+154.223.17.210 2 2 18636 20240421174508
+54.223.89.173 1 1 9320 20240419155754
+114.142.172.35 1 1 7419 20240427211657
+222.79.104.23 2 2 18635 20240425071708
+217.114.43.253 2 2 18640 20240402061252
+116.203.159.136 2 2 81264 20240402032152
+167.71.139.159 1 1 9322 20240418081631
+172.56.168.113 1 1 11589 20240405194111
+99.45.118.41 1 1 7420 20240413025114
+46.4.33.48 1 1 40632 20240414012747
+43.131.249.153 1 1 9315 20240404115955
+140.213.104.120 2 2 7416 20240419210159
+36.99.136.136 1 1 9320 20240402205123
+185.107.56.227 1 1 40632 20240401105818
+43.153.93.68 2 2 18649 20240428160017
+135.148.195.10 1 1 9321 20240429082559
+167.71.3.130 1 1 9315 20240404082650
+103.43.76.55 2 2 23178 20240408095150
+135.181.146.69 1 1 9326 20240423045716
+27.115.124.101 1 1 9320 20240402062516
+182.42.105.144 2 2 18651 20240423092413
+43.130.31.48 2 2 18646 20240403114420
+170.106.171.77 1 1 9320 20240402152425
+43.135.129.233 1 1 9320 20240401212403
+43.130.47.136 1 1 9323 20240424082738
+162.255.118.203 2 2 81264 20240423155340
+128.90.170.27 2 2 18638 20240414191449
+209.58.157.198 1 1 9320 20240405115940
+5.133.192.108 1 1 9323 20240423224352
+164.92.157.250 1 1 9320 20240402085228
+34.200.234.182 1 1 9323 20240416224733
+167.94.138.49 1 1 9317 20240406034857
+49.237.41.89 2 2 19005 20240423140939
+188.126.94.166 1 1 40632 20240422231048
+43.134.170.46 1 1 9324 20240427171921
+176.9.18.134 1 1 9326 20240423082307
+54.218.101.126 1 1 9317 20240406053535
+223.113.128.132 1 1 9319 20240410124545
+49.51.179.103 1 1 9326 20240403152938
+43.134.89.111 2 2 18645 20240430021305
+34.215.18.144 1 1 9319 20240430054904
+172.56.44.199 1 1 7414 20240412190722
+188.68.47.69 1 1 9318 20240412180132
+5.161.234.30 1 1 11589 20240408085535
+150.109.16.20 1 1 9318 20240412161935
+175.6.217.4 3 3 27973 20240422105214
+104.161.20.238 1 1 9319 20240414050700
+18.237.155.101 1 1 9319 20240430054923
+199.45.155.23 1 1 9321 20240420095002
+185.220.101.79 1 1 9323 20240416053928
+182.42.110.255 1 1 9319 20240413215713
+206.168.34.50 1 1 9318 20240412064522
+36.134.147.75 1 1 9315 20240404042955
+52.80.71.82 1 1 9320 20240419155840
+67.205.159.102 1 1 9324 20240426104642
+199.45.154.71 1 1 9317 20240406072702
+43.159.63.75 1 1 9315 20240403231137
+87.236.176.131 1 1 9321 20240429184127
+4.242.244.197 1 1 766 20240407100853
+64.62.158.119 1 1 11589 20240411004244
+159.89.164.14 1 1 9324 20240413053216
+45.138.16.178 2 2 1536 20240403175618
+185.39.207.83 1 1 9324 20240409130005
+201.184.246.236 1 1 40632 20240410172636
+43.133.72.69 2 2 39589 20240402155324
+208.80.194.41 1 1 40632 20240402005305
+45.83.220.210 1 1 9326 20240428022857
+199.45.154.73 1 1 9323 20240424150323
+52.88.209.220 1 1 9318 20240412051012
+89.23.107.95 1 1 9324 20240408144953
+110.166.71.39 1 1 9324 20240409181800
+43.133.66.151 2 2 18647 20240427054150
+152.42.131.152 1 1 9324 20240422083137
+146.190.27.241 1 1 9319 20240410084909
+43.133.38.182 2 2 18639 20240409083854
+182.43.70.143 1 1 9319 20240410140921
+101.199.254.199 1 1 9324 20240409100157
+93.158.90.69 2 2 18649 20240428192317
+135.148.195.3 1 1 9324 20240408070414
+43.131.62.4 2 2 18644 20240430131209
+101.199.254.231 2 2 49956 20240409095931
+141.138.213.100 1 1 9320 20240402191502
+178.254.38.45 1 1 9319 20240430020133
+128.90.170.38 3 3 27964 20240418134143
+5.133.192.140 1 1 9322 20240418025828
+1.192.195.11 1 1 9324 20240409045911
+36.133.35.23 1 1 9329 20240406232248
+18.237.121.128 1 1 40632 20240411013536
+51.77.111.99 1 1 9329 20240407082931
+58.49.233.126 2 2 18648 20240411193650
+91.92.242.243 1 1 7414 20240411221842
+91.92.249.173 2 2 81264 20240405072454
+147.182.253.36 2 2 18648 20240409040907
+43.153.216.189 1 1 9320 20240405114009
+1.192.195.8 1 1 40632 20240409045707
+38.242.250.246 1 1 9324 20240422202331
+54.215.61.78 1 1 9318 20240412203551
+52.80.18.29 1 1 9324 20240422034411
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240401 17 17 173972 14
+20240402 23 23 350212 19
+20240403 21 21 212630 13
+20240404 12 12 203843 10
+20240405 23 23 307071 14
+20240406 13 13 215090 12
+20240407 4 4 28753 4
+20240408 11 11 103070 11
+20240409 21 21 312478 19
+20240410 19 19 204919 8
+20240411 9 9 113669 8
+20240412 18 18 322757 15
+20240413 23 23 238457 8
+20240414 11 11 161331 10
+20240415 1 1 9317 1
+20240416 14 14 318376 10
+20240417 18 18 534965 14
+20240418 17 17 278694 10
+20240419 12 12 123375 10
+20240420 13 13 100983 10
+20240421 5 5 46590 4
+20240422 12 12 143555 12
+20240423 12 12 172960 10
+20240424 10 10 155848 9
+20240425 3 3 59266 3
+20240426 5 5 46620 5
+20240427 15 15 125168 11
+20240428 16 16 189183 10
+20240429 7 7 65247 7
+20240430 14 14 128564 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30s-2mn 7
+0s-30s 291
+2mn-5mn 3
+15mn-30mn 1
+5mn-15mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 351 4866324 281 277
+/history-result/ 23 341243 14 12
+/live-draw/ 14 111364 1 6
+/.well-known/ 8 6136 8 8
+// 3 121896 0 1
+END_SIDER

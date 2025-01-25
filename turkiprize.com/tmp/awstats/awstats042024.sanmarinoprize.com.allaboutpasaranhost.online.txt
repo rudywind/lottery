@@ -1,0 +1,1055 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/awstats.sanmarinoprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2042                
+POS_TIME 2721                
+POS_VISITOR 25110               
+POS_DAY 33178               
+POS_DOMAIN 3511                
+POS_LOGIN 4077                
+POS_ROBOT 4232                
+POS_WORMS 5002                
+POS_EMAILSENDER 5133                
+POS_EMAILRECEIVER 5276                
+POS_SESSION 33936               
+POS_SIDER 34115               
+POS_FILETYPES 5411                
+POS_DOWNLOADS 5551                
+POS_OS 5599                
+POS_BROWSER 5933                
+POS_SCREENSIZE 7511                
+POS_UNKNOWNREFERER 7585                
+POS_UNKNOWNREFERERBROWSER 8245                
+POS_ORIGIN 8799                
+POS_SEREFERRALS 8936                
+POS_PAGEREFS 9080                
+POS_SEARCHWORDS 9228                
+POS_KEYWORDS 9380                
+POS_MISC 2385                
+POS_ERRORS 9439                
+POS_CLUSTER 3933                
+POS_SIDER_404 9543                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501025131 67 17055 10390132567792
+FirstTime 20240401034025
+LastTime 20240430225232
+LastUpdate 20240501081741 67 0 66 0 0
+TotalVisits 255                 
+TotalUnique 200                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 210                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 13 152776 7 58 352477
+1 9 9 186742 26 62 246553
+2 5 5 80368 28 32 65497
+3 8 9 239537 14 54 388236
+4 11 12 308717 12 50 369987
+5 6 6 54292 91 100 197705
+6 8 10 459805 13 34 146637
+7 7 8 168944 86 90 258223
+8 10 10 90478 13 16 224347
+9 26 43 542876 45 52 128109
+10 13 14 328885 42 83 414654
+11 11 12 205204 16 90 945827
+12 79 258 2355867 301 400 782853
+13 14 33 710889 15 56 229505
+14 15 32 443632 15 58 369295
+15 12 49 1049043 13 44 316497
+16 5 6 115756 16 46 244507
+17 9 9 221802 16 56 256350
+18 6 6 124484 58 77 190594
+19 6 6 54208 12 18 127695
+20 12 12 165856 35 39 200873
+21 12 13 212380 64 70 133595
+22 15 15 311312 20 23 77513
+23 4 4 71321 12 37 212665
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 25
+us 82 129 3495779
+cn 57 58 797178
+id 37 122 1141786
+kh 32 153 1168310
+jp 21 21 189791
+ca 14 14 583145
+ru 13 13 178806
+de 10 11 125940
+in 7 7 96469
+nl 7 7 63299
+se 6 6 89422
+au 5 9 27094
+ro 5 5 35609
+eu 4 4 37520
+gb 3 19 125841
+hk 2 2 88314
+hu 2 2 18055
+bg 2 4 159202
+mn 1 1 9035
+rs 1 1 7088
+be 1 2 150105
+br 1 1 7085
+ua 1 1 44157
+pa 1 1 9056
+vn 1 1 7088
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+AhrefsBot/ 309 1953547 20240430235120 0
+Googlebot/ 96 527420 20240430211954 0
+Applebot/ 53 473362 20240430101543 0
+bingbot/ 27 447819 20240427143120 0
+bot[\s_+:,\.\;\/\\-] 27 244133 20240428155308 0
+Go\-http\-client/ 22 664509 20240430212425 0
+no_user_agent 8 353256 20240428080515 0
+crawl 5 46523 20240423162746 0
+DotBot/ 4 176628 20240429093807 0
+Googlebot\-Image/ 3 423189 20240420111503 0
+MJ12bot/ 3 21425 20240402064036 0
+DuckDuckGo\-Favicons\-Bot/ 2 150113 20240412085813 0
+SemrushBot/ 2 18070 20240414173114 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 18092 20240430165657 0
+BLEXBot/ 1 9035 20240403063551 0
+CCBot/ 1 7069 20240416193248 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+js 72 662791 0 0
+html 316 4042439 0 0
+png 28 3385512 0 0
+css 178 564432 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+Unknown 24 19
+androidnougat 5 4
+win8.1 1 1
+macosx 3 2
+winnt 4 3
+macosx11 1 1
+android10 130 41
+ios_iphone 66 66
+linux 15 12
+androidpie 39 3
+win7 12 12
+macosx10 1 1
+macosx14 1 1
+winlong 4 4
+macosx15 57 39
+ios_ipad 1 1
+linuxubuntu 2 2
+winxp 1 1
+win10 224 100
+android 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 75
+chrome108.0.0.0 1 1
+chrome99.0.1551 1 1
+safari16.6 1 1
+chrome104.0.5112.79 17 1
+chrome114.0.0.0 13 11
+firefox123 3 3
+msie7.0 1 1
+chrome51.0.2704.103 5 5
+chrome84.0.4147.125 1 1
+chrome122.0.0.0 4 4
+firefox114.0 1 1
+chrome34.0.1847.116 4 4
+chrome60.0.3112.107 4 3
+opera99.0.0.0 1 1
+chrome103.0.5060.114 2 2
+firefox18.0 1 1
+opera100.0.0.0 1 0
+chrome71.0.2623.112 1 1
+safari9.0 1 1
+chrome66.0.3359.181 5 5
+chrome81.0.4044.145 1 1
+chrome58.0.3029.110 1 1
+chrome123.0.0.0 282 72
+chrome115.0.0.0 1 0
+Unknown 22 18
+chrome70.0.1762 1 1
+mozilla 5 4
+chrome123.0.6312.46 1 1
+chrome83.0.4103.97 3 3
+chrome19.0.1084.9 1 1
+chrome106.0.0.0 1 1
+chrome88.0.4324.146 1 1
+chrome110.0.0.0 1 1
+chrome100.0.2731 1 0
+chrome6.0.472.33 1 1
+chrome59.0.2574 1 1
+safari9.1.2 1 1
+firefox40.0 1 1
+firefox108.0 6 6
+chrome88.0.1204 1 0
+chrome120.0.0.0 6 6
+firefox124.0 39 3
+chrome121.0.0.0 20 20
+chrome71.0.2073 1 0
+chrome113.0.0.0 1 0
+safari13.0.3 65 65
+safari13.0.4 1 1
+chrome109.0.0.0 2 2
+chrome70.0.3725.88 1 1
+chrome100.0.4896.127 3 3
+msie8.0 1 1
+chrome118.0.0.0 1 1
+safari17.3.1 2 2
+chrome104.0.4617.89 1 1
+chrome89.0.4389.82 1 1
+chrome72.0.1239 1 1
+firefox116.0 1 1
+chrome105.0.0.0 1 1
+chrome112.0.0.0 1 0
+chrome63.0.3239.84 1 1
+chrome97.0.4280.67 2 2
+firefox63.0 1 1
+chrome109.0.5414.120 1 1
+chrome64.0.267 1 0
+safari11.0 1 1
+safari14.0.1 1 1
+chrome74.0.3729.169 7 7
+chrome92.0.4515.131 2 2
+chrome78.0.3904.108 5 5
+chrome91.0.4472.114 4 4
+chrome100.0.4896.60 8 8
+firefox103.0 5 5
+chrome59.0.3071.125 1 1
+chrome75.0.3770.100 3 3
+chrome74.0.3729.131 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Searcherweb 20240425085618
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240405104504
+python-requests/2.27.1 20240429160207
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240429215243
+got_(https://github.com/sindresorhus/got) 20240412201209
+axios/1.6.7 20240429040038
+python-requests/2.31.0 20240426013352
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+got_(https://github.com/sindresorhus/got) 20240412201209
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240429215243
+axios/1.6.7 20240429040038
+python-requests/2.31.0 20240426013352
+Searcherweb 20240425085618
+python-requests/2.27.1 20240429160207
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 251 268
+From1 3 4
+From2 0 0
+From3 0 0
+From4 62 322
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 1069 1336068
+403 8 9936
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 436
+/wp-content/plugins/core-plugin/.nxd.php 2 -
+/wp-includes/Requests/Text/admin.php 2 -
+/menu.php 2 -
+/.well-known/fierzashell.php 1 -
+/alfacgiapi/perl.alfa 2 www.google.com
+/bak.php 2 -
+/xmrlpc.php 2 -
+/erin1.PhP7 1 -
+/wp-includes/rest-api/about.php 2 -
+/wp-admin/css/index.php 3 -
+/wp-22.php 2 -
+//class.api.php 1 -
+/.tmb/class_api.php 2 -
+//wp-content/themes/plugins.php 1 -
+//wp-info.php 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 2 www.google.com
+//wp-admin/maint/moon.php 1 -
+/wp-admin/user/upfile.php 2 sanmarinoprize.com
+//classwithtostring.php 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 3 www.google.com
+/wp-content/plugins/backup-backup/includes/backup-heart.php 5 -
+/wp-apxupx.php 3 -
+/robots.txt 83 -
+/wp-content/plugins/master/mode/table.php 1 sanmarinoprize.com
+/wp-admin/network/xmrlpc.php 2 -
+/css.php 2 -
+/gawean.PhP7 3 -
+/wp-content/themes/seotheme/mar.php 2 -
+/M1.php 4 -
+//delete3.php 1 -
+/old 2 -
+//nf_tracking.php 1 -
+//wp-includes/customize/plugins.php 1 -
+/wp-checkbex.php 1 -
+/blog/wp-login.php 1 -
+/wp-content/banners/about.php 2 -
+/wp-content/themes/soledad/style.css 1 -
+/cjfuns%20.php 2 -
+/wp-admin/network/cloud.php 2 -
+/.well-known/wso112233.php 6 -
+//wp-includes/ID3/plugins.php 1 -
+/wp-content/plugins/linkpreview/db.php 2 -
+/administrator/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 1 -
+/wp-content/plugins/apikey/apikey.php.suspected 2 -
+/inputs.php 9 www.google.com
+//.well-known/pki-validation/cloud.php 1 -
+/wp-content/themes/twentyseventeen/page/index.php 2 -
+//alfanew.PHP7 1 -
+/.DS_Store 5 -
+/wp-conflg.php 2 -
+/wp-content/plugins/seo-spy-google-wordpress-plugin/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/wp-content/plugins/ip-logger/chart/ofc_upload_image.php 1 -
+/wp-json/oembed/1.0/embed 1 -
+/wp-admin/css/colors/blue/about.php 2 -
+/_well-known/amaxx.php 2 -
+/wp-content/plugins/wp-ver.php 1 sanmarinoprize.com
+/wp-content/plugins/blogroll-to-page/blogroll-to-page.php 1 -
+//wp-admin/user/plugins.php 1 -
+/themes.php 2 -
+/blog 1 -
+/wp-admin/privacy-guides.php 1 sanmarinoprize.com
+/joobi/inc/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/log.php 2 -
+/wp-includes/SimplePie/plugins.php 4 -
+/ws.php 3 -
+/fileupload/server/php/index.php 1 -
+/wp-content/plugins/wp-seo-spy-google/ofc/php-ofc-library/ofc_upload_image.php 1 -
+//.well-known/pki-validation/xmrlpc.php 1 -
+/classwithtostring.php 1 -
+//wp-includes/css/buttons.css 1 -
+/wp-content/themes/rehub-theme/icons/modulobox.svg 1 -
+/wp-admin/admin.php 2 -
+/wp-content/plugins/pwnd-1/pwnd.php 2 -
+/xl2023.php 2 -
+/wp-content/plugins/work-list/lang.php 1 www.google.com
+/wp-includes/Requests/Text/index.php 1 sanmarinoprize.com
+/PHPMailer/web_config.php 1 sanmarinoprize.com
+/wp-content/themes/theme_log.php 1 sanmarinoprize.com
+/wp-content/themes/torofilm/changelog.txt 1 -
+/wp-content/plugins/spamtask/chart/php-ofc-library/ofc_upload_image.php 1 -
+/mah.php 2 -
+/cgi-bin/xmrlpc.php 4 -
+/wp-includes/js/jquery/jquery.js 11 www.google.com
+/sites/all/modules/contrib/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-admin/setup-config.php 2 -
+//wp-admin/install.php 1 -
+/wp-includes/themes.php 2 -
+/wp-content/plugins/core/include.php 6 -
+/wp-content/plugins/whatsmyrank-devenc/php-ofc-library/ofc_upload_image.php 1 -
+/plugins/content/apismtp/apismtp.php 3 -
+/administrator/components/com_maian15/charts/php-ofc-library/ofc_upload_image.php 1 -
+/user/login/ 1 -
+/.well-known/acme-challenge/xmrlpc.php 2 -
+/wp-includes/SimplePie/about.php 2 -
+/text.php 2 -
+/simple.php 11 -
+//text.php 1 -
+/class.api.php 8 -
+/live-draw/sanmarinoprize.com/live-draw/index.html 1 -
+//wp-includes/js/tinymce/plugins/compat3x/css/index.php 1 -
+/wp-includes/widgets/about.php 2 -
+/wordpress 4 -
+/ynz.PhP7 1 -
+/a2.php 1 sanmarinoprize.com
+/ae.php 2 -
+/wp-content/plugins/fix/up.php 5 -
+/cgi-bin/upfile_(2).php 1 sanmarinoprize.com
+//wp-content/dropdown.php 1 -
+/ads.txt 2 -
+/.well-known/pki-validation/xmrlpc.php 2 -
+/wp-l0gin.php 1 -
+/wp-content/pm.php 1 -
+/wp-content/themes/twentytwentytwo/inputs.php 1 sanmarinoprize.com
+//wp-includes/Text/about.php 1 -
+/wp-includes/IXR/about.php 2 -
+/wp-content/plugins/Cache/Cache.php 4 -
+/.well-known/acme-challenge/upfile.php 2 sanmarinoprize.com
+/wp-activate.php 2 -
+/install.php 4 -
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 2 -
+/wp-content/plugins/forminator/readme.txt 1 -
+//wp-content/install.php 1 -
+/ext.php 1 -
+//cgi-bin/cgi-bin/about.php7 1 -
+/wp-content/plugins/pwnd/pwnd.php 2 -
+/wp-content/plugins/about.php 4 -
+/404.php 2 -
+/alfanew.PHP7 1 -
+/wp-header.php 4 -
+/sitemap_index.xml.gz 1 -
+/administrator/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/administrator/components/com_maianmedia/utilities/charts/php-ofc-library/ofc_upload_image.php 1 -
+/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 2 -
+//wp-content/patior/ 1 -
+/top.php 1 -
+//wp-admin/admin-ajax.php 1 -
+/wp-cron.php 1 sanmarinoprize.com
+/ioxi01.php 1 -
+/wp-json/wp/v2/users/2 1 http://sanmarinoprize.com/
+/403.php 2 -
+/wp-admin/js/about.php 2 -
+/wp-includes/images/about.php 2 -
+/wp-json/wp/v2/users/4 3 http://sanmarinoprize.com/
+//wp-includes/random_compat/about.php 2 -
+/ioxi002.PhP7 1 -
+/doc.php 2 -
+/wp-content/themes/about.php 6 -
+/index_sso.php 4 -
+/cong.php 2 -
+/licenses.php 1 sanmarinoprize.com
+/wp-pano.php 2 -
+/history-result/sanmarinoprize.com/history-result/ 2 -
+/cgi-bin/about.php 2 -
+/wp-head.php 4 -
+//general.php 1 -
+/user/ 1 -
+/admin.php 9 -
+/wp-content/themes/pridmag/db.php 2 -
+/cjfuns.php 4 -
+/wp-content/plugins/alfa-rex.php 4 -
+/wp-admin/network/amaxx.php 2 -
+/sitemap.xml 10 -
+/wp-admin/js/widgets/upfile.php 1 sanmarinoprize.com
+/wp-admin/js/index.php 1 sanmarinoprize.com
+/administrator/ 1 -
+/moon.php 2 -
+/components/com_joomleague/assets/classes/open-flash-chart/ofc_upload_image.php 1 -
+//.well-known/acme-challenge/cloud.php 1 -
+//wp-content/themes/twenty/twenty.php 1 -
+//ee.php 1 -
+/.well-known/admin.php 2 -
+//cgi-bin/install.php 1 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/wp-json/wp/v2/users/1 2 http://sanmarinoprize.com/
+/wp-includes/block-patterns/about.php 2 -
+/wso112233.php 4 -
+/c.php 2 -
+/.vscode/sftp.json 3 -
+//wp-content/upgrade-temp-backup/about.php 1 -
+/wp-content/plugins/genesis-simple-share/includes/class-genesis-simple-share-view.php 1 sanmarinoprize.com
+/.well-known/pki-validation/about.php 6 -
+/wp-content/themes/twentyfive/include.php 2 -
+/.well-known/about.php 2 -
+//wp-includes/wso.php 1 -
+/wp-content/plugins/index.php 2 -
+/wp-json/instawp-connect/v1/config 1 http://sanmarinoprize.com
+//install.php 1 -
+/updates.php 2 -
+/sitemap.xml.gz 3 -
+/sitemap.txt 2 -
+/wp-content/plugins/seo-watcher/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/wp-content/plugins/wp-statistics/readme.txt 1 -
+/plugins/content/apismtp/apismtp.php.suspected 2 -
+/images/cloud.php 2 -
+/style.php 6 www.google.com
+/content.php 2 -
+/wp-includes/ID3/about.php 6 -
+//themes.php 2 -
+//wp-head.php 4 -
+/wp-info.php 4 -
+/admin/index.php 1 -
+//about.php 1 -
+/file.php 2 -
+/wp-content/themes/wp-admin/css/index.php 1 sanmarinoprize.com
+/wp.php 2 -
+//sample.php 1 -
+//wp-admin/dropdown.php 1 -
+//wp-includes/theme-compat/network.php 1 -
+/wp-config-sample.php 2 -
+/wp-content/index.php 3 -
+/freichat/client/plugins/upload/upload.php 3 -
+/admin 1 -
+/wp-includes/style-engine/about.php 2 -
+/wp-content/themes/bricks/assets/css/libs/font-awesome-6.min.css 1 -
+/wp-includes/plugins.php 2 -
+/defaul1.php 2 -
+/wp-content/shell20211028.php 4 -
+/administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 1 -
+/ini.php 2 -
+/ccx/index.php 2 -
+/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/admin.php 2 -
+//wp-content/uploads/wp-apxupx.php 1 -
+/wp-mail.php 2 -
+/wp-content/plugins/apikey/apikey.php 2 -
+/wp-content/uploads/elementor/css/post-78.css 100 http://sanmarinoprize.com/
+/wp-ver.php 1 sanmarinoprize.com
+/wp-content/plugins/backup-backup/includes/J 1 -
+/elfinder/php/connector.minimal.php 1 -
+/wp-json/litespeed/v1/cdn_status 7 -
+//wp-admin/js/about.php 1 -
+/wp-includes/IXR/themes.php 4 -
+/wp-content/plugins/wp-automatic/inputs.php 1 sanmarinoprize.com
+/manager/ 1 -
+/alfa-rex.php7 2 -
+/wp-admin/css/colors/blue/index.php 1 sanmarinoprize.com
+/wp-includes/about.php 2 -
+/wp-includes/blocks/table/int/tmpl/index.php 2 -
+/sites/all/modules/plupload/plupload/examples/upload.php 1 -
+/alfanew.php 6 -
+/worm0.PhP7 3 -
+/lv.php 2 -
+/alfanew.php7 4 -
+/wp-aa.php 4 www.google.com
+//wso.php 1 -
+//wp-admin/includes/plugins.php 1 -
+/makeasmtp.php 2 -
+/wp-admin/install.php 4 -
+//wp-admin/images/Mhbgf.php 1 -
+/.sftp-config.json 1 -
+/wp-content/plugins/backup-backup/includes/ 2 -
+/wp-sigunq.php 2 -
+/php/thinkphp/aaaffff123.php 4 -
+/shell20211028.php 4 -
+/cgi-bin/upfile.php 3 sanmarinoprize.com
+//css/install.php 1 -
+/wp-admin/images/index.php 2 -
+/sites/all/libraries/plupload/examples/upload.php 1 -
+/wp-admin/css/about.php 2 -
+/sitemap_index.xml 3 -
+/blog/ 1 -
+/lufix.php 2 -
+/wp-roto/wp-admin/css/index.php 1 sanmarinoprize.com
+/wp-content/plugins/ai-engine/readme.txt 2 -
+/wp-content/themes/seotheme/db.php 4 -
+//wp-content/themes/twentytwentythree/patterns/ 1 -
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php 2 -
+/wp-content/plugins/chauffeur-booking-system/script/jquery.chauffeurBookingFormAdmin.js 1 sanmarinoprize.com
+//st.php 1 -
+/wp-content/themes/qoe/vendor/ernilambar/wp-admin-notice/src/Start-home.php 1 sanmarinoprize.com
+/alfa-rex.php 2 -
+/wp-content/plugins/revslider/includes/external/page/index.php 2 -
+//wp-content/mah.php 1 -
+//wp-includes/install.php 1 -
+//.well-known/acme-challenge/install.php 1 -
+/adminer.php 1 -
+/wp-login.php 7 -
+/autoload_classmap.php 2 -
+/wp-admin/a2.php 1 sanmarinoprize.com
+/elrte/src/elrte.src.html 1 -
+/wp-includes/js/wp-emoji-release.min.js 4 http://www.sanmarinoprize.com/
+//cjfuns.php 1 -
+/wp-json/wp/v2/users/5 2 http://sanmarinoprize.com/
+/wp-admin/images/admin.php 2 -
+/wp-content/wso.php 2 -
+/fm1.php 7 -
+/.well-known/acme-challenge/cloud.php 2 -
+/wp-content/inputs.php 1 sanmarinoprize.com
+/about.php 9 -
+//wp-content/plugins/WordPressCore/ 1 -
+/wp-content/gallery/about.php 2 -
+/wp-content/about.php 2 -
+/wp-content/plugins/seoplugins/db.php 2 -
+/wp-content/uploads/sites/8/upfile.php 1 sanmarinoprize.com
+/blog.php 2 -
+/wp-json/wp/v2/users/ 1 -
+//.well-known/acme-challenge/plugins.php 1 -
+/admin/users/login_do/ 1 -
+/wp-admin/css/colors/index.php 4 -
+/sites/all/libraries/elfinder/connectors/php/connector.php 1 -
+/wp-content/plugins/gotmls/readme.txt 1 -
+/da1.php 1 sanmarinoprize.com
+/images/about.php 2 -
+/wp-includes/wlwmanifest.xml 1 -
+/ioxi02.php 3 -
+/ftp-sync.json 1 -
+//cgi-bin/cgi-bin/about.php 1 -
+/wp-admin/user/about.php 2 -
+//wp-content/plugins/Cache/dropdown.php 1 -
+//wp-admin/css/colors/coffee/profile.php 1 -
+/wp-content/plugins/core-plugin/nxd.php 2 -
+/wp-includes/Requests/about.php 2 -
+/wp-admin/dropdown.php 4 -
+/radio.php 3 -
+//wp-content/plugins/Cache/Cache.php 1 -
+/dropdown.php 6 -
+/wp-includes/ID3/wp-login.php 4 -
+/boqgbnxt.php 1 www.google.com
+/wp-admin/admin-ajax.php 7 -
+/wp-content/themes/travelscape/json.php 2 -
+/new 3 -
+//wp-uploads-config.php 1 -
+/wp-blog.php 3 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/sftp.json 1 -
+/sitemap.ashx 1 -
+/phpmyadmin/index.php 4 -
+/mail.php 2 -
+/wp-admin/css/colors/light/index.php 1 sanmarinoprize.com
+/.ftp-sync.json 2 -
+/wp-boards.php 1 sanmarinoprize.com
+/wp-admin/includes/upfile.php 2 sanmarinoprize.com
+/admin/ 1 -
+/wp-admin/includes/about.php 2 -
+/.well-known/pki-validation/upfile.php 2 sanmarinoprize.com
+/sitemap 1 -
+/upfile.php 3 -
+/shell.php 2 -
+/yanz.php 2 -
+/wp-admin/images/xmrlpc.php 2 -
+/wp-admin/images/about.php 2 -
+/dede/ 1 -
+//vendor/phpunit/phpunit/phpunit.xsd 1 -
+//wp-aa.php 1 -
+/wp-includes/images/smilies/upfile.php 1 sanmarinoprize.com
+/wzy.php 1 -
+/.env 4 -
+//dropdown.php 1 -
+/wp-2019.php 4 -
+/xmlrpc.php 2 -
+/wp-content/upgrade/edit.php 2 -
+/wp-admin/user/xmrlpc.php 2 -
+/sftp-config.json 3 -
+//cgi-bin/themes.php 1 -
+/wp-includes/Text/about.php 2 -
+/wp-content/plugins/wp-meta-seo/readme.txt 1 -
+/.vscode/ftp-sync.json 1 -
+//wp-admin/network/plugins.php 1 -
+/as.php 2 -
+/wp-content/plugins/formidable/pro/js/ofc-library/ofc_upload_image.php 1 -
+/wp-content/plugins/seoplugins/mar.php 2 -
+/.quarantine/upfile.php 1 sanmarinoprize.com
+/repeater.php 6 -
+//.well-known/acme-challenge/xmrlpc.php 1 -
+/wp-includes/theme-compat/wp-conflg.php 2 -
+/wp-content/themes/travel/issue.php 2 -
+//wp-admin/css/plugins.php 1 -
+/wp-content/ccx/index.php 2 -
+/plugins.php 2 -
+//wp-content/plugins/install.php 1 -
+/wp-admin/link-forms.php 1 sanmarinoprize.com
+/chosen.php 5 -
+/wp-admin/x.php 2 -
+//users.php 1 -
+/Wp-includes/amaxx.php 2 -
+/phpmyadmin 1 -
+/wp-content/plugins/civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+//wp-admin/js/about.php7 1 -
+//wp-content/wso.php 1 -
+/wp-content/plugins/moveto/assets/lib/loader_ajax.php 1 http://sanmarinoprize.com
+//wp-admin/css/colors/blue/ 1 -
+//wp-includes/certificates/plugins.php 1 -
+/sitemaps.xml 3 -
+/wp-admin/widgets-blocks.php 1 sanmarinoprize.com
+/wp-privacys.php 1 sanmarinoprize.com
+/wp 4 -
+//wp-includes/rest-api/about.php 1 -
+/wp-woulds.php 1 sanmarinoprize.com
+/users.php 3 -
+/wp-admin/network/licenses.php 1 sanmarinoprize.com
+/index.php 5 sanmarinoprize.com
+//wp-admin/images/install.php 1 -
+/wp-admin/network/upfile.php 1 sanmarinoprize.com
+/wp-content/plugins/press/wp-class.php 4 -
+/components/com_jvideodirect/tools/uploader/php/upload.php 1 -
+//wp-22.php 1 -
+/wp-json/wp/v2/users/3 3 http://sanmarinoprize.com/
+//admin.php 4 -
+/wp-admin/inputs.php 4 www.google.com
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 2 -
+/humans.txt 2 -
+/.well-known/acme-challenge/license.php 2 -
+/wp-admin/css/colors/coffee/index.php 2 -
+/wp-admin/ccx/index.php 2 -
+/music/bak_config.php 1 sanmarinoprize.com
+/wp-admin/index.php 2 sanmarinoprize.com
+//wp-includes/wp-class.php 1 -
+/wp-includes/pomo/about.php 2 -
+/fw.php 2 -
+/wp-content/themes/finley/min.php 4 -
+/wp-content/plugins/wp-apxupx.php 2 -
+/backup_1/cleaner.php 1 sanmarinoprize.com
+/bypass.php 2 -
+/wp-admin/maint/upfile.php 1 sanmarinoprize.com
+//wp-content/uploads/wpr-addons/forms/ 1 -
+/radio.txt 1 sanmarinoprize.com
+/wp-plain.php 2 www.google.com
+//shellv3.php 1 -
+/wp-admin/includes/users.php 1 sanmarinoprize.com
+//my1.php 1 -
+/wp-admin/edit-forms.php 1 sanmarinoprize.com
+/wp-content/plugins/royal-elementor-addons/readme.txt 2 -
+/vxhvzkmu.php 1 www.google.com
+//wp-l0gin.php 1 -
+/wp-admin/includes/class_api.php 2 -
+/atomlib.php 3 -
+/wp-atom.php 1 sanmarinoprize.com
+//chosen.php 1 -
+/nf_tracking.php 2 -
+/wp-content/plugins/backup-backup/modules/gdrivebanner/assets/css/styles.css 2 -
+/assets/css/403.php 2 -
+//wp-seo.php 1 -
+/wp-content/plugins/forminator/assets/fonts/wpmudev-plugin-icons.svg 1 -
+/wp-content/plugins/wp-automatic/inc/csv.php 1 -
+/.well-known/pki-validation/cloud.php 2 -
+/wp-admin/images/upfile.php 2 sanmarinoprize.com
+/wp-includes/customize/amaxx.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 210
+124.248.183.41 31 152 1159244 20240427095116
+180.244.160.51 9 9 0 20240416125416
+180.244.161.115 6 23 268211 20240429125242
+180.244.164.182 6 23 268174 20240402125747
+5.254.18.145 5 5 35609 20240429095509
+85.25.177.176 5 5 45248 20240407142545
+114.142.172.18 5 9 27094 20240408125201
+42.83.147.34 5 5 45244 20240430092159
+54.88.179.33 5 5 220785 20240426042330
+143.198.85.181 5 5 220785 20240410224341
+128.90.141.40 4 4 36208 20240429061630
+178.62.82.141 4 4 37520 20240422155609
+58.49.233.126 3 3 27137 20240414135605
+180.244.167.127 3 20 259163 20240421125234
+111.172.249.49 3 3 27164 20240421214409
+180.244.167.140 3 7 18024 20240413125150
+58.53.218.148 3 3 132471 20240410013016
+157.46.79.49 3 38 771348 20240412155917
+36.134.147.75 3 3 27147 20240430202025
+35.171.144.152 3 3 132471 20240425002220
+44.242.144.76 2 2 14168 20240407133408
+60.188.57.0 2 2 18087 20240420135753
+182.42.110.255 2 2 18089 20240409051215
+129.226.146.179 2 2 18097 20240415001901
+117.62.235.53 2 2 18096 20240423050713
+198.235.24.222 1 1 44157 20240426064352
+192.42.116.173 1 1 9042 20240407091211
+65.154.226.168 1 1 9048 20240422202024
+69.10.48.138 1 1 44157 20240420020503
+54.212.6.134 1 1 9059 20240427083336
+205.210.31.64 1 1 44157 20240429215243
+87.103.246.30 1 1 0 20240419200423
+205.210.31.109 1 1 44157 20240427181239
+198.235.24.150 1 1 44157 20240413071650
+89.248.172.115 1 1 9011 20240413165740
+198.235.24.220 1 1 44157 20240409171609
+178.254.38.45 1 1 9074 20240417205404
+205.210.31.108 1 1 44157 20240416124447
+43.159.63.75 1 1 9011 20240413175248
+64.227.155.200 1 1 9059 20240427104251
+193.26.115.188 1 2 44481 20240421073525
+193.36.90.181 1 1 9059 20240426215734
+135.148.195.4 1 1 9056 20240425094242
+144.126.193.196 1 1 9048 20240423083530
+182.42.111.156 1 1 9052 20240407140702
+194.35.117.167 1 17 107733 20240424140431
+114.96.103.33 1 1 9104 20240429211207
+198.235.24.71 1 1 44157 20240429211850
+104.238.189.239 0 1 35444 
+187.16.226.119 1 1 7085 20240406133256
+13.228.225.19 0 1 141063 
+123.187.240.242 1 1 9019 20240403045231
+54.193.78.174 1 1 9059 20240426215923
+182.44.8.254 1 1 9035 20240424043918
+89.248.174.11 1 1 9023 20240409141122
+185.220.101.75 1 1 9038 20240416163205
+62.141.44.236 1 1 9059 20240426214804
+45.154.35.141 1 1 44157 20240406031618
+36.133.172.82 1 1 9019 20240402094213
+157.49.197.51 0 1 18736 
+43.130.47.136 1 1 9034 20240419063649
+43.163.1.85 2 2 18091 20240413075823
+206.189.108.253 1 1 9042 20240407091334
+159.223.152.61 1 1 9055 20240401100211
+45.55.43.146 1 1 9037 20240421101423
+150.109.16.20 2 2 18083 20240426135112
+161.35.90.10 1 1 9031 20240411092939
+185.220.101.32 1 1 9059 20240426221448
+91.92.247.48 1 1 44157 20240403091408
+43.163.8.36 2 2 18078 20240429090419
+64.227.155.175 1 1 9056 20240425105916
+103.23.203.12 1 1 7092 20240414200209
+185.220.101.134 1 1 9059 20240426221501
+124.226.222.66 1 1 9040 20240408190429
+135.148.195.7 1 1 9048 20240404061808
+203.2.64.59 1 1 9048 20240403141141
+125.75.66.97 1 1 9042 20240407044828
+135.148.195.14 1 2 150137 20240417131355
+180.244.160.186 2 2 18065 20240415125129
+37.76.154.94 1 1 44157 20240425174325
+182.44.10.67 1 1 9038 20240417044302
+62.77.154.96 2 2 18055 20240426013352
+182.43.70.143 1 1 9056 20240425033925
+101.44.248.89 1 1 9049 20240413082330
+36.111.67.189 1 1 9011 20240414044129
+43.159.128.68 1 1 9049 20240412220720
+188.126.89.155 1 1 44157 20240428131134
+101.44.248.225 1 1 9048 20240404111235
+205.210.31.67 1 1 44157 20240412145600
+101.44.249.64 1 1 9019 20240403072021
+34.212.167.18 1 1 9034 20240419113023
+175.6.217.4 1 1 9052 20240408092507
+123.249.99.231 1 1 9050 20240412054850
+192.42.116.213 1 1 9059 20240426221446
+38.89.70.199 2 2 18065 20240410034436
+198.235.24.29 1 1 44157 20240420170602
+170.106.171.77 1 1 9050 20240412122106
+180.244.161.28 1 1 9019 20240401125142
+182.44.2.148 1 1 9074 20240418023908
+185.220.101.9 1 1 9042 20240407091212
+140.213.106.157 1 18 248799 20240426130422
+185.218.1.134 1 1 9038 20240417072526
+50.112.213.178 1 1 44157 20240411044911
+52.27.107.106 1 1 9056 20240425103444
+203.33.203.148 1 1 9034 20240418204600
+91.92.255.55 0 1 35444 
+44.200.191.157 1 1 9074 20240418014851
+167.71.233.92 1 1 9038 20240417103759
+179.43.191.18 1 1 9056 20240425085618
+101.44.251.251 1 1 9052 20240407131750
+106.75.100.92 1 2 150105 20240419155830
+124.156.193.7 1 1 9038 20240416174854
+45.151.167.11 1 1 9048 20240403224539
+157.230.26.159 1 1 9057 20240429053059
+103.20.82.155 1 1 9066 20240415002057
+195.90.221.76 1 1 9023 20240409214730
+167.99.188.88 1 1 9019 20240403085232
+13.52.255.231 1 1 9049 20240405231930
+42.83.147.53 1 1 9038 20240415181458
+3.238.15.246 1 1 7076 20240412201209
+123.60.68.42 1 1 9042 20240420043216
+87.236.176.195 0 1 141063 
+43.134.89.111 2 2 18067 20240425150855
+171.229.251.10 1 1 7088 20240421144803
+154.39.66.38 1 1 9011 20240414084025
+87.236.176.85 1 1 9042 20240405104503
+5.42.65.47 1 1 9049 20240413015944
+38.150.5.90 1 1 9104 20240430003952
+167.172.35.107 1 1 9049 20240413082715
+198.235.24.175 1 1 44157 20240416174733
+138.197.140.97 1 1 9042 20240405091616
+159.203.62.85 1 1 9066 20240415005445
+91.92.242.55 1 1 44157 20240424205233
+43.135.166.178 1 1 9037 20240421005947
+180.110.203.108 1 1 9074 20240418111731
+45.141.215.63 1 1 9048 20240403224516
+178.254.24.91 1 1 9055 20240401034025
+45.138.16.42 1 1 9042 20240407091212
+84.38.188.16 1 1 44157 20240421151706
+164.92.186.184 1 1 9057 20240429092924
+91.92.241.52 0 1 35444 
+192.42.116.211 2 2 18112 20240424201313
+54.214.225.244 1 1 9040 20240409112814
+185.220.100.253 1 1 9059 20240426221454
+93.158.90.35 1 1 9052 20240408095749
+15.204.194.30 0 1 141063 
+185.129.61.6 1 1 9048 20240403224514
+182.42.105.144 1 1 9019 20240401142844
+198.235.24.166 1 1 44157 20240420131018
+68.183.9.189 1 1 9066 20240415110054
+18.237.65.73 1 1 9055 20240401122612
+5.133.192.197 1 1 9011 20240413231925
+198.235.24.120 1 1 44157 20240423182807
+54.151.116.215 1 1 9049 20240413000254
+130.255.166.24 1 1 9104 20240429230540
+192.210.230.235 2 2 9066 20240415034336
+43.128.100.206 1 1 9019 20240402003835
+120.71.59.24 1 1 9038 20240415192105
+43.155.183.138 1 1 9038 20240416062508
+101.91.148.219 1 1 9019 20240402190631
+185.102.237.128 1 1 7088 20240418211155
+158.69.25.39 1 1 9104 20240429154027
+43.133.66.151 1 1 9042 20240404192244
+202.74.40.142 2 2 88314 20240429063250
+13.52.102.123 1 1 9042 20240420004640
+89.248.174.34 1 1 9052 20240407214448
+45.141.215.88 1 1 9042 20240407091210
+64.23.200.120 1 1 9055 20240401103737
+199.244.88.225 1 1 9038 20240416195639
+93.158.90.46 1 1 9056 20240425020305
+52.81.44.220 1 2 150084 20240427143717
+43.159.128.172 2 2 18115 20240427015900
+180.97.221.86 1 1 9104 20240429211740
+103.144.94.180 1 1 7076 20240413045038
+180.244.164.77 2 2 18113 20240414125506
+150.109.253.34 1 1 9035 20240423172835
+188.163.68.179 1 1 44157 20240425114015
+192.36.109.117 1 1 9042 20240419125118
+167.99.176.26 1 1 9040 20240409092827
+115.231.78.8 1 1 44157 20240417074103
+35.165.32.189 1 1 9057 20240429115254
+34.209.22.4 1 1 9038 20240417105127
+180.244.163.220 1 1 9050 20240430125129
+152.32.229.8 1 1 7069 20240416133325
+180.244.162.232 2 15 18076 20240410125624
+52.81.87.90 1 2 150086 20240410124352
+43.128.110.17 2 2 18065 20240420042551
+135.148.195.8 0 2 282126 
+101.44.250.185 1 1 9042 20240405012054
+159.138.90.16 1 1 9031 20240410213846
+52.81.248.110 1 2 150106 20240422034251
+18.207.192.79 1 1 44157 20240429163227
+54.245.49.107 1 1 9059 20240427113352
+128.90.170.38 2 2 18098 20240413104756
+110.166.71.39 1 1 9042 20240419171355
+43.159.129.209 1 1 9049 20240406095156
+89.23.107.86 1 1 9052 20240408121340
+49.0.231.208 1 1 9035 20240424041158
+135.148.195.3 0 1 141063 
+43.153.93.68 2 2 18044 20240428001705
+45.138.16.203 1 1 9056 20240424201255
+209.38.136.45 1 1 9034 20240419083708
+43.155.152.154 1 1 9052 20240408003010
+107.186.238.28 1 1 9074 20240418031012
+38.45.127.226 1 1 9050 20240430225232
+36.41.75.167 2 2 18146 20240430081219
+185.220.101.68 1 1 9048 20240403224523
+135.148.195.13 0 1 141063 
+222.79.103.59 1 1 9037 20240421110852
+198.235.24.199 1 1 44157 20240422205428
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240401 9 9 81387 9
+20240402 9 26 295231 4
+20240403 10 10 125473 10
+20240404 7 9 380565 7
+20240405 10 11 266619 9
+20240406 7 24 122539 7
+20240407 19 19 167960 14
+20240408 11 15 81394 7
+20240409 9 26 391283 9
+20240410 15 46 726998 10
+20240411 7 24 338121 6
+20240412 11 47 921672 8
+20240413 17 21 203790 15
+20240414 9 9 70370 6
+20240415 13 17 99575 10
+20240416 17 17 131535 9
+20240417 10 12 398695 8
+20240418 9 10 176176 9
+20240419 9 24 213367 9
+20240420 11 32 472282 8
+20240421 10 28 391043 8
+20240422 10 11 267970 7
+20240423 4 4 71288 4
+20240424 8 24 206184 7
+20240425 10 12 477957 10
+20240426 13 30 427633 13
+20240427 8 24 248557 8
+20240428 2 2 53178 2
+20240429 26 45 791870 16
+20240430 6 6 54462 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+2mn-5mn 5
+0s-30s 242
+5mn-15mn 3
+30s-2mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 290 3884518 255 247
+/live-draw/ 15 88382 0 4
+/history-result/ 11 69539 0 4
+END_SIDER

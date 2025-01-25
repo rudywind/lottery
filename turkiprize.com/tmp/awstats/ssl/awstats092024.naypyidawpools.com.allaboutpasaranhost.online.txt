@@ -1,0 +1,984 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202409 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.naypyidawpools.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2046                
+POS_TIME 2732                
+POS_VISITOR 22312               
+POS_DAY 29585               
+POS_DOMAIN 3550                
+POS_LOGIN 4272                
+POS_ROBOT 4427                
+POS_WORMS 5349                
+POS_EMAILSENDER 5480                
+POS_EMAILRECEIVER 5623                
+POS_SESSION 29786               
+POS_SIDER 29984               
+POS_FILETYPES 5758                
+POS_DOWNLOADS 5999                
+POS_OS 6047                
+POS_BROWSER 6370                
+POS_SCREENSIZE 7577                
+POS_UNKNOWNREFERER 7651                
+POS_UNKNOWNREFERERBROWSER 8096                
+POS_ORIGIN 8340                
+POS_SEREFERRALS 8482                
+POS_PAGEREFS 8645                
+POS_SEARCHWORDS 8793                
+POS_KEYWORDS 8945                
+POS_MISC 2396                
+POS_ERRORS 9004                
+POS_CLUSTER 4128                
+POS_SIDER_404 9138                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240905081203 2288 522896 16321942141543
+FirstTime 20240901000051
+LastTime 20240905081203
+LastUpdate 20240905084043 2288 0 2288 0 0
+TotalVisits 192                 
+TotalUnique 167                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 193                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 280 280 247487 22 24 6730
+1 295 304 610341 17 31 5806129
+2 483 494 179972 23 40 221600
+3 438 444 406688 14 55 112423
+4 423 432 348759 57 68 28198
+5 483 493 84690 77 80 7451
+6 399 400 107387 28 32 78339
+7 436 436 21954 6 6 312
+8 382 382 281398 42 46 90980
+9 245 245 15780 7 10 459
+10 232 242 51309 61 181 6977713
+11 97 115 85820 22 23 78152
+12 386 553 3282856 26 28 1495
+13 396 405 32797 7 10 5177
+14 386 393 506783 19 31 35251
+15 355 355 72466 32 33 46455
+16 322 322 44984 14 15 540
+17 369 371 94720 414 526 1716280
+18 368 381 79774 6 10 7562
+19 400 400 17925 16 23 30051
+20 307 351 1502592 11 24 62967
+21 256 256 22585 7 11 9208
+22 312 332 78231 57 60 5612
+23 158 158 47328 142 148 36232
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 40
+ca 5038 5038 426093
+kh 2947 3044 2877217
+us 79 186 2636686
+in 23 23 199755
+my 23 94 820453
+cn 11 16 101923
+de 10 10 100180
+gb 8 8 38762
+bg 7 7 186245
+fr 7 7 75289
+jp 6 6 41592
+tr 4 4 1018
+ru 4 14 73228
+br 3 3 813
+sg 3 3 0
+be 3 18 342442
+ir 2 2 5576
+nl 2 2 410
+au 2 2 1010
+cr 2 2 410
+ph 2 2 806
+pl 2 2 608
+id 2 33 266131
+vn 2 2 824
+hk 1 1 205
+th 1 1 403
+tw 1 1 205
+ma 1 1 8267
+co 1 1 7170
+lt 1 1 205
+ua 1 1 205
+no 1 1 205
+vg 1 1 403
+es 1 1 403
+cl 1 1 205
+nz 1 1 403
+kr 1 1 205
+se 1 1 8261
+am 1 1 205
+cz 1 1 205
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 20
+Go\-http\-client/ 240 13928116 20240905014959 0
+AhrefsBot/ 62 177053 20240905030254 6
+Googlebot/ 29 100310 20240904045455 6
+bot[\s_+:,\.\;\/\\-] 25 36680 20240904232419 10
+SemrushBot/ 22 31154 20240904053831 17
+bingbot/ 16 23609 20240905010516 2
+SeznamBot/ 10 71573 20240904220008 3
+YandexBot/ 8 17244 20240904173533 6
+facebookexternalhit/ 8 96378 20240905012541 5
+Googlebot\-Image/ 7 155968 20240904025852 0
+curl 6 1116 20240902172804 0
+unknown 5 535 20240905043556 5
+no_user_agent 5 148665 20240904112606 0
+MJ12bot/ 4 14578 20240904104333 2
+(firefox/)([0-9]\.|[0-1][0]\.) 4 9486 20240904084249 0
+yandex 3 27495 20240904173534 0
+Barkrowler 2 8374 20240904043301 1
+crawl 1 20949 20240903155022 0
+DuckDuckGo\-Favicons\-Bot/ 1 5371 20240902103526 0
+DuckDuckBot-Https 1 5371 20240901102008 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+gif 8 60172 0 0
+js 182 2263818 0 0
+html 92 2806033 0 0
+css 115 318251 0 0
+png 27 811938 0 0
+svg 4 3036 0 0
+ttf 2 3680 0 0
+php 8111 1955737 0 0
+Unknown 2 1238 0 0
+xml 1 723 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+androidnougat 7 7
+android10 46 6
+win10 3339 3115
+macosx15 1 1
+unix 1 1
+Unknown 5064 5037
+androidmarshmallow 3 3
+android 3 3
+macosx10 4 4
+ios_iphone 11 11
+winxp 1 1
+win8 1 1
+linux 32 2
+win7 8 8
+linuxubuntu 1 1
+win8.1 2 2
+macosx 6 1
+macosx14 10 0
+winlong 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 56
+firefox52.0 2 2
+chrome53.0.3244.394 1 1
+chrome84.0.4147.135 1 1
+chrome61.0.3163.100 1 1
+firefox43.0 1 1
+firefox63.0 1 1
+firefox57.0 1 1
+chrome79.0.3945.117 1 1
+chrome120.0.0.0 29 5
+firefox115 1 1
+chrome87.0.4280.88 6 1
+msie7.0 1 1
+chrome60.0.3112.90 2 2
+chrome106.0.0.0 20 0
+chrome72.0.3626.121 2 2
+chrome127.0.0.0 33 2
+chrome119.0.0.0 1 1
+chrome66.0.3359.117 2 2
+mozilla 36 9
+chrome52.0.2717.98 3 3
+chrome40.0.2214.93 2 2
+chrome122.0.0.0 1 1
+chrome124.0.0.0 12 2
+chrome74.0.3729.169 2 2
+chrome68.0.3440.106 1 1
+netscape5.0 1 1
+android 3 3
+firefox20.6.14 1 1
+Unknown 5027 5027
+firefox122.0 11 11
+chrome121.0.0.0 8 8
+firefox126.0 1 1
+chrome85.0.4182.0 20 0
+chrome91.0.4472.114 3 3
+firefox79.0 1 1
+chrome91.0.4472.124 5 5
+chrome128.0.0.0 3137 2969
+edge17 1 1
+chrome60.0.3112.107 7 7
+chrome21.0.1180.83 1 1
+firefox95.0 2 2
+firefox40.1 1 1
+chrome78.0.3904.62 2 2
+chrome126.0.0.0 110 90
+chrome58.0.3029.110 3 3
+chrome57.0.2987.133 1 1
+chrome80.0.3987.149 4 4
+chrome79.0.3945.130 1 1
+chrome65.0.3152.119 4 4
+chrome90.0.4430.212 1 1
+opera112.0.0.0 10 0
+chrome78.0.3904.108 1 1
+chrome39.0.2171.95 2 2
+safari13.0.3 10 10
+chrome80.0.3987.162 1 1
+chrome118.0.0.0 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+python-requests/2.32.3 20240903124224
+Softaculous 20240905040534
+Mozilla/5.0_zgrab/0.x 20240901142712
+WordPress/6.6.1;_https://naypyidawpools.com 20240905081203
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240902200333
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240904010841
+python-requests/2.26.0 20240902210257
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+python-requests/2.32.3 20240903124224
+WordPress/6.6.1;_https://naypyidawpools.com 20240905081203
+Softaculous 20240905040534
+python-requests/2.26.0 20240902210257
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 5218 5240
+From1 0 0
+From2 1 1
+From3 0 0
+From4 2989 3303
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 18 0
+401 34 3957
+301 87 0
+403 380 471960
+404 526 9374
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 378
+/wp-content/plugins/give/readme.txt 1 -
+/16/lottery-28-mei-2024/ 2 -
+/css/ 2 -
+/16/lottery-14-august-2024/ 3 -
+/16/lottery-11-mei-2024/ 1 -
+/wp-content/themes/deeds/framework/helpers/fontupload.php 1 -
+/16/lottery-09-march-2024-2/ 1 -
+/16/lottery-25-march-2024/ 1 -
+/test/wp-admin/install.php 1 -
+/lottery/lottery-20-feb-2023/ 1 -
+/lottery/lottery-18-dec-2022/ 1 -
+/16/lottery-12-mei-2024/ 1 -
+/16/lottery-02-juni-2024/ 1 -
+/cong.php 1 -
+/16/lottery-27-march-2024/ 1 -
+/16/lottery-07-mei-2024/ 1 -
+/wp-content/themes/seotheme/db.php 7 www.google.com
+/lottery/lottery-29-mar-2023/ 1 -
+/humans.txt 1 https://www.naypyidawpools.com/humans.txt
+/lottery/lottery-22-october-2023/ 1 -
+/wp-content/plugins/apikey/apikey.php 3 -
+/lottery/lottery-18-sep-2022/ 1 -
+/.DS_Store 3 -
+/contact-us 1 -
+/16/lottery-24-mei-2024/ 1 -
+/lottery/lottery-26-mar-2023/ 1 -
+/plugins/content/apismtp/apismtp.php 3 -
+/lottery/lottery-24-nov-2022/ 1 -
+/wp-content/themes/twentyeleven/functions.php 1 -
+/lottery/lottery-31-may-2023/ 1 -
+/lottery/lottery-27-may-2023/ 1 -
+/lottery/lottery-08-apr-2023/ 1 -
+/16/lottery-01-march-2024/ 1 -
+/16/lottery-15-august-2024/ 3 -
+/backup/ 1 -
+/lottery/lottery-17-june-2023/ 1 -
+/lottery/lottery-10-feb-2023/ 1 -
+/16/218/ 1 -
+/16/lottery-28-march-2024/ 1 -
+/lottery/lottery-19-feb-2023/ 1 -
+/16/lottery-12-juli-2024/ 1 -
+/lottery/lottery-29-dec-2022/ 1 -
+/16/lottery-03-juni-2024/ 2 -
+/16/lottery-15-august-2024-2/ 3 -
+/lottery/lottery-23-june-2023/ 1 -
+/16/lottery-09-juli-2024/ 1 -
+/wp-header.php 1 -
+/temp/ 1 -
+/lottery/lottery-21-october-2023/ 1 -
+/admin.php 4 -
+/debug/default/view 3 -
+/16/lottery-08-mei-2024/ 2 -
+/lottery/lottery-25-august-2023/ 1 -
+/wp-plain.php 3 www.google.com
+/lottery/lottery-05-may-2023/ 1 -
+/lottery/lottery-20-jan-2023/ 1 -
+/wp-content/themes/twentythirteen/functions.php 1 -
+/lottery/lottery-06-feb-2023/ 1 -
+/16/lottery-22-juli-2024/ 1 -
+/16/lottery-25-juni-2024/ 1 -
+/16/lottery-19-march-2024/ 1 -
+/.well-known/security.txt 1 https://www.naypyidawpools.com/.well-known/security.txt
+/16/lottery-08-juni-2024/ 1 -
+/16/lottery-18-march-2024/ 1 -
+/wp-add.php 4 www.google.com
+/_all_dbs 3 -
+/wp-content/plugins/hb-audio-gallery/lib/upload_picture.php 1 -
+/site/wp-admin/install.php 1 -
+/16/lottery-27-mei-2024/ 1 -
+/16/lottery-12-august-2024/ 2 -
+/16/lottery-14-march-2024/ 1 -
+/lottery/lottery-26-october-2023/ 1 -
+/lottery/lottery-05-february-2024/ 1 -
+/16/lottery-17-juli-2024/ 1 -
+/lottery/lottery-09-may-2023/ 1 -
+/16/lottery-27-march-2024-2/ 1 -
+/lottery/lottery-28-oct-2022/ 1 -
+/lottery/lottery-10-dec-2022/ 2 -
+/16/lottery-11-march-2024-3/ 1 -
+/16/lottery-04-mei-2024/ 1 -
+/lottery/lottery-22-september-2023/ 1 -
+/assets/fileupload/server/php/ 1 -
+/16/lottery-15-march-2024-2/ 1 -
+/16/lottery-25-august-2024/ 3 -
+/16/lottery-11-juni-2024/ 2 -
+/.idea/workspace.xml 1 -
+/dropdown.php 1 -
+/16/lottery-01-juli-2024/ 1 -
+/16/lottery-24-march-2024/ 1 -
+/lottery/lottery-27-oct-2022/ 1 -
+/16/lottery-04-march-2024/ 1 -
+/contact 1 -
+/16/lottery-30-august-2024/ 1 -
+/16/lottery-06-juni-2024/ 1 -
+/16/lottery-30-juli-2024/ 2 -
+/16/lottery-29-march-2024/ 1 -
+/16/lottery-21-august-2024/ 3 -
+/lottery/lottery-16-jan-2023/ 1 -
+/bless.php 2 -
+/16/lottery-22-juni-2024/ 1 -
+/wordpress/wp-admin/install.php 1 -
+/16/lottery-08-august-2024/ 2 -
+/16/lottery-21-juni-2024/ 1 -
+/wp-content/plugins/easy2map-photos/includes/MapPinIconSave.php 1 -
+/16/lottery-14-juni-2024/ 1 -
+/16/lottery-08-march-2024/ 1 -
+/s/6373e2930323e203e2236313/_/ 3 -
+/wp-content/plugins/social-networking-e-commerce-1/classes/views/social-photo/upload_photo1.php 1 -
+/fileupload/server/php/ 1 -
+/simple.php 3 -
+/16/lottery-01-juni-2024/ 2 -
+/16/lottery-02-juli-2024/ 1 -
+/16/lottery-19-juli-2024/ 1 -
+/old/wp-admin/install.php 1 -
+/16/lottery-24-august-2024/ 3 -
+/16/lottery-13-august-2024/ 3 -
+/16/lottery-07-juli-2024/ 1 -
+/16/lottery-04-juni-2024/ 1 -
+/16/lottery-06-mei-2024/ 1 -
+/lottery/lottery-20-july-2023/ 1 -
+/16/lottery-18-march-2024-2/ 1 -
+/lottery/lottery-02-oct-2022/ 1 -
+/16/lottery-27-juli-2024/ 1 -
+/blog/wp-admin/install.php 1 -
+/new/ 1 -
+/16/lottery-17-march-2024/ 1 -
+/cfide/scripts/ajax/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/alfanew.php 1 -
+/16/lottery-03-august-2024/ 2 -
+/lottery/select-lottery-03-september-2023/ 1 -
+/tanzhen.php 1 http://naypyidawpools.com/tanzhen.php
+/16/lottery-20-august-2024/ 2 -
+/16/lottery-24-juli-2024/ 1 -
+/16/lottery-10-juni-2024/ 2 -
+/telescope/requests 3 -
+/html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/lottery/lottery-10-september-2023/ 1 -
+/16/lottery-29-march-2024-2/ 1 -
+/16/lottery-28-juni-2024/ 1 -
+/16/lottery-31-august-2024/ 1 -
+/lottery/lottery-30-sep-2022/ 1 -
+/lottery/select-lottery-10-october-2023/ 1 -
+/16/209/ 1 -
+/wp.php 1 -
+/16/lottery-07-august-2024/ 2 -
+/lottery/lottery-10-july-2023/ 1 -
+/16/lottery-10-august-2024/ 2 -
+/16/lottery-26-march-2024/ 2 -
+/alfa-rex.php 1 -
+/16/lottery-13-mei-2024/ 1 -
+/wp-content/plugins/admin.php 1 -
+/16/lottery-12-juni-2024/ 1 -
+/16/lottery-06-august-2024/ 2 -
+/16/lottery-10-mei-2024/ 1 -
+/16/lottery-15-mei-2024/ 1 -
+/16/lottery-17-juni-2024/ 1 -
+/16/lottery-02-august-2024/ 2 -
+/lottery/lottery-24-oct-2022/ 1 -
+/16/lottery-18-juli-2024/ 2 -
+/lottery/lottery-11-nov-2022/ 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 3 -
+/cms/wp-admin/install.php 1 -
+/16/lottery-11-juli-2024/ 1 -
+/16/lottery-03-march-2024/ 1 -
+/wp-content/plugins/fix/up.php 3 -
+/admin/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/lottery/lottery-13-mar-2023/ 1 -
+/16/lottery-26-mei-2024/ 1 -
+/16/lottery-19-juni-2024/ 1 -
+/wp-head.php 2 -
+/plugins/content/apismtp/apismtp.php.suspected 3 -
+/16/lottery-12-march-2024/ 1 -
+/16/lottery-19-mei-2024/ 2 -
+/16/lottery-03-juli-2024/ 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 3 www.google.com
+/16/lottery-20-juni-2024/ 1 -
+/lottery/lottery-13-jan-2023/ 1 -
+/16/lottery-29-august-2024/ 2 -
+/lottery/lottery-08-september-2023/ 1 -
+/lottery/lottery-05-feb-2023/ 1 -
+/v2/_catalog 3 -
+/lottery/lottery-20-may-2023/ 1 -
+/16/lottery-23-august-2024/ 3 -
+/wp/ 1 -
+/lottery/lottery-13-may-2023/ 1 -
+/lottery/lottery-07-dec-2022/ 1 -
+/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/16/lottery-23-mei-2024/ 1 -
+/16/lottery-02-march-2024/ 1 -
+/%E2%96%93%D1%85%E2%95%9D%E2%96%A0%E2%94%90%D0%BA%E2%95%96%D0%B2%E2%95%A6%E2%95%A1%E2%94%9C%D1%9E.txt 1 http://naypyidawpools.com/%E2%96%93%D1%85%E2%95%9D%E2%96%A0%E2%94%90%D0%BA%E2%95%96%D0%B2%E2%95%A6%E2%95%A1%E2%94%9C%D1%9E.txt
+/admin/plugins/file-uploader/server/php/ 1 -
+/16/lottery-19-march-2024-2/ 2 -
+/lottery/lottery-02-october-2023/ 1 -
+/16/lottery-01-august-2024/ 2 -
+/16/lottery-04-juli-2024/ 1 -
+/lottery/lottery-03-august-2023/ 1 -
+/oldsite/wp-admin/install.php 1 -
+/wp-content/plugins/apikey/apikey.php.suspected 3 -
+/16/lottery-06-juli-2024/ 1 -
+/wp/wp-admin/install.php 1 -
+/16/lottery-25-mei-2024/ 1 -
+/16/lottery-20-mei-2024/ 2 -
+/16/lottery-29-mei-2024/ 2 -
+/16/lottery-05-juli-2024/ 1 -
+/wp-content/themes/teamwork/upload/upload.php 1 -
+/16/lottery-16-mei-2024/ 1 -
+/lottery/lottery-04-apr-2023/ 1 -
+/16/lottery-14-juli-2024/ 1 -
+/lottery/lottery-24-october-2023/ 1 -
+/options.php 1 -
+/404.php 1 -
+/lottery/lottery-07-mar-2023/ 1 -
+/16/lottery-15-juli-2024/ 1 -
+/16/lottery-17-march-2024-2/ 1 -
+/lottery/lottery-10-apr-2023/ 1 -
+/lottery/lottery-06-oct-2022/ 1 -
+/16/lottery-26-august-2024/ 4 -
+/16/lottery-30-march-2024/ 1 -
+/16/lottery-11-march-2024/ 1 -
+/lottery/lottery-11-oct-2022/ 1 -
+/16/lottery-03-mei-2024/ 1 -
+/old/ 1 -
+/16/lottery-30-march-2024-2/ 1 -
+/16/lottery-13-march-2024/ 1 -
+/wp-json/wp/v2/pages/12 1 -
+/16/lottery-11-august-2024/ 2 -
+/wordpress/ 1 -
+/lottery/lottery-30-oct-2022/ 1 -
+/ 17 -
+/16/lottery-04-august-2024/ 2 -
+/16/lottery-27-juni-2024/ 1 -
+/adminer.php 2 -
+/alfacgiapi/perl.alfa 3 www.google.com
+/users.php 1 -
+/16/lottery-10-juli-2024/ 1 -
+/16/lottery-26-juli-2024/ 1 -
+/wp-content/plugins/wpe-indoshipping/admin/upload-file.php 1 -
+/wteatfip.php 1 www.google.com
+/16/lottery-18-august-2024/ 2 -
+/16/lottery-16-juni-2024/ 1 -
+/16/lottery-27-august-2024/ 2 -
+/16/lottery-21-march-2024/ 1 -
+/lottery/lottery-25-october-2023/ 1 -
+/16/lottery-02-september-2024/ 1 -
+/lottery/lottery-08-oct-2022/ 1 -
+/security.txt 1 https://www.naypyidawpools.com/security.txt
+/lottery/lottery-17-july-2023/ 1 -
+/16/lottery-07-juni-2024/ 2 -
+/16/lottery-05-mei-2024/ 1 -
+/16/lottery-09-mei-2024/ 1 -
+/16/lottery-15-march-2024/ 1 -
+/16/lottery-21-juli-2024/ 1 -
+/16/lottery-22-march-2024/ 1 -
+/assets/upload_image.php 1 -
+/lottery/lottery-01-july-2023/ 1 -
+/static/admin/login.html 1 http://naypyidawpools.com/static/admin/login.html
+/classwithtostring.php 1 -
+/lottery/lottery-20-august-2023/ 1 -
+/lottery/lottery-22-mar-2023/ 1 -
+/16/lottery-19-august-2024/ 4 -
+/radio.php 1 -
+/lottery/lottery-17-august-2023/ 1 -
+/wp-content/plugins/about.php 1 -
+/lottery/lottery-07-may-2023/ 1 -
+/server 3 -
+/wp-content/uploads/2022/12/naypyidaw-fav.png 1 -
+/16/lottery-14-juni-2024-2/ 1 -
+/lottery/select-lottery-11-october-2023/ 1 -
+/16/lottery-05-march-2024/ 1 -
+/16/lottery-31-mei-2024/ 1 -
+/16/lottery-09-march-2024/ 1 -
+/style.php 1 -
+/mah.php 2 -
+/lottery/lottery-10-june-2023/ 1 -
+/16/lottery-17-august-2024/ 2 -
+/16/lottery-08-juli-2024/ 1 -
+/about.php 2 -
+/wp-content/themes/twentytwenty/functions.php 1 -
+/16/lottery-29-juli-2024/ 2 -
+/16/lottery-13-juni-2024/ 1 -
+/16/lottery-23-juni-2024/ 1 -
+/config.json 3 -
+/web/wp-admin/install.php 1 -
+/lottery/lottery-19-nov-2022/ 1 -
+/16/lottery-01-mei-2024/ 1 -
+/16/212/ 1 -
+/lottery/lottery-05-apr-2023/ 1 -
+/16/lottery-13-juli-2024/ 2 -
+/wp-content/plugins/moveto/assets/lib/loader_ajax.php 1 -
+/16/lottery-23-march-2024/ 2 -
+/16/lottery-16-march-2024-2/ 1 -
+/16/lottery-11-march-2024-2/ 1 -
+/16/lottery-28-juli-2024/ 3 -
+/wp-content/plugins/advert-manager-plugin/upload-file.php 1 -
+/16/lottery-25-juli-2024/ 1 -
+/16/lottery-06-march-2024/ 1 -
+/16/lottery-02-mei-2024/ 2 -
+/16/lottery-31-juli-2024/ 2 -
+/16/lottery-17-mei-2024/ 2 -
+/lottery/lottery-20-september-2023/ 1 -
+/16/lottery-20-juli-2024/ 1 -
+/login.action 3 -
+/test/ 1 -
+/16/lottery-30-mei-2024/ 1 -
+/wp-aa.php 1 -
+/lottery/lottery-10-nov-2022/ 1 -
+/16/lottery-22-august-2024/ 4 -
+/lottery/lottery-15-august-2023/ 1 -
+/lottery/select-lottery-07-october-2023/ 1 -
+/16/lottery-01-september-2024/ 1 -
+/lottery/lottery-21-dec-2022/ 1 -
+/wp-content/plugins/grapefile/grapeupload2.php 1 -
+/wp-content/plugins/wc-multivendor-marketplace/readme.txt 1 -
+/lottery/lottery-14-dec-2022/ 1 -
+/16/lottery-26-juni-2024/ 1 -
+/wp-content/about.php 1 -
+/16/lottery-28-august-2024/ 2 -
+/16/221/ 1 -
+/16/lottery-14-march-2024-2/ 1 -
+/lottery/lottery-21-june-2023/ 1 -
+/lottery/lottery-31-august-2023/ 1 -
+/lottery/lottery-04-july-2023/ 1 -
+/16/206/ 1 -
+/16/lottery-29-juni-2024/ 1 -
+/16/lottery-18-mei-2024/ 1 -
+/lottery/lottery-22-november-2023/ 1 -
+/16/lottery-21-mei-2024/ 2 -
+/lottery/lottery-02-august-2023/ 1 -
+/wp-content/plugins/wp-ecommerce-cvs-importer/upload/upload-file.php 1 -
+/16/215/ 1 -
+/16/lottery-09-august-2024/ 2 -
+/lottery/lottery-06-dec-2022/ 1 -
+/lottery/lottery-04-august-2023/ 1 -
+/16/lottery-28-march-2024-2/ 1 -
+/new/wp-admin/install.php 1 -
+/backup/wp-admin/install.php 1 -
+/lottery/lottery-31-oct-2022/ 1 -
+/16/lottery-22-mei-2024/ 1 -
+/lottery/lottery-04-june-2023/ 1 -
+/16/lottery-30-juni-2024/ 1 -
+/16/lottery-18juni-2024/ 1 -
+/16/lottery-05-juni-2024/ 1 -
+/wp-content/db-cache.php 1 -
+/chosen.php 5 -
+/xjscyrnj.php 1 www.google.com
+/%E3%80%90%E5%8F%AF%E7%9C%8B%E3%80%91%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E8%AF%B4%E6%98%8E.txt 1 http://naypyidawpools.com/%E3%80%90%E5%8F%AF%E7%9C%8B%E3%80%91%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E8%AF%B4%E6%98%8E.txt
+/16/lottery-24-juni-2024/ 1 -
+/assets/js/dropzone/dropzone-amd-module.min.js 1 -
+/wp-checkbex.php 1 -
+/wp-content/themes/travelscape/json.php 1 www.google.com
+/16/lottery-10-march-2024-2/ 1 -
+/blog/ 1 -
+/lottery/lottery-30-august-2023/ 1 -
+/.vscode/sftp.json 3 -
+/%E3%80%90%E5%BF%85%E7%9C%8B%E3%80%91%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.txt 1 http://naypyidawpools.com/%E3%80%90%E5%BF%85%E7%9C%8B%E3%80%91%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.txt
+/16/lottery-20-march-2024/ 1 -
+/16/lottery-26-march-2024-2/ 1 -
+/lottery/lottery-25-june-2023/ 1 -
+/wp-content/themes/kadence/functions.php 1 -
+/lottery/lottery-09-nov-2022/ 1 -
+/lottery/lottery-09-oct-2022/ 1 -
+/lottery/lottery-19-oct-2022/ 1 -
+/16/lottery-14-mei-2024/ 1 -
+/16/lottery-31-march-2024/ 1 -
+/wp-content/themes/oceanwp/functions.php 1 -
+/16/lottery-10-march-2024/ 1 -
+/ads.txt 1 https://www.naypyidawpools.com/ads.txt
+/16/lottery-23-juli-2024/ 1 -
+/hoot.php 1 -
+/about 3 -
+/16/lottery-09-juni-2024/ 2 -
+/16/lottery-05-august-2024/ 2 -
+/16/lottery-16-march-2024/ 1 -
+/16/lottery-13-march-2024-2/ 1 -
+/16/lottery-07-march-2024/ 1 -
+/xbrunine.php 1 www.google.com
+/lottery/lottery-15-dec-2022/ 1 -
+/lottery/lottery-17-nov-2022/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 193
+162.0.209.76 5031 5031 345606 20240905081203 20240905000055 /wp-admin/admin-ajax.php
+124.248.183.41 2947 3044 2877217 20240905081202 20240905000053 /wp-admin/admin-ajax.php
+111.90.159.52 22 93 820248 20240901125229
+99.4.118.9 8 8 18907 20240902203840
+149.56.150.96 6 6 1044693 20240902200303
+103.153.3.21 5 5 185832 20240905030702
+94.156.68.159 4 4 148668 20240905024924
+152.42.233.59 4 4 38608 20240901234051
+23.26.220.19 4 4 17364 20240902172756
+103.106.116.37 3 3 615 20240901025526
+175.41.138.39 3 3 0 20240904220553
+45.138.16.231 2 2 1993 20240902152342
+135.125.205.117 2 2 74188 20240905002702
+65.109.27.171 2 15 57183 20240903183311
+92.222.70.66 2 2 74264 20240905000827
+103.150.84.139 2 2 410 20240901025658
+83.97.73.239 2 2 74334 20240904151652
+88.198.62.15 2 2 410 20240901025715
+114.10.30.15 2 15 221111 20240902123251
+148.72.158.248 2 2 806 20240904101111
+111.231.12.66 2 2 16526 20240903152237
+159.69.71.219 2 2 410 20240901025239
+45.141.2.5 2 2 410 20240901025936
+66.102.8.132 2 5 439601 20240901143819
+207.148.127.12 2 2 410 20240901024855
+45.227.254.34 1 1 8267 20240902221042
+66.29.131.215 1 1 205 20240901025721
+163.44.198.43 1 1 205 20240901025829
+111.125.93.152 1 1 403 20240904071225
+38.60.255.173 0 10 27186 
+186.1.181.6 1 1 7170 20240904075313
+51.68.231.81 1 1 205 20240901025013
+146.59.136.90 1 1 205 20240901025954
+216.250.113.222 1 1 205 20240901025108
+216.250.113.136 1 1 205 20240901025123
+66.102.8.131 0 4 12170 
+159.65.156.190 1 2 9559 20240905021241
+52.42.37.224 1 1 7167 20240905043556
+176.31.240.74 1 1 205 20240901030133
+175.22.145.121 1 1 8267 20240903101447
+159.65.18.197 1 1 37164 20240901061259
+87.236.176.27 0 1 13735 
+87.236.176.20 0 1 21656 
+206.189.231.195 1 2 9567 20240903032716
+42.83.147.53 1 1 8263 20240904001655
+43.153.110.177 1 1 8261 20240904093838
+74.208.12.35 1 1 205 20240901025341
+65.109.175.204 1 1 205 20240901025144
+34.42.21.54 1 1 5371 20240901183548
+97.74.83.27 1 1 205 20240901025324
+89.32.248.24 1 1 403 20240904010846
+31.184.209.12 1 1 205 20240901025047
+87.236.176.212 0 1 1300 
+111.7.96.178 0 3 12407 
+87.236.176.131 0 1 21656 
+142.93.185.230 1 1 37129 20240905001800
+43.155.166.202 1 1 8304 20240901175954
+151.106.42.70 1 1 205 20240901025230
+144.217.135.206 1 13 188678 20240902200332
+141.95.243.199 1 1 205 20240901025510
+178.33.250.116 1 1 205 20240901030217
+188.166.150.245 1 1 205 20240901025318
+77.68.64.29 1 1 403 20240904023548
+74.208.26.95 1 1 205 20240901024953
+34.139.96.157 1 1 205 20240901024926
+87.236.176.189 0 1 21656 
+182.44.67.97 1 1 8277 20240901041422
+180.110.203.108 1 1 8263 20240903215908
+87.236.176.177 0 1 56719 
+92.222.171.11 1 1 205 20240901025648
+103.141.97.22 1 1 205 20240901030317
+103.68.62.175 1 1 205 20240901025847
+13.202.148.81 1 1 205 20240901025745
+119.49.141.116 1 1 8304 20240901171629
+140.115.152.20 1 1 205 20240901025255
+213.238.190.123 1 1 205 20240901030150
+185.23.72.14 1 1 403 20240905075046 20240905075046 /xmlrpc.php
+142.93.0.66 1 1 37167 20240904083115
+220.73.163.116 1 1 205 20240901025902
+69.91.138.213 1 1 8267 20240902222758
+103.69.98.45 1 1 205 20240901025002
+46.245.94.174 1 1 205 20240901025556
+87.236.176.190 0 2 2600 
+87.236.176.128 0 1 56719 
+31.207.35.240 1 1 205 20240901025156
+170.106.171.77 1 1 8267 20240902191237
+69.163.179.237 1 1 205 20240901024958
+66.179.248.145 1 1 205 20240901025618
+87.98.173.252 1 1 205 20240901025538
+43.152.72.247 1 1 8259 20240904182101
+51.222.71.146 1 1 205 20240901025628
+94.228.169.182 1 1 8267 20240902210257
+132.148.75.202 1 1 205 20240901030252
+216.225.194.245 1 1 205 20240901025335
+54.202.24.184 1 1 7163 20240904053929
+114.10.4.253 0 9 22510 
+123.160.223.73 0 1 6377 
+103.237.145.122 1 1 205 20240901025225
+36.65.71.195 0 9 22510 
+178.254.12.183 1 1 8304 20240901152346
+121.40.58.137 1 1 236 20240903204826
+43.134.66.205 1 1 8259 20240905000307
+124.217.226.207 1 1 205 20240901030201
+23.236.66.140 1 1 403 20240904010859
+87.236.176.55 0 1 13735 
+192.36.109.132 1 1 8261 20240904085738
+87.236.176.46 0 1 12460 
+87.236.176.80 0 1 12460 
+103.28.36.168 1 1 619 20240904132020
+23.99.183.149 1 1 403 20240904023506
+195.78.67.71 1 1 205 20240901030035
+163.172.221.217 1 1 37129 20240905001331
+202.29.240.28 1 1 403 20240904023553
+70.167.255.204 1 1 205 20240901024920
+77.68.100.210 1 1 205 20240901025933
+43.159.128.237 1 1 8304 20240901174648
+190.0.230.22 1 1 205 20240901025835
+128.14.209.30 1 1 8263 20240903124116
+91.134.248.253 1 1 205 20240901030330
+162.0.232.46 1 1 5371 20240902023520
+97.74.95.90 1 1 205 20240901030118
+162.0.222.106 1 1 205 20240901025536
+49.13.125.166 1 1 403 20240904023456
+45.156.129.95 1 1 8261 20240904033714
+188.143.169.41 1 1 37167 20240902054258
+82.165.83.84 1 1 205 20240901025246
+62.221.194.103 1 1 205 20240901025803
+78.111.97.147 1 1 205 20240901025349
+173.231.244.250 1 1 205 20240901025600
+92.205.167.227 1 1 205 20240901025027
+79.173.92.93 0 10 27186 
+185.92.244.76 1 1 403 20240904055020
+18.135.151.56 1 1 403 20240904055048
+87.236.176.98 0 1 12460 
+87.236.176.251 1 1 8261 20240904010840
+175.16.73.31 1 1 8259 20240905014606
+54.157.237.113 0 20 54372 
+123.160.223.72 0 1 173 
+152.42.251.180 1 1 205 20240901025347
+103.20.102.10 1 1 205 20240901030102
+45.126.127.150 1 1 403 20240904010856
+91.92.254.104 1 1 37167 20240903163645
+64.227.119.51 1 2 9559 20240905063037
+198.54.114.95 1 1 236 20240903093235
+104.28.245.127 0 9 22510 
+54.185.138.95 1 1 187235 20240904085752
+173.249.37.40 1 1 403 20240904010909
+34.221.44.98 1 13 188664 20240903204318
+212.80.22.34 1 1 5371 20240901235701
+54.87.36.213 0 10 27186 
+44.227.127.2 0 10 27186 
+179.0.37.38 1 1 205 20240901025752
+141.136.47.42 1 1 205 20240901030112
+223.244.35.77 1 1 8304 20240902063233
+207.180.204.43 1 1 205 20240901025440
+46.250.239.157 1 1 205 20240901025719
+68.183.180.73 1 1 37167 20240902082206
+95.216.44.16 1 1 205 20240901030123
+8.218.48.219 1 1 403 20240905075048 20240905075048 /xmlrpc.php
+178.160.201.18 1 1 205 20240901030241
+109.205.181.185 1 1 205 20240901025753
+87.98.128.54 1 1 205 20240901025730
+103.148.57.238 1 1 205 20240901030127
+179.108.192.140 1 1 205 20240901025551
+15.237.118.182 1 1 8304 20240902102011
+148.113.173.15 1 1 205 20240901025300
+87.236.176.90 0 1 13735 
+201.16.222.161 1 1 205 20240901030219
+89.161.142.140 1 1 403 20240904042201
+109.199.117.54 1 1 205 20240901024922
+49.51.183.220 1 1 8267 20240903060635
+142.93.15.2 1 1 205 20240901024846
+45.133.178.161 1 1 205 20240901025704
+198.54.126.38 1 1 403 20240904084344
+74.208.56.4 1 1 205 20240901025416
+167.71.238.45 1 2 9577 20240901042718
+186.64.123.244 1 1 205 20240901030333
+66.102.8.130 1 1 36975 20240901143819
+51.68.191.184 1 1 205 20240901025457
+177.53.143.203 1 1 403 20240905075104 20240905075104 /xmlrpc.php
+69.163.151.115 1 1 205 20240901025840
+193.29.15.252 1 1 8304 20240901142712
+61.14.234.31 1 1 403 20240905075114 20240905075114 /xmlrpc.php
+167.86.105.107 1 1 205 20240901025436
+87.236.176.72 1 1 8304 20240902043733
+185.42.173.225 1 1 205 20240901025412
+213.165.71.218 1 1 8213 20240903124224
+210.5.50.135 1 1 403 20240905075120 20240905075120 /xmlrpc.php
+87.236.176.135 1 1 8267 20240903031209
+139.59.41.167 2 2 1010 20240902140325
+185.208.183.154 1 1 403 20240904010826
+87.236.176.176 0 1 56719 
+103.75.184.155 1 1 403 20240904101151
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20240901 2231 2315 2127110 93
+20240902 1168 1290 3760182 24
+20240903 2004 2084 859446 20
+20240904 1960 2008 930037 37
+20240905 845 847 547851 18
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 13
+0s-30s 165
+15mn-30mn 1
+5mn-15mn 1
+2mn-5mn 1
+30s-2mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 23
+/wp-admin/admin-ajax.php 5420 210626 7 15
+/wp-cron.php 2518 0 8 0
+/xmlrpc.php 107 26353 100 95
+/ 82 1593491 61 59
+/wp-login.php 17 42086 7 5
+/wp-admin/post.php 14 373115 0 0
+/wp-admin/edit.php 10 277571 0 0
+/wp-admin/load-scripts.php 8 290370 1 1
+/wp-admin/load-styles.php 8 628569 0 2
+/wp-admin/post-new.php 4 105215 0 0
+/wp-json/wp/v2/users 2 1238 2 1
+/wp-content/plugins/litespeed-cache/assets/css/fonts/litespeedfont.ttf 2 3680 0 0
+/wp-admin/ 2 63736 1 0
+/live-draw/ 2 44230 1 1
+//xmlrpc.php 2 822 0 1
+/wp-admin/install.php 2 1010 2 2
+/history-result/ 2 906316 0 1
+/author/admin/ 1 5221 0 0
+//wp-json/wp/v2/users/ 1 619 0 0
+/wp-content/index.php 1 0 1 0
+/wp-json/ 1 187235 1 1
+/author/csadmin/ 1 5185 0 1
+/wp-sitemap.xml 1 723 0 0
+END_SIDER

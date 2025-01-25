@@ -1,0 +1,991 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.hungarialottery.net.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2047                
+POS_TIME 2725                
+POS_VISITOR 24770               
+POS_DAY 33175               
+POS_DOMAIN 3506                
+POS_LOGIN 4059                
+POS_ROBOT 4214                
+POS_WORMS 4937                
+POS_EMAILSENDER 5068                
+POS_EMAILRECEIVER 5211                
+POS_SESSION 33922               
+POS_SIDER 34103               
+POS_FILETYPES 5346                
+POS_DOWNLOADS 5431                
+POS_OS 5479                
+POS_BROWSER 5819                
+POS_SCREENSIZE 7676                
+POS_UNKNOWNREFERER 7750                
+POS_UNKNOWNREFERERBROWSER 8635                
+POS_ORIGIN 9168                
+POS_SEREFERRALS 9304                
+POS_PAGEREFS 9467                
+POS_SEARCHWORDS 9646                
+POS_KEYWORDS 9798                
+POS_MISC 2389                
+POS_ERRORS 9857                
+POS_CLUSTER 3915                
+POS_SIDER_404 9961                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501002509 45 9307 12580628442934
+FirstTime 20240401061701
+LastTime 20240430234843
+LastUpdate 20240501081726 45 0 44 0 0
+TotalVisits 257                 
+TotalUnique 217                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 217                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 18 18 235968 10 47 105875
+1 11 11 263933 14 21 30814
+2 16 16 261188 10 20 284917
+3 19 19 2895154 225 237 299766
+4 19 19 342078 21 34 158780
+5 6 6 52315 25 62 259039
+6 11 11 179931 11 47 148372
+7 17 17 202541 29 35 96647
+8 12 12 104662 11 32 140916
+9 17 17 241922 14 18 89197
+10 21 21 211096 13 20 80041
+11 12 12 244658 18 27 81698
+12 8 8 97734 14 55 104591
+13 7 7 89046 4 9 75046
+14 18 18 303269 9 19 70893
+15 4 4 62896 12 16 68747
+16 20 20 220075 14 21 38309
+17 7 7 81114 18 21 101756
+18 17 17 133243 6 12 46733
+19 4 4 89218 9 14 182713
+20 6 6 108332 12 22 2663462
+21 13 13 113366 20 33 50385
+22 11 11 214637 13 18 228995
+23 27 27 375436 40 46 138005
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 24
+us 130 130 4470426
+cn 36 36 310609
+jp 27 27 235468
+ru 16 16 501920
+ca 16 16 531599
+nl 14 14 242469
+gb 14 14 122028
+se 12 12 132636
+ge 10 10 106512
+de 10 10 87210
+in 9 9 78516
+id 7 7 49368
+be 4 4 34868
+au 2 2 15774
+es 2 2 15769
+bg 2 2 17447
+sa 2 2 17420
+kh 2 2 17447
+hu 1 1 36725
+hk 1 1 36725
+eu 1 1 8719
+pa 1 1 8718
+il 1 1 8714
+vn 1 1 36725
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+no_user_agent 22 807950 20240429152456 0
+Googlebot/ 16 77603 20240430210525 0
+AhrefsBot/ 15 177770 20240429034443 0
+MJ12bot/ 12 264369 20240430223854 0
+crawl 8 254492 20240427220502 0
+bot[\s_+:,\.\;\/\\-] 6 52311 20240414120521 0
+(firefox/)([0-9]\.|[0-1][0]\.) 5 34874 20240430165653 0
+DotBot/ 4 2598002 20240403202114 0
+link 4 127250 20240418051128 0
+SemrushBot/ 3 118532 20240423193004 0
+curl 1 7053 20240418071952 0
+bingbot/ 1 7052 20240416212633 0
+Go\-http\-client/ 1 8710 20240429094819 0
+Konqueror/ 1 8715 20240422050157 0
+survey 1 36725 20240403174330 0
+nbot 1 8723 20240414155924 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 321 7123812 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+macosx15 37 37
+ios_iphone 57 57
+macosx7 1 1
+macosx9 1 1
+androidnougat 3 3
+win2003 1 1
+macosx14 2 2
+ios_ipad 1 1
+macosx11 5 5
+Unknown 42 42
+winlong 3 3
+android10 9 9
+linux 36 36
+win7 14 14
+android 5 5
+win10 94 94
+winnt 3 3
+macosx 2 2
+androidpie 1 1
+linuxubuntu 3 3
+winxp 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 88
+chrome77.0.52 1 1
+firefox21.0 2 2
+chrome89.0.4389.114 5 5
+chrome109.0.5414.120 1 1
+chrome100.0.4896.60 14 14
+chrome87.0.4280.88 2 2
+chrome96.0.4664.110 2 2
+chrome121.0.0.0 25 25
+chrome101.0.4951.41 1 1
+chrome100.0.4896.127 2 2
+chrome79.0.3951.88 1 1
+chrome83.0.4103.97 6 6
+chrome118.0.0.0 2 2
+chrome122.0.0.0 4 4
+chrome122.0.6261.64 1 1
+chrome34.0.1847.116 3 3
+chrome120.0.0.0 4 4
+chrome80.0.3987.162 1 1
+chrome112.0.5615.136 1 1
+chrome17.0.963.56 1 1
+chrome97.0.1641 1 1
+opera99.0.0.0 1 1
+chrome104.0.5112.79 1 1
+firefox108.0 4 4
+chrome111.0.0.0 1 1
+safari16.6 3 3
+firefox115 1 1
+chrome119.0.0.0 1 1
+chrome101.0.4951.54 1 1
+chrome109.0.0.0 3 3
+firefox52.0 6 6
+chrome103.0.5042.0 1 1
+safari17.3.1 1 1
+safari7.0 1 1
+chrome63.0.3239.132 1 1
+chrome95.0.4638.54 1 1
+chrome88.0.4324.150 2 2
+chrome79.0.3945.117 1 1
+firefox118.0 2 2
+chrome110.0.0.0 2 2
+Unknown 19 19
+firefox33.0 2 2
+iphone 1 1
+firefox40.0 2 2
+chrome97.0.4280.67 2 2
+chrome60.0.3112.107 3 3
+chrome98.0.4758.81 4 4
+chrome75.0.1859.88 1 1
+firefox114.0 15 15
+chrome66.0.3359.181 3 3
+chrome78.0.3904.108 4 4
+chrome79.0.3945.88 1 1
+firefox41.0 1 1
+chrome94.0.4606.61 1 1
+safari13.0.3 52 52
+mozilla 17 17
+chrome92.0.4515.131 1 1
+chrome106.0.0.0 1 1
+firefox91.0 1 1
+chrome71.0.3578.98 1 1
+chrome116.0.0.0 4 4
+chrome74.0.3729.169 7 7
+chrome123.0.0.0 3 3
+chrome105.0.0.0 6 6
+safari17.1.2 1 1
+chrome81.0.4044.138 2 2
+chrome66.0.3359.126 1 1
+chrome97.0.4692.71 1 1
+chrome114.0.0.0 1 1
+chrome120.0.6099.71 1 1
+opera102.0.0.0 4 4
+safari11.0 1 1
+firefox57.0 1 1
+chrome76.0.3809.100 1 1
+chrome74.0.3729.157 1 1
+msie11.0 1 1
+chrome11.0.696.71 2 2
+opera79.2.4195.76518 3 3
+chrome117.0.0.0 11 11
+netscape5.0 5 5
+safari17.0 1 1
+chrome51.0.2704.103 1 1
+chrome113.0.0.0 1 1
+chrome91.0.4472.114 4 4
+chrome103.0.0.0 1 1
+chrome92.0.1036 1 1
+msie7.0 1 1
+firefox117.0 8 8
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240430035435
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240415062154
+python-requests/2.31.0 20240414083454
+Mozilla/5.0_Firefox/33.0 20240428202243
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240426034413
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240429124442
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240427191814
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_https://domini.cat/catexplorador/) 20240415141006
+Searcherweb 20240425101407
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240427191814
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_https://domini.cat/catexplorador/) 20240415141006
+Searcherweb 20240425101407
+python-requests/2.31.0 20240414083454
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 209 209
+From1 5 5
+From2 6 6
+From3 3 3
+From4 98 98
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 6 6
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://onic4dpasaran.site 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 743 928242
+403 22 27324
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 351
+/author/wpadminne/ 1 -
+/wp-includes/blocks/quote/about.php 1 -
+/old 1 -
+/wp-content/uploads/ 1 -
+/wp-includes/blocks/site-title/about.php 1 -
+/wp-includes/blocks/query/about.php 1 -
+/wp-includes/blocks/group/about.php 1 -
+/wp-includes/widgets/about.php 1 -
+/apple-touch-icon.png 1 -
+/phpmyadmin/index.php 3 -
+/wp-admin/css/colors/index.php 2 hungarialottery.net
+/wp-admin/css/colors/coffee/about.php 1 -
+/wp-includes/blocks/more/about.php 1 -
+/wp-includes/Requests/Transport/about.php 1 -
+/wp-includes/blocks/search/about.php 1 -
+/wp-includes/Requests/Utility/about.php 1 -
+/wp-includes/Requests/Cookie/about.php 1 -
+/sitemap.txt 1 -
+/wp-includes/css/dist/edit-widgets/about.php 1 -
+/.wp-cli/cache/about.php 1 -
+/test 1 -
+/da1.php 1 hungarialottery.net
+/wp-includes/js/tinymce/about.php 1 -
+/wp-includes/theme-compat/about.php 1 -
+/wp-includes/css/dist/edit-post/about.php 1 -
+/atomlib.php 1 hungarialottery.net
+/wp-includes/js/tinymce/plugins/wpgallery/about.php 1 -
+/wp-includes/SimplePie/Decode/HTML/about.php 1 -
+/wp-includes/blocks/text-columns/about.php 1 -
+/index_sso.php 3 -
+/author/greeceman/ 1 -
+/wp-includes/css/dist/components/about.php 1 -
+/.DS_Store 3 -
+/wp-includes/blocks/block/about.php 1 -
+/class.api.php 1 hungarialottery.net
+/wp-content/plugins/wp-statistics/readme.txt 2 -
+/licenses.php 1 hungarialottery.net
+/wp-admin/css/colors/midnight/about.php 1 -
+/wp-json/litespeed/v1/cdn_status 16 -
+/wp-includes/js/tinymce/plugins/directionality/about.php 1 -
+/wp-includes/fonts/about.php 1 -
+/wp-includes/images/media/about.php 1 -
+/wp-admin/css/colors/about.php 1 -
+/wp-admin/about.php 1 -
+/wp-includes/blocks/cover/about.php 1 -
+/inputs.php 6 www.google.com
+/wp-includes/Requests/Proxy/about.php 1 -
+/wp-includes/css/dist/list-reusable-blocks/about.php 1 -
+/wp-includes/blocks/shortcode/about.php 1 -
+/wp-content/plugins/gotmls/readme.txt 2 -
+/ads.txt 4 http://hungarialottery.net/ads.txt
+/wp-admin/css/about.php 1 -
+/wp-content/languages/about.php 1 -
+/wp-includes/css/dist/widgets/about.php 1 -
+/wp-admin/css/colors/ectoplasm/about.php 1 -
+/style.php 4 www.google.com
+/dist/jquery.min.js 18 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/ccx/about.php 1 -
+/wp-content/themes/bute/lang.php 1 www.google.com
+/wp-admin/js/about.php 1 -
+/wp-admin/css/index.php 1 hungarialottery.net
+/wp-includes/IXR/about.php 1 -
+/author/stender/ 1 -
+/wp-admin/includes/users.php 1 hungarialottery.net
+/wp-includes/sodium_compat/lib/about.php 1 -
+/wp-includes/Text/Diff/Engine/about.php 1 -
+/wp-includes/customize/about.php 1 -
+/wp-admin/inputs.php 5 www.google.com
+/wp-includes/blocks/query-pagination/about.php 1 -
+/wp-includes/js/tinymce/plugins/colorpicker/about.php 1 -
+/wp-includes/js/jquery/ui/about.php 1 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-admin/css/colors/light/index.php 1 hungarialottery.net
+/wp-content/plugins/backup-backup/includes/k 1 -
+/sitemap.xml 15 -
+/wp-json/instawp-connect/v1/config 2 http://hungarialottery.net
+/wp-admin/maint/about.php 1 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 2 www.google.com
+/wp-json/wpgmza/v1/markers 2 -
+/license.txt 2 -
+/wp-content/plugins/wp-automatic/inc/csv.php 1 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 2 -
+/wp-includes/blocks/gallery/about.php 1 -
+/author/wpsecuritypatch/ 1 -
+/wp-includes/images/about.php 1 -
+/wp-content/inputs.php 4 www.google.com
+/wp-content/themes/twentytwentytwo/inputs.php 1 hungarialottery.net
+/wp-content/plugins/wp-meta-seo/readme.txt 2 -
+/wp-includes/ 3 -
+/wp-includes/js/plupload/about.php 1 -
+/wp-includes/js/tinymce/plugins/wpeditimage/about.php 1 -
+/wp-includes/js/thickbox/about.php 1 -
+/wp-includes/blocks/categories/about.php 1 -
+/wp-includes/js/tinymce/plugins/paste/about.php 1 -
+/wp-includes/Requests/Auth/about.php 1 -
+/wp-content/plugins/background-image-cropper/ 1 http://www.google.com
+/wp-includes/js/tinymce/plugins/compat3x/about.php 1 -
+/wp-includes/blocks/loginout/about.php 1 -
+/wp-includes/js/swfupload/about.php 1 -
+/sftp-config.json 1 -
+/wp-admin/images/upfile.php 2 hungarialottery.net
+/wp-includes/images/wlw/about.php 1 -
+/author/w-padmine/ 1 -
+/wp-admin/a2.php 1 hungarialottery.net
+/chosen.php 2 www.google.com
+/wp-content/plugins/ai-engine/readme.txt 2 -
+/.env 11 -
+/simple.php 4 www.google.com
+/wp-includes/Text/Diff/Renderer/about.php 1 -
+/wp-includes/js/dist/vendor/about.php 1 -
+/wp-includes/js/about.php 1 -
+/wp-admin/network/about.php 1 -
+/wp-includes/blocks/query-pagination-next/about.php 1 -
+/wp-includes/js/mediaelement/renderers/about.php 1 -
+/wp-includes/blocks/tag-cloud/about.php 1 -
+/wp-includes/js/tinymce/plugins/link/about.php 1 -
+/wp-includes/js/tinymce/plugins/wpdialogs/about.php 1 -
+/music/bak_config.php 1 hungarialottery.net
+/wp-content/mu-plugins/about.php 1 -
+/dede/ 1 -
+/wp-roto/wp-admin/css/index.php 1 hungarialottery.net
+/author/superadmin/ 1 -
+/wp-includes/blocks/spacer/about.php 1 -
+/wp-includes/js/jquery/jquery.js 2 www.google.com
+/wp-content/themes/lottery_clinton/readme.txt 2 -
+/humans.txt 4 http://hungarialottery.net/humans.txt
+/wp-includes/block-patterns/about.php 1 -
+/wp-includes/Text/about.php 1 -
+/wp-content/plugins/wp-automatic/inputs.php 1 hungarialottery.net
+/wp-includes/blocks/code/about.php 1 -
+/wp-includes/blocks/columns/about.php 1 -
+/wp-admin/user/about.php 1 -
+/wp-includes/js/tinymce/skins/wordpress/images/about.php 1 -
+/wp-includes/js/tinymce/plugins/textcolor/about.php 1 -
+/cgi-bin/about.php 1 -
+/radio.php 3 hungarialottery.net
+/wp-includes/blocks/post-template/about.php 1 -
+/wp-includes/js/tinymce/plugins/charmap/about.php 1 -
+/wp-content/plugins/genesis-simple-share/includes/class-genesis-simple-share-view.php 1 hungarialottery.net
+/shop 1 -
+/wp-includes/js/jquery/about.php 1 -
+/install.php 1 -
+/wp-includes/js/tinymce/plugins/tabfocus/about.php 1 -
+/wp-includes/blocks/freeform/about.php 1 -
+/security.txt 1 http://www.hungarialottery.net/security.txt
+/wp-includes/js/tinymce/plugins/wpview/about.php 1 -
+/wp-admin/network/upfile.php 1 hungarialottery.net
+/wp-json/wp/v2/users/5 1 https://hungarialottery.net/
+/wp-includes/js/tinymce/plugins/wplink/about.php 1 -
+/archivarix.cms.php 1 -
+/wp-includes/css/dist/reusable-blocks/about.php 1 -
+/cgi-bin/upfile.php 1 hungarialottery.net
+/wp 1 -
+/wp-includes/SimplePie/Net/about.php 1 -
+/wp-includes/blocks/site-tagline/about.php 1 -
+/wp-includes/blocks/site-logo/about.php 1 -
+/wp-includes/js/jquery/jquery.min.js 2 -
+/wp-admin/css/colors/ocean/about.php 1 -
+/wp-admin/index.php 1 hungarialottery.net
+/wp-includes/rest-api/fields/about.php 1 -
+/wp-admin/setup-config.php 2 -
+/wp-content/themes/about.php 1 -
+/wp-includes/blocks/post-date/about.php 1 -
+/wp-includes/blocks/embed/about.php 1 -
+/wp-includes/rest-api/search/about.php 1 -
+/wp-includes/blocks/nextpage/about.php 1 -
+/wp-includes/blocks/pullquote/about.php 1 -
+/wp-includes/sitemaps/providers/about.php 1 -
+/wp-includes/blocks/query-pagination-previous/about.php 1 -
+/wp-includes/css/dist/editor/about.php 1 -
+/wp-includes/blocks/video/about.php 1 -
+/php/thinkphp/aaaffff123.php 3 -
+//wp-json/oembed/1.0/embed 2 -
+/radio.txt 1 hungarialottery.net
+/.well-known/about.php 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/about.php 1 -
+/wp-includes/blocks/post-excerpt/about.php 1 -
+/wp-includes/js/dist/about.php 1 -
+/wp-includes/images/smilies/about.php 1 -
+//xmlrpc.php 4 -
+/wp-includes/Requests/Exception/about.php 1 -
+/wp-includes/js/crop/about.php 1 -
+/wp-includes/SimplePie/HTTP/about.php 1 -
+/dist/js/bootstrap.bundle.min.js 18 -
+/wp-admin/edit-forms.php 1 hungarialottery.net
+/wp-includes/blocks/audio/about.php 1 -
+/wp-includes/blocks/missing/about.php 1 -
+/wp-includes/rest-api/endpoints/about.php 1 -
+/wp-includes/blocks/rss/about.php 1 -
+/wp-includes/certificates/about.php 1 -
+/sitemap.xml.gz 3 -
+/wp-content/uploads/about.php 1 -
+/wp-admin/css/colors/blue/about.php 1 -
+/wp-includes/rest-api/about.php 1 -
+/wp-json 11 -
+/.well-known/security.txt 2 -
+/wp-includes/blocks/about.php 1 -
+/wp-includes/css/dist/block-library/about.php 1 -
+/wp-json/wp/v2/users/4 1 https://hungarialottery.net/
+/wp-head.php 2 -
+/wp-includes/css/buttons.css 1 http://hungarialottery.net/wp-includes/css/buttons.css
+//clintonprize.com/wp-content/themes/lottery_clinton/assets/js/lottery.js 18 -
+/wp-includes/blocks/post-title/about.php 1 -
+/wp-content/plugins/moveto/assets/lib/loader_ajax.php 2 http://hungarialottery.net
+/wp-content/plugins/ccx/about.php 1 -
+/wp-includes/images/crystal/about.php 1 -
+/wp-includes/ID3/about.php 1 -
+/cgi-bin/upfile_(2).php 1 hungarialottery.net
+/sitemap_index.xml 3 -
+/wp-content/themes/lottery/readme.txt 2 -
+/wp-includes/css/about.php 1 -
+/author/crander/ 1 -
+/wp-admin/images/about.php 1 -
+/PHPMailer/web_config.php 1 hungarialottery.net
+/wp-includes/blocks/latest-comments/about.php 1 -
+/wp-includes/js/tinymce/plugins/image/about.php 1 -
+/images/about.php 1 -
+/wp-json/wp/v2/users/2 1 https://hungarialottery.net/
+/wp-includes/js/tinymce/plugins/fullscreen/about.php 1 -
+/wp-includes/blocks/buttons/about.php 1 -
+/wp-includes/sodium_compat/namespaced/Core/Poly1305/about.php 1 -
+/wp-login.php 1 http://www.google.com.hk
+/magento_version 1 -
+/wp-includes/blocks/button/about.php 1 -
+/upfile.php 1 hungarialottery.net
+/wp-includes/about.php 1 -
+/wp-content/about.php 2 -
+/robots.txt 96 -
+/wp-includes/js/mediaelement/about.php 1 -
+/wp-admin/includes/about.php 1 -
+/wp-includes/blocks/social-link/about.php 1 -
+/wp-content/plugins/chauffeur-booking-system/script/jquery.chauffeurBookingFormAdmin.js 1 hungarialottery.net
+/wp-checkbex.php 2 -
+/wp-includes/SimplePie/XML/Declaration/about.php 1 -
+/wp-includes/PHPMailer/about.php 1 -
+/wp-includes/Text/Diff/about.php 1 -
+/wp-includes/blocks/post-content/about.php 1 -
+/a2.php 1 hungarialottery.net
+/wp-includes/js/jcrop/about.php 1 -
+/wp-includes/blocks/table/about.php 1 -
+/wp-includes/blocks/calendar/about.php 1 -
+/wp-includes/blocks/query-title/about.php 1 -
+/wp-admin/includes/upfile.php 2 hungarialottery.net
+/wp-includes/block-supports/about.php 1 -
+/wp-includes/blocks/separator/about.php 1 -
+/wp-woulds.php 1 hungarialottery.net
+/wp-admin/install.php 2 -
+/about.php 5 hungarialottery.net
+/wp-includes/blocks/latest-posts/about.php 1 -
+/wp-emoji-release.min.js 18 -
+/wp-admin/js/widgets/about.php 1 -
+/css/about.php 1 -
+/wp-includes/css/dist/block-editor/about.php 1 -
+/wp-admin/css/colors/blue/index.php 1 hungarialottery.net
+/wp-includes/Requests/Text/index.php 1 hungarialottery.net
+/wp-content/plugins/backup-backup/modules/gdrivebanner/assets/css/styles.css 2 -
+/wp-includes/Requests/about.php 1 -
+/xmlrpc.php 1 -
+/wp-includes/blocks/media-text/about.php 1 -
+/wp-includes/SimplePie/Parse/about.php 1 -
+/wp-includes/blocks/column/about.php 1 -
+/wp-includes/inputs.php 3 www.google.com
+/wp-includes/blocks/legacy-widget/about.php 1 -
+/media/system/js/core.js 3 -
+/wp-content/plugins/LayerSlider/static/js/builder.js 1 hungarialottery.net
+/wp-content/plugins/user-registration/assets/js/frontend/ur-login.js 1 -
+/wp-includes/sodium_compat/about.php 1 -
+/wp-includes/blocks/archives/about.php 1 -
+/blog 1 -
+/wp-includes/blocks/list/about.php 1 -
+/author/admim/ 1 -
+/wp-includes/sitemaps/about.php 1 -
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/admin.php 5 hungarialottery.net
+/util/login.aspx 1 -
+/wp-includes/js/tinymce/plugins/media/about.php 1 -
+/wp-content/themes/torofilm/changelog.txt 2 -
+/wp-includes/js/tinymce/skins/lightgray/img/about.php 1 -
+/wp-includes/Requests/Exception/HTTP/about.php 1 -
+/wp-includes/css/dist/format-library/about.php 1 -
+/wp-content/plugins/work-list/lang.php 1 www.google.com
+//clintonprize.com/wp-content/themes/lottery/assets/js/flipclock.js 17 -
+/wp-includes/blocks/preformatted/about.php 1 -
+/wp-includes/Requests/Response/about.php 1 -
+//wp-includes/wlwmanifest.xml 2 -
+/wp-includes/css/dist/nux/about.php 1 -
+/wp-includes/js/tinymce/skins/wordpress/about.php 1 -
+/wp-content/plugins/forminator/readme.txt 2 -
+/wp-admin/maint/upfile.php 1 hungarialottery.net
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 17 -
+/wp-includes/js/tinymce/langs/about.php 1 -
+/wp-includes/js/codemirror/about.php 1 -
+//wp-json/wp/v2/users/ 2 -
+/wp-includes/js/tinymce/skins/lightgray/fonts/about.php 1 -
+/wp-includes/blocks/page-list/about.php 1 -
+//cdn.js 17 -
+/wp-includes/js/tinymce/plugins/wordpress/about.php 1 -
+/index.php 7 hungarialottery.net
+/wp-includes/js/tinymce/plugins/lists/about.php 1 -
+/new 1 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 18 -
+/wp-content/plugins/fix/up.php 1 www.google.com
+/wp-includes/SimplePie/about.php 1 -
+/admin 1 -
+/wp-includes/js/imgareaselect/about.php 1 -
+/wp-cron.php 2 hungarialottery.net
+/wp-content/upgrade/about.php 1 -
+/.wp-cli/about.php 1 -
+/wp-includes/css/dist/block-directory/about.php 1 -
+/wp-includes/blocks/social-links/about.php 1 -
+/wp-includes/blocks/post-terms/about.php 1 -
+/wp-includes/blocks/heading/about.php 1 -
+/wp-includes/blocks/verse/about.php 1 -
+/wp-content/plugins/master/mode/table.php 1 hungarialottery.net
+/wp-includes/blocks/paragraph/about.php 1 -
+/wp-includes/js/tinymce/plugins/wptextpattern/about.php 1 -
+/.well-known/pki-validation/about.php 1 -
+/wp-includes/js/tinymce/themes/modern/about.php 1 -
+/wp-includes/sodium_compat/src/about.php 1 -
+/wp-includes/Requests/Exception/Transport/about.php 1 -
+/author/wpservices/ 1 -
+/wp-includes/js/tinymce/skins/lightgray/about.php 1 -
+/wp-includes/js/tinymce/utils/about.php 1 -
+/.vscode/sftp.json 1 -
+/wp-includes/blocks/file/about.php 1 -
+/wp-includes/js/tinymce/themes/inlite/about.php 1 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 4 -
+/wp-admin/css/colors/modern/about.php 1 -
+/wp-includes/blocks/image/about.php 1 -
+/wp-content/plugins/user-registration/assets/css/user-registration.css 1 -
+/sitemaps.xml 4 -
+/wp-admin/admin-ajax.php 13 -
+/wp-json/wp/v2/users 1 -
+/.tmb/about.php 1 -
+/wp-includes/blocks/html/about.php 1 -
+/wp-includes/js/tinymce/plugins/wpautoresize/about.php 1 -
+/wp-content/ 4 -
+/wp-includes/blocks/post-featured-image/about.php 1 -
+/wp-content/plugins/backup-backup/includes/d 1 -
+/wp-content/themes/soledad/style.css 2 -
+/backup_1/cleaner.php 1 hungarialottery.net
+/wp-includes/SimplePie/Content/Type/about.php 1 -
+/wp-includes/random_compat/about.php 1 -
+/wordpress 2 -
+/wp-includes/SimplePie/Cache/about.php 1 -
+/wp-includes/js/tinymce/plugins/wpemoji/about.php 1 -
+/wp-content/themes/seotheme/about.php 1 -
+/wp-includes/pomo/about.php 1 -
+/wp-includes/js/tinymce/plugins/hr/about.php 1 -
+/wp-admin/user/upfile.php 1 hungarialottery.net
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 217
+45.174.144.16 9 9 78516 20240413161604
+51.158.174.16 9 9 78426 20240410071517
+54.88.179.33 8 8 293800 20240418001102
+152.228.221.99 7 7 61040 20240402231945
+144.217.135.249 6 6 2671452 20240430035405
+35.171.144.152 6 6 220350 20240425034942
+42.83.147.34 6 6 52327 20240429121915
+34.78.206.105 5 5 135951 20240422043313
+185.241.208.122 5 5 183625 20240429111046
+45.43.63.219 4 4 62879 20240425144328
+137.226.113.44 4 4 34879 20240426034413
+159.223.55.19 4 4 146900 20240411235431
+54.149.41.222 3 3 21156 20240410000050
+89.248.172.115 3 3 26170 20240414083454
+121.229.185.160 3 3 26152 20240430124803
+43.130.7.211 3 3 26167 20240416001319
+89.248.174.182 3 3 26174 20240410110142
+114.122.106.212 3 3 21157 20240421182907
+46.101.9.216 3 3 118529 20240403224320
+128.90.170.38 3 3 26142 20240417231228
+5.133.164.30 3 3 39128 20240430142813
+35.87.51.132 2 2 17436 20240425104331
+45.15.17.3 2 2 17430 20240430013928
+5.133.167.14 2 2 14128 20240430142821
+15.204.182.106 2 2 17444 20240427213559
+149.71.183.23 1 1 8723 20240404111739
+3.236.225.31 1 1 8722 20240428000146
+147.182.161.129 1 1 8714 20240405103445
+167.94.138.35 1 1 8710 20240415061629
+167.94.138.36 1 1 8710 20240415040128
+205.210.31.53 1 1 36725 20240403062912
+116.206.15.54 1 1 7052 20240401184036
+36.134.147.75 1 1 8720 20240403080642
+23.106.192.135 1 1 8715 20240430051105
+110.50.81.201 1 1 7052 20240401184041
+199.244.88.221 1 1 8726 20240417091401
+117.33.163.216 1 1 8724 20240423090214
+18.236.243.249 1 1 8724 20240423080123
+135.148.195.13 1 1 8726 20240421040812
+82.145.215.206 1 1 8715 20240421182938
+5.133.165.202 1 1 7076 20240430024956
+198.235.24.60 1 1 36725 20240419195213
+43.128.100.220 1 1 8714 20240405180225
+69.10.48.174 1 1 36725 20240402220734
+54.223.89.173 1 1 8715 20240422052635
+116.206.15.48 1 1 7050 20240426190625
+107.189.13.254 1 1 8714 20240404235646
+205.210.31.131 1 1 36725 20240403092521
+43.130.32.224 1 1 8726 20240421045727
+198.235.24.94 1 1 36725 20240423033704
+135.148.195.5 1 1 8725 20240406205138
+43.130.37.62 1 1 8719 20240411003438
+43.130.31.48 1 1 8715 20240422015132
+134.122.35.247 1 1 8724 20240413090209
+5.133.192.127 1 1 8724 20240409065301
+69.10.48.159 1 1 36725 20240420020542
+89.248.172.92 1 1 8714 20240409220916
+182.44.12.37 1 1 8726 20240421150607
+2.58.56.43 1 1 8714 20240404235643
+4.185.168.246 1 1 769 20240424171637
+130.255.166.121 1 1 8714 20240409212056
+43.153.93.68 1 1 8724 20240426174818
+77.247.178.107 1 1 36725 20240401061701
+43.157.40.112 1 1 8721 20240424082024
+43.163.0.99 1 1 8724 20240419004425
+39.173.116.7 1 1 8715 20240422024137
+165.232.41.234 1 1 8710 20240415095947
+87.236.176.220 1 1 8710 20240429124442
+46.246.8.134 1 1 36725 20240415034051
+5.35.90.134 1 1 36725 20240427235318
+205.210.31.33 1 1 36725 20240424171333
+159.203.80.135 1 1 8724 20240409100448
+150.109.253.34 1 1 8718 20240402131124
+157.245.127.246 1 1 8726 20240421082711
+62.141.44.236 1 1 8716 20240430234843
+93.158.91.10 1 1 8710 20240415020832
+195.90.221.76 1 1 8724 20240412183940
+84.232.4.97 1 1 8717 20240412071404
+104.236.14.159 1 1 8718 20240425103505
+58.49.233.126 1 1 8726 20240419203248
+87.236.176.48 1 1 8722 20240418183101
+43.134.190.89 1 1 8724 20240409082457
+167.71.83.55 1 1 8719 20240411081921
+154.28.229.185 1 1 7052 20240402140618
+85.208.22.182 2 2 17420 20240415141006
+151.248.1.103 1 1 8723 20240404060800
+49.51.206.130 1 1 8717 20240412160858
+180.97.221.86 2 2 17430 20240430110724
+223.244.35.77 1 1 8724 20240413113351
+43.133.77.208 1 1 8724 20240409180359
+182.44.8.254 1 1 8715 20240430015739
+43.153.110.177 1 1 8722 20240417184622
+178.254.12.183 1 1 8726 20240421054143
+205.210.31.241 1 1 36725 20240406141006
+120.71.59.24 1 1 8725 20240406230238
+166.1.138.207 1 1 0 20240419161048
+123.160.221.131 1 1 8723 20240414160236
+8.41.221.56 2 2 45435 20240428202243
+43.157.66.187 1 1 8723 20240427165952
+52.81.237.92 1 1 8714 20240410124300
+154.39.66.38 1 1 8723 20240414084027
+15.204.194.30 1 1 8723 20240413220252
+77.246.102.95 2 2 73450 20240404131506
+199.45.154.23 1 1 8730 20240405212626
+18.236.120.252 1 1 8720 20240403083531
+164.92.105.120 1 1 8720 20240403090852
+43.163.6.124 2 2 17437 20240416101818
+46.101.207.211 1 1 8724 20240419104222
+93.158.91.30 1 1 8724 20240426172749
+144.126.197.2 1 1 8724 20240423090407
+106.75.98.60 1 1 8722 20240428002352
+149.56.150.11 1 1 7052 20240430035435
+43.159.141.180 1 1 8724 20240419101340
+184.72.8.73 1 1 8726 20240421062741
+43.134.37.211 1 1 8717 20240412054941
+54.39.129.182 1 1 8723 20240404154732
+170.106.101.31 2 2 17435 20240415034011
+199.45.154.66 1 1 8710 20240415062154
+51.15.17.105 1 1 8721 20240401065729
+46.233.43.113 1 1 8724 20240419102748
+43.163.3.58 1 1 8710 20240429023928
+205.210.31.14 1 1 36725 20240427191814
+205.210.31.238 1 1 36725 20240412141959
+139.59.1.22 1 1 8721 20240401092516
+5.133.166.4 1 1 25024 20240430024951
+205.210.31.226 1 1 36725 20240409153723
+125.75.66.97 1 1 8719 20240408130022
+54.191.142.22 1 1 8710 20240429103748
+77.238.237.38 2 2 73450 20240404144235
+158.69.247.77 1 1 8724 20240409070841
+104.131.189.131 1 1 8723 20240427093441
+114.142.173.34 1 1 7053 20240404183306
+35.90.38.40 1 1 36725 20240411002948
+150.109.13.194 1 1 8718 20240425065536
+51.158.241.192 1 1 8718 20240425003411
+154.29.100.160 2 2 32100 20240430093808
+20.191.66.162 2 2 17436 20240401231924
+154.28.229.54 1 1 7052 20240402165123
+192.42.116.182 1 1 8714 20240404235628
+168.119.89.246 2 2 17420 20240428211346
+45.83.220.220 1 1 8724 20240426164512
+178.254.38.45 1 1 8723 20240404163820
+54.201.29.103 1 1 8714 20240405111201
+89.248.174.42 1 1 8719 20240408051333
+193.178.170.190 1 1 36725 20240413164307
+54.151.10.72 1 1 8730 20240405223219
+54.176.91.0 1 1 8718 20240402085823
+198.235.24.12 1 1 36725 20240406163741
+178.62.217.54 1 1 8719 20240411122712
+34.220.25.179 1 1 8710 20240429103743
+49.7.227.204 2 2 17444 20240423211849
+5.133.162.53 1 1 7052 20240430093806
+20.240.192.154 2 2 17447 20240414100212
+24.144.112.236 1 1 8726 20240421074905
+91.92.244.237 1 1 8723 20240427010344
+103.20.82.155 2 2 17447 20240414113405
+199.45.155.22 1 1 8717 20240412131810
+192.36.109.116 1 1 8724 20240425215704
+90.156.231.117 1 1 7057 20240422071551
+123.187.240.242 1 1 8724 20240422214508
+38.45.127.226 1 1 8716 20240430225234
+54.149.86.91 1 1 8720 20240403083518
+154.28.229.148 1 1 7052 20240402140617
+5.133.165.122 1 1 7052 20240430024955
+87.106.158.5 2 2 17442 20240424030108
+178.18.15.20 1 1 36725 20240419074450
+199.45.154.54 1 1 8723 20240414023404
+182.2.136.92 1 1 7052 20240401183226
+154.29.103.76 1 1 7052 20240430024950
+170.106.104.42 2 2 17438 20240413021119
+5.133.192.188 1 1 8710 20240415104827
+180.110.203.108 1 1 8726 20240416215620
+159.89.12.54 1 1 8725 20240406231225
+77.246.105.178 2 2 73450 20240404140516
+51.12.49.186 2 2 17448 20240413165613
+43.163.8.36 1 1 8726 20240420173730
+91.244.198.177 1 1 8724 20240419102749
+54.200.246.166 1 1 8724 20240423080121
+43.163.6.35 1 1 8723 20240404132830
+81.36.129.195 1 1 7052 20240416225124
+154.29.103.234 2 2 14104 20240430142817
+36.99.136.128 1 1 8723 20240414160235
+35.91.149.45 1 1 8715 20240422002022
+202.74.40.142 1 1 36725 20240429063248
+45.55.198.13 1 1 8726 20240417100726
+43.131.249.153 1 1 8718 20240424192222
+198.235.24.143 1 1 36725 20240409011227
+129.226.158.26 1 1 8714 20240404234656
+118.69.175.73 1 1 36725 20240414071201
+93.158.91.24 2 2 17446 20240420214928
+52.91.217.174 1 1 8722 20240428123356
+64.227.79.22 1 1 8725 20240407100410
+43.155.138.79 1 1 8723 20240427052848
+128.90.141.40 1 1 8725 20240407180452
+199.45.155.18 1 1 8723 20240414040440
+94.247.172.129 1 1 8710 20240415143345
+198.235.24.48 1 1 36725 20240416201214
+49.51.179.103 1 1 8724 20240426062515
+87.236.176.76 1 1 8718 20240416074344
+43.131.48.214 1 1 8721 20240401175526
+93.158.91.242 1 1 8726 20240421000209
+43.130.62.164 1 1 8730 20240406131113
+114.96.103.33 1 1 8723 20240404041850
+38.150.5.90 1 1 8715 20240430003952
+5.133.165.44 1 1 7052 20240430024951
+42.83.147.53 1 1 8718 20240402100524
+205.210.31.229 1 1 36725 20240419041223
+134.209.250.39 1 1 8718 20240424232915
+87.236.176.110 1 1 8718 20240415233702
+114.10.142.197 2 2 14107 20240407182341
+185.220.101.15 1 1 8714 20240404235629
+198.235.24.222 1 1 36725 20240413124028
+43.135.166.178 1 1 8714 20240410043537
+123.60.68.42 2 2 17445 20240416235725
+137.184.182.64 1 1 8710 20240429102629
+179.43.191.18 1 1 8718 20240425101407
+43.128.100.206 1 1 8722 20240428040441
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240401 9 9 101480 8
+20240402 14 14 145075 8
+20240403 10 10 235579 8
+20240404 18 18 323311 18
+20240405 7 7 61046 7
+20240406 13 13 309440 12
+20240407 5 5 40282 4
+20240408 4 4 34881 4
+20240409 11 11 151946 10
+20240410 16 16 134438 6
+20240411 10 10 227220 7
+20240412 7 7 89034 7
+20240413 25 25 414105 15
+20240414 11 11 123942 11
+20240415 13 13 141253 12
+20240416 7 7 87383 7
+20240417 6 6 52344 6
+20240418 3 3 82172 2
+20240419 11 11 171245 11
+20240420 5 5 68277 4
+20240421 10 10 85580 10
+20240422 12 12 195307 8
+20240423 7 7 89063 7
+20240424 7 7 81093 6
+20240425 13 13 197361 8
+20240426 6 6 50670 6
+20240427 8 8 125786 7
+20240428 9 9 106465 7
+20240429 13 13 281325 9
+20240430 31 31 2916709 22
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 2
+0s-30s 250
+30s-2mn 2
+15mn-30mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 303 4098954 252 248
+/live-draw/ 6 75455 2 3
+/history-result/ 6 2765009 2 3
+// 5 183625 0 2
+/.well-known/ 1 769 1 1
+END_SIDER

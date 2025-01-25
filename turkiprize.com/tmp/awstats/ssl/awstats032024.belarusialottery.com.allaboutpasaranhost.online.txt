@@ -1,0 +1,1100 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202403 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.belarusialottery.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2048                
+POS_TIME 2726                
+POS_VISITOR 25505               
+POS_DAY 36809               
+POS_DOMAIN 3534                
+POS_LOGIN 4192                
+POS_ROBOT 4347                
+POS_WORMS 5197                
+POS_EMAILSENDER 5328                
+POS_EMAILRECEIVER 5471                
+POS_SESSION 37633               
+POS_SIDER 37842               
+POS_FILETYPES 5606                
+POS_DOWNLOADS 5784                
+POS_OS 5832                
+POS_BROWSER 6219                
+POS_SCREENSIZE 8504                
+POS_UNKNOWNREFERER 8578                
+POS_UNKNOWNREFERERBROWSER 9700                
+POS_ORIGIN 10158               
+POS_SEREFERRALS 10298               
+POS_PAGEREFS 10529               
+POS_SEARCHWORDS 10753               
+POS_KEYWORDS 10927               
+POS_MISC 2390                
+POS_ERRORS 11012               
+POS_CLUSTER 4048                
+POS_SIDER_404 11128               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240401020259 14 2972 13457583982364
+FirstTime 20240301010051
+LastTime 20240331222441
+LastUpdate 20240401081327 14 0 13 0 0
+TotalVisits 349                 
+TotalUnique 272                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 300                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 11 29 918171 15 20 43771
+1 15 16 467714 92 107 504244
+2 9 9 79756 10 14 16227
+3 12 12 166518 26 31 245283
+4 13 13 115523 92 103 452337
+5 39 61 2177246 21 37 54929
+6 52 104 1943279 19 84 439345
+7 48 180 5743238 28 101 301722
+8 26 34 919893 32 58 1393349
+9 27 46 953189 17 32 90035
+10 25 26 637328 24 65 440320
+11 20 34 1150536 8 21 49201
+12 18 22 972774 18 34 103853
+13 25 25 406466 17 21 46491
+14 12 12 194528 51 59 216927
+15 11 12 396302 31 44 500246
+16 22 25 697431 13 45 409900
+17 9 10 481133 22 42 343528
+18 27 31 1558541 29 47 82170
+19 19 28 662813 9 13 90585
+20 16 16 370708 41 64 198625
+21 11 11 169965 24 44 236681
+22 14 15 460762 10 16 31739
+23 21 29 606684 26 38 76386
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 31
+us 141 248 11154480
+kh 97 183 2622086
+cn 68 97 1952222
+ru 28 28 524515
+jp 22 22 223975
+fr 16 16 282857
+ca 15 15 378051
+nl 14 14 117403
+se 13 16 1039795
+de 12 13 116552
+id 11 53 1498538
+ua 7 9 73373
+ro 7 7 96506
+hn 6 11 233466
+bg 6 7 89217
+sc 4 4 68644
+no 4 4 167852
+lv 4 4 28543
+zz 3 3 18697
+in 3 5 87187
+au 3 21 712950
+be 3 5 641500
+gr 3 3 28609
+vn 2 2 14898
+ch 2 2 9569
+my 1 1 7923
+lb 1 1 8824
+az 1 1 8821
+es 2 2 19768
+pl 2 2 14874
+gb 1 1 8803
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 18
+bingbot/ 55 564731 20240328204932 0
+AhrefsBot/ 52 588317 20240331211140 0
+Googlebot/ 43 121236 20240330113800 0
+no_user_agent 25 1022647 20240331095535 0
+SemrushBot/ 7 87183 20240324115548 0
+bot[\s_+:,\.\;\/\\-] 7 64161 20240324034025 0
+Go\-http\-client/ 5 1535025 20240330012505 0
+crawl 4 60042 20240303182619 0
+YandexBot/ 3 70662 20240309035506 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 26410 20240328173234 0
+survey 3 125884 20240305214819 0
+DuckDuckGo\-Favicons\-Bot/ 2 315832 20240314045638 0
+Googlebot\-Image/ 2 614010 20240328164928 0
+Apache\-HttpClient/ 2 17606 20240322233305 0
+TelegramBot 2 14905 20240320072352 0
+Applebot/ 1 9888 20240304233119 0
+BLEXBot/ 1 9886 20240312041207 0
+MJ12bot/ 1 6976 20240329174710 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+Unknown 2 190915 0 0
+css 86 80216 0 0
+js 12 42167 0 0
+html 500 6510219 0 0
+png 126 14909224 0 0
+jpg 74 517757 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+win98 1 1
+android 14 14
+macosx 15 9
+winnt 6 4
+macosx11 6 6
+androidoreo 1 1
+win7 12 12
+win10 316 217
+winlong 4 4
+macosx9 1 1
+android10 186 18
+Unknown 54 43
+win8.1 2 2
+winxp 1 1
+linux 34 27
+macosx10 1 1
+androidnougat 9 7
+androidmarshmallow 4 4
+ios_iphone 74 74
+macosx15 55 52
+androidkitkat 1 1
+ios_ipad 2 2
+linuxubuntu 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 111
+netscape5.0 5 5
+chrome88.0.4240.193 5 5
+chrome74.0.3729.169 5 5
+chrome120.0.0.0 7 7
+chrome42.0.2311.90 1 1
+chrome79.0.3945.130 2 2
+chrome107.0.0.0 2 0
+msie9.0 1 1
+chrome63.0.3239.84 1 1
+chrome112.0.5615.136 1 1
+chrome120.0.6099.80 2 2
+chrome101.0.4951.54 1 1
+chrome60.0.3112.107 9 7
+chrome119.0.0.0 1 1
+chrome79.0.3945.88 4 4
+chrome97.0.4280.67 3 3
+chrome81.0.4044.145 1 1
+firefox34.0 1 1
+opera102.0.0.0 1 1
+chrome88.0.4324.190 1 1
+chrome99.0.2776 1 1
+msie8.0 1 1
+chrome90.0.583 1 1
+chrome122.0.6261.94 1 1
+chrome85.0.4183.121 1 1
+firefox114.0 1 0
+chrome114.0.0.0 29 28
+msie6.0 1 1
+msie10.0 1 1
+chrome100.0.4896.60 15 15
+chrome103.0.142 1 1
+chrome34.0.1847.116 3 3
+chrome34.0.1847.114 1 1
+chrome110.0.0.0 4 4
+chrome105.0.0.0 10 7
+chrome63.0.3239.132 1 1
+safari17.1.2 1 1
+chrome120.0.6099.2552 4 4
+firefox108.0 4 4
+firefox18.0 1 1
+chrome51.0.2704.103 2 2
+edge17 1 1
+chrome99.0.4844.51 1 1
+chrome103.0.0.0 2 2
+firefox103.0 3 3
+chrome101.0.4951.67 1 1
+safari14.0.2 1 1
+chrome120.0.6099.71 2 2
+chrome92.0.2358 1 0
+chrome100.0.4895.86 1 1
+firefox71.0 1 1
+chrome118.0.0.0 2 2
+chrome89.0.4389.90 1 1
+chrome67.0.3396.99 1 1
+firefox117.0 6 6
+chrome78.0.847 1 0
+chrome74.0.2201 1 0
+safari13.0.3 71 71
+firefox123 2 2
+chrome81.0.4044.138 3 3
+safari16.2 1 0
+chrome104.0.0.0 6 6
+chrome80.0.3987.162 1 1
+chrome116.0.0.0 3 3
+firefox118.0 2 2
+safari 1 1
+chrome91.0.4472.114 3 3
+chrome31.0.1650.57 1 1
+chrome100.0.4896.127 3 3
+chrome65.0.2370 1 0
+safari13.1.2 1 1
+safari6.0 1 1
+chrome117.0.0.0 21 21
+firefox123.0 5 5
+chrome58.0.3029.110 2 1
+chrome112.0.0.0 2 1
+chrome89.0.4389.114 6 6
+chrome123.0.0.0 71 8
+chrome106.0.2790 1 1
+chrome88.0.4324.150 4 4
+chrome95.0.4638.54 2 2
+chrome79.0.3863.88 1 1
+mozilla 20 18
+msie11.0 1 1
+chrome74.0.1202.88 1 1
+safari9.1.2 1 1
+chrome73.0.1301.88 1 1
+firefox122.0 1 1
+chrome78.0.3904.108 8 8
+chrome72.0.3626.105 1 1
+chrome81.0.4044.92 1 1
+Unknown 25 16
+chrome83.0.4103.97 5 5
+msie7.0 2 2
+chrome121.0.0.0 107 41
+chrome67.0.2460 1 1
+safari16.6 2 2
+chrome108.0.0.0 18 4
+chrome58.0.1178 1 1
+chrome67.0.1894 1 1
+chrome90.0.4430.85 2 2
+chrome54.0.2391 1 0
+chrome85.0.4183.102 1 1
+firefox115.0 2 1
+chrome67.0.89 1 1
+chrome113.0.0.0 1 0
+chrome122.0.0.0 206 81
+firefox40.0 1 1
+firefox52.0 5 5
+firefox33.0 3 3
+firefox97.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Mozilla/5.0_(compatible;_Example3/1.0;__https://www.example3.com/domain/belarusialottery.com) 20240325170220
+Chrome 20240325193301
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240318050724
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240309054658
+Mozilla/5.0_AppleWebKit/537.36_(KHTML,_like_Gecko;_compatible;_GeedoProductSearch;__http://www.geedo.com/product-search.html)_Chrome/79.0.3945.88_Safari/537.36 20240322063637
+Mozilla/5.0_Firefox/33.0 20240308215826
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240323233554
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240327105339
+Mozilla/5.0 20240330011656
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240329231047
+panscient.com 20240314132105
+Python/3.8_aiohttp/3.9.1 20240308055802
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Chrome 20240325193301
+Python/3.8_aiohttp/3.9.1 20240308055802
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240329231047
+panscient.com 20240314132105
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 326 376
+From1 6 8
+From2 10 10
+From3 3 3
+From4 157 403
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google_com 2 2
+www_bing_com 1 1
+www_google_com 2 2
+www_google_com_hk 1 1
+yandexcom 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://cometojp.site 1 1
+https://mogaseru.site 1 1
+https://onic-4d.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+live+draw+belarusia 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 3
+belarusia 1
+draw 1
+live 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 870 1078362
+403 23 28566
+301 7 5565
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 317
+/fm.php 1 -
+/css.php 1 -
+/wp-content/themes/themes.php 1 belarusialottery.com
+/wp-admin/images/atomlib.php 1 -
+/wp-admin/user/plugins.php 1 belarusialottery.com
+/new 3 -
+/wp-includes/css/plugins.php 1 belarusialottery.com
+/wordpress/wp-admin/install.php 1 -
+/class.api.php 3 http://belarusialottery.com/class.api.php
+/images/about.php 1 -
+/wp-head.php 3 -
+/moon.php 1 -
+/wp-content/themes/seotheme/db.php 6 www.google.com
+/wp-admin/css/ 2 binance.com
+/wp-content/uploads/wpr-addons/forms/b1ack.php 1 -
+/text.php 1 http://belarusialottery.com/text.php
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php 1 http://belarusialottery.com/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php
+/.well-known/index.php 1 -
+/phpmyadmin/index.php 8 -
+/.well-known/pki-validation/about.php 2 http://belarusialottery.com/.well-known/pki-validation/about.php
+/wp-json/wp/v2/users 1 -
+/wp-content/pm.php 2 belarusialottery.com
+/wp-emoji-release.min.js 5 -
+/wp-content/plugins/alfa-rex.php 2 http://belarusialottery.com/wp-content/plugins/alfa-rex.php
+/cjfuns%20.php 1 http://belarusialottery.com/cjfuns%20.php
+/wp-crons.php 1 -
+/wp-content/uploads/wp-booter.php 1 -
+/.well-known/zxhfwqyt.php 1 -
+/wOfficial%20lottery%20websitep-includes/css/dist/block-library/style.min.css 87 https://belarusialottery.com/
+/srsgzpek.php 1 www.google.com
+/wp-content/plugins/backup-backup/includes/ 1 http://belarusialottery.com/wp-content/plugins/backup-backup/includes/
+/wp-content/plugins/apikey/mar.php 1 -
+/wp-content/plugins/miniorange-malware-protection/includes/js/settings_page.js 1 belarusialottery.com
+/.env 11 -
+/function.php 1 -
+//2019/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/background-image-cropper/tmpls.php 1 -
+/wp-login.php 1 http://www.google.com.hk
+/assets/filemanager/dialog.php 1 -
+/wp-content/about.php 1 -
+//site/wp-includes/wlwmanifest.xml 1 -
+/admin/filemanager/dialog.php 1 -
+/js/elfinder/php/connector.php 1 -
+/uploads/ 2 binance.com
+/moded.php 1 -
+/wp-content/shell20211028.php 1 http://belarusialottery.com/wp-content/shell20211028.php
+/humans.txt 8 http://belarusialottery.com/humans.txt
+/images/class-config.php 1 -
+/cgi-bin/plugins.php 1 belarusialottery.com
+/site/wp-admin/install.php 1 -
+//test/wp-includes/wlwmanifest.xml 1 -
+/ee.php 1 -
+/indeex.php 1 -
+/wp-header.php 2 http://belarusialottery.com/wp-header.php
+/assets/images/cmd.php 1 -
+/wp-content/plugins/miniorange-malware-protection/includes/js/phone.js 1 -
+/zvwbgyer.php 1 www.google.com
+/blog/wp-admin/install.php 1 -
+/wp-content/plugins/Cache/dropdown.php 1 -
+/wp-includes/inputs.php 1 -
+/wp-2019.php 2 -
+/%5C/belarusialottery.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 1 -
+/wp-includes/ID3/wp-login.php 2 http://belarusialottery.com/wp-includes/ID3/wp-login.php
+/assets/administrator/filemanager/dialog.php 1 -
+//xmlrpc.php 3 -
+/includes/backup-heart.php 1 -
+/assets/admin/js/filemanager/dialog.php 1 -
+/wp-l0gin.php 1 -
+/files/ 2 binance.com
+/backup/wp-admin/install.php 1 -
+/wp-includes/widgets/plugins.php 1 belarusialottery.com
+/gel4y.php 1 -
+/gecko.php 1 -
+/c.php 1 http://belarusialottery.com/c.php
+/wp-includes/IXR/admin.php 1 -
+/about.php 8 www.google.com
+/fm1.php 3 http://belarusialottery.com/fm1.php
+/wp-content/themes/finley/min.php 3 -
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 1 http://belarusialottery.com/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+/inputs.php 5 -
+/wp-includes/widgets/class-wp-widget-tag.php 1 -
+/wp-includes/js/jquery/jquery.min.js 6 www.google.com
+/wp-json/wp/v2/users/1 1 https://belarusialottery.com/
+/author-sitemap.xml 1 -
+/wp-admin/css/index.php 1 belarusialottery.com
+/index1.php 1 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/dist/jquery.min.js 5 -
+/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/test 3 -
+/,https://loteriaportugal.com,,FALSE 6 -
+/classwithtostring.php 1 -
+/js/filemanager/dialog.php 1 -
+/install.php 2 -
+/cong.php 1 -
+/wOfficial 1 https://belarusialottery.com/
+/wp-admin/setup-config.php 7 -
+/wp-content/plugins/Cache/Cache.php 1 http://belarusialottery.com/wp-content/plugins/Cache/Cache.php
+/mah.php 1 -
+/wp-includes/wp-class.php 1 -
+//2020/wp-includes/wlwmanifest.xml 1 -
+/chosen.php 9 -
+/administrator/components/com_civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+//wp-json/oembed/1.0/embed 4 -
+/new/wp-admin/install.php 1 -
+/wp-content/plugins/about.php 3 -
+/wp-includes/random_compat/about.php 1 http://belarusialottery.com//wp-includes/random_compat/about.php
+/admin/fileupload/server/php/index.php 1 -
+//wp-json/wp/v2/users/ 4 -
+/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/autoload_classmap.php 2 -
+/wp-content/themes/mero-megazines/ws.php 1 -
+/dist/js/bootstrap.bundle.min.js 5 -
+/cjfuns.php 1 http://belarusialottery.com/cjfuns.php
+/wp-content/plugins/core-plugin/.nxd.php 1 http://belarusialottery.com/wp-content/plugins/core-plugin/.nxd.php
+/ioxi001.PhP7 1 -
+/top.php 1 -
+/wp-content/themes/alera/alpha.php 1 -
+/wp-includes/fonts/plugins.php 1 belarusialottery.com
+/wp-content/plugins/apikey/apikey.php 2 -
+/admin/ 1 -
+/wp-content/plugins/backup-backup/readme.txt 1 -
+/filefuns.php 1 -
+/.DS_Store 6 -
+//feed/ 1 -
+/wp-json/wp/v2/users/5 2 https://belarusialottery.com/
+/.well-known/acme-challenge/about.php 1 -
+/.well-known/fierzashell.php 1 -
+/dropdown.php 2 http://belarusialottery.com/dropdown.php
+/sitemap.xml.gz 2 -
+/feed/atom/ 1 -
+/wp-admin/network/subjects.php 1 -
+/test/wp-admin/install.php 1 -
+/wp-admin/maint/edit.php 1 -
+/wp-content/themes/zakra/inc/deprecated/deprecated-slave.php 1 belarusialottery.com
+//web/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 2 -
+/admin/controller/extension/extension/ 2 binance.com
+/ioxi01.php 1 -
+/wp/wp-includes/menu.php 1 -
+/repeater.php 3 -
+/wp-includes/widgets/content.php 1 belarusialottery.com
+/wp-content/plugins/apikey/apikey.php.suspected 2 -
+/wp-content/themes/twentyfive/include.php 1 -
+/home 2 -
+/wp-admin/YP1cuvy6WrD.php 1 -
+/wp-includes/certificates/plugins.php 1 belarusialottery.com
+/https://adsensetalk.online/ 1 -
+/menu.php 1 http://belarusialottery.com/menu.php
+/style.php 1 www.google.com
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 6 -
+/wp-includes/images/plugins.php 1 belarusialottery.com
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 2 www.google.com
+/wp-admin/about.php 1 -
+/wp-content/inputs.php 2 -
+/web.php 1 -
+/wp-includes/IXR/allez.php 1 -
+/wp-json/wp/v2/users/2 3 https://belarusialottery.com/
+/wp-plain.php 2 www.google.com
+/blog 3 -
+/wp-admin/css/colors/blue/blue.php 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 2 www.google.com
+/wp-info.php 1 http://belarusialottery.com/wp-info.php
+/wp-includes/sodium_compat/plugins.php 1 belarusialottery.com
+/radio.php 1 -
+/plugins/content/apismtp/apismtp.php 2 -
+/wp-json/wp/v2/posts/ 1 -
+/wp-includes/customize/amaxx.php 2 -
+/testing 2 -
+//wp-includes/ID3/license.txt 1 -
+/mini.php 1 -
+/wp-content/plugins/ioptimization/IOptimize.php 2 www.google.com
+/defaults.php 2 -
+/wp-content/themes/signify/firkon.php 1 -
+/assets/app.php 1 -
+/users.php 1 -
+/wp-admin/css/colors/coffee/index.php 1 -
+/comdofuns.php 1 -
+/.well-known/security.txt 1 http://www.belarusialottery.com/.well-known/security.txt
+/.well-known/acme-challenge/index.php 1 -
+/filemanager/dialog.php 1 -
+/wp-includes/sitemaps/plugins.php 1 belarusialottery.com
+/wp-admin/inputs.php 2 -
+/wp-content/plugins/fix/up.php 9 www.google.com
+/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 1 http://belarusialottery.com/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+/sitemap_index.xml 1 -
+/input.php 1 -
+/radio.txt 1 -
+/core 2 -
+/wp-json/litespeed/v1/cdn_status 8 -
+/fileupload/server/php/index.php 1 -
+/alfanew.php7 2 http://belarusialottery.com/alfanew.php7
+/assets/plugins/filemanager/dialog.php 1 -
+/doc.php 1 -
+/Wp-includes/amaxx.php 1 http://belarusialottery.com/Wp-includes/amaxx.php
+/wp-includes/PHPMailer/plugins.php 1 belarusialottery.com
+/wp-includes/ID3/about.php 2 http://belarusialottery.com/wp-includes/ID3/about.php
+/typo3conf/ext/hi_surveystats/res/php-ofc-library/ofc_upload_image.php 1 -
+/M1.php 2 http://belarusialottery.com/M1.php
+/ws.php 1 -
+/admin.php 12 belarusialottery.com
+//cdn.js 6 -
+/LA.php 1 -
+/gawean.PhP7 2 -
+/oldsite/wp-admin/install.php 1 -
+/belarusia-lottery.png 8 -
+/old/wp-admin/install.php 1 -
+/wp/wp-admin/install.php 1 -
+/wp-content/plugins/seo-watcher/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/wp-includes/SimplePie/plugins.php 2 http://belarusialottery.com/wp-includes/SimplePie/plugins.php
+/wp-content/uploads/plugins.php 1 belarusialottery.com
+/ioxi02.php 2 http://belarusialottery.com/ioxi02.php
+/assets/js/dropzone/dropzone-amd-module.min.js 1 -
+/worm0.PhP7 1 -
+/wp-includes/assets/plugins.php 1 belarusialottery.com
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 5 www.google.com
+/sitemap.xml 22 -
+/wp-json 7 -
+/administrator/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-content/plugins/press/wp-class.php 2 http://belarusialottery.com/wp-content/plugins/press/wp-class.php
+/wso.php 1 -
+/wp-includes/IXR/themes.php 2 http://belarusialottery.com/wp-includes/IXR/themes.php
+/wp-includes/theme-compat/wp-conflg.php 1 http://belarusialottery.com/wp-includes/theme-compat/wp-conflg.php
+/chart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-includes/sodium_compat/src/Core/Base64/index.php 1 belarusialottery.com
+/alfacgiapi/perl.alfa 2 www.google.com
+/xxl.php 1 -
+/plugins/content/apismtp/apismtp.php.suspected 2 -
+/,https://loteriaportugal.com 1 -
+/images/ 2 binance.com
+/api/index.php/v1/users 2 -
+/wp-content/themes/about.php 3 -
+//shop/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/images/profile.php 1 -
+/_well-known/amaxx.php 1 http://belarusialottery.com/_well-known/amaxx.php
+/.well-known/acme-challenge/mariju.php 1 -
+/wp-content/uploads/about.php 2 -
+//belarusia.com/wp-content/themes/lottery/assets/js/flipclock.js 5 -
+/wp-admin/dropdown.php 2 -
+/xmlrpc.php 1 -
+/wp-json/wpgmza/v1/markers 4 -
+/sites/default/files/ 2 binance.com
+/wp-json/wp/v2/users/3 2 https://belarusialottery.com/
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 1 -
+/wp-content/plugins/core/include.php 2 http://belarusialottery.com/wp-content/plugins/core/include.php
+/js/elfinder/php/connector.minimal.php 1 -
+/index_sso.php 8 -
+//blog/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/sitemaps/about.php 1 -
+/wzy.php 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 1 -
+/worksec.php 1 -
+/wp-content/plugins/whatsmyrank-devenc/php-ofc-library/ofc_upload_image.php 1 -
+/wp-content/style-css.php 1 belarusialottery.com
+/wp-admin/images/admin.php 1 http://belarusialottery.com/wp-admin/images/admin.php
+/wp-content/cong.php 1 -
+/newsite 3 -
+/wp-admin/maint/moon.php 1 -
+//cms/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/js/wp-emoji-release.min.js 1 www.google.com
+/wp-includes/PHPMailer/admin.php 1 -
+/security.txt 1 http://www.belarusialottery.com/security.txt
+/wp-admin/user/about.php 2 -
+//loteriaportugal.com/wp-content/themes/lottery_portugal/assets/js/lottery.js 1 -
+/wp-content/upgrade/edit.php 1 http://belarusialottery.com/wp-content/upgrade/edit.php
+/cms/wp-admin/install.php 1 -
+/wso112233.php 1 http://belarusialottery.com/wso112233.php
+/wp-admin/network/amaxx.php 1 http://belarusialottery.com/wp-admin/network/amaxx.php
+/admin/php-ofc-library/ofc_upload_image.php 1 -
+//wp/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/ads.txt 8 http://belarusialottery.com/ads.txt
+/1.php 1 -
+/.well-known/wso112233.php 2 http://belarusialottery.com/.well-known/wso112233.php
+/wp-content/plugins/instabuilder2/cache/plugins/moon.php 1 -
+/assets/plugins/fileupload/server/php/index.php 1 -
+/robots.txt 106 http://belarusialottery.com/robots.txt
+/shell20211028.php 2 -
+/util/login.aspx 1 -
+/wp-content/themes/lottery_belarusia/assets/images/pattern.png 60 https://belarusialottery.com/wp-content/themes/lottery_belarusia/assets/css/component.css
+/wp-includes/about.php 1 -
+/wp-configs.php 1 -
+//loteriaportugal.com/wp-content/themes/lottery/assets/js/flipclock.js 1 -
+/index.php 3 belarusialottery.com
+/simple.php 9 www.google.com
+/wp-admin/css/colors/light/about.php 1 -
+/assets/fileupload/server/php/index.php 1 -
+/byp.php 1 -
+/wp-admin/install.php 8 -
+/post.php 1 -
+//2021/wp-includes/wlwmanifest.xml 1 -
+/old 3 -
+/wp-content/uploads/option.php 1 -
+/ern1.PhP7 1 -
+/wp-activate.php 1 -
+/r3x.php 1 -
+/wp-json/wp/v2/users/4 3 https://belarusialottery.com/
+/wp-includes/certificates/about.php 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 6 -
+/wp-content/plugins/core-plugin/nxd.php 1 http://belarusialottery.com/wp-content/plugins/core-plugin/nxd.php
+/wp-content/plugins/revslider/includes/external/page/index.php 1 -
+/web/wp-admin/install.php 1 -
+/wp 3 -
+//belarusia.com/wp-content/themes/lottery_belarusia/assets/js/lottery.js 4 -
+/alfanew.PHP7 1 -
+/wp-includes/qw.php 1 -
+/components/com_jnews/includes/openflashchart/php-ofc-library/ofc_upload_imaged.php 1 -
+/alfanew.php 2 http://belarusialottery.com/alfanew.php
+/sites/all/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+//wp-includes/wlwmanifest.xml 4 -
+/php/thinkphp/aaaffff123.php 8 -
+/wp-content/plugins/blog-designer-pack/freemius/templates/connect/permission-help.php 1 belarusialottery.com
+/.tmb/admin.php 1 -
+/wp-links.php 1 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 2 http://belarusialottery.com/wp-content/plugins/backup-backup/includes/backup-heart.php
+/wordpress 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 300
+124.248.183.41 97 183 2622086 20240331064641
+54.88.179.33 8 8 328161 20240323122026
+35.171.144.152 7 7 284319 20240323121318
+168.119.38.238 7 7 53769 20240313183200
+35.241.135.72 7 7 59345 20240308055811
+84.239.45.12 6 6 56422 20240314132105
+149.56.160.181 6 6 868428 20240309054636
+163.5.64.69 5 5 209780 20240303201807
+138.94.218.25 5 5 212482 20240329132036
+185.218.125.179 5 5 200405 20240315164523
+110.166.71.39 4 4 37401 20240323193436
+42.83.147.34 4 4 36281 20240327232653
+83.99.151.70 4 4 28543 20240322063637
+180.243.6.85 4 4 15853 20240311043313
+114.122.203.49 4 25 737846 20240329070513
+152.42.180.8 4 4 160316 20240321191307
+162.0.209.76 4 4 35168 20240331222441
+43.163.3.58 4 4 37387 20240316215331
+84.247.129.164 4 4 167852 20240307004854
+36.134.147.75 4 4 37377 20240328184541
+104.28.218.135 4 27 1309992 20240323002812
+123.60.68.42 3 3 27478 20240329222651
+69.160.160.57 3 3 48184 20240303182631
+106.119.167.146 3 3 28560 20240314090056
+37.128.144.106 3 3 18424 20240328084451
+43.134.142.8 1 1 9895 20240308151423
+91.193.232.191 1 1 7926 20240307115400
+188.166.73.216 1 1 8821 20240330093609
+185.220.100.243 1 1 9897 20240307235812
+134.209.30.234 1 1 8798 20240316102807
+38.45.123.34 2 2 19790 20240312154854
+34.227.82.23 1 1 40081 20240316030007
+185.220.101.40 1 1 9897 20240307235759
+192.42.116.176 1 1 8803 20240315111618
+191.102.162.19 0 1 3635 
+198.235.24.231 1 1 40079 20240325235440
+209.127.97.171 0 1 6140 
+93.158.91.12 1 2 315808 20240322164951
+116.206.14.35 1 12 640042 20240330071331
+206.204.39.227 1 1 9860 20240305103614
+62.141.44.236 1 1 9883 20240310113146
+85.10.143.139 2 2 9619 20240320041932
+192.36.109.78 1 1 9881 20240302064620
+104.28.251.244 1 14 651134 20240324112358
+101.44.249.64 1 1 9881 20240302105927
+135.148.195.5 0 1 307005 
+60.188.57.0 1 1 9888 20240305041115
+46.19.138.210 1 1 8799 20240324164155
+87.236.176.141 1 1 8798 20240316103909
+64.226.117.184 1 1 8803 20240320090655
+116.203.44.248 1 1 40079 20240325170220
+91.193.232.181 1 1 7926 20240307115401
+222.79.103.59 1 1 9882 20240306225346
+43.163.1.85 1 1 8812 20240320032819
+165.22.127.32 1 1 9860 20240305132829
+199.195.251.119 1 1 8781 20240318072852
+191.102.155.160 0 1 3047 
+91.193.232.187 1 1 13667 20240307115401
+130.255.166.90 1 1 8812 20240319123334
+54.190.24.62 1 1 8803 20240322085757
+91.193.232.229 1 1 13667 20240308101443
+151.106.8.46 1 1 40081 20240315173900
+36.133.35.23 1 1 8803 20240320124529
+95.164.159.218 0 1 2790 
+192.42.116.20 1 1 8803 20240315111631
+209.127.253.118 0 1 3047 
+138.197.146.57 1 1 9895 20240312083642
+87.236.176.139 1 1 9895 20240309035923
+64.227.125.83 1 1 30401 20240305135714
+113.219.218.197 1 1 8803 20240316022305
+185.16.38.230 1 1 7901 20240309035044
+94.156.64.15 1 1 8821 20240323101446
+51.255.79.114 2 2 9619 20240319182903
+44.207.4.12 0 1 307005 
+222.79.104.23 1 1 8797 20240317180305
+91.92.241.173 1 1 9888 20240304160851
+45.139.66.67 0 1 2454 
+182.44.2.148 2 2 19744 20240304054148
+150.109.253.34 1 1 9895 20240309010310
+107.21.5.51 0 1 307005 
+192.42.116.13 1 1 8803 20240315111619
+185.220.101.58 1 1 8803 20240315111617
+217.76.159.96 2 2 19768 20240302022421
+120.71.59.24 1 1 8800 20240326194428
+182.42.105.85 2 2 18695 20240321094436
+199.45.154.50 1 1 812 20240316163347
+134.209.222.96 1 1 8803 20240322094003
+51.159.140.74 1 1 8803 20240323010217
+209.127.253.3 0 1 4954 
+87.236.176.81 0 1 307005 
+175.6.217.4 1 1 8795 20240315052301
+43.134.37.211 1 1 8799 20240324165617
+117.33.163.216 1 1 8803 20240320232943
+209.127.108.144 0 1 2790 
+14.215.163.132 1 1 8781 20240318230302
+101.44.248.115 1 1 8781 20240318191155
+52.81.80.21 1 1 9868 20240305121409
+139.59.57.20 1 1 8805 20240328095201
+154.90.48.145 1 1 40079 20240328211851
+52.81.85.175 1 2 315804 20240324083542
+123.187.240.242 1 1 9882 20240306124226
+104.28.218.136 0 7 64099 
+185.170.10.187 1 1 40079 20240322033829
+178.170.15.102 2 2 9607 20240326145418
+158.220.125.29 1 1 770 20240313093415
+23.129.255.60 2 2 8800 20240327001312
+84.54.51.68 1 1 8824 20240326064408
+34.219.17.48 1 1 9888 20240304084114
+145.220.91.19 1 1 8792 20240330023622
+159.223.72.237 2 2 19768 20240301081434
+182.44.12.37 1 1 8821 20240331030550
+43.153.110.177 1 1 8824 20240326005737
+101.44.248.49 1 1 8798 20240317054601
+138.197.32.162 2 2 19762 20240302212439
+91.193.232.213 1 1 7901 20240308101442
+43.163.6.35 1 1 9883 20240311014638
+103.251.8.199 1 1 7923 20240304022739
+192.95.31.35 2 2 9619 20240319135603
+94.247.172.129 1 1 8805 20240328120512
+150.109.13.194 1 1 8827 20240313230109
+216.131.77.148 1 1 1776 20240318152833
+5.133.192.99 1 2 315803 20240316224934
+193.56.116.253 1 1 7919 20240308101441
+185.220.101.47 1 1 9897 20240307235758
+182.42.104.32 1 1 8821 20240323094436
+104.192.171.138 1 1 8781 20240318072851
+205.210.31.101 1 1 41960 20240301084729
+130.255.166.98 1 1 8781 20240318224345
+213.202.233.34 1 2 14663 20240330133700
+158.46.181.228 1 1 8805 20240325230039
+143.110.170.165 1 1 9888 20240305005412
+135.148.195.16 0 1 307005 
+67.220.86.160 1 1 9868 20240305153401
+205.210.31.204 1 1 40084 20240327173131
+170.254.178.252 0 1 313710 
+185.13.99.111 1 1 8799 20240325012258
+185.220.101.48 1 1 8824 20240326064409
+87.98.186.183 1 1 8792 20240330011656
+104.28.250.135 0 14 128198 
+52.53.149.195 1 1 8803 20240322222355
+89.188.168.217 1 1 1776 20240318152835
+88.218.81.126 1 1 8824 20240325193257
+54.226.59.7 0 1 307005 
+101.44.251.235 1 1 9889 20240309133041
+54.183.19.35 1 1 8803 20240315171343
+52.81.248.110 1 1 9895 20240308091017
+114.96.103.33 1 1 9895 20240312161956
+52.81.189.133 1 2 315832 20240314063756
+51.254.199.11 3 3 27521 20240323193317
+146.190.55.56 1 1 9883 20240310092754
+180.110.203.108 2 2 19785 20240304154119
+89.248.174.34 2 2 17562 20240318191521
+91.193.232.192 1 1 7910 20240307115400
+101.44.248.233 1 1 8795 20240314230043
+121.229.185.160 1 1 9868 20240306025702
+87.236.176.32 0 1 307005 
+45.139.66.231 0 1 3635 
+85.25.93.236 3 3 28222 20240326185814
+137.226.113.44 3 3 26475 20240327105339
+192.42.116.174 1 1 8824 20240326064411
+138.68.180.18 3 3 28226 20240316052630
+124.156.193.7 1 1 9897 20240303130539
+93.159.230.89 1 1 8803 20240315091614
+198.235.24.2 1 1 41963 20240306042540
+93.159.230.87 1 1 9884 20240301080927
+38.46.8.202 1 1 8821 20240323111852
+165.227.32.107 1 1 8781 20240318115611
+135.148.195.11 0 1 307005 
+54.245.169.74 1 1 8803 20240322085758
+45.139.232.1 1 1 10618 20240325230042
+87.236.176.232 1 1 8797 20240318050722
+188.166.11.105 1 1 8781 20240318094645
+185.246.188.74 1 1 8824 20240326064417
+15.204.182.106 2 2 19790 20240308211125
+80.92.205.225 1 1 7925 20240309205626
+84.19.174.40 2 2 19736 20240305142840
+116.110.66.175 1 1 7921 20240311165059
+164.90.170.3 2 2 19776 20240304141303
+191.102.170.236 0 1 2436 
+178.128.236.51 1 1 9888 20240304084408
+152.39.214.67 1 1 9868 20240305093550
+198.235.24.79 1 1 40081 20240329231047
+203.2.64.59 1 1 8821 20240330164551
+167.248.133.187 1 1 814 20240316191317
+34.221.167.83 1 1 41956 20240310200304
+154.91.83.168 3 3 28565 20240329082740
+138.94.218.116 1 1 6976 20240329132031
+182.42.111.156 1 1 8805 20240328093829
+95.164.157.67 0 1 3667 
+199.244.88.226 1 1 8806 20240327124508
+128.90.141.17 1 1 8781 20240318201504
+178.254.24.91 2 2 17573 20240329082752
+171.251.76.152 1 1 6977 20240327181555
+5.133.192.135 1 1 9868 20240305095956
+93.159.230.90 1 1 8821 20240330153836
+191.102.174.235 0 1 2436 
+43.128.110.17 1 1 8812 20240319082942
+91.205.170.157 1 1 40078 20240323110234
+198.235.24.127 1 1 41958 20240311162745
+93.158.91.245 1 1 8821 20240330161520
+123.249.91.159 1 1 8781 20240318083630
+69.10.48.174 1 1 40079 20240330191132
+65.109.125.197 0 9 342833 
+149.62.198.206 1 1 6979 20240324014256
+64.227.179.31 1 1 9895 20240308081751
+100.26.54.205 1 1 8806 20240322062245
+91.241.48.229 1 1 6973 20240325021304
+43.163.6.124 1 1 9889 20240310055722
+167.248.133.38 1 1 812 20240323233554
+43.131.62.4 2 2 17630 20240325140445
+45.55.71.195 1 1 8795 20240314092401
+5.188.62.174 2 2 17600 20240326171236
+185.220.100.240 1 1 8824 20240326064419
+101.44.249.154 1 1 8821 20240330201441
+114.79.55.29 1 22 723262 20240321050329
+185.225.33.36 1 1 6977 20240326132532
+124.221.247.200 3 3 26418 20240327161325
+207.32.218.37 1 1 770 20240305030325
+128.90.170.38 1 1 8824 20240326025956
+205.210.31.81 1 1 40080 20240323012415
+43.159.141.180 1 1 8806 20240328010236
+8.41.221.57 2 2 51855 20240308215826
+109.205.213.18 1 1 8821 20240330180700
+168.119.64.222 2 2 9631 20240325082855
+199.244.88.223 1 1 8803 20240315165823
+168.119.163.100 2 2 19794 20240303164900
+199.45.154.19 2 2 1624 20240323042726
+199.45.154.17 1 1 812 20240317220831
+52.80.187.17 1 1 9884 20240301145057
+104.248.84.187 1 1 8799 20240324092557
+185.220.101.61 1 1 8781 20240318072840
+134.209.229.64 1 1 8800 20240326082622
+5.133.192.140 1 2 315810 20240328111111
+104.28.250.136 2 24 1280092 20240320072359
+43.163.0.99 1 1 9886 20240312055503
+34.222.204.73 1 1 8803 20240315232113
+5.133.192.167 1 1 9883 20240311053029
+178.128.229.77 1 1 9897 20240304015334
+43.155.136.16 2 2 18667 20240318132940
+52.81.67.84 1 2 315800 20240314084702
+143.110.234.139 1 1 9868 20240305075200
+128.90.128.18 1 1 8827 20240313131236
+52.80.71.82 1 2 315797 20240330012503
+106.227.49.113 1 1 8792 20240330062150
+135.148.195.15 1 1 8803 20240315121946
+182.44.8.254 1 1 8827 20240313130010
+173.212.196.5 2 2 19764 20240306220222
+199.45.154.16 1 1 812 20240308185233
+182.43.70.143 1 1 9895 20240313030658
+128.90.128.17 1 1 9881 20240302204356
+45.79.158.127 1 1 9882 20240306181515
+43.155.166.202 1 1 8798 20240316120647
+165.22.222.16 1 1 9881 20240302072735
+77.74.177.119 1 1 8792 20240329103233
+205.210.31.186 1 1 40081 20240315231037
+89.248.174.42 2 2 19790 20240308215949
+182.42.111.213 1 1 8797 20240317082051
+149.56.150.6 1 1 7919 20240309054658
+45.61.188.92 1 1 9892 20240301010051
+114.142.172.18 2 20 704145 20240319070201
+23.129.64.222 1 1 9897 20240307235816
+103.119.111.106 1 1 30401 20240305103615
+136.175.8.35 1 1 8806 20240321231306
+93.158.90.46 1 1 9897 20240307211000
+3.110.178.206 1 1 6973 20240324113325
+3.95.65.152 1 1 6977 20240326090552
+135.148.195.7 1 1 8803 20240322180004
+49.7.227.204 3 3 27493 20240329051917
+150.109.16.20 1 1 9881 20240302231050
+86.127.230.205 1 1 40084 20240320095854
+194.33.191.20 1 1 41958 20240302221156
+91.92.244.231 0 1 5842 
+94.228.169.70 1 1 8781 20240318072849
+182.44.10.67 1 1 8806 20240322053716
+135.148.195.14 1 1 8792 20240329185318
+43.131.243.208 1 1 9868 20240305154412
+124.226.222.66 2 2 17592 20240331114214
+5.133.192.184 1 1 8827 20240313122631
+159.89.221.92 1 1 6978 20240318205849
+44.211.124.44 1 1 7926 20240312081537
+43.135.181.13 1 1 8821 20240324063809
+191.102.157.29 0 1 2454 
+91.92.243.105 2 2 17610 20240329024724
+42.83.147.53 1 1 9895 20240312082155
+101.44.251.4 1 1 8800 20240326222935
+91.92.246.131 1 1 40077 20240317205731
+135.148.195.6 0 1 307005 
+34.208.66.245 1 1 8799 20240324103003
+116.206.14.42 1 19 704143 20240327070044
+36.69.70.137 2 2 21577 20240308033915
+182.42.110.255 2 2 18696 20240325034124
+54.212.165.110 1 1 8798 20240316100902
+176.193.38.6 1 1 40084 20240320083157
+140.179.37.52 1 2 315829 20240325155447
+43.134.66.205 1 1 8797 20240318042952
+135.148.195.12 1 2 316902 20240304045352
+43.153.216.189 1 1 30401 20240304054230
+91.193.232.218 1 1 7919 20240308101442
+135.148.195.8 0 1 307005 
+101.44.248.170 1 1 8797 20240318040325
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240301 10 10 127010 8
+20240302 15 15 174434 11
+20240303 13 13 303503 5
+20240304 17 17 174801 15
+20240305 20 20 213675 17
+20240306 10 10 122836 7
+20240307 18 18 300311 14
+20240308 29 29 391880 17
+20240309 17 17 967372 11
+20240310 8 8 107227 7
+20240311 13 13 114003 9
+20240312 12 12 191207 8
+20240313 35 56 951260 11
+20240314 18 40 1465042 9
+20240315 29 31 1136228 18
+20240316 16 19 1059518 12
+20240317 7 7 74249 6
+20240318 25 44 1186763 22
+20240319 16 34 766386 8
+20240320 13 33 853526 10
+20240321 13 65 1587586 8
+20240322 16 37 2055640 12
+20240323 20 38 1086279 14
+20240324 10 24 1024907 10
+20240325 13 23 817066 12
+20240326 21 21 173329 17
+20240327 15 33 844400 10
+20240328 11 32 1132161 10
+20240329 20 47 1704102 12
+20240330 15 27 1084041 14
+20240331 7 7 59756 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+30mn-1h 2
+2mn-5mn 12
+5mn-15mn 14
+30s-2mn 4
+15mn-30mn 2
+0s-30s 314
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 427 4886805 326 310
+/live-draw/ 26 217763 11 10
+/history-result/ 26 984715 8 15
+// 10 410195 0 4
+/wp-json/ 9 9201 2 8
+/.well-known/ 2 1540 2 2
+/wp-json/wp/v2/pages/163 1 1458 0 0
+/wp-json/json 1 189457 0 0
+END_SIDER

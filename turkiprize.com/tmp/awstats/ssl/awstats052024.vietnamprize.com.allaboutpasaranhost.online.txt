@@ -1,0 +1,880 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202405 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.vietnamprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2044                
+POS_TIME 2722                
+POS_VISITOR 25075               
+POS_DAY 29025               
+POS_DOMAIN 3455                
+POS_LOGIN 3881                
+POS_ROBOT 4036                
+POS_WORMS 4630                
+POS_EMAILSENDER 4761                
+POS_EMAILRECEIVER 4904                
+POS_SESSION 29725               
+POS_SIDER 29883               
+POS_FILETYPES 5039                
+POS_DOWNLOADS 5141                
+POS_OS 5189                
+POS_BROWSER 5497                
+POS_SCREENSIZE 6475                
+POS_UNKNOWNREFERER 6549                
+POS_UNKNOWNREFERERBROWSER 7208                
+POS_ORIGIN 7613                
+POS_SEREFERRALS 7747                
+POS_PAGEREFS 7920                
+POS_SEARCHWORDS 8068                
+POS_KEYWORDS 8220                
+POS_MISC 2386                
+POS_ERRORS 8279                
+POS_CLUSTER 3737                
+POS_SIDER_404 8383                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240601024724 17 3640 10002525635546
+FirstTime 20240501063737
+LastTime 20240531203545
+LastUpdate 20240601080849 17 0 16 0 0
+TotalVisits 115                 
+TotalUnique 100                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 100                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 9 115590 11 18 55035
+1 14 14 164990 96 98 128674
+2 2 2 18591 7 9 37547
+3 2 2 53557 8 10 24675
+4 9 9 83480 57 75 120126
+5 2 2 53518 6 13 71421
+6 4 5 76603 3 6 21641
+7 16 16 183538 25 29 49131
+8 6 6 125705 9 11 110635
+9 6 6 55699 9 11 62845
+10 12 12 146461 5 18 77667
+11 4 5 113521 12 16 32174
+12 8 9 185672 49 59 100072
+13 9 9 258418 7 11 33959
+14 2 3 59953 6 12 72149
+15 4 4 105115 7 13 120495
+16 4 4 31320 6 11 27863
+17 6 6 125632 18 19 31810
+18 5 5 81449 8 31 49694
+19 2 3 94901 11 18 83755
+20 2 2 16615 10 32 70436
+21 10 10 162860 132 139 223088
+22 2 2 53540 161 171 262548
+23 2 2 18573 18 25 51446
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+us 64 66 844335
+ca 19 20 775302
+cn 15 18 263385
+ru 8 8 74138
+de 8 8 74382
+nl 6 6 125651
+se 5 5 46475
+gr 3 3 27840
+jp 3 3 27945
+pa 3 3 27830
+gb 2 2 18570
+bg 1 1 9289
+vn 1 1 44250
+in 1 1 9294
+be 1 1 9278
+il 1 1 7337
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+Googlebot/ 43 315165 20240531030457 0
+(firefox/)([0-9]\.|[0-1][0]\.) 10 83708 20240531214346 0
+no_user_agent 7 265500 20240526083909 0
+AhrefsBot/ 7 53284 20240529185603 0
+bingbot/ 5 36666 20240531234503 0
+SemrushBot/ 2 18570 20240516002420 0
+survey 2 88500 20240506093136 0
+crawl 2 18609 20240530212409 0
+Applebot/ 2 18613 20240524042845 0
+Go\-http\-client/ 1 44250 20240527100550 0
+bot[\s_+:,\.\;\/\\-] 1 9292 20240516001255 0
+MJ12bot/ 1 7329 20240527085022 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 141 2137099 0 0
+png 6 248202 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 18
+androiddonut 1 1
+androidoreo 4 3
+win7 2 2
+macosx 7 5
+androidnougat 3 3
+linuxubuntu 1 1
+macosx14 1 1
+android10 3 2
+macosx13 2 2
+androidkitkat 4 4
+win10 35 35
+linux 8 7
+Unknown 26 26
+beos 1 1
+macosx15 43 43
+ios_iphone 2 2
+android 2 2
+winnt 2 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 47
+chrome113.0.0.0 1 1
+chrome88.0.4324.150 1 1
+chrome74.0.3729.169 1 1
+chrome60.0.3112.107 4 4
+firefox117.0 8 8
+chrome94.0.1089 1 1
+chrome105.0.0.0 5 5
+sonyericsson 1 1
+netscape5.0 5 5
+chrome74.0.2580 1 1
+chrome110.0.0.0 2 2
+safari13.0.3 2 2
+chrome83.0.4103.97 1 1
+safari12.1.2 1 1
+chrome70.0.3538.77 2 2
+chrome94.0.2852 1 0
+chrome96.0.4664.110 8 8
+chrome111.0.0.0 1 1
+chrome57.0.701 1 1
+firefox118.0 2 2
+chrome89.0.4389.82 1 1
+safari16.6 2 2
+chrome100.0.4896.60 4 4
+chrome58.0.3029.110 1 1
+android 4 4
+firefox83.0 1 1
+chrome87.0.4280.88 5 4
+mozilla 4 4
+chrome116.0.0.0 8 8
+firefox123.0 1 1
+chrome124.0.0.0 4 3
+chrome79.0.1632 1 0
+netpositive 1 1
+chrome108.0.0.0 1 1
+chrome120.0.6099.71 1 1
+chrome121.0.0.0 23 23
+chrome71.0.2245 1 0
+chrome76.0.3809.111 1 1
+opera102.0.0.0 2 2
+chrome117.0.0.0 9 9
+chrome76.0.3809.100 1 1
+chrome93.0.1074 1 1
+chrome102.0.0.0 1 1
+chrome120.0.0.0 1 1
+chrome85.0.2105 1 0
+Unknown 17 17
+firefox12.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+python-requests/2.31.0 20240517215357
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240526235534
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240529183848
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240530191243
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240530215017
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240530191243
+python-requests/2.31.0 20240517215357
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 136 140
+From1 2 2
+From2 2 2
+From3 0 0
+From4 1 3
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+baidu 1 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 754 943254
+403 13 16146
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 424
+//austrialotterie.c 1 -
+/wp-content/plugins/wordpres-yaoo/admin.php 1 -
+/wp-includes/blocks/latest-posts/index.php 1 -
+/wp-includes/blocks/tag-cloud/index.php 1 -
+/admin.php 1 -
+/js/editor/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-content/plugins/wordpres-wpss/admin.php 1 -
+/wp-content/plugins/wordpres-wpp/all.php 1 -
+/wp.php 2 -
+/simple.php 2 www.google.com
+/wp-includes/css/index.php 2 -
+/upfile.php 1 -
+/wp-content/plugins/wordpress-seoa/admin.php 1 -
+/wp-includes/SimplePie/HTTP/index.php 2 -
+/html/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-content/plugins/wordpres-woots/all.php 1 -
+/wp-includes/blocks/quote/index.php 1 -
+/wp-includes/Requests/Response/index.php 2 -
+/wp-comments.php 2 -
+/js/fckeditor/filemanager/browser/default/browser.html 1 -
+/wp-includes/css/dist/editor/index.php 1 -
+/wp-content/plugins/wordpress-sseo/admin.php 1 -
+/wp-includes/blocks/nextpage/index.php 1 -
+/wp-includes/Requests/Exception/index.php 2 -
+/.DS_Store 4 -
+/dist/css/bootstrap.min.css 1 -
+/wp-includes/blocks/post-terms/index.php 1 -
+/atomlib.php 1 -
+/wp-links-on.php 2 -
+/wp-includes/blocks/gallery/index.php 1 -
+/index.php 2 -
+/style.php 2 www.google.com
+/wp-content/plugins/wordpress-seoa/all.php 1 -
+/lottery/lottery-08-apr-2022/ 1 -
+/wp-includes/css/dist/components/index.php 1 -
+//austrialotterie.com/wp-includes/css/dist/block-library/style.min.css 1 -
+/wp-content/plugins/wordpres-yaooo/admin.php 1 -
+/css.php 2 -
+/wp-content/plugins/ccx/index.php 2 -
+/wp-includes/SimplePie/Net/index.php 2 -
+/wp-limit-login.php 2 -
+/wp-includes/blocks/more/index.php 1 -
+/wp-content/upgrade/index.php 2 -
+/wp-content/plugins/wordpres-wpwp/all.php 1 -
+/wp-includes/pomo/index.php 1 -
+//s3.tradingview.c 1 -
+/wp-content/themes/seotheme/db.php 4 www.google.com
+//i.ibb.c 1 -
+/app-ads.txt 1 -
+/wp-includes/blocks/cover/index.php 1 -
+/wp-content/plugins/wordpres-wpw/admin.php 1 -
+/wp-content/themes/classic/inc/index.php 1 www.google.com
+/js/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/editor/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-includes/blocks/site-title/index.php 1 -
+/wp-includes/blocks/paragraph/index.php 1 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 1 -
+/wp-content/plugins/wordpres-yastsrec/all.php 1 -
+/wp-content/plugins/wordpres-yasts/all.php 1 -
+/wp_gpt.php 1 -
+/wp-includes/blocks/latest-comments/index.php 1 -
+/wp-includes/Requests/Exception/HTTP/index.php 2 -
+/wp-content/plugins/wordpres-yastse/admin.php 1 -
+/wp-includes/blocks/group/index.php 1 -
+/dropdown.php 1 -
+/wp-content/plugins/catnip/all.php 1 -
+//austrialotterie.com/wp-content/themes/lottery_austria/assets/css/lottery.css 1 -
+/wp-includes/blocks/button/index.php 1 -
+/wp-admin/meta/index.php 1 -
+/wp-includes/blocks/shortcode/index.php 1 -
+/moon.php 1 -
+/wp-includes/blocks/table/index.php 1 -
+/wp-2019.php 1 -
+/admin/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-includes/blocks/spacer/index.php 1 -
+/wp-content/plugins/wordpress-jseo/admin.php 1 -
+/uninstall.php 2 -
+/wp-plain.php 4 www.google.com
+/wp-hudbud.php 1 -
+/updates.php 1 -
+/wp-includes/blocks/post-date/index.php 1 -
+/wp-includes/blocks/pullquote/index.php 1 -
+/sitemap.xml.gz 2 -
+/wp-includes/js/dist/vendor/index.php 1 -
+//austrialotterie.com/wp-content/themes/lottery/assets/js/flipclock.js 6 -
+/404.php 1 -
+/wp-content/plugins/wp-photo-album-plus/changelog.txt 1 -
+/wp-includes/SimplePie/Cache/index.php 2 -
+/wp-includes/js/imgareaselect/index.php 1 -
+/.well-known/index.php 2 -
+/wp-includes/js/tinymce/plugins/charmap/index.php 1 -
+/contact 1 https://vietnamprize.com/contact
+/wp-includes/Requests/Cookie/index.php 2 -
+/wp-content/plugins/wordpres-woot/all.php 1 -
+/includes/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-admin/css/colors/midnight/index.php 2 -
+/wp-content/plugins/wordpres-wpssc/all.php 1 -
+/sitemap.txt 2 -
+/wp-cron.php 5 www.google.com
+/wp-includes/js/codemirror/index.php 1 -
+/wp-includes/style-engine/index.php 1 -
+/classsmtps.php 1 -
+/wp-includes/rest-api/index.php 1 -
+/wp-content/plugins/wordpres-wpw/all.php 1 -
+/wp-admin/css/colors/coffee/index.php 2 -
+/wp-content/plugins/wordpress-jbsseo/admin.php 1 -
+/css/index.php 2 -
+/wp-content/plugins/wp-automatic/changelog 2 -
+/wp-content/plugins/wordpres-wpps/admin.php 1 -
+/alfanew.php 1 -
+/wp-content/plugins/incache/index.php 2 www.google.com
+/wp-includes/css/dist/edit-widgets/index.php 1 -
+/wp-content/plugins/wordpres-seoseo/admin.php 1 -
+/wp-includes/js/swfupload/index.php 1 -
+/wp-sigunq.php 1 -
+/cloud.php/wso.php 1 -
+//vietnamprize.c 1 -
+/bak.php 1 -
+/lufix.php 1 -
+/wp-includes/PHPMailer/index.php 3 -
+/wp-includes/IXR/index.php 4 -
+/wp-content/plugins/wordpres-wpsss/admin.php 1 -
+/dist/js/bootstrap.bundle.min.js 2 -
+//cdn.js 6 -
+/html/fckeditor/filemanager/browser/default/browser.html 1 -
+/wp-ver.php 3 www.google.com
+/wp-content/plugins/wordpres-woos/all.php 1 -
+/wp-admin/network/index.php 3 -
+/wp-includes/css/dist/customize-widgets/index.php 1 -
+/wp-content/plugins/wordpres-wp3/all.php 1 -
+/content.php 1 -
+/wp-includes/random_compat/index.php 1 -
+/wp-content/plugins/wordpress-wpssseo/admin.php 1 -
+/wp-content/plugins/wordpres-seoseo/all.php 1 -
+/.well-known/pki-validation/index.php 2 -
+/wp-admin/maint/index.php 3 -
+/wp-content/plugins/wordpresssoees/admin.php 1 -
+/wp-admin/index.php 2 -
+/wp-includes/blocks/site-logo/index.php 1 -
+/mini.php 1 -
+/doc.php 1 -
+/repeater.php 1 -
+/wp-content/plugins/wordpress-jseo/all.php 1 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 1 -
+/current.php 2 -
+/wp-content/plugins/wordpres-yastsr/admin.php 1 -
+/wp-includes/blocks/categories/index.php 1 -
+/wp-includes/blocks/column/index.php 1 -
+/wp-content/plugins/wordpresssoe/all.php 1 -
+/test.php 1 -
+/text.php 1 -
+/wp-includes/blocks/rss/index.php 1 -
+/wp-content/plugins/wordpres-yastst/admin.php 1 -
+/wp-includes/blocks/query-title/index.php 1 -
+/wp-links-way.php 2 -
+/wp-content/plugins/wordpres-yastse/all.php 1 -
+/ws.php 1 -
+/wp-includes/theme-compat/index.php 1 -
+/wp-includes/Text/index.php 3 -
+/wp-includes/images/smilies/index.php 1 -
+/blog.php 1 -
+/wp-admin/includes/index.php 3 -
+/sitemap.xml 7 -
+/wp-includes/js/dist/index.php 1 -
+/wp-includes/Text/Diff/index.php 2 -
+/wp-content/plugins/wordpres-woosc/all.php 1 -
+/author/wpservices/ 1 -
+/author/crander/ 1 -
+/wp-includes/css/dist/format-library/index.php 1 -
+/images/index.php 2 -
+/wp-includes/SimplePie/Content/Type/index.php 2 -
+/ments-post.php 2 -
+/wp-content/plugins/wordpres-wpss/all.php 1 -
+/wp-includes/blocks/list/index.php 1 -
+/themes.php 1 -
+/wp-content/plugins/html5-video-player/readme.txt 1 -
+/wp-includes/blocks/legacy-widget/index.php 1 -
+/wp-includes/blocks/buttons/index.php 1 -
+/wp-includes/php-compat/index.php 1 -
+/wp-includes/blocks/post-content/index.php 1 -
+/wp-content/plugins/wordpres-yaososs/admin.php 1 -
+/wp-includes/customize/index.php 2 -
+/wp-includes/blocks/social-links/index.php 1 -
+/wp-content/plugins/wordpres-yastsr/all.php 1 -
+/wp-content/plugins/wordpres-wpwp/admin.php 1 -
+/wp-content/plugins/wordpres-yaooo/all.php 1 -
+/wp-includes/fonts/index.php 2 -
+/plugins.php 1 -
+/wp-content/plugins/wordpres-yaoo/all.php 1 -
+/ini.php 1 -
+/wp-login.php 8 -
+/omments-post.php 2 -
+/wp-includes/blocks/loginout/index.php 1 -
+/phpinfo.php 2 -
+/wp-content/plugins/wordpres-woots/admin.php 1 -
+/wp-content/plugins/wordpres-yaososs/all.php 1 -
+/wp-content/plugins/wp-catcher/index.php 4 www.google.com
+/wp-includes/css/dist/nux/index.php 1 -
+/wp-includes/blocks/separator/index.php 1 -
+/author/greeceman/ 1 -
+/wp-includes/Requests/Utility/index.php 2 -
+/wp-content/plugins/wordpres-wp/admin.php 1 -
+/wp-includes/images/index.php 2 -
+/wp-emoji-release.min.js 2 -
+/wp-includes/blocks/audio/index.php 1 -
+/%5C/austrialotterie.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 4 -
+/wp-script.php 1 -
+/wp-content/plugins/wordpresssoe/admin.php 1 -
+/wp-includes/js/wp-emoji-release.min.js 1 www.google.com
+/wp-content/plugins/wordpres-yastsrs/admin.php 1 -
+/liesmich.php 1 -
+/configs.php 1 -
+/wp-conflg.php 1 -
+/about.php 1 -
+/wp-includes/SimplePie/index.php 3 -
+//austrialotterie.com/wp-content/themes/lottery/assets/css/flipclock.css 1 -
+/author/superadmin/ 1 -
+/wp-admin/user/index.php 3 -
+/wp-content/plugins/wordpress-wpe/all.php 1 -
+/cong.php 1 -
+/mail.php 1 -
+/wp-loader.php 2 -
+/wp-content/plugins/wordpres-wp/all.php 1 -
+/wp-admin/js/index.php 2 -
+/wp-includes/widgets/index.php 1 -
+/wp-admin/js/widgets/index.php 2 -
+/wp-includes/js/jcrop/index.php 1 -
+/wp-activate.php 1 -
+/wp-content/plugins/fix/up.php 2 www.google.com
+/wp-content/plugins/wordpres-yaoos/admin.php 1 -
+/cgi-bin/index.php 2 -
+/wp-includes/js/plupload/index.php 1 -
+/enhance 3 -
+/wp-content/plugins/wordpress-wpsseo/all.php 1 -
+/wp-includes/images/media/index.php 1 -
+/wp-includes/blocks/text-columns/index.php 1 -
+/author/wpadminne/ 1 -
+/fw.php 1 -
+/wp-includes/js/tinymce/index.php 1 -
+/wp-includes/blocks/embed/index.php 1 -
+/wp-content/plugins/uploadify/includes/process_upload.php 1 -
+/wp-content/plugins/wordpres-wooall/admin.php 1 -
+/wp-admin/css/colors/index.php 2 -
+/wp-includes/blocks/query-pagination-numbers/index.php 1 -
+/wp-content/plugins/wp-automatic/inc/csv.php 1 -
+/author/admim/ 1 -
+/wp-includes/images/wlw/index.php 1 -
+/mments-post.php 2 -
+/locoy.php 2 -
+/makeasmtp.php 1 -
+/wp-content/plugins/wordpress-wpe/admin.php 1 -
+/wp-content/plugins/wordpres-wooall/all.php 1 -
+/ccx/index.php 2 -
+/wp-includes/certificates/index.php 2 -
+/wp-includes/blocks/social-link/index.php 1 -
+/wp-includes/blocks/freeform/index.php 1 -
+/wp-includes/block-supports/index.php 3 -
+/license.php 2 -
+/author/w-padmine/ 1 -
+/lottery/lottery-23-aug-2022/ 1 -
+/wp-content/plugins/wadidaw/admin.php 1 -
+/wso112233.php 1 -
+/wp-includes/sodium_compat/index.php 1 -
+/wp-includes/blocks/archives/index.php 2 -
+/wp-content/plugins/wordpres-yaosos/admin.php 1 -
+/wp-content/plugins/wordpres-wps/admin.php 1 -
+/autoload_classmap.php 1 -
+/network.php 1 -
+/wp-content/plugins/wadidaw/all.php 1 -
+/wp-content/plugins/wordpres-woot/admin.php 1 -
+/wp-includes/Requests/Proxy/index.php 2 -
+/wp-includes/blocks/preformatted/index.php 1 -
+/wp-content/plugins/wordpres-woosc/admin.php 1 -
+/wp-admin/images/index.php 3 -
+/wp-atom.php 2 www.google.com
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 6 -
+/wp-on.php, 2 -
+/ads.txt 1 -
+/fkadkncn.php 1 www.google.com
+/wp-content/uploads/index.php 2 -
+/sitemap_index.xml 2 -
+/wp-content/plugins/wordpres-wpz/all.php 1 -
+/wp-includes/blocks/index.php 3 -
+/wp-includes/js/mediaelement/renderers/index.php 1 -
+/wp-includes/Text/Diff/Engine/index.php 2 -
+/wp-includes/blocks/search/index.php 1 -
+/wp-content/plugins/ckeditor-for-wordpress/filemanager/browser/default/browser.html 1 -
+/wp-includes/blocks/site-tagline/index.php 1 -
+/zjabhvty.php 1 www.google.com
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 4 -
+/radio.php 1 -
+/wabbgwrb.php 1 www.google.com
+/_profiler/phpinfo 2 -
+/author/stender/ 1 -
+/wp-includes/blocks/query/index.php 1 -
+/wp-includes/css/dist/reusable-blocks/index.php 1 -
+/wp-json 8 -
+/wp-includes/sitemaps/index.php 1 -
+/wp-json/litespeed/v1/cdn_status 3 -
+/wp-includes/blocks/html/index.php 1 -
+/wp-add.php 2 www.google.com
+/wp-includes/images/crystal/index.php 1 -
+/wp-includes/Requests/index.php 3 -
+/wp-content/plugins/wordpres-woos/admin.php 1 -
+/inputs.php 11 www.google.com
+/wp-includes/Requests/Transport/index.php 2 -
+/wp-includes/blocks/query-pagination/index.php 1 -
+/wp-includes/Text/Diff/Renderer/index.php 2 -
+/xmrlpc.php 1 -
+/wp-includes/assets/index.php 3 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 5 -
+/log.php 1 -
+/wp-includes/blocks/verse/index.php 1 -
+/wp-content/plugins/wordpres-yaoos/all.php 1 -
+/wp-content/plugins/wordpres-wps/all.php 1 -
+/wp-content/plugins/wordpres-woo/all.php 1 -
+/lottery/lottery-05-oktober-2022/ 1 -
+/wp-content/plugins/index.php 2 -
+/wp-content/plugins/wordpress-jbsseo/all.php 1 -
+/install.php 1 -
+/wp-includes/js/tinymce/langs/index.php 1 -
+/wp-content/plugins/wordpres-seosep/all.php 1 -
+/wp-includes/blocks/query-pagination-next/index.php 1 -
+/comments.php 2 -
+/wp-content/plugins/wordpress-wpsseo/admin.php 1 -
+/wp-content/plugins/temporary-login/core/admin.php 1 -
+/bypass.php 1 -
+/wp-admin/css/index.php 3 -
+/wp-content/plugins/wordpres-wpssc/admin.php 1 -
+/shell.php 1 -
+/wp-content/plugins/customify-sites/readme.txt 1 -
+/wp-includes/css/dist/block-directory/index.php 1 -
+/sellers.json 1 -
+/wp-admin/css/colors/blue/index.php 2 -
+/wp-content/plugins/wordpres-yastsrs/all.php 1 -
+/as.php 1 -
+/robots.txt 94 -
+/wp-includes/Requests/Auth/index.php 2 -
+/austrialotterie.c 1 -
+/wp-includes/blocks/columns/index.php 1 -
+/wp-includes/blocks/post-excerpt/index.php 1 -
+/wp-content/plugins/wordpres-yastsre/admin.php 1 -
+/wp-includes/blocks/page-list/index.php 1 -
+/wp-includes/SimplePie/XML/Declaration/index.php 2 -
+/wp-content/plugins/hash-form/readme.txt 1 -
+/wp-pluploads.php, 2 -
+/wp-content/plugins/wordpres-wpp/admin.php 1 -
+/xagio-api.php 1 -
+/wp-admin/css/colors/modern/index.php 2 -
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/sites/all/modules/fckeditor/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-content/themes/index.php 2 -
+/wp-content/index.php 4 -
+/wp-includes/blocks/post-featured-image/index.php 1 -
+/wp-content/plugins/wordpres-yastsrec/admin.php 1 -
+/wp-content/plugins/wordpres-googlepagespeed/admin.php 1 -
+/wp-includes/Requests/Exception/Transport/index.php 2 -
+/wp-includes/blocks/video/index.php 1 -
+/ae.php 1 -
+/phpmyadmin/index.php 4 -
+/.env 9 -
+/author/wpsecuritypatch/ 1 -
+/wp-content/plugins/wordpress-wpssseo/all.php 1 -
+/wp-includes/blocks/image/index.php 1 -
+/wp-includes/js/thickbox/index.php 1 -
+/wp-content/plugins/wordpres-wpsss/all.php 1 -
+/wp-content/plugins/wordpres-yastsre/all.php 1 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 7 www.google.com
+/wp-content/plugins/wp-catcher/admin.php 1 www.google.com
+/wp-includes/css/dist/edit-post/index.php 1 -
+/wp-includes/css/dist/widgets/index.php 1 -
+/chosen.php 4 www.google.com
+/wp-includes/blocks/code/index.php 1 -
+/wp-includes/SimplePie/Parse/index.php 2 -
+/wp-includes/ID3/index.php 3 -
+/wp-content/plugins/wordpres-wpps/all.php 1 -
+/wp-includes/js/crop/index.php 1 -
+/wp-content/plugins/wordpres-yasts/admin.php 1 -
+/wp-includes/index.php 3 -
+/wp-includes/js/index.php 2 -
+//cdn.datatables.net/1.10.25/css/dataTables.bootstrap4.min.css 1 -
+/wp-content/plugins/catnip/admin.php 1 -
+/php/thinkphp/aaaffff123.php 4 -
+/index_sso.php 4 -
+/wp-includes/css/dist/list-reusable-blocks/index.php 1 -
+/wp-content/plugins/wordpres-wp2/admin.php 1 -
+/wp-includes/blocks/query-pagination-previous/index.php 1 -
+/wp-includes/SimplePie/Decode/HTML/index.php 2 -
+/wp-admin/css/colors/ocean/index.php 2 -
+/wp-includes/js/jquery/ui/index.php 1 -
+/wp-includes/block-patterns/index.php 3 -
+/wp-includes/blocks/heading/index.php 1 -
+/readme.php 1 -
+/wp-includes/blocks/block/index.php 1 -
+/dist/jquery.min.js 2 -
+/wp-content/plugins/wordpres-wp2/all.php 1 -
+/wp-content/plugins/wordpres-yaosos/all.php 1 -
+/html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-includes/js/mediaelement/index.php 1 -
+/wp-includes/blocks/file/index.php 1 -
+/wp-content/plugins/wordpres-woo/admin.php 1 -
+/wp-content/plugins/wordpres-wpz/admin.php 1 -
+/wp-includes/blocks/post-template/index.php 1 -
+/wp-content/plugins/wordpresssoees/all.php 1 -
+/wp-admin/admin-ajax.php 6 -
+/wp-admin/css/colors/ectoplasm/index.php 2 -
+/wp-includes/blocks/media-text/index.php 1 -
+/wp-includes/blocks/post-title/index.php 1 -
+/wp-content/plugins/wordpres-wp3/admin.php 1 -
+/wp-includes/js/jquery/index.php 1 -
+/wp-includes/blocks/calendar/index.php 1 -
+//s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js 6 -
+/wp-content/plugins/wordpres-yastst/all.php 1 -
+/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-json/ywcas/v1/search 1 https://vietnamprize.com
+/wp-includes/blocks/missing/index.php 1 -
+/osesmdrj.php 1 www.google.com
+/wp-content/plugins/wordpres-seosep/admin.php 1 -
+//austrialotterie.com/wp-content/themes/lottery_austria/assets/js/lottery.js 6 -
+/wp-content/plugins/wordpres-googlepagespeed/all.php 1 -
+/wp-content/plugins/temporary-login/core/all.php 1 -
+/wp-content/languages/index.php 2 -
+/wp-content/plugins/wordpress-sseo/all.php 1 -
+/css/all.min.css 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 100
+167.71.122.105 13 13 120679 20240503070757
+159.69.49.188 8 8 74336 20240528013641
+185.215.167.78 6 6 55584 20240510041935
+137.226.113.44 5 5 46462 20240530215017
+36.99.136.136 4 4 37143 20240530134055
+54.88.179.33 3 3 132750 20240506214144
+172.233.136.243 3 3 27842 20240505132452
+5.133.192.94 2 2 18573 20240522210738
+92.118.39.244 2 2 18556 20240526102118
+213.202.233.34 2 2 18628 20240515063143
+36.99.136.129 2 2 18546 20240509053347
+190.211.255.210 2 2 18549 20240508123750
+188.166.189.122 2 2 88500 20240517133017
+104.164.173.24 1 1 7337 20240531163158
+103.155.92.103 1 1 9294 20240526040247
+205.210.31.221 1 1 44250 20240525015148
+35.171.144.152 1 1 44250 20240503131358
+175.178.117.58 1 1 9278 20240519151034
+87.236.176.207 1 1 9278 20240526235534
+5.133.192.131 1 1 9284 20240528171909
+223.113.128.139 1 2 50651 20240528192415
+64.23.245.115 1 1 9295 20240511230714
+2.57.122.148 1 1 7337 20240513152023
+43.155.160.173 1 1 9318 20240523125502
+198.235.24.3 1 1 44250 20240517085245
+198.235.24.239 1 1 44250 20240520183313
+42.83.147.53 1 1 9308 20240510182515
+198.235.24.102 1 1 44250 20240503130243
+144.91.106.14 1 1 9283 20240523021603
+198.235.24.192 1 1 44250 20240524101305
+154.28.229.232 1 1 7337 20240531203545
+104.248.226.91 1 1 9305 20240507121846
+89.248.174.182 1 1 9292 20240515170248
+205.210.31.74 1 1 44250 20240507170746
+146.190.127.118 1 1 9318 20240519081407
+111.7.100.28 1 1 9294 20240525101339
+111.7.96.168 1 1 9276 20240506002919
+205.210.31.28 1 1 44250 20240515123310
+178.128.37.253 1 1 9284 20240529013524
+77.74.177.119 1 1 9276 20240506001310
+167.71.87.250 1 1 9278 20240507064155
+5.133.192.160 1 1 9310 20240505042338
+205.210.31.107 1 1 44250 20240517032826
+93.159.230.87 1 1 9278 20240520001755
+205.210.31.41 1 1 44250 20240509154214
+35.89.85.45 1 1 9310 20240504104126
+89.248.174.11 1 1 9292 20240515174302
+36.99.136.137 1 1 9307 20240530134057
+36.99.136.128 1 1 9292 20240527145620
+205.210.31.33 1 1 44250 20240515081720
+204.10.160.166 1 1 9309 20240520163830
+52.80.71.82 1 2 50672 20240513121403
+174.138.81.35 1 1 9294 20240525112205
+106.75.101.188 1 2 50629 20240522000946
+154.28.229.51 1 1 7337 20240531163101
+71.6.134.230 1 1 9264 20240510001652
+138.68.190.183 1 1 9295 20240511102321
+45.55.198.187 1 1 9305 20240513105240
+51.8.98.184 1 1 9306 20240517215357
+165.232.173.65 1 1 9292 20240516001028
+138.197.30.166 1 1 9292 20240515091035
+93.158.91.31 1 1 9308 20240511020203
+34.221.191.244 1 1 9278 20240519090111
+52.81.60.5 1 2 50685 20240523114335
+206.189.131.73 1 1 9309 20240520213914
+27.115.124.45 1 2 50661 20240525145953
+108.181.12.78 1 2 48701 20240502064025
+138.197.131.168 1 1 9289 20240503090935
+167.248.133.114 1 1 9302 20240529183848
+199.45.155.41 1 1 9283 20240503005228
+167.94.138.41 1 1 9289 20240513071244
+159.65.147.98 1 1 9262 20240521100151
+147.182.153.13 1 1 9281 20240501091006
+159.89.119.41 1 1 9292 20240527081609
+168.119.248.156 1 1 9292 20240525002028
+167.172.50.14 1 1 9264 20240509104449
+164.92.149.190 1 1 9276 20240505095921
+205.210.31.211 1 1 44250 20240507111051
+167.71.166.89 1 1 9306 20240517082232
+198.235.24.106 1 1 44250 20240510052320
+143.110.168.207 1 1 9318 20240523103950
+152.53.13.200 1 1 44250 20240521150828
+64.23.140.155 1 1 9304 20240501063737
+45.79.113.187 1 1 9289 20240503084301
+205.210.31.210 1 1 44250 20240530191243
+165.227.44.224 1 1 9320 20240515070554
+80.94.92.105 1 1 9292 20240528045929
+165.22.118.254 1 1 9292 20240527111252
+45.120.177.78 1 1 9307 20240531033226
+1.52.109.113 1 1 44250 20240530175358
+94.156.64.200 1 1 9289 20240512102013
+46.101.72.188 1 1 9289 20240531120506
+198.235.24.118 1 1 44250 20240528072351
+43.163.3.58 1 1 9320 20240514124401
+154.28.229.123 1 1 7337 20240531165253
+205.210.31.83 1 1 44250 20240504121852
+205.210.31.106 1 1 44250 20240520220642
+138.68.191.140 1 1 9302 20240529101251
+89.248.172.174 1 1 9278 20240506135230
+179.43.167.18 1 1 9281 20240502013323
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240501 3 3 27866 3
+20240502 4 5 76548 4
+20240503 20 20 290573 8
+20240504 2 2 53560 2
+20240505 3 3 27862 3
+20240506 5 5 116330 4
+20240507 6 6 125639 6
+20240508 1 1 9268 1
+20240509 5 5 81310 5
+20240510 10 10 127714 5
+20240511 3 3 27898 3
+20240512 1 1 9289 1
+20240513 4 5 76603 4
+20240514 1 1 9320 1
+20240515 7 7 135016 7
+20240516 3 3 27872 3
+20240517 6 6 195612 5
+20240519 4 4 37152 4
+20240520 5 5 116396 5
+20240521 2 2 53512 2
+20240522 2 3 59912 2
+20240523 5 6 87922 5
+20240524 1 1 44250 1
+20240525 6 7 132085 6
+20240526 3 3 27850 3
+20240527 3 3 27876 3
+20240528 12 13 187813 5
+20240529 3 3 27888 3
+20240530 5 5 116421 5
+20240531 6 6 47944 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 114
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 141 2137099 115 115
+END_SIDER

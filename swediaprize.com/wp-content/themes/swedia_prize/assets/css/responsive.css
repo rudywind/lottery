@@ -1,0 +1,19 @@
+/**** begin responsive style ****/
+@media (min-width: 993px) {
+    header .menu-wrapper {
+        padding: 6px 35px;
+    }
+    header .menu-wrapper .navbar .navbar-nav > .nav-item > .nav-link {
+        padding: 0 20px;
+        line-height: 48px;
+    }
+
+    section .jackpot-date {
+        font-size: 42px;
+        letter-spacing: 2px;
+    }
+}
+
+@media (min-width: 1200px) {
+}
+/**** endof responsive style ****/

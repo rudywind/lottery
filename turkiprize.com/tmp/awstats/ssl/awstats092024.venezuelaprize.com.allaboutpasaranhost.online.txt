@@ -1,0 +1,707 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202409 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.venezuelaprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2046                
+POS_TIME 2725                
+POS_VISITOR 18496               
+POS_DAY 20013               
+POS_DOMAIN 3388                
+POS_LOGIN 3772                
+POS_ROBOT 3927                
+POS_WORMS 4489                
+POS_EMAILSENDER 4620                
+POS_EMAILRECEIVER 4763                
+POS_SESSION 20181               
+POS_SIDER 20328               
+POS_FILETYPES 4898                
+POS_DOWNLOADS 4981                
+POS_OS 5029                
+POS_BROWSER 5230                
+POS_SCREENSIZE 5717                
+POS_UNKNOWNREFERER 5791                
+POS_UNKNOWNREFERERBROWSER 6302                
+POS_ORIGIN 6707                
+POS_SEREFERRALS 6841                
+POS_PAGEREFS 7004                
+POS_SEARCHWORDS 7152                
+POS_KEYWORDS 7304                
+POS_MISC 2389                
+POS_ERRORS 7363                
+POS_CLUSTER 3628                
+POS_SIDER_404 7476                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240905073510 63 13254 11571955121344
+FirstTime 20240901041357
+LastTime 20240905063253
+LastUpdate 20240905084057 63 0 63 0 0
+TotalVisits 38                  
+TotalUnique 37                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 37                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 32328 5 9 14530
+1 1 1 10777 3 7 22805
+2 0 0 0 1 1 1251
+3 2 2 105624 9 12 15003
+4 4 4 43141 1 1 8275
+5 1 1 10791 3 3 10775
+6 3 3 74365 274 278 415322
+7 3 3 24825 7 12 56326
+8 2 2 21578 1 1 1251
+9 0 0 0 2 5 46308
+10 3 3 71863 23 24 100634
+11 1 1 10776 1 1 52812
+12 1 1 10791 12 12 15012
+13 1 1 10787 8 11 27809
+14 0 0 0 33 35 60345
+15 2 2 19066 8 19 23769
+16 1 1 10791 0 1 1251
+17 1 1 10776 4 7 18282
+18 3 3 21574 0 0 0
+19 3 3 29829 20 21 33295
+20 3 3 29855 25 27 33777
+21 2 2 105624 4 7 35602
+22 0 0 0 4 6 21554
+23 0 0 0 1 1 12860
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 13 13 216698
+jp 6 6 64709
+ru 4 4 29828
+cn 3 3 32350
+in 2 2 19066
+ca 2 2 63603
+be 2 2 21552
+de 2 2 63603
+id 2 2 16550
+bg 1 1 52812
+it 1 1 52812
+se 1 1 10791
+au 1 1 10787
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+Googlebot/ 8 57925 20240904130438 0
+AhrefsBot/ 8 70783 20240905054154 0
+no_user_agent 3 107221 20240902104234 0
+SeznamBot/ 3 32354 20240904065848 0
+bot[\s_+:,\.\;\/\\-] 2 45067 20240902074638 0
+bingbot/ 2 16550 20240902092456 0
+survey 1 52812 20240903111839 0
+SemrushBot/ 1 34280 20240904094506 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 10787 20240901104755 0
+Go\-http\-client/ 1 10776 20240904170935 0
+MJ12bot/ 1 8275 20240901221450 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 40 655161 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+android 1 1
+androidkitkat 1 1
+linux 1 1
+android10 5 5
+win10 14 14
+Unknown 4 4
+win7 2 2
+androidnougat 1 1
+macosx14 1 1
+ios_iphone 10 10
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 23
+firefox88.0 1 1
+chrome122.0.0.0 1 1
+chrome114.0.0.0 1 1
+firefox79.0 1 1
+chrome121.0.0.0 1 1
+android 1 1
+safari13.0.3 10 10
+chrome78.0.3889.0 1 1
+chrome123.0.0.0 1 1
+chrome74.0.3729.169 1 1
+chrome60.0.3112.107 1 1
+firefox102.0 2 2
+mozilla 2 2
+opera80.4.4244.7786 1 1
+chrome89.0.4389.90 1 1
+chrome86.0.4240.111 1 1
+chrome126.0.0.0 4 4
+firefox117.0 1 1
+firefox108.0 1 1
+firefox118.0 1 1
+chrome127.0.0.0 3 3
+Unknown 2 2
+chrome128.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+python-requests/2.32.3 20240903124213
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240902214121
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240905002549
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+python-requests/2.32.3 20240903124213
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240902214121
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 23 23
+From1 0 0
+From2 5 5
+From3 0 0
+From4 12 12
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 460 575460
+301 2 1590
+403 4 4968
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 378
+/976-alfanew1.PHP 1 -
+/admin/files/cmd.php 1 -
+/0x0.php 1 -
+/admin/files/mini.php 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/63ck0.php 1 -
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/alfanew.php 1 -
+/admin/banner/22xc.php 1 -
+/wp-header.php 1 -
+/.tmb/moon.php 1 -
+/1014.php 1 -
+/.well-known/upl.php 1 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/index.php 4 -
+/%5C/s.w.org%5C/images%5C/core%5C/emoji%5C/14.0.0%5C/72x72%5C/%22,%22ext%22:%22.png%22,%22svgUrl%22:%22https:%5C/%5C/s.w.org%5C/images%5C/core%5C/emoji%5C/14.0.0%5C/svg%5C/%22,%22svgExt%22:%22.svg%22,%22source%22:%7B%22concatemoji%22:%22https:%5C/%5C/franc 1 -
+/tanzhen.php 1 http://venezuelaprize.com/tanzhen.php
+/admin/banner/mini.php 1 -
+/405.php 1 -
+//wp-includes/ID3/license.txt 1 -
+/classwithtostring.php 1 -
+/5index.php 1 -
+/admin/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/0x.php 1 -
+/7.php 1 -
+/admin/files/by.php 1 -
+/admin/banner/uploads/wso.php 1 -
+/.well-known/leafmailer.php 1 -
+/wp-content/plugins/fix/up.php 2 -
+/admin/banner/by.php 1 -
+/wp-content/plugins/wc-multivendor-marketplace/readme.txt 1 -
+/admin/banner/uploads/indoXploit.php 1 -
+/admin/images/skizoo.php 1 -
+/4index.php 1 -
+/admin/file/bypass.php 1 -
+/888.php 1 -
+/2index.pllhp 1 -
+/admin-post.php 1 -
+/assets/upload_image.php 1 -
+/abouts.php 1 -
+/admin/file/skizoo.php 1 -
+/_func.php 1 -
+/88.php 1 -
+/12.php 1 -
+/admin/images/up.php 1 -
+/admin/images/minishell.php 1 -
+/wp-content/plugins/about.php 2 -
+/admin/files/alfa-shell.php 1 -
+/1945.php 2 -
+/admin/file/gel4y.php 1 -
+/wp/wp-admin/install.php 1 -
+/3.php 1 -
+/0z.php 1 -
+/admin/alfa-shell.php 1 -
+/.well-known/java.php 1 -
+/26.php 1 -
+/0x00.php 1 -
+/admin/file/uploader.php 1 -
+/.well-known/fox.php 1 -
+/wp-content/about.php 1 -
+/123.php 2 -
+/14.php 1 -
+/admin/banner/shell.php 1 -
+/.well-known/about.php 1 -
+/2022.php 1 -
+/admin/1.php 1 -
+/accesson.php 1 -
+/6index.php 1 -
+/.well-known/acme-challenge/xmrlpc.php 1 -
+//shop/wp-includes/wlwmanifest.xml 1 -
+/admin/files/bypass.php 1 -
+/admin/banner/uploads/mini.php 1 -
+/wp-content/plugins/admin.php 1 -
+/13.php 1 -
+/admin/mini.php 1 -
+/9.php 1 -
+/admin/banner/uploads/mini_shell.php 1 -
+/0byte.php 1 -
+/87.php 1 -
+/admin/banner/uploads/by.php 1 -
+/admin/files/wso.php 1 -
+/backup.sql 1 -
+/simple.php 3 -
+/wp-options.sql 1 -
+/403.php 1 -
+/78.php 1 -
+/chosen.php 4 -
+/4non.php 1 -
+/45.php 1 -
+/admin/images/bypass.php 1 -
+//wp/wp-includes/wlwmanifest.xml 1 -
+/.well-known/acme-challenge/cloud.php 1 -
+/.well-known/shell.php 1 -
+/..php 1 -
+/admin/banner/uploads/skizoo.php 1 -
+/wp-content/plugins/give/readme.txt 1 -
+/.well-known/.dha.php 1 -
+/bless.php 2 -
+/wp-checkbex.php 1 -
+/000000.php 1 -
+/.well-known/mari.php 1 -
+/0x1337.php 1 -
+/admin/images/b374k.php 1 -
+/7root.php 1 -
+/robots.txt 24 -
+//feed/ 1 -
+/500.php 1 -
+/~.php/ 1 -
+/.well-known/leaf.php 1 -
+/admin/banner/uploads/minishell.php 1 -
+/wp-head.php 2 -
+/admin/error_log 1 -
+/73.php 1 -
+/%26heker!.php 1 -
+/wp-json 3 -
+/admin/banner/uploads/cmd.php 1 -
+/admin/file/wso.php 1 -
+/401.php 1 -
+/radio.php 1 -
+/.well-known/acme-challenge/mariju.php 1 -
+/.well-known/acme-challenge/moon.php 1 -
+/1111.php 1 -
+/.well-known/404.php 1 -
+/.well-known/up.php 1 -
+/.well-known/maro.php 1 -
+/backup/wp-admin/install.php 2 -
+/admin/banner/uploader.php 1 -
+/wp-login.php 4 https://venezuelaprize.com/wp-login.php
+/77.php 1 -
+/098.php 1 -
+/admin/file/alfa.php 1 -
+/new/wp-admin/install.php 1 -
+/admin/banner/cmd.php 1 -
+/00.php 1 -
+/admin/images/gel4y.php 1 -
+/admin/file/up.php 1 -
+/wp-admin/setup-config.php 1 -
+/aa.php 1 -
+/1337.php 1 -
+/admin/banner/indoXploit.php 1 -
+/2index.php 1 -
+/admin/file/1.php 1 -
+/.well-known/a.php 1 -
+/.dha.php 1 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/admin/b374k.php 1 -
+/.well-known/pki-validation/mariju.php 1 -
+/.well-known/gelay.php 1 -
+/wp-content/plugins/litespeed-cache/readme.txt 1 -
+/admin/banner/1.php 1 -
+/%E2%96%93%D1%85%E2%95%9D%E2%96%A0%E2%94%90%D0%BA%E2%95%96%D0%B2%E2%95%A6%E2%95%A1%E2%94%9C%D1%9E.txt 1 http://venezuelaprize.com/%E2%96%93%D1%85%E2%95%9D%E2%96%A0%E2%94%90%D0%BA%E2%95%96%D0%B2%E2%95%A6%E2%95%A1%E2%94%9C%D1%9E.txt
+/admin/files/wp-comments.php 1 -
+//blog/wp-includes/wlwmanifest.xml 1 -
+/admin/22xc.php 1 -
+/test/wp-admin/install.php 1 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/37.php 1 -
+/admin/images/alfa.php 1 -
+//franceloterie.com/wp-content/themes/lottery_france/assets/js/lottery.js 1 -
+/8.php 1 -
+/admin/file/minishell.php 1 -
+/1n73ction.php 1 -
+/.well-known/am.php 1 -
+/wp-content/db-cache.php 1 -
+/assets/fileupload/server/php/index.php 1 -
+/blog/wp-admin/install.php 2 -
+/.well-known/acme-challenge/plugins.php 1 -
+/fileupload/server/php/index.php 1 -
+/cfide/scripts/ajax/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/000.php 1 -
+/%E3%80%90%E5%BF%85%E7%9C%8B%E3%80%91%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.txt 1 http://venezuelaprize.com/%E3%80%90%E5%BF%85%E7%9C%8B%E3%80%91%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.txt
+/a.php 1 -
+/mah.php 2 -
+/admin/file/by.php 1 -
+/admin/file/b374k.php 1 -
+/admin/banner/uploads/b374k.php 1 -
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 1 -
+/1.php 2 -
+//web/wp-includes/wlwmanifest.xml 1 -
+/wp/xmlrpc.php 1 -
+//franceloterie.com/wp-content/themes/lottery/assets/js/flipclock.js 1 -
+/.well-known/acme-challenge/atomlib.php 1 -
+/32.php 1 -
+/admin/images/mini_shell.php 1 -
+/admin/file/cmd.php 1 -
+/admin.php 7 -
+/admin/banner/mini_shell.php 1 -
+/admin/files/gel4y.php 1 -
+/admin/files/22xc.php 1 -
+/adm.php 1 -
+//test/wp-includes/wlwmanifest.xml 1 -
+/abuhlail.php 1 -
+/wp.php 2 -
+/.well-known/pki-validation/xmrlpc.php 1 -
+/11.php 1 -
+/admin/files/indoXploit.php 1 -
+/about.php 6 -
+/admin/images/wso.php 1 -
+/.well-known/alfa.php 1 -
+/wp-json/wp/v2/users 2 -
+/abc.php 1 -
+/admin/file/mini.php 1 -
+//site/wp-includes/wlwmanifest.xml 1 -
+/wp-content/admin.php 1 -
+/admin/banner/uploads/bypass.php 1 -
+/admin/file/mini_shell.php 1 -
+/admin/gel4y.php 1 -
+/aab.php 1 -
+/.well-known/wso.php 1 -
+/admin/images/wp-comments.php 1 -
+/.well-known/pki-validation/cloud.php 1 -
+/media/system/js/core.js 1 http://venezuelaprize.com/media/system/js/core.js
+/wp-content/themes/.index.php 1 -
+/admin/plugins/file-uploader/server/php/index.php 1 -
+/@.php 1 -
+/admin/banner/wso.php 1 -
+/xmlrpc.php 6 -
+/html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/admin/by.php 1 -
+/wp-includes/ID3/ 2 -
+/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/admin/alfa.php 1 -
+/database.sql 1 -
+/admin/images/alfa-shell.php 1 -
+/admin/mini_shell.php 1 -
+/admin/images/1.php 1 -
+/cms/wp-admin/install.php 2 -
+/1n73ct10n.php 1 -
+/images/sym.php 1 -
+/63dor.php 1 -
+/admin/file/22xc.php 1 -
+/oldsite/wp-admin/install.php 2 -
+/.well-known/x.php 1 -
+/options.php 1 -
+/admin/file/indoXploit.php 1 -
+/4x4.php 1 -
+/admin/banner/alfa.php 1 -
+/aci.php 1 -
+/admin/banner/gel4y.php 1 -
+/aaa.php 1 -
+/.well-known/traffic-advice 2 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/666.php 1 -
+/wp-admin/install.php 2 -
+/.well-known/pki-validation/class_api.php 1 -
+/.tmb/plugins.php 1 -
+/404webshell.php 1 -
+/assets/js/dropzone/dropzone-amd-module.min.js 1 -
+//cdn.js 1 -
+/admin/files/minishell.php 1 -
+//2020/wp-includes/wlwmanifest.xml 1 -
+/css/index.php 2 -
+/old/wp-admin/install.php 1 -
+/wp-add.php 4 www.google.com
+/64.php 1 -
+/1313.php 1 -
+/plugins/content/apismtp/apismtp.php 1 -
+/406.php 1 -
+/admin/files/b374k.php 1 -
+/admin/images/uploader.php 1 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 1 -
+/301.php 1 -
+/admin/bypass.php 1 -
+/hoot.php 2 -
+/admin/images/cmd.php 1 -
+/12j.php 1 -
+/about.php7 1 -
+/a.asp.txt 1 -
+/wp-content/plugins/wpcall-button/button-image.php 1 -
+/99.php 1 -
+/admin/file/alfa-shell.php 1 -
+/wp-plain.php 1 www.google.com
+/2.php 1 -
+/admin/banner/uploads/1.php 1 -
+/admin/file/wp-comments.php 1 -
+/000x48.php 1 -
+/dump.sql 1 -
+/wp-includes/js/quicktags.js 2 -
+/.well-known/leafmailer2.8.php 1 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 1 -
+/303.php 1 -
+/db.sql 1 -
+/admin/cmd.php 1 -
+/admin/banner/b374k.php 1 -
+/0day.php 1 -
+/%E3%80%90%E5%8F%AF%E7%9C%8B%E3%80%91%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E8%AF%B4%E6%98%8E.txt 1 http://venezuelaprize.com/%E3%80%90%E5%8F%AF%E7%9C%8B%E3%80%91%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E8%AF%B4%E6%98%8E.txt
+/admin/files/skizoo.php 1 -
+/529.php 1 -
+/8index.php 1 -
+/admin/banner/bypass.php 1 -
+/admin/banner/uploads/alfa.php 1 -
+/dropdown.php 1 -
+//xmlrpc.php 1 -
+/wp-emoji-release.min.js 2 -
+/.well-known/403.php 1 -
+/1index.php 2 -
+/admin/banner/uploads/up.php 1 -
+/5.php 1 -
+/123.asp.txt 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 1 -
+/22xc.php 1 -
+/admin/files/alfa.php 1 -
+/admin/banner/uploads/alfa-shell.php 1 -
+/.well-known/acme-challenge/my1.php 1 -
+/admin/files/mini_shell.php 1 -
+/.env 3 -
+/static/admin/login.html 1 http://venezuelaprize.com/static/admin/login.html
+/admin/banner/uploads/uploader.php 1 -
+/wp-json/ 1 -
+/access_log.php 1 -
+/159.php 1 -
+/admin/banner/alfa-shell.php 1 -
+/aaaa.php 1 -
+/wp-content/plugins/apikey/apikey.php.suspected 1 -
+/admin/files/uploader.php 1 -
+/wp-content/index.php 1 -
+/options.sql 1 -
+/admin/banner/uploads/shell.php 1 -
+/4.php 1 -
+/admin/banner/minishell.php 1 -
+/A1.php 1 -
+/wordpress/wp-admin/install.php 1 -
+/wp-admin/options.php 1 -
+/admin/images/shell.php 1 -
+/1.aspx 1 -
+/a.aspx 1 -
+/admin/banner/uploads/22xc.php 1 -
+//2019/wp-includes/wlwmanifest.xml 1 -
+/admin/banner/up.php 1 -
+/wp-json/wp/v2/users/ 1 -
+/7index.php 1 -
+/admin/indoXploit.php 1 -
+/1234.php 1 -
+/alfa-rex.php 1 -
+/%5C/franceloterie.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 1 -
+/ab.php 1 -
+/.well-known/fw.php 1 -
+/admin/images/by.php 1 -
+/login 1 -
+/admin/banner/uploads/gel4y.php 1 -
+/admin/banner/skizoo.php 1 -
+/.conf.php 1 -
+/accounts.php 1 -
+/admin/files/up.php 1 -
+/site/wp-admin/install.php 1 -
+/404.php 2 -
+/users.php 1 -
+/10.php 1 -
+/admin/file/shell.php 1 -
+/3index.php 1 -
+/web/wp-admin/install.php 2 -
+/.well-known/pki-validation/plugins.php 1 -
+//2021/wp-includes/wlwmanifest.xml 1 -
+/plugins/content/apismtp/apismtp.php.suspected 1 -
+/admin/files/1.php 1 -
+/admin/images/mini.php 1 -
+/01.php 1 -
+/.well-known/pki-validation/atomlib.php 1 -
+/wp-content/themes/seotheme/db.php 2 www.google.com
+//cms/wp-includes/wlwmanifest.xml 1 -
+/admin/images/indoXploit.php 1 -
+/cong.php 1 -
+/admin/banner/uploads/wp-comments.php 1 -
+/wordpress/xmlrpc.php 1 -
+/admin/ 1 -
+/0808.php 1 -
+/upubkpbx.php 1 www.google.com
+/.well-known/pki-validation/about.php 1 -
+/admin/banner/wp-comments.php 1 -
+/wp-content/themes/travelscape/json.php 1 www.google.com
+/.error_log.php 1 -
+/22.php 1 -
+/6.php 1 -
+/9index.php 1 -
+/admin/images/22xc.php 1 -
+/0.php 1 -
+/admin/files/shell.php 1 -
+/-.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 37
+8.218.22.143 2 2 105624 20240905032848
+185.39.18.203 2 2 10777 20240902010846
+167.71.237.53 2 2 21582 20240903200259
+49.51.233.46 1 1 10787 20240901180051
+72.14.201.146 1 1 8275 20240903075246
+134.122.83.131 1 1 10776 20240905040031
+124.156.193.7 1 1 10787 20240901180346
+193.42.36.45 1 1 52812 20240904214240
+72.14.201.144 1 1 8273 20240903202054
+128.90.170.14 1 1 10777 20240902190227
+87.236.176.111 1 1 10776 20240905002549
+35.238.2.216 1 1 8275 20240902102659
+94.156.66.165 1 1 52812 20240904100406
+43.130.37.62 1 1 10776 20240905000918
+43.159.128.237 1 1 10791 20240903043126
+43.131.249.153 1 1 10787 20240901082447
+114.10.119.141 1 1 8275 20240903155937
+94.141.120.165 1 1 10776 20240904103742
+213.165.71.218 1 1 10791 20240903124213
+112.215.253.112 1 1 8275 20240903074231
+87.236.176.76 1 1 10776 20240904114324
+170.106.101.31 1 1 10777 20240902064012
+103.115.20.107 1 1 8275 20240901073107
+185.242.87.52 1 1 8275 20240902191111
+159.89.38.136 1 1 10791 20240903054237
+43.163.1.85 1 1 10791 20240903080000
+139.59.33.131 1 1 10787 20240901043153
+45.148.10.59 1 1 10791 20240903150936
+194.59.165.88 1 1 52812 20240905063253
+159.203.8.164 1 1 10776 20240905061551
+170.106.84.136 1 1 10776 20240904175205
+43.128.100.220 1 1 10777 20240902191401
+42.83.147.53 1 1 10776 20240905000408
+135.148.195.8 1 1 10787 20240901131916
+185.12.150.110 1 1 10791 20240903164425
+43.155.152.154 1 1 10787 20240901041357
+205.210.31.213 1 1 52812 20240902214121
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20240901 8 8 72997 8
+20240902 7 7 112470 7
+20240903 12 12 119426 11
+20240904 5 5 137952 5
+20240905 8 8 212316 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 38
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 37 630336 35 35
+/live-draw/ 3 24825 3 3
+END_SIDER

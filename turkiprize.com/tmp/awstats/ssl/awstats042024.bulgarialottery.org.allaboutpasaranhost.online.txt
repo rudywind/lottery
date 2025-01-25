@@ -1,0 +1,1122 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.bulgarialottery.org.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2047                
+POS_TIME 2725                
+POS_VISITOR 28340               
+POS_DAY 37184               
+POS_DOMAIN 3513                
+POS_LOGIN 4081                
+POS_ROBOT 4236                
+POS_WORMS 4946                
+POS_EMAILSENDER 5077                
+POS_EMAILRECEIVER 5220                
+POS_SESSION 37945               
+POS_SIDER 38124               
+POS_FILETYPES 5355                
+POS_DOWNLOADS 5440                
+POS_OS 5488                
+POS_BROWSER 5836                
+POS_SCREENSIZE 7541                
+POS_UNKNOWNREFERER 7615                
+POS_UNKNOWNREFERERBROWSER 8176                
+POS_ORIGIN 8425                
+POS_SEREFERRALS 8565                
+POS_PAGEREFS 8747                
+POS_SEARCHWORDS 8895                
+POS_KEYWORDS 9047                
+POS_MISC 2389                
+POS_ERRORS 9106                
+POS_CLUSTER 3937                
+POS_SIDER_404 9212                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501001622 37 7966 13239452686410
+FirstTime 20240401024308
+LastTime 20240430193702
+LastUpdate 20240501081719 37 0 36 0 0
+TotalVisits 280                 
+TotalUnique 228                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 228                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 24 24 995865 32 40 50040
+1 4 4 81173 33 44 80976
+2 21 21 248924 68 78 175732
+3 10 10 265264 43 50 67645
+4 12 12 201982 20 37 180671
+5 16 16 208769 29 43 67443
+6 12 12 160416 27 29 43637
+7 5 5 49533 18 22 68195
+8 35 35 339021 15 17 28666
+9 20 20 289929 61 66 108512
+10 8 8 120789 10 15 26161
+11 11 11 108934 14 22 36922
+12 8 8 118492 13 21 24993
+13 16 16 181718 23 31 63471
+14 2 2 19799 29 39 170406
+15 29 29 367596 82 90 136039
+16 40 40 424371 67 73 131585
+17 15 15 356353 66 92 145538
+18 20 20 252630 231 235 315359
+19 16 16 156122 30 36 694111
+20 4 4 122733 32 38 115480
+21 13 13 167990 8 13 36275
+22 12 12 241211 10 14 53671
+23 15 15 264077 190 193 257504
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 25
+us 129 129 2767802
+jp 45 45 454421
+cn 39 39 425410
+gb 19 19 180613
+ca 19 19 188149
+ru 15 15 356390
+mx 14 14 127183
+in 11 11 114624
+de 10 10 99018
+id 10 10 54876
+se 9 9 130675
+es 8 8 79271
+bg 8 8 275620
+nl 7 7 110889
+bz 5 5 58255
+ch 5 5 49532
+be 5 5 49531
+pa 2 2 19807
+kh 2 2 19811
+my 1 1 9894
+vn 1 1 51467
+au 1 1 7616
+sc 1 1 51467
+ao 1 1 9903
+br 1 1 51467
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+Go\-http\-client/ 16 158433 20240430021703 0
+Googlebot/ 15 114208 20240427213839 0
+AhrefsBot/ 15 120523 20240430140913 0
+bot[\s_+:,\.\;\/\\-] 7 69286 20240417010925 0
+SemrushBot/ 6 81487 20240416195152 0
+crawl 5 60517 20240424141324 0
+link 4 50645 20240428152231 0
+DotBot/ 4 592307 20240403191921 0
+no_user_agent 4 205868 20240425201907 0
+nbot 3 40737 20240403191649 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 19800 20240428024113 0
+MJ12bot/ 1 7617 20240422222217 0
+DuckDuckGo\-Favicons\-Bot/ 1 9904 20240408131005 0
+bingbot/ 1 9291 20240413111920 0
+YandexBot/ 1 9894 20240430130153 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 368 5743691 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+winlong 4 4
+win10 104 104
+macosx15 37 37
+macosx13 1 1
+androidoreo 2 2
+Unknown 34 34
+android10 19 19
+linuxubuntu 8 8
+linux 23 23
+ios_ipad 1 1
+macosx 11 11
+win8 1 1
+macosx11 1 1
+macosx14 4 4
+win7 15 15
+macosx9 1 1
+androidnougat 12 12
+macosx7 1 1
+ios_iphone 86 86
+win8.1 1 1
+winxp 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 83
+chrome64.0.3282.167 1 1
+mozilla 23 23
+firefox52.0 3 3
+chrome51.0.2704.103 3 3
+chrome81.0.4044.138 3 3
+opera102.0.0.0 3 3
+safari6.0 3 3
+chrome94.0.4606.61 1 1
+chrome88.0.4324.150 1 1
+chrome68.0.3440.91 2 2
+chrome87.0.4280.88 4 4
+chrome52.0.1330 1 1
+chrome89.0.4389.114 1 1
+firefox119.0 1 1
+safari10.0 1 1
+safari7.0.3 1 1
+safari13.0.3 78 78
+firefox60.0 1 1
+chrome96.0.160 1 1
+chrome79.0.3945.88 1 1
+chrome99.0.4844.51 1 1
+firefox108.0 11 11
+msie9.0 1 1
+firefox117.0 17 17
+chrome87.0.844 1 1
+chrome100.0.4896.60 17 17
+edge15 1 1
+msie7.0 1 1
+chrome114.0.0.0 1 1
+chrome83.0.4103.97 2 2
+chrome117.0.0.0 18 18
+chrome90.0.4430.85 3 3
+netscape5.0 3 3
+chrome74.0.3729.169 7 7
+chrome103.0.0.0 3 3
+chrome121.0.0.0 19 19
+chrome86.0.4240.183 1 1
+safari14.0.1 1 1
+chrome34.0.1847.116 3 3
+chrome100.0.4896.127 3 3
+chrome91.0.4472.114 3 3
+chrome123.0.0.0 10 10
+chrome73.0.848 1 1
+chrome79.0.3945.130 3 3
+chrome116.0.0.0 8 8
+chrome57.0.2987.133 1 1
+chrome101.0.4951.54 1 1
+chrome118.0.0.0 1 1
+chrome19.0.1084.9 1 1
+safari16.6 2 2
+chrome96.0.4664.110 2 2
+safari16.2 1 1
+chrome122.0.0.0 11 11
+Unknown 8 8
+firefox109.0 1 1
+chrome55.0.2883.87 1 1
+firefox58.0 1 1
+firefox106.0 2 2
+chrome92.0.4515.107 1 1
+chrome105.0.0.0 6 6
+chrome58.0.466 1 1
+firefox115 1 1
+chrome61.0.3163.79 1 1
+firefox33.0 1 1
+opera89.0.4447.51 4 4
+chrome67.0.3396.99 1 1
+msie6.0 1 1
+chrome80.0.3987.162 1 1
+opera58.0.3135.107 1 1
+chrome115.0.0.0 2 2
+chrome101.0.4951.67 1 1
+safari13.1 1 1
+safari12.0 3 3
+firefox118.0 3 3
+chrome94.0.4606.81 7 7
+chrome120.0.0.0 6 6
+chrome60.0.3112.107 12 12
+chrome108.0.0.0 1 1
+chrome66.0.3359.181 4 4
+chrome17.0.963.56 1 1
+safari9.0 1 1
+iphone 1 1
+chrome81.0.4044.113 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+python-requests/2.26.0 20240430002616
+undici 20240414163708
+Searcherweb 20240425105235
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240407000413
+Embarcadero_URI_Client/1.0 20240404180703
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240424144927
+python-requests/2.31.0 20240411223416
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240422040347
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240426131507
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Embarcadero_URI_Client/1.0 20240404180703
+Searcherweb 20240425105235
+undici 20240414163708
+python-requests/2.31.0 20240411223416
+python-requests/2.26.0 20240430002616
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 222 222
+From1 6 6
+From2 15 15
+From3 0 0
+From4 125 125
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_bing_com 1 1
+www_google_com 14 14
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 23 28566
+404 1201 1499949
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 476
+/author/admim/ 3 -
+/.well-known/pki-validation/about.php 2 -
+/wp-includes/css/dist/widgets/index.php 1 -
+/admin-post.php 2 -
+/wp-includes/certificates/index.php 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 6 http://bulgarialottery.org//wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/wp-includes/blocks/search/index.php 1 -
+/wp-includes/blocks/gallery/index.php 1 -
+/wp-includes/blocks/group/index.php 1 -
+/wp-admin/js/widgets/upfile.php 1 bulgarialottery.org
+/wp-includes/images/index.php 1 -
+//wp1/wp-includes/wlwmanifest.xml 5 -
+/wp-admin/css/.css.php 1 bulgarialottery.org
+/wp-includes/ 2 -
+//victoriapeaklottery.com/xmlrpc.php 2 -
+/wp-includes/SimplePie/Cache/index.php 1 -
+/wp-includes/blocks/query-pagination-next/index.php 1 -
+/view-source: 1 -
+/wp-content/themes/seotheme/mar.php 2 -
+/wp-content/plugins/linkpreview/db.php 2 -
+/wp-plain.php 4 www.google.com
+/wp-content/uploads/index.php 1 -
+/wp-admin/maint/index.php 1 -
+/cgi-bin/cgi-bin/about.php7 6 http://bulgarialottery.org//cgi-bin/cgi-bin/about.php7
+/st.php 7 http://bulgarialottery.org//st.php
+/wp-includes/blocks/nextpage/index.php 1 -
+/wp-includes/css/buttons.css 2 http://bulgarialottery.org/wp-includes/css/buttons.css
+/chifjwnw.php 1 www.google.com
+//2021/wp-includes/wlwmanifest.xml 5 -
+/wp-includes/js/imgareaselect/index.php 1 -
+/wp-includes/blocks/button/index.php 1 -
+/wp-admin/includes/index.php 1 -
+/nbcyuugx.php 1 www.google.com
+/wp-admin/images/cloud.php 2 -
+/css/xmrlpc.php 2 -
+//feed/ 5 -
+/wp-admin/css/colors/blue/xmrlpc.php 2 -
+/wp-admin/includes/about.php 2 -
+/wp-includes/blocks/file/index.php 1 -
+/wp-content/plugins/Cache/dropdown.php 6 http://bulgarialottery.org//wp-content/plugins/Cache/dropdown.php
+/wp-content/themes/theme_log.php 1 bulgarialottery.org
+/img/xmrlpc.php 2 -
+/wp-includes/css/dist/reusable-blocks/index.php 1 -
+/sitemap-index.xml 2 -
+/wp-includes/js/jquery/jquery.min.js 3 www.google.com
+/xmrlpc.php 2 -
+/wp-content/themes/wp-admin/css/index.php 1 bulgarialottery.org
+//s3.tradingview.com/external-embedding/embed-widget-timeline.js 2 -
+/sitemap.xml 20 -
+/alfacgiapi/perl.alfa 5 www.google.com
+/author/superadmin/ 3 -
+/wordpress 5 -
+/wp-includes/blocks/query-pagination-numbers/index.php 1 -
+/wp-includes/js/codemirror/index.php 1 -
+/wp-content/repeater.php 2 -
+/wp-includes/blocks/media-text/index.php 1 -
+/wp-includes/blocks/post-content/index.php 1 -
+/wp-content/patior/ 6 http://bulgarialottery.org//wp-content/patior/
+/wp-includes/SimplePie/index.php 1 -
+/img/cloud.php 2 -
+/wp-admin/css/colors/index.php 4 -
+/wp-includes/css/index.php 1 -
+/wp-includes/Requests/Transport/index.php 1 -
+/inputs.php 5 -
+/sitemapindex.xml 2 -
+/.wp-cli/cache/index.php 1 -
+/wp-includes/blocks/latest-posts/index.php 1 -
+/wp-includes/Requests/Text/admin.php 2 -
+/wp-includes/images/smilies/upfile.php 1 bulgarialottery.org
+/wp-includes/css/dist/customize-widgets/index.php 1 -
+/ccx/index.php 1 -
+/wp-includes/SimplePie/XML/Declaration/index.php 1 -
+/wp-includes/css/dist/edit-widgets/index.php 1 -
+/wp-content/plugins/seoplugins/mar.php 2 -
+/css/cloud.php 2 -
+/wp-admin/js/.js.php 1 bulgarialottery.org
+/wp-includes/SimplePie/Decode/HTML/index.php 1 -
+/wp-includes/blocks/site-tagline/index.php 1 -
+/.quarantine/upfile.php 1 bulgarialottery.org
+/wp-includes/js/plupload/index.php 1 -
+/radio.txt 1 bulgarialottery.org
+/wp-includes/blocks/separator/index.php 1 -
+/images/about.php 2 -
+/wp-includes/blocks/query-pagination/index.php 1 -
+/wp-includes/blocks/post-featured-image/index.php 1 -
+/wp-admin/inputs.php 2 www.google.com
+/wp-includes/blocks/about.php 2 -
+/wp-includes/js/mediaelement/renderers/index.php 1 -
+/wp-admin/maint/maint/ajax-actions.php 2 -
+/wp-admin/index.php 3 bulgarialottery.org
+/wp-includes/css/dist/nux/index.php 1 -
+/plugins/content/apismtp/apismtp.php 5 -
+/my1.php 7 http://bulgarialottery.org//my1.php
+/author/wpservices/ 3 -
+/.DS_Store 5 -
+/wp-includes/css/dist/edit-post/index.php 1 -
+/sitemap.xml.gz 4 -
+/plugins/content/apismtp/apismtp.php.suspected 5 -
+/wp-admin/images/upfile.php 1 bulgarialottery.org
+/admin/ 1 -
+/wp-includes/blocks/index.php 1 -
+/shop 3 -
+/wp-includes/blocks/freeform/index.php 1 -
+/wp-includes/blocks/query/index.php 1 -
+/wp-includes/about.php 2 -
+/blog 4 -
+/wp-content/updates.php 2 -
+/wp-admin/css/colors/coffee/xmrlpc.php 2 -
+/wp-includes/ID3/about.php 2 -
+/wp-includes/blocks/code/index.php 1 -
+/wp-content/updraft/about.php 2 -
+/wp-admin/includes/cloud.php 2 -
+/wp-includes/js/crop/index.php 1 -
+/admin/index.php 3 -
+/wp-includes/Text/about.php 8 http://bulgarialottery.org//wp-includes/Text/about.php
+//shop/wp-includes/wlwmanifest.xml 5 -
+/wp-content/auto_seo.php 1 -
+/wp-admin/css/colors/blue/index.php 1 -
+/wp-content/plugins/gotmls/readme.txt 2 -
+/wp-includes.bak/html-api/about.php 2 -
+/wp-includes/blocks/loginout/index.php 1 -
+/about.php 5 bulgarialottery.org
+/index_sso.php 5 -
+/sitemap.php 2 -
+/wp-json 20 -
+/testing 1 -
+/wp-includes/blocks/post-terms/index.php 1 -
+/.well-known/about.php 2 -
+/wp-p.php7 2 -
+/ebs.php7 2 -
+/wp-content/plugins/seoplugins/db.php 2 -
+/cgi-bin/install.php 6 http://bulgarialottery.org//cgi-bin/install.php
+/wp-content/plugins/ 6 http://bulgarialottery.org//wp-content/plugins/
+/wp-include/inputs.php 1 -
+/wordpress/ 1 https://www.google.com
+/yanz.php 2 -
+/wp-includes/blocks/block/index.php 1 -
+/files/ 3 binance.com
+/sitemap.txt 5 -
+/wp-includes/PHPMailer/index.php 1 -
+/wp-includes/SimplePie/Parse/index.php 1 -
+/.well-known/pki-validation/cloud.php 2 -
+/wp-admin/network/index.php 1 -
+/wp-includes/style-engine/about.php 2 -
+/wp-includes/js/dist/vendor/index.php 1 -
+/wp-includes/blocks/heading/index.php 1 -
+/wp-includes/images/about.php 2 -
+/cache-compat.php 2 -
+/cgi-bin/.cgi-bin.php 1 bulgarialottery.org
+/wp-content/banners/about.php 2 -
+/ajax-actions.php 2 -
+/.well-known/pki-validation/upfile.php 1 bulgarialottery.org
+/sftp-config.json 1 -
+/wp-includes/SimplePie/Content/Type/index.php 1 -
+/wp-includes/js/mediaelement/index.php 1 -
+/ee.php 6 http://bulgarialottery.org//ee.php
+/sitemap 2 -
+/wp-includes/Requests/Proxy/index.php 1 -
+/wp-includes/js/jquery/jquery.js 2 www.google.com
+/wp-includes/blocks/shortcode/index.php 1 -
+/wp-admin/dropdown.php 8 http://bulgarialottery.org//wp-admin/dropdown.php
+/wp-includes/blocks/page-list/index.php 1 -
+/wp-includes/blocks/social-link/index.php 1 -
+/wp-includes/Text/Diff/Engine/index.php 1 -
+/wp-content/themes/qoe/vendor/ernilambar/wp-admin-notice/src/Start-home.php 1 bulgarialottery.org
+/wp-admin/css/colors/blue/cloud.php 2 -
+/wp-includes/SimplePie/about.php 2 -
+/wp-admin/includes/xmrlpc.php 2 -
+/wp-admin/js/widgets/cloud.php 2 -
+/wp-content/languages/index.php 1 -
+/cgi-bin/cloud.php 2 -
+//test/wp-includes/wlwmanifest.xml 5 -
+/images/xmrlpc.php 2 -
+/images/index.php 1 -
+/PHPMailer/web_config.php 1 bulgarialottery.org
+/wp-json/wp/v2/users/3 2 https://bulgarialottery.org/
+/cgi-bin/upfile.php 2 bulgarialottery.org
+/wp-admin/css/colors/cloud.php 2 -
+/install.php 6 http://bulgarialottery.org//install.php
+/wp-json/litespeed/v1/cdn_status 11 -
+/.env 9 -
+/wp-admin/admin-ajax.php 13 -
+/wp-emoji-release.min.js 2 -
+/wp-admin/.wp-admin.php 1 bulgarialottery.org
+/wp-includes/blocks/post-title/index.php 1 -
+/wp-includes/js/tinymce/langs/index.php 1 -
+/wp-admin/cloud.php 2 -
+/wp-includes/blocks/preformatted/index.php 1 -
+/cgi-bin/cgi-bin/about.php 6 http://bulgarialottery.org//cgi-bin/cgi-bin/about.php
+/wp-content/install.php 6 http://bulgarialottery.org//wp-content/install.php
+/wp-includes/block-patterns/index.php 1 -
+/wp-content/themes/about.php 2 -
+/wp-content/themes/seotheme/db.php 12 www.google.com
+/simple.php 8 www.google.com
+/alfa-rex2.php7 2 -
+/wp-content/languages/about.php 2 -
+/wp-admin/css/colors/light/index.php 1 bulgarialottery.org
+/wp-includes/Requests/index.php 1 -
+/wp-includes/Requests/Exception/Transport/index.php 1 -
+/wp-includes/install.php 6 http://bulgarialottery.org//wp-includes/install.php
+/wp-content/uploads/sites/8/upfile.php 1 bulgarialottery.org
+/wp-content/plugins/backup-backup/modules/gdrivebanner/assets/css/styles.css 1 -
+/wp-admin/css/about.php 2 -
+/wp-includes/ID3/index.php 1 -
+/wp-admin/network/xmrlpc.php 2 -
+/wp-includes/images/smilies/index.php 1 -
+/wp-includes/blocks/spacer/index.php 1 -
+/wp-includes/blocks/social-links/index.php 1 -
+/cgi-bin/about.php 2 -
+/licenses.php 1 bulgarialottery.org
+/wp-head.php 9 http://bulgarialottery.org//wp-head.php
+/wp-content/dropdown.php 6 http://bulgarialottery.org//wp-content/dropdown.php
+/media/system/js/core.js 4 -
+/atomlib.php 1 bulgarialottery.org
+/.well-known/acme-challenge/install.php 6 http://bulgarialottery.org//.well-known/acme-challenge/install.php
+/wp-privacys.php 1 bulgarialottery.org
+/wp-admin/css/colors/coffee/index.php 1 -
+/wp-includes/css/dist/editor/index.php 1 -
+/wp-admin/mb.php 1 bulgarialottery.org
+/wp-includes/js/index.php 1 -
+/libraries/legacy/updates.php 2 -
+/wp-content/index.php 3 -
+/style.php 6 www.google.com
+/wp-includes/customize/about.php 2 -
+/wp-includes/wlwmanifest.xml 1 -
+/home 1 -
+/backup_1/cleaner.php 1 bulgarialottery.org
+/wp-includes/blocks/site-logo/index.php 1 -
+/uuakvnrx.php 1 www.google.com
+/wp-admin/js/index.php 2 -
+/new 4 -
+/wp-includes/blocks/verse/index.php 1 -
+/author/w-padmine/ 3 -
+/wp-includes/blocks/post-template/index.php 1 -
+//blog/wp-includes/wlwmanifest.xml 5 -
+/wp-admin/css/index.php 4 -
+/wp-includes/js/tinymce/index.php 1 -
+/wp-includes/assets/index.php 1 -
+/wp-includes/js/dist/index.php 1 -
+/sitemap_index.xml 4 -
+/core 1 -
+/wp-includes/blocks/archives/index.php 1 -
+/cgi-bin/index.php 1 -
+/ws.php7 2 -
+/wp-content/plugins/install.php 6 http://bulgarialottery.org//wp-content/plugins/install.php
+/admin/controller/extension/extension/ 3 binance.com
+/alfanew.php 2 -
+/sites/default/files/ 3 binance.com
+/avaa.php 2 -
+/wp-includes/blocks/table/index.php 1 -
+//victoriapeaklottery.com/wp-content/themes/lottery_victoriapeak/assets/js/lottery.js 2 -
+/wp-includes/images/media/index.php 1 -
+/wp-includes/SimplePie/HTTP/index.php 1 -
+/wp-json/wp/v2/users/5 3 https://bulgarialottery.org/
+/wp-includes/blocks/audio/index.php 1 -
+/wp-includes/customize/index.php 1 -
+/cjfuns.php 7 http://bulgarialottery.org//cjfuns.php
+/alfanew.php7 2 -
+/wp-includes/blocks/more/index.php 1 -
+/wp-includes/js/thickbox/index.php 1 -
+/wp-admin/images/.images.php 1 bulgarialottery.org
+/wp-includes/js/tinymce/plugins/charmap/index.php 1 -
+/images/cloud.php 2 -
+/wp-admin/privacy-guides.php 1 bulgarialottery.org
+/wp-includes/css/dist/format-library/index.php 1 -
+/wp-admin/css/colors/modern/index.php 1 -
+/alfa-rex.php7 2 -
+/wp-includes/blocks/cover/index.php 1 -
+/wp-includes/js/jcrop/index.php 1 -
+/robots.txt 86 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 6 www.google.com
+/wp-admin/css/colors/coffee/cloud.php 2 -
+/sitemap1.xml 2 -
+/wp-admin/repeater.php 2 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 2 -
+//wp-includes/ID3/license.txt 5 -
+/license.txt 2 -
+/wp-json/wp/v2/users/1 2 https://bulgarialottery.org/
+/wp-admin/network/licenses.php 1 bulgarialottery.org
+/wp-admin/images/index.php 3 -
+/wp-content/blogs.dir/about.php 2 -
+/chosen.php 3 www.google.com
+/wp-includes/Text/Diff/Renderer/index.php 1 -
+/wp-admin/js/widgets/index.php 1 -
+/wp-admin/images/about.php 2 -
+/wp-includes/images/crystal/index.php 1 -
+/wp-admin/user/upfile.php 1 bulgarialottery.org
+/author/wpsecuritypatch/ 3 -
+/css/install.php 6 http://bulgarialottery.org//css/install.php
+/wp-content/upgrade/index.php 1 -
+/wp-json/wp/v2/users/4 2 https://bulgarialottery.org/
+/radio.php 1 bulgarialottery.org
+/alfanew2.php7 2 -
+/wp-includes/Requests/Utility/index.php 1 -
+/wp-includes/fonts/index.php 1 -
+/wp-content/plugins/Cache/Cache.php 2 -
+/test 4 -
+/wp-content/plugins/wp-ver.php 1 bulgarialottery.org
+/wp-includes/blocks/site-title/index.php 1 -
+//wp/wp-includes/wlwmanifest.xml 5 -
+/wp-includes/blocks/legacy-widget/index.php 1 -
+/dist/jquery.min.js 2 -
+/wp-includes/blocks/tag-cloud/index.php 1 -
+/wp-includes/pomo/about.php 2 -
+/.wp-cli/index.php 1 -
+/wp-includes/blocks/latest-comments/index.php 1 -
+/wp-includes/Requests/Exception/index.php 1 -
+/wp-admin/images/xmrlpc.php 2 -
+//xmlrpc.php 5 -
+/author/crander/ 3 -
+/wp-content/plugins/ccx/index.php 1 -
+/wp-includes/blocks/paragraph/index.php 1 -
+/dropdown.php 8 http://bulgarialottery.org//dropdown.php
+/wp-includes/blocks/calendar/index.php 1 -
+/author/greeceman/ 3 -
+/wp-content/upgrade-temp-backup/about.php 2 -
+/wp-admin/css/ 3 binance.com
+/css/index.php 1 -
+/admin.php 3 bulgarialottery.org
+/wp-includes/js/jquery/ui/index.php 1 -
+/adminfuns.php7 2 -
+/cloud.php 2 -
+/wp-content/plugins/fix/up.php 2 -
+/wp-content/plugins/genesis-simple-share/includes/class-genesis-simple-share-view.php 1 bulgarialottery.org
+/wp-admin/edit-forms.php 1 bulgarialottery.org
+/wp-content/themes/lottery/readme.txt 2 -
+/wp-includes/css/dist/list-reusable-blocks/index.php 1 -
+/misc/ajax.js 1 -
+/author/wpadminne/ 3 -
+/administrator/index.php 4 -
+/wp-includes/block-patterns/about.php 2 -
+/wp-admin/link-forms.php 1 bulgarialottery.org
+/wp-admin/css/colors/ectoplasm/index.php 1 -
+/wp-includes/js/jquery/index.php 1 -
+/wp-admin/css/colors/midnight/index.php 1 -
+/fxidixaj.php 1 www.google.com
+/wp-includes/Text/index.php 1 -
+/wp-includes/rest-api/about.php 8 http://bulgarialottery.org//wp-includes/rest-api/about.php
+/wp-includes/SimplePie/Net/index.php 1 -
+/cgi-bin/xmrlpc.php 2 -
+/wp-cron.php 1 bulgarialottery.org
+/wp-includes/blocks/rss/index.php 1 -
+/wp-admin/install.php 14 http://bulgarialottery.org//wp-admin/install.php
+/wp-includes/blocks/pullquote/index.php 1 -
+/img/about.php 2 -
+//victoriapeaklottery.com/wp-content/themes/lottery/assets/js/flipclock.js 2 -
+/wp-admin/js/widgets/xmrlpc.php 2 -
+/wp-ver.php 1 bulgarialottery.org
+/wp-includes/blocks/categories/index.php 1 -
+/wp-includes/Text/Diff/index.php 1 -
+/.well-known/acme-challenge/xmrlpc.php 2 -
+/wp-admin/user/index.php 1 -
+/auto_seo.php 1 -
+//2020/wp-includes/wlwmanifest.xml 5 -
+/wp-admin/setup-config.php 8 -
+/wp-includes/css/dist/block-directory/index.php 1 -
+/wp-admin/js/about.php7 6 http://bulgarialottery.org//wp-admin/js/about.php7
+/wp-includes/Requests/Auth/index.php 1 -
+/wp-includes/repeater.php 2 -
+/wp-content/plugins/hellopress/wp_filemanager.php 2 -
+/libraries/vendor/updates.php 2 -
+/uploads/ 3 binance.com
+/newsite 1 -
+/wp-includes/Requests/about.php 2 -
+/wp-admin/ajax-actions.php 2 -
+/wp-admin/xmrlpc.php 2 -
+/wp-content/plugins/apikey/apikey.php.suspected 5 -
+//web/wp-includes/wlwmanifest.xml 5 -
+/author/stender/ 3 -
+/wp-admin/js/widgets/about.php7 2 -
+/wp-content/plugins/index.php 1 -
+/wp-includes/blocks/quote/index.php 1 -
+/wp-admin/js/about.php 10 http://bulgarialottery.org//wp-admin/js/about.php
+/archivarix.cms.php 2 -
+/wp-includes/block-supports/index.php 1 -
+/updates.php 2 -
+/wp-includes/inputs.php 1 www.google.com
+/wp-content/plugins/apikey/apikey.php 5 -
+/wp-includes/Requests/Exception/HTTP/index.php 1 -
+/sitemaps.xml 1 -
+/wp-json/wp/v2/users 1 https://www.google.com
+/wp-includes/js/swfupload/index.php 1 -
+/wp-content/.wp-content.php 1 bulgarialottery.org
+/wp-includes/IXR/about.php 2 -
+//site/wp-includes/wlwmanifest.xml 5 -
+/wp-includes/blocks/query-title/index.php 1 -
+/ads.txt 5 -
+/wp-checkbex.php 2 -
+/wp-includes/blocks/image/index.php 1 -
+/libraries/phpmailer/updates.php 2 -
+/humans.txt 2 http://www.bulgarialottery.org/humans.txt
+/images/ 3 binance.com
+/wp-includes/widgets/about.php 2 -
+/old 4 -
+/wp-admin/images/install.php 6 http://bulgarialottery.org//wp-admin/images/install.php
+/wp-content/plugins/seoo/wsoyanz1.php 2 -
+/wp-includes/blocks/buttons/index.php 1 -
+/wp-consar.php 2 -
+/wp-content/plugins/LayerSlider/static/js/builder.js 1 bulgarialottery.org
+/wp-content/plugins/chauffeur-booking-system/script/jquery.chauffeurBookingFormAdmin.js 1 bulgarialottery.org
+/wp-includes/Requests/Cookie/index.php 1 -
+/wp-includes/Requests/Response/index.php 1 -
+/repeater.php 2 -
+/wp-includes/blocks/post-excerpt/index.php 1 -
+/about.php7 2 -
+/wp-includes/blocks/html/index.php 1 -
+/wp-includes/blocks/text-columns/index.php 1 -
+/wp-admin/maint/.maint.php 1 bulgarialottery.org
+/wp-boards.php 1 bulgarialottery.org
+/.well-known/pki-validation/xmrlpc.php 2 -
+/wp-admin/user/xmrlpc.php 2 -
+/.well-known/acme-challenge/cloud.php 4 -
+/wp-includes/Requests/Text/index.php 1 bulgarialottery.org
+/.well-known/pki-validation/index.php 1 -
+/a2.php 1 bulgarialottery.org
+/wp-admin/maint/moon.php 6 http://bulgarialottery.org//wp-admin/maint/moon.php
+/wp-includes/blocks/missing/index.php 1 -
+/wp-content/about.php 2 -
+/wp-content/themes/pridmag/db.php 2 -
+/wp-content/themes/index.php 1 -
+/wp 5 -
+/.well-known/acme-challenge/upfile.php 1 bulgarialottery.org
+/.well-known/security.txt 2 http://www.bulgarialottery.org/.well-known/security.txt
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 5 www.google.com
+/wp-admin/user/cloud.php 2 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 2 -
+/sitemap/index.xml 2 -
+/sitemap/sitemap.xml 2 -
+/wp-admin/widgets-blocks.php 1 bulgarialottery.org
+/wp-includes/.wp-includes.php 1 bulgarialottery.org
+//2019/wp-includes/wlwmanifest.xml 5 -
+/wp-content/ 1 -
+/wp-includes/images/wlw/index.php 1 -
+/wp-includes/blocks/video/index.php 1 -
+/wp-includes/blocks/list/index.php 1 -
+/security.txt 1 http://www.bulgarialottery.org/security.txt
+/php/thinkphp/aaaffff123.php 5 -
+/wp-content/plugins/dzs-zoomsounds/savepng.php 3 -
+/wp-admin/css/colors/ocean/index.php 1 -
+/wp-includes/blocks/columns/index.php 1 -
+/wp-login.php 3 https://www.google.com
+/index.php 6 bulgarialottery.org
+/wp-admin/a2.php 1 bulgarialottery.org
+/phpmyadmin/index.php 5 -
+/wp-content/themes/lottery_victoriapeak/readme.txt 2 -
+/wp-includes/IXR/index.php 1 -
+/wp-json/wp/v2/users/2 3 https://bulgarialottery.org/
+/wp-admin/network/cloud.php 2 -
+/dist/js/bootstrap.bundle.min.js 2 -
+/api.php 1 -
+/wp-include/auto_seo.php 1 -
+/xmlrpc.php 1 -
+/wp-admin/css/colors/xmrlpc.php 2 -
+/wp-admin/includes/.includes.php 1 bulgarialottery.org
+/wp-includes/blocks/query-pagination-previous/index.php 1 -
+/wp-includes/css/dist/components/index.php 1 -
+/wp-includes/index.php 1 -
+//wordpress/wp-includes/wlwmanifest.xml 5 -
+/wp-includes/blocks/embed/index.php 1 -
+/wp-content/plugins/background-image-cropper/ 1 http://www.google.com
+/wsoyanz.php 2 -
+/wp-includes/blocks/post-date/index.php 1 -
+/wp-content/gallery/about.php 2 -
+/wp-content/themes/twenty/twenty.php 6 http://bulgarialottery.org//wp-content/themes/twenty/twenty.php
+//cms/wp-includes/wlwmanifest.xml 5 -
+/.well-known/index.php 1 -
+/class.api.php 8 http://bulgarialottery.org//class.api.php
+/wp-content/inputs.php 2 -
+//cdn.js 2 -
+/upfile.php 1 bulgarialottery.org
+/wp-content/uploads/ 6 http://bulgarialottery.org//wp-content/uploads/
+/wp-content/plugins/seoo/wsoyanz.php 2 -
+/wp-includes/blocks/column/index.php 1 -
+/.vscode/sftp.json 1 -
+/wp-aa.php 1 www.google.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 228
+200.94.118.98 14 14 127183 20240427151842
+35.171.144.152 13 13 669071 20240425005321
+192.95.30.227 11 11 108948 20240425023854
+77.68.6.242 9 9 89154 20240411083037
+82.223.15.74 7 7 69370 20240401163004
+192.95.31.35 7 7 69300 20240403191431
+182.2.136.92 7 7 32031 20240401184409
+149.56.160.144 6 6 695241 20240407000347
+128.90.170.38 6 6 59410 20240418190945
+43.134.190.89 4 4 39599 20240409084159
+154.51.140.185 4 4 50637 20240404093541
+146.70.165.229 4 4 32023 20240418085050
+103.148.25.40 4 4 24419 20240415164634
+69.160.160.61 4 4 48346 20240417184623
+181.177.123.224 4 4 50637 20240404052529
+42.83.147.53 4 4 39618 20240429193539
+152.32.153.245 4 4 81212 20240423050133
+54.88.179.33 4 4 205868 20240425005320
+43.155.152.154 3 3 29729 20240424193601
+137.226.113.44 3 3 29699 20240426131507
+175.6.217.4 3 3 29703 20240425072039
+138.68.180.18 3 3 40745 20240422165552
+43.135.149.154 3 3 29709 20240413120132
+185.220.100.251 2 2 19819 20240423165144
+170.106.171.77 2 2 19806 20240427172140
+91.92.244.231 1 1 9902 20240426235627
+199.45.155.37 1 1 9904 20240418090713
+103.189.123.8 1 1 7512 20240415164549
+91.92.240.74 1 1 769 20240429230217
+121.229.185.160 1 1 9905 20240419210514
+54.183.112.208 1 1 9902 20240427010214
+212.21.66.6 1 1 9900 20240404020654
+77.246.102.95 1 1 51467 20240417173705
+93.158.91.29 1 1 9906 20240425084743
+199.244.88.232 1 1 9894 20240416225127
+43.153.216.189 1 1 9894 20240405151252
+68.183.44.92 1 1 9904 20240408104433
+154.90.48.145 1 1 51467 20240409171334
+179.43.159.78 1 1 9901 20240410003806
+91.92.246.109 1 1 51467 20240417053935
+35.92.206.184 2 2 19808 20240408073532
+192.42.116.220 1 1 9898 20240407093318
+103.164.81.98 2 2 19788 20240405082900
+46.246.122.181 1 1 51467 20240427043812
+156.146.56.133 1 1 9907 20240416080708
+43.134.170.46 1 1 9900 20240404151803
+43.163.1.85 1 1 9904 20240402153244
+43.163.8.36 1 1 9905 20240412162303
+116.206.15.48 1 1 7613 20240426190641
+167.99.221.61 1 1 9906 20240403024251
+203.161.32.78 1 1 9894 20240430002616
+206.168.34.36 2 2 19806 20240412133110
+27.115.124.114 1 1 51467 20240405031311
+77.238.237.38 1 1 51467 20240417184517
+43.155.166.202 2 2 19802 20240426064338
+185.107.56.227 1 1 51467 20240402023829
+158.220.80.94 2 2 19806 20240421165744
+91.92.246.82 1 1 51467 20240414173047
+146.190.63.62 1 1 9901 20240410090014
+51.195.91.124 1 1 9901 20240410003820
+62.141.44.236 1 1 9894 20240405122451
+130.255.166.24 1 1 9896 20240414040004
+124.156.193.7 1 1 9904 20240402151223
+144.217.135.162 1 1 7613 20240407000413
+91.92.249.173 2 2 102934 20240403090210
+46.101.75.127 1 1 9900 20240404052430
+40.119.193.220 1 1 9893 20240423231707
+98.46.202.140 1 1 9291 20240413021042
+170.64.209.5 1 1 9910 20240401024308
+138.197.121.47 1 1 9905 20240420085451
+138.68.139.174 1 1 9908 20240422085308
+185.220.100.254 1 1 9901 20240410003816
+167.94.138.50 1 1 9903 20240405222219
+51.158.180.218 1 1 9915 20240423075955
+34.214.114.81 2 2 19806 20240406082047
+43.155.160.173 1 1 9902 20240427054816
+103.18.232.81 1 1 7610 20240418160517
+106.75.98.60 1 1 9904 20240428002351
+114.79.4.184 1 1 7615 20240413160805
+103.20.82.155 1 1 9906 20240411080823
+43.163.6.35 1 1 9903 20240405211606
+51.222.98.70 2 2 19804 20240419032212
+146.190.59.5 1 1 9893 20240424082042
+34.222.221.164 1 1 9900 20240404065646
+91.92.242.243 1 1 7614 20240411223416
+43.159.129.209 1 1 9896 20240413220048
+185.241.208.204 1 1 9901 20240410003817
+199.45.155.23 1 1 9905 20240412100011
+43.159.128.68 2 2 19798 20240406232726
+52.81.208.114 1 1 9908 20240422034448
+31.220.87.46 1 1 9901 20240410003812
+106.119.167.146 1 1 9900 20240404134420
+114.142.172.17 1 1 7616 20240415123840
+43.130.31.48 1 1 9898 20240407180035
+176.9.18.134 1 1 9915 20240423061658
+114.122.100.125 1 1 7615 20240417155535
+23.95.23.40 2 2 19800 20240404123659
+117.33.163.216 1 1 9904 20240428042723
+5.133.192.166 1 1 9904 20240413174321
+192.42.116.199 1 1 9901 20240410003818
+114.5.147.167 1 1 7615 20240416212956
+170.106.159.160 1 1 9904 20240402114337
+43.153.110.177 1 1 9903 20240406152740
+51.68.127.83 2 2 19816 20240422174157
+54.254.162.138 1 1 7617 20240414163708
+187.79.81.149 1 1 51467 20240404180703
+104.236.70.138 1 1 9907 20240416094353
+134.122.33.200 1 1 9904 20240428082006
+45.154.35.82 1 1 51467 20240409160437
+94.16.121.91 1 1 9900 20240404020653
+223.15.245.170 1 1 9901 20240429135322
+111.90.185.121 1 1 9905 20240412064313
+93.158.91.237 1 1 9894 20240430034808
+170.106.104.42 2 2 19806 20240419010007
+128.90.174.12 1 1 9905 20240420021724
+195.90.221.76 1 1 9908 20240422162057
+206.168.34.181 1 1 9908 20240422172412
+87.236.176.19 1 1 9908 20240422040347
+129.226.147.7 1 1 9808 20240402152541
+43.163.8.148 1 1 9903 20240406114305
+109.201.133.100 1 1 9904 20240402052759
+179.43.191.18 1 1 9906 20240425105235
+137.184.172.237 1 1 9894 20240417004640
+49.7.227.204 1 1 9905 20240425184806
+43.130.47.136 1 1 9906 20240403114532
+43.133.38.182 1 1 9905 20240420080711
+5.188.62.174 2 2 19802 20240409081525
+158.69.247.77 1 1 9901 20240409105159
+135.148.195.12 1 1 9904 20240402160607
+161.35.38.78 1 1 9904 20240418073804
+111.172.249.49 2 2 19809 20240406045306
+3.236.7.62 1 1 9904 20240412234202
+52.80.18.29 1 1 9904 20240428012519
+128.90.170.27 1 1 9897 20240414191447
+52.81.17.164 1 1 9900 20240419155818
+182.44.2.148 1 1 9906 20240411095729
+192.46.227.185 1 1 9900 20240404020647
+54.190.152.135 1 1 51467 20240410211315
+36.133.35.23 1 1 9900 20240404043220
+199.45.154.70 1 1 9904 20240418005839
+203.2.64.59 1 1 9903 20240421051208
+154.223.17.210 1 1 9903 20240421153622
+87.236.176.2 1 1 9905 20240420023903
+45.55.112.20 1 1 9910 20240401182914
+43.128.100.206 1 1 9904 20240401225618
+199.45.155.39 1 1 9901 20240409225835
+18.197.97.14 1 1 9901 20240408224829
+178.254.24.91 1 1 9904 20240413171525
+107.173.200.26 1 1 7618 20240404093530
+45.141.215.21 1 1 9900 20240404020640
+143.110.200.8 1 1 9904 20240413021107
+162.142.125.14 1 1 9898 20240407112540
+27.115.124.40 1 1 9894 20240405031544
+43.130.7.211 2 2 19794 20240430130909
+91.92.254.43 1 1 51467 20240417063700
+157.245.113.5 1 1 9905 20240412081711
+57.128.29.253 1 1 9905 20240411202408
+185.220.101.47 2 2 19830 20240423165157
+43.134.89.111 2 2 19797 20240428160232
+185.241.208.236 1 1 9898 20240407093320
+64.227.177.26 1 1 9894 20240430103000
+45.80.158.96 1 1 9898 20240406193055
+36.41.75.167 1 1 9898 20240406232656
+46.19.138.210 2 2 19820 20240401125115
+58.49.233.126 2 2 19804 20240430021610
+43.130.37.62 2 2 19792 20240417082830
+43.163.0.99 1 1 9906 20240402231307
+5.35.32.125 1 1 51467 20240429174717
+34.140.26.225 1 1 9894 20240416205926
+192.42.116.175 1 1 9915 20240423165150
+144.126.202.223 1 1 9910 20240401044017
+113.141.91.58 1 1 9903 20240421153744
+5.133.192.171 1 1 9904 20240402024208
+43.130.62.164 2 2 19797 20240405231939
+158.220.80.104 1 1 9906 20240425142450
+199.45.155.27 1 1 9893 20240424144927
+5.133.192.128 1 1 9904 20240407221932
+188.166.46.194 1 1 9904 20240402083132
+129.226.158.26 1 1 9894 20240405182053
+77.246.105.178 1 1 51467 20240417103239
+42.83.147.56 2 2 19802 20240410062459
+49.51.206.130 2 2 19794 20240429025813
+173.249.57.253 1 1 9904 20240402052758
+45.83.220.210 1 1 9904 20240427230625
+45.138.16.251 1 1 769 20240409133644
+34.212.153.205 1 1 9900 20240404065642
+129.226.146.179 2 2 19807 20240410045002
+107.175.159.5 1 1 9901 20240410001821
+124.225.164.130 1 1 9904 20240408131527
+68.183.196.97 1 1 9903 20240406092553
+15.204.194.30 2 2 19826 20240430193702
+36.99.136.129 2 2 19790 20240430170143
+43.134.66.205 2 2 19801 20240407113920
+36.134.147.75 2 2 19801 20240415035233
+43.128.100.220 1 1 9906 20240403082819
+199.45.155.17 1 1 9904 20240418085040
+168.119.64.222 1 1 9897 20240414210312
+42.83.147.34 1 1 9894 20240416195231
+43.128.110.17 1 1 9904 20240401211029
+138.197.41.126 1 1 9904 20240418093713
+199.45.154.61 1 1 9908 20240422115359
+135.148.195.7 1 1 9893 20240423225153
+178.18.15.20 1 1 51467 20240418125749
+87.236.176.68 1 1 9908 20240422025438
+36.99.136.128 1 1 9896 20240414160207
+208.80.194.41 1 1 51467 20240404012054
+45.138.16.178 1 1 769 20240403130831
+43.163.3.58 2 2 30936 20240416002950
+43.131.249.153 1 1 9908 20240422020529
+54.176.25.117 1 1 9905 20240419231122
+181.177.116.225 1 1 7618 20240404052524
+128.90.174.26 1 1 9902 20240427020709
+52.80.71.82 1 1 9901 20240410124342
+5.133.192.88 1 1 9900 20240419131106
+192.36.109.129 1 1 9900 20240419172426
+36.133.172.82 1 1 9894 20240405000052
+37.120.166.23 1 1 9898 20240407093337
+150.109.16.20 1 1 9906 20240411004711
+217.114.43.253 1 1 9904 20240402061253
+36.99.136.137 1 1 9894 20240430170142
+128.90.141.40 2 2 19806 20240406061248
+43.155.138.79 1 1 9910 20240401114355
+159.203.35.237 1 1 9905 20240426105333
+199.45.154.71 1 1 9903 20240406023158
+87.236.176.242 1 1 9905 20240420114356
+118.69.175.73 1 1 51467 20240417175526
+64.227.153.96 1 1 9896 20240414091927
+167.71.106.75 1 1 9900 20240404091046
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240401 25 25 210393 13
+20240402 15 15 201156 15
+20240403 17 17 242333 10
+20240404 28 28 377832 21
+20240405 16 16 324623 14
+20240406 14 14 138622 13
+20240407 14 14 772146 9
+20240408 14 14 138653 5
+20240409 10 10 173010 9
+20240410 13 13 170279 12
+20240411 14 14 136391 6
+20240412 9 9 172268 9
+20240413 11 11 230723 9
+20240414 11 11 148150 11
+20240415 8 8 59341 5
+20240416 10 10 96739 10
+20240417 17 17 548856 12
+20240418 14 14 170328 11
+20240419 9 9 89115 9
+20240420 5 5 49525 5
+20240421 5 5 49515 5
+20240422 14 14 149733 11
+20240423 15 15 190211 11
+20240424 7 7 193986 7
+20240425 10 10 223742 8
+20240426 5 5 47230 5
+20240427 20 20 228162 7
+20240428 5 5 49520 5
+20240429 5 5 81932 5
+20240430 8 8 79177 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+0s-30s 275
+30s-2mn 2
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 344 5030614 273 269
+/live-draw/ 11 130522 2 4
+/history-result/ 10 580248 2 4
+/.well-known/ 3 2307 3 3
+END_SIDER

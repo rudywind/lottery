@@ -1,0 +1,535 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202409 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/awstats.chilelottery.net.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2040                
+POS_TIME 2706                
+POS_VISITOR 13858               
+POS_DAY 15230               
+POS_DOMAIN 3373                
+POS_LOGIN 3717                
+POS_ROBOT 3872                
+POS_WORMS 4387                
+POS_EMAILSENDER 4518                
+POS_EMAILRECEIVER 4661                
+POS_SESSION 15400               
+POS_SIDER 15547               
+POS_FILETYPES 4796                
+POS_DOWNLOADS 4879                
+POS_OS 4927                
+POS_BROWSER 5179                
+POS_SCREENSIZE 5710                
+POS_UNKNOWNREFERER 5784                
+POS_UNKNOWNREFERERBROWSER 5947                
+POS_ORIGIN 6105                
+POS_SEREFERRALS 6237                
+POS_PAGEREFS 6400                
+POS_SEARCHWORDS 6548                
+POS_KEYWORDS 6700                
+POS_MISC 2370                
+POS_ERRORS 6759                
+POS_CLUSTER 3573                
+POS_SIDER_404 6850                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240905073720 80 16382 15424539523555
+FirstTime 0
+LastTime 20240905073720
+LastUpdate 20240905084029 80 0 80 0 0
+TotalVisits 33                  
+TotalUnique 33                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 33                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 55338 18 21 39462
+1 1 1 9884 228 230 331937
+2 5 5 156133 8 9 17845
+3 2 2 19754 9 16 20016
+4 1 1 9879 1 1 1997102
+5 0 0 0 5 6 51697
+6 0 0 0 15 16 64207
+7 1 1 9867 1 1 1251
+8 3 3 29621 10 10 12510
+9 1 1 9867 6 7 8757
+10 4 4 39508 11 11 66582
+11 2 2 90920 12 16 39783
+12 2 2 19768 3 3 3753
+13 1 1 9877 0 1 1251
+14 1 1 9877 14 14 17514
+15 3 3 29621 3 6 14101
+16 0 0 0 15 17 74098
+17 10 10 167152 2 4 13630
+18 4 4 39508 1 1 1251
+19 1 1 9884 1 2 11135
+20 0 0 0 1 1 1251
+21 0 0 0 17 17 21267
+22 2 2 19756 3 5 57055
+23 5 5 227270 11 11 20353
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 18 18 426834
+cn 8 8 79032
+il 6 6 127644
+gb 5 5 84964
+ru 5 5 49392
+jp 4 4 39500
+bg 2 2 90920
+de 1 1 9877
+nl 1 1 45454
+se 1 1 9867
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+AhrefsBot/ 7 54892 20240904112232 0
+DotBot/ 3 2088000 20240902222026 0
+facebookexternalhit/ 3 136356 20240905055602 0
+MJ12bot/ 1 7843 20240903004609 0
+bingbot/ 1 7850 20240905000007 0
+Go\-http\-client/ 1 9877 20240904170933 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 9867 20240901104801 0
+Barkrowler 1 9877 20240904163330 0
+Applebot/ 1 9884 20240903193449 0
+survey 1 45456 20240903105010 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 51 963484 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+android 1 1
+androidkitkat 1 1
+macosx8 2 2
+Unknown 8 8
+macosx15 1 1
+macosx 1 1
+win7 4 4
+win8.1 1 1
+macosx7 1 1
+linuxubuntu 2 2
+androidnougat 2 2
+win10 14 14
+ios_iphone 12 12
+macosx11 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 25
+msie10.0 2 2
+android 1 1
+chrome51.0.2737.94 1 1
+chrome80.0.3987.149 5 5
+safari6.1 1 1
+chrome91.0.4472.114 1 1
+firefox57.0 1 1
+chrome96.0.4664.110 1 1
+safari 1 1
+chrome74.0.3729.169 1 1
+firefox114.0 1 1
+chrome60.0.3112.107 2 2
+firefox50.0 1 1
+chrome126.0.0.0 3 3
+safari5.0.2 1 1
+chrome127.0.6533.103 1 1
+firefox108.0 2 2
+firefox26.0 2 2
+Unknown 8 8
+safari13.0.3 10 10
+chrome106.0.0.0 1 1
+chrome31.0.1650.63 1 1
+chrome83.0.4103.116 1 1
+chrome32.0.1700.72 1 1
+chrome87.0.4280.88 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+python-requests/2.26.0 20240903012206
+python-requests/2.31.0 20240904182832
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+python-requests/2.31.0 20240904182832
+python-requests/2.26.0 20240903012206
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 46 46
+From1 0 0
+From2 1 1
+From3 0 0
+From4 4 4
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 406 507906
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 209
+/wp.php 3 -
+/wp-includes/style-engine/about.php 2 -
+/wordpress/wp-admin/install.php 1 -
+/wp-admin/js/widgets/about.php7 2 -
+/wp-content/themes/seotheme/mar.php 2 -
+/wp-content/plugins/Cache/Cache.php 2 -
+/wp-admin/images/index.php 2 -
+/about.php7 2 -
+/wp-includes/repeater.php 2 -
+/.well-known/acme-challenge/cloud.php 4 -
+/wp-admin/xmrlpc.php 2 -
+/wp-admin/images/xmrlpc.php 2 -
+/css/xmrlpc.php 2 -
+/wp-content/themes/twentyeleven/functions.php 2 -
+/cgi-bin/xmrlpc.php 2 -
+/wp-includes/pomo/index.php 1 -
+/ajax-actions.php 2 -
+/.env 8 -
+/wp-content/themes/pridmag/db.php 2 -
+/.aws/credentials 1 -
+/link.php 1 -
+/wp-includes/SimplePie/about.php 2 -
+/test/wp-admin/install.php 1 -
+/wp-content/themes/twentytwenty/functions.php 2 -
+/cms/wp-admin/install.php 2 -
+/wp-admin/css/about.php 2 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/images/about.php 2 -
+/libraries/vendor/updates.php 2 -
+/.well-known/pki-validation/about.php 2 -
+/wp-includes/Text/about.php 2 -
+/backup/wp-admin/install.php 1 -
+/wp-admin/css/colors/coffee/xmrlpc.php 2 -
+/options.php 1 -
+/.env.dev 1 -
+/cong.php 1 -
+/wp-content/updates.php 2 -
+/wp-admin/ajax-actions.php 2 -
+/repeater.php 2 -
+/wordpress/xmlrpc.php 1 -
+/.well-known/acme-challenge/xmrlpc.php 2 -
+/wp-content/plugins/seoo/wsoyanz1.php 2 -
+/wp-includes/css/buttons.css 1 -
+/wp-admin/js/about.php 4 -
+/wp-includes/images/about.php 2 -
+/xmlrpc.php 3 -
+/wp-content/languages/about.php 2 -
+/plugins/content/apismtp/apismtp.php.suspected 1 -
+/wp-content/plugins/apikey/apikey.php.suspected 1 -
+/avaa.php 2 -
+/epinyins.php 1 www.google.com
+/new/wp-admin/install.php 2 -
+/wp-includes/blocks/about.php 2 -
+/wp-includes/sodium_compat/index.php 1 -
+/chosen.php 2 -
+/wp-admin/maint/maint/ajax-actions.php 2 -
+/wp-admin/dropdown.php 2 -
+/wp-content/plugins/seoo/wsoyanz.php 2 -
+/wsoyanz.php 2 -
+/wp-plain.php 1 www.google.com
+/site/wp-admin/install.php 1 -
+/wp-admin/includes/about.php 2 -
+/wp-content/index.php 2 -
+/static/admin/login.html 2 http://chilelottery.net/static/admin/login.html
+/images/cloud.php 2 -
+/bless.php 1 -
+/wp-admin/options.php 1 -
+/img/cloud.php 2 -
+/wp-includes/pomo/about.php 2 -
+/wp-admin/css/colors/blue/cloud.php 2 -
+/wp-includes/ID3/about.php 2 -
+/wp-includes/ID3/ 1 -
+/wp-content/plugins/seoplugins/mar.php 2 -
+/wp-content/plugins/admin.php 3 -
+/.well-known/pki-validation/xmrlpc.php 2 -
+/mah.php 1 -
+/style.php 1 -
+/wp/xmlrpc.php 1 -
+/wp-content/plugins/fix/up.php 1 -
+/wp-content/themes/about.php 2 -
+/jnsircpo.php 1 www.google.com
+/login 1 -
+/wp-includes/ 2 -
+/classwithtostring.php 2 -
+/wp-content/themes/kadence/functions.php 2 -
+/updates.php 2 -
+/wp-admin/repeater.php 2 -
+/wp-content/repeater.php 2 -
+/libraries/phpmailer/updates.php 2 -
+/wp-admin/cloud.php 2 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/wp-includes/block-patterns/about.php 2 -
+/wp-checkbex.php 1 -
+/wp-includes/rest-api/about.php 2 -
+/wp-admin/includes/xmrlpc.php 2 -
+/sendgrid.env 1 -
+/wp-admin/css/index.php 2 -
+/users.php 1 -
+/.aws/config 1 -
+/old/wp-admin/install.php 2 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/wp-includes/certificates/index.php 1 -
+/wp-content/gallery/about.php 2 -
+/radio.php 1 -
+/css/cloud.php 2 -
+/wp-head.php 2 -
+/cache-compat.php 2 -
+/wp-admin/images/about.php 2 -
+/index.php 3 -
+/xmrlpc.php 2 -
+/%E3%80%90%E5%8F%AF%E7%9C%8B%E3%80%91%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E8%AF%B4%E6%98%8E.txt 2 http://chilelottery.net/%E3%80%90%E5%8F%AF%E7%9C%8B%E3%80%91%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E8%AF%B4%E6%98%8E.txt
+/api/index.php/v1/config/application 1 -
+/wp-content/banners/about.php 2 -
+/alfanew.php7 2 -
+/wp-add.php 2 www.google.com
+/img/about.php 2 -
+/wp-content/themes/travel/issue.php 1 www.google.com
+/.env.prod 1 -
+/wp-json/oembed/1.0/embed 1 -
+/wp-includes/Requests/about.php 2 -
+/css/index.php 1 -
+/wp-admin/includes/cloud.php 2 -
+/cloud.php 2 -
+/alfanew.php 3 -
+/wp-content/about.php 4 -
+/wp-content/plugins/wc-multivendor-marketplace/readme.txt 1 -
+/wp-admin/css/colors/index.php 2 -
+/wp-content/updraft/about.php 2 -
+/simple.php 3 -
+/cgi-bin/about.php 2 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/wp-content/themes/seotheme/db.php 3 -
+/%E2%96%93%D1%85%E2%95%9D%E2%96%A0%E2%94%90%D0%BA%E2%95%96%D0%B2%E2%95%A6%E2%95%A1%E2%94%9C%D1%9E.txt 2 http://chilelottery.net/%E2%96%93%D1%85%E2%95%9D%E2%96%A0%E2%94%90%D0%BA%E2%95%96%D0%B2%E2%95%A6%E2%95%A1%E2%94%9C%D1%9E.txt
+/libraries/legacy/updates.php 2 -
+/wp-aa.php 1 -
+/admin/ 1 -
+/wp-admin/setup-config.php 1 -
+/robots.txt 22 -
+/wp-content/themes/index.php 1 -
+/.well-known/about.php 2 -
+/wp-admin/css/colors/coffee/cloud.php 2 -
+/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/css/colors/xmrlpc.php 2 -
+/wp-header.php 1 -
+/wp-atom.php 1 -
+/wp-content/themes/twentythirteen/functions.php 2 -
+/alfanew2.php7 2 -
+/wp-admin/user/xmrlpc.php 2 -
+/wordpress 1 -
+/img/xmrlpc.php 2 -
+/oldsite/wp-admin/install.php 2 -
+/wp-content/plugins/index.php 1 -
+/wp-content/plugins/wpcall-button/button-image.php 1 -
+/wp-includes/IXR/about.php 2 -
+/%E3%80%90%E5%BF%85%E7%9C%8B%E3%80%91%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.txt 2 http://chilelottery.net/%E3%80%90%E5%BF%85%E7%9C%8B%E3%80%91%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.txt
+/wp-admin/js/widgets/cloud.php 2 -
+/wp/wp-admin/install.php 2 -
+/wp-p.php7 2 -
+//wp-content/plugins/fix/up.php 2 -
+/wp-admin/network/xmrlpc.php 2 -
+/images/xmrlpc.php 2 -
+/cgi-bin/cloud.php 2 -
+/wp-admin/css/colors/cloud.php 2 -
+/wp-includes/Requests/Text/admin.php 2 -
+/wp-admin/network/cloud.php 2 -
+/wp-admin/maint/index.php 1 -
+/wp-includes/widgets/about.php 2 -
+/wp-includes/assets/index.php 1 -
+/wp-admin/user/cloud.php 2 -
+/wp-content/themes/travelscape/json.php 1 www.google.com
+/alfa-rex.php 1 -
+/appsettings.json 1 -
+/ws.php7 2 -
+/wp-content/themes/oceanwp/functions.php 2 -
+/wp-content/plugins/about.php 3 -
+/yanz.php 2 -
+/wp-admin/images/cloud.php 2 -
+/plugins/content/apismtp/apismtp.php 1 -
+/dropdown.php 4 -
+/hoot.php 3 -
+/wp-content/upgrade-temp-backup/about.php 2 -
+/wp-admin/css/colors/blue/xmrlpc.php 2 -
+/wp-json/wp/v2/users/ 1 -
+/adminfuns.php7 2 -
+/media/system/js/core.js 1 -
+/admin.php 6 -
+/blog/wp-admin/install.php 1 -
+/wp-content/plugins/linkpreview/db.php 2 -
+/wp-includes/about.php 2 -
+/admin-post.php 2 -
+/wp-login.php 2 -
+/alfa-rex2.php7 2 -
+/about.php 7 -
+/wp-consar.php 2 -
+/wp-content/db-cache.php 2 -
+/wp-content/plugins/seoplugins/db.php 2 -
+/wp-content/blogs.dir/about.php 2 -
+/tanzhen.php 2 http://chilelottery.net/tanzhen.php
+/wp-admin/js/widgets/xmrlpc.php 2 -
+/edit.php 1 -
+/web/wp-admin/install.php 1 -
+/wp-admin/install.php 3 -
+/alfa-rex.php7 2 -
+/wp-includes.bak/html-api/about.php 2 -
+/wp-includes/customize/about.php 2 -
+/.well-known/pki-validation/cloud.php 2 -
+/wp-config.php.backup 1 -
+/404.php 1 -
+/ebs.php7 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 33
+82.80.249.194 5 5 117760 20240903175006
+152.42.233.59 5 5 227270 20240901234019
+141.95.12.235 4 4 39508 20240904182832
+94.141.120.165 4 4 39508 20240904103741
+63.250.38.57 2 2 90916 20240905025559
+38.154.171.191 2 2 19754 20240902172131
+123.160.223.74 2 2 19754 20240904170819
+94.156.66.165 2 2 90920 20240904110044
+43.134.37.211 1 1 9879 20240905045034
+170.106.104.42 1 1 9884 20240903123033
+159.223.13.130 1 1 9877 20240904145727
+209.38.110.68 1 1 9877 20240902150134
+49.51.179.103 1 1 9877 20240904135843
+42.83.147.53 1 1 9877 20240904083750
+43.130.32.245 1 1 9877 20240902033021
+82.80.249.235 1 1 9884 20240903174937
+135.148.195.1 1 1 9867 20240901095725
+154.26.139.77 1 1 9867 20240905073720 20240905073720 /live-draw/
+193.37.32.157 1 1 45456 20240903022911
+117.33.163.216 1 1 9884 20240903001435
+205.169.39.26 1 1 9884 20240902195339
+206.189.3.130 1 1 9884 20240903021913
+49.51.243.156 1 1 9879 20240904225610
+117.62.235.53 1 1 9877 20240901222924
+128.90.170.14 1 1 9877 20240902080129
+43.130.47.136 1 1 9867 20240901083306
+192.36.109.89 1 1 9867 20240901153735
+192.42.116.211 1 1 45454 20240902003336
+49.51.233.46 1 1 9884 20240903121811
+128.90.174.19 1 1 9877 20240902020051
+43.155.160.173 1 1 9877 20240904032947
+195.90.221.76 1 1 9877 20240902155159
+94.228.169.182 1 1 9884 20240903012206
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20240901 9 9 266748 5
+20240902 9 9 124477 8
+20240903 12 12 222520 8
+20240904 17 17 239077 9
+20240905 4 4 110662 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 32
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 47 855625 32 31
+/live-draw/ 2 19734 1 0
+// 1 9884 0 1
+/history-result/ 1 78241 0 0
+END_SIDER

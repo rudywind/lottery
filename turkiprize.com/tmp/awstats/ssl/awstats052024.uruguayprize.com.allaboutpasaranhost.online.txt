@@ -1,0 +1,1521 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202405 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.uruguayprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2044                
+POS_TIME 2721                
+POS_VISITOR 38744               
+POS_DAY 49933               
+POS_DOMAIN 3532                
+POS_LOGIN 4197                
+POS_ROBOT 4352                
+POS_WORMS 5096                
+POS_EMAILSENDER 5227                
+POS_EMAILRECEIVER 5370                
+POS_SESSION 50733               
+POS_SIDER 50891               
+POS_FILETYPES 5505                
+POS_DOWNLOADS 5590                
+POS_OS 5638                
+POS_BROWSER 6006                
+POS_SCREENSIZE 7885                
+POS_UNKNOWNREFERER 7959                
+POS_UNKNOWNREFERERBROWSER 8943                
+POS_ORIGIN 9563                
+POS_SEREFERRALS 9703                
+POS_PAGEREFS 9920                
+POS_SEARCHWORDS 10121               
+POS_KEYWORDS 10273               
+POS_MISC 2385                
+POS_ERRORS 10332               
+POS_CLUSTER 4053                
+POS_SIDER_404 10438               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240601015616 37 7656 5832943523156
+FirstTime 20240501062736
+LastTime 20240531203545
+LastUpdate 20240601080848 37 0 36 0 0
+TotalVisits 335                 
+TotalUnique 285                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 285                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 25 25 463531 292 305 536496
+1 20 20 1225656 165 174 295526
+2 9 9 127885 41 47 153199
+3 15 15 222388 24 28 85431
+4 18 18 348240 33 40 166717
+5 45 45 1650465 57 69 252833
+6 24 24 247400 26 33 157863
+7 13 13 174933 56 60 154228
+8 16 16 151595 207 212 337432
+9 15 15 218003 35 47 140244
+10 24 24 476147 30 35 135123
+11 25 25 524465 21 30 36279
+12 16 16 293904 41 46 64180
+13 14 14 141203 251 257 388045
+14 8 8 83225 32 51 1047177
+15 20 20 290388 26 46 170204
+16 29 29 269280 291 307 446805
+17 12 12 193352 462 468 652080
+18 11 11 139936 17 27 120196
+19 12 12 159062 36 42 99344
+20 7 7 92306 17 24 62618
+21 8 8 83171 63 65 84243
+22 13 13 238019 80 86 230660
+23 11 11 285844 23 29 135362
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 32
+us 157 157 3365020
+cn 53 53 551067
+jp 39 39 405502
+id 20 20 162066
+gb 15 15 1045249
+bg 15 15 636072
+nl 13 13 135172
+ru 13 13 169467
+ca 13 13 512387
+de 12 12 139871
+se 11 11 114361
+lt 8 8 77726
+pl 8 8 124416
+in 5 5 43250
+ro 4 4 178764
+mu 3 3 134073
+ge 2 2 10397
+be 2 2 20800
+br 2 2 89381
+au 2 2 24594
+kh 2 2 18610
+eu 1 1 10395
+sc 1 1 44692
+es 1 1 10394
+ph 1 1 8216
+zz 1 1 10402
+ir 1 1 10429
+bh 1 1 8211
+hk 1 1 10404
+za 1 1 8215
+lv 1 1 10396
+eg 1 1 10399
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+bingbot/ 51 491825 20240528232541 0
+AhrefsBot/ 23 221134 20240530074646 0
+Googlebot/ 20 164275 20240529184324 0
+no_user_agent 19 849125 20240531041615 0
+(firefox/)([0-9]\.|[0-1][0]\.) 13 135170 20240531214349 0
+bot[\s_+:,\.\;\/\\-] 6 62383 20240518153238 0
+crawl 4 38862 20240515073446 0
+survey 4 178761 20240531144418 0
+SemrushBot/ 4 67342 20240528020242 0
+nbot 3 56942 20240507224913 0
+nutch 3 8212 20240508041905 0
+Applebot/ 2 20799 20240531004132 0
+CCBot/ 2 22436 20240523195652 0
+MJ12bot/ 1 8215 20240512092859 0
+baidu 1 10402 20240526152050 0
+DotBot/ 1 796837 20240502144413 0
+yandex 1 0 20240520042105 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 410 8100398 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 22
+win7 13 13
+ios_iphone 65 65
+androidoreo 2 2
+linuxubuntu 4 4
+macosx12 1 1
+androidmarshmallow 1 1
+androidnougat 9 9
+winlong 1 1
+macosx15 45 45
+win8.1 2 2
+win10 122 122
+winnt 2 2
+linux 29 29
+macosx6 2 2
+macosx14 2 2
+winxp 3 3
+macosx 5 5
+android 11 11
+android10 28 28
+Unknown 61 61
+macosx9 1 1
+win2000 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 92
+chrome89.0.4389.82 1 1
+chrome83.0.4103.106 1 1
+chrome83.0.4103.97 10 10
+chrome114.0.0.0 10 10
+firefox70.0 2 2
+chrome91.0.4472.114 4 4
+chrome124.0.0.0 24 24
+firefox58.0 1 1
+chrome105.0.0.0 8 8
+chrome78.0.1957.88 1 1
+chrome60.0.3112.113 4 4
+firefox54.0 1 1
+chrome74.0.3729.169 6 6
+firefox117.0 6 6
+edge18 1 1
+chrome86.0.1429 1 1
+chrome80.0.3987.162 1 1
+chrome66.0.1299 1 1
+chrome115.0.0.0 3 3
+safari16.6 2 2
+msie11.0 3 3
+chrome112.0.5615.136 1 1
+chrome50.0.797 1 1
+chrome75.0.3770.100 1 1
+firefox123 1 1
+chrome104.0.0.0 2 2
+chrome149.0.6774.157 1 1
+chrome117.0.0.0 8 8
+chrome99.0.3809.100 1 1
+opera77.0.2254.69831 3 3
+chrome125.0.0.0 8 8
+msie8.0 1 1
+chrome100.0.4896.60 10 10
+chrome108.0.0.0 1 1
+msie7.0 1 1
+msie10.0 1 1
+firefox123.0 1 1
+safari17.3.1 1 1
+chrome106.0.0.0 2 2
+opera65.0.3467.48 1 1
+chrome89.0.4389.114 4 4
+msie9.0 2 2
+firefox114.0 4 4
+chrome60.0.3112.107 8 8
+chrome112.0.0.0 2 2
+chrome110.0.0.0 3 3
+firefox118.0 3 3
+chrome122.0.0.0 4 4
+mozilla 22 22
+chrome120.0.0.0 2 2
+chrome78.0.3904.108 15 15
+safari12.1.1 1 1
+chrome88.0.4324.192 4 4
+chrome100.0.4896.127 2 2
+chrome123.0.0.0 1 1
+safari14.0 1 1
+safari 1 1
+chrome78.0.3196.88 1 1
+netscape5.0 6 6
+safari17.4 1 1
+firefox66.0 1 1
+firefox45.0 1 1
+chrome57.0.2987.133 1 1
+chrome90.0.4430.85 2 2
+firefox48.0 1 1
+chrome84.0.4147.135 1 1
+Unknown 35 35
+chrome51.0.2704.103 2 2
+firefox125.0 1 1
+chrome91.0.4472.88 2 2
+msie6.0 2 2
+chrome116.0.0.0 8 8
+chrome119.0.0.0 1 1
+chrome75.0.1195.88 1 1
+chrome103.0.0.0 1 1
+chrome121.0.0.0 23 23
+chrome80.0.3987.149 4 4
+firefox108.0 4 4
+chrome63.0.3239.84 1 1
+firefox63.0 2 2
+opera102.0.0.0 1 1
+chrome58.0.3029.110 3 3
+chrome88.0.4324.150 3 3
+chrome97.0.4280.67 7 7
+chrome103.0.5060.134 1 1
+chrome64.0.1067 1 1
+firefox104.0 1 1
+safari13.0.3 62 62
+chrome96.0.4664.110 7 7
+safari17.4.1 1 1
+chrome87.0.4280.88 4 4
+chrome66.0.3359.158 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+python-requests/2.24.0 20240509080728
+python-requests/2.26.0 20240531133412
+python-requests/2.27.1 20240529071344
+python-requests/2.31.0 20240517215357
+Embarcadero_URI_Client/1.0 20240509001518
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240511015539
+WhatsApp/2.23.20.0 20240505161822
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240530225616
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240530211640
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240530051801
+Mozilla/5.0_(compatible;_ips-agent) 20240501064740
+NetAPI_v1 20240510094246
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240527194615
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+python-requests/2.31.0 20240517215357
+Embarcadero_URI_Client/1.0 20240509001518
+NetAPI_v1 20240510094246
+python-requests/2.27.1 20240529071344
+python-requests/2.24.0 20240509080728
+python-requests/2.26.0 20240531133412
+WhatsApp/2.23.20.0 20240505161822
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240530225616
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 264 264
+From1 3 3
+From2 31 31
+From3 2 2
+From4 110 110
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+search_yahoo_com 1 1
+baidu 1 1
+www_google_com 27 27
+www_google_co_id 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://www.facebook.com 1 1
+https://onic-4d.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 21 26082
+404 2327 2793483
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 787
+/wp-limit-login.php 2 -
+/wp-content/plugins/index.php 2 -
+/phpmyadmin2020/index.php 1 -
+/phpMyAdmin-4.9.10-all-languages/index.php 1 -
+/wp-content/wp-cron.php 1 www.google.com
+//wp-json/wp/v2/users/ 6 -
+/phpmyadmin6/index.php 1 -
+/wp-content/themes/applica/400.php 1 www.google.com
+/wp-content/plugins/wordpress-sseo/all.php 1 -
+/phpMyAdmin-5.2.0/index.php 1 -
+/q.php 1 uruguayprize.com
+/wp-content/updraft/about.php 8 -
+/wp-admin/maint/radio.php 1 -
+/phpMyAdmin-5.2.0-all-languages/index.php 1 -
+/wp-includes/widgets/ 1 -
+/wp-includes/blocks/legacy-widget/index.php 2 -
+/_phpMyAdmin/index.php 1 -
+/wp-includes/Requests/Exception/HTTP/index.php 2 -
+/wp-admin/css/colors/cloud.php 8 -
+/admin/pma/index.php 1 -
+/img/about.php 8 -
+/wp-includes/SimplePie/Decode/HTML/index.php 2 -
+/db/phpmyadmin4/index.php 1 -
+/wp-admin/repeater.php 8 -
+/wp-includes/blocks/search/index.php 2 -
+/view-source: 3 -
+/wp-includes/wp-cron.php 1 www.google.com
+/db/dbadmin/index.php 1 -
+/wp-admin/index.php 2 -
+/wp-includes/rest-api/ 1 -
+/uninstall.php 2 -
+/phpMyAdmin-5.1.0/index.php 1 -
+/wp-content/plugins/wadidaw/all.php 1 -
+/wp-content/plugins/wp-term.php 1 https://www.google.com
+/WordPress 2 http://uruguayprize.com/WordPress
+/phpmyadmin2018/index.php 1 -
+/wp-includes/SimplePie/HTTP/index.php 2 -
+/yanz.php 8 -
+/wp-admin/css/lol.php 1 uruguayprize.com
+/adminfuns.php7 8 -
+/wp-includes/blocks/missing/index.php 2 -
+/phpMyAdmin-5/index.php 1 -
+/wp/ 2 -
+/wp-admin/network/index.php 2 -
+/new/ 2 -
+/OLD 2 http://uruguayprize.com/OLD
+/wp-content/plugins/startklar-elmentor-forms-extwidgets/readme.txt 2 www.google.com
+/wp-includes/pomo/about.php 8 -
+/wp-content/plugins/wordpres-googlepagespeed/all.php 1 -
+/wp-includes/js/ 1 -
+/archivarix.cms.php 1 https://uruguayprize.com/archivarix.cms.php
+/.well-known/acme-challenge/ 1 -
+/installer.php 1 -
+/index.php 10 -
+/hoot.php 1 -
+/wp-content/plugins/wordpres-wpps/all.php 1 -
+/wp-includes/blocks/post-content/index.php 2 -
+/wp-includes/css/dist/editor/index.php 2 -
+/blog 8 http://uruguayprize.com/blog
+/mysql/sqlmanager/index.php 1 -
+/wp-includes/PHPMailer/index.php 2 -
+/wp-includes/blocks/preformatted/index.php 2 -
+/wp-content/plugins/include.php 1 -
+/wp-admin/network/radio.php 1 -
+/wp-includes/blocks/shortcode/index.php 2 -
+//wp-json/oembed/1.0/embed 6 -
+/wp-content/themes/pridmag/db.php 8 -
+/login.php 3 -
+/wp-content/plugins/wordpress-jbsseo/all.php 1 -
+/wp-content/plugins/wordpres-yastsre/all.php 1 -
+/wp-includes/images/wlw/index.php 2 -
+/wp-admin/user/themes.php 1 uruguayprize.com
+/license.php 2 -
+/wp-admin/includes/xmrlpc.php 8 -
+/wp-admin/css/colors/coffee/index.php 3 www.google.com
+/wp-content/lol.php 1 uruguayprize.com
+/alfanew.php7 8 -
+/wp-content/plugins/wordpres-wpssc/all.php 1 -
+/css5.php 1 -
+/.DS_Store 3 -
+/wp-includes/ll.php 1 uruguayprize.com
+/www 2 http://uruguayprize.com/www
+/core 4 -
+//xmlrpc.php 12 -
+/wp-includes/Text/index.php 2 -
+/wp-includes/Requests/Auth/index.php 2 -
+/admin/controller/extension/extension/ 2 binance.com
+/cgi-bin/xmrlpc.php 8 -
+/wp-admin/images/xmrlpc.php 8 -
+/wp-admin/user/radio.php 1 -
+/wp-content/plugins/wordpres-wp3/all.php 1 -
+/css/cloud.php 8 -
+/db/phpMyAdmin-4/index.php 1 -
+/sellers.json 1 -
+/testing 4 -
+/libraries/phpmailer/updates.php 8 -
+/wp-content/plugins/woocommerce-simple-registration/readme.txt 1 -
+/sql/phpmyadmin5/index.php 1 -
+/cloud.php 8 -
+/wp-pluploads.php, 2 -
+/new 8 http://uruguayprize.com/new
+/phpMyAdmin1/index.php 1 -
+/admin/index.php 1 -
+/author/crander/ 1 -
+/wp-includes/css/dist/widgets/index.php 2 -
+/wp-includes/blocks/separator/index.php 2 -
+/wp-content/plugins/about.php 2 -
+/img/cloud.php 8 -
+/libraries/vendor/updates.php 8 -
+/alfa-rex.php7 9 www.google.com
+/wp-admin/css/colors/ocean/index.php 2 -
+/wp-includes/blocks/code/index.php 2 -
+/wp-content/plugins/catnip/all.php 1 -
+/wp-content/plugins/wordpress-seoa/all.php 1 -
+/wp-admin/inputs.php 1 www.google.com
+/html/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-admin/user/ 1 -
+/admin/phpmyadmin/index.php 1 -
+/mysqlmanager/index.php 1 -
+/wp-include/inputs.php 2 -
+/mysql-admin/index.php 1 -
+/wp-includes/js/mediaelement/renderers/index.php 2 -
+/phpMyadmin/index.php 1 -
+/site 2 http://uruguayprize.com/site
+/__phpmyadmin/index.php 1 -
+/.well-known/acme-challenge/cloud.php 16 -
+/wp-includes/js/tinymce/index.php 2 -
+/wp-plain.php 6 www.google.com
+/wp-includes/css/dist/customize-widgets/index.php 2 -
+/wp-admin/ll.php 1 uruguayprize.com
+/db/index.php 1 -
+/wp-includes/blocks/ 1 -
+/wp-content/themes/admin.php 1 -
+/wp-admin/maint/maint/ajax-actions.php 8 -
+/mysql/web/index.php 1 -
+/wp.php 1 -
+/author/stender/ 1 -
+/wp-content/plugins/contact-form-7/admin/css/styles-rtl.php 1 uruguayprize.com
+/wnhqlgqt.php 1 www.google.com
+/phpMyAdmin_/index.php 1 -
+/wp-includes/blocks/latest-comments/index.php 2 -
+/wp-includes/blocks/tag-cloud/index.php 2 -
+/SHOP 2 http://uruguayprize.com/SHOP
+/wp-includes/blocks/query-pagination-numbers/index.php 2 -
+/wp-content/themes/fing/caicai.php 1 uruguayprize.com
+/wp-admin/setup-config.php 6 -
+/wp-includes/Requests/Response/index.php 2 -
+/wp-aa.php 3 www.google.com
+/wp-admin/admin-ajax.php 13 -
+/wp-content/themes/seotheme/db.php 20 www.google.com
+/cgi-bin/about.php 9 -
+/wp-includes/Text/ 1 -
+/.well-known/acme-challenge/xmrlpc.php 8 -
+/wp-content/wp-term.php 1 https://www.google.com
+/wp-includes/blocks/loginout/index.php 2 -
+/wp-content/themes/wp-cron.php 1 www.google.com
+/temp/ 2 -
+/wp-admin/css/colors/ectoplasm/index.php 2 -
+/wp-includes/blocks/pullquote/index.php 2 -
+/wp-content/plugins/wp-photo-album-plus/changelog.txt 1 -
+/mments-post.php 2 -
+/author/wpadminne/ 1 -
+/.well-known/index.php 2 -
+/sql/phpmyadmin3/index.php 1 -
+/db/myadmin/index.php 1 -
+/ccx/index.php 2 -
+/wp-includes/SimplePie/index.php 2 -
+/mysql/mysqlmanager/index.php 1 -
+/wp-includes/blocks/buttons/index.php 2 -
+/wp-content/plugins/incache/index.php 2 www.google.com
+/2020 2 http://uruguayprize.com/2020
+/mysql/admin/index.php 1 -
+/chosen.php 3 -
+/wp-includes/customize/about.php 8 -
+/2018 2 http://uruguayprize.com/2018
+/wp-content/gallery/about.php 8 -
+/sqlmanager/index.php 1 -
+/phpmyadmin2019/index.php 1 -
+/wp-includes/css/dist/block-directory/index.php 2 -
+/db/phpmyadmin/index.php 1 -
+/wp-admin/network/xmrlpc.php 8 -
+/wp-term.php 5 www.google.com
+/wp-includes/js/jquery/ui/index.php 2 -
+/wp-admin/css/colors/blue/radio.php 1 -
+/wp-admin/includes/index.php 2 -
+/wp-includes/rest-api/about.php 8 -
+/wp-content/db-cache.php 1 -
+/sql/sqladmin/index.php 1 -
+/wp-includes/widgets/include.php 1 -
+/.vscode/sftp.json 6 -
+/updates.php 9 www.google.com
+/old-site 2 http://uruguayprize.com/old-site
+/admin/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-includes/blocks/post-date/index.php 2 -
+/wp-admin/css/ll.php 1 uruguayprize.com
+/html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-content/plugins/seo/idxv3.php 1 uruguayprize.com
+/.well-knownold/ 1 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 3 -
+/wp-includes/blocks/post-excerpt/index.php 2 -
+/wp-content/plugins/wp-catcher/admin.php 1 www.google.com
+/phppma/index.php 1 -
+/NEW 2 http://uruguayprize.com/NEW
+/sql/phpmy-admin/index.php 1 -
+/wp-admin/maint/ 1 -
+/wp-content/themes/seotheme/radio.php 1 -
+/author/wpsecuritypatch/ 1 -
+/wp-includes/blocks/categories/index.php 2 -
+/wp-admin/images/radio.php 1 -
+/wp-content/plugins/wordpres-yaoos/all.php 1 -
+/sql/phpMyAdmin2/index.php 1 -
+/wp-content/uploads/about.php 1 -
+/phpmy-admin/index.php 1 -
+/wp-json/litespeed/v1/cdn_status 8 -
+/wp-admin/ajax-actions.php 8 -
+/wp-admin/user/cloud.php 8 -
+/phpMyAdmin-latest/index.php 1 -
+/wordpress/ 2 -
+/wp-content/plugins/ccx/index.php 2 -
+/images/cloud.php 8 -
+/images/about.php 9 -
+/wp-admin/css/colors/coffee/cloud.php 8 -
+/wp-security.php 1 www.google.com
+/libraries/legacy/updates.php 8 -
+/wp-content/themes/radio.php 1 -
+/proxy.php 1 http://uruguayprize.com/proxy.php
+/wp-login.php 5 -
+/alfanew2.php7 8 -
+/wp-includes/blocks/block/index.php 2 -
+/phpMyAdmin-5.2.1-english/index.php 1 -
+/wp-includes/blocks/video/index.php 2 -
+/2022 2 http://uruguayprize.com/2022
+/wp-includes/Requests/index.php 2 -
+/wp-includes/SimplePie/about.php 8 -
+/sql/phpMyAdmin/index.php 1 -
+/.well-known/pki-validation/radio.php 1 -
+/wp-content/plugins/apikey/apikey.php 6 -
+/auto_seo.php 2 -
+/wp-includes/js/dist/index.php 2 -
+/wp-includes/blocks/spacer/index.php 2 -
+/wp-content/uploads/wp-wordpress.php 2 -
+/wp-includes/js/thickbox/index.php 2 -
+/shop 3 http://uruguayprize.com/shop
+/.well-known/pki-validation/cloud.php 9 www.google.com
+/wp-includes/widgets/about.php 8 -
+/wp-content/themes.php 1 uruguayprize.com
+/wp-content/plugins/gotmls/readme.txt 1 -
+/demo 2 http://uruguayprize.com/demo
+/sql/webdb/index.php 1 -
+/wp-includes/blocks/media-text/index.php 2 -
+/wp-admin/js/radio.php 1 -
+/sql/sqlweb/index.php 1 -
+/.well-known/wp-cron.php 1 www.google.com
+/themes.php 1 uruguayprize.com
+/WP 2 http://uruguayprize.com/WP
+/wp-admin/js/widgets/about.php7 8 -
+/wp-admin/js/about.php 16 -
+/New 2 http://uruguayprize.com/New
+/wp-includes/customize/ 1 -
+/wp-links-way.php 2 -
+/wp-admin/js/widgets/xmrlpc.php 8 -
+/wp-json/ 1 -
+/robots.txt 91 -
+/wp-admin/css/colors/modern/index.php 2 -
+/wp-includes/css/ 1 -
+/php-my-admin/index.php 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 6 www.google.com
+/myadmin/index.php 1 -
+/class.api.php 1 www.google.com
+/ads.txt 3 -
+/wp-admin/js/widgets/radio.php 1 -
+/wp-content/inputs.php 2 -
+/wp-loader.php 2 -
+/wp-includes/js/swfupload/index.php 2 -
+/wp-admin/css/ 3 binance.com
+/wp-content/plugins/miniorange-malware-protection/includes/js/phone.js 1 -
+/phpMyAdmin-4.9.7/index.php 1 -
+/wp-includes/js/dist/vendor/index.php 2 -
+/wp-links-on.php 2 -
+/images/footer.png 44 https://uruguayprize.com/
+/xmrlpc.php 8 -
+/wp-includes/js/imgareaselect/index.php 2 -
+/wp-admin/user/xmrlpc.php 8 -
+/administrator/pma/index.php 1 -
+/wp-json/wp/v2/users 1 -
+/wordpress 8 http://uruguayprize.com/wordpress
+/wp-admin/css/colors/ocean/radio.php 1 -
+/wp-includes/blocks/post-template/index.php 2 -
+/phpMyAdmin-5.1.3/index.php 1 -
+/wp-content/plugins/temporary-login/core/all.php 1 -
+/sitemap.txt 2 -
+/wp-includes/blocks/page-list/index.php 2 -
+/wp-admin/install.php 6 -
+/db/phpMyAdmin-5/index.php 1 -
+/oldsite 2 http://uruguayprize.com/oldsite
+/wp-includes/ID3/index.php 2 -
+/api.php 1 -
+/wp-includes/js/tinymce/plugins/charmap/index.php 2 -
+/backup/ 2 -
+/bak 2 http://uruguayprize.com/bak
+/wp-includes/blocks/site-tagline/index.php 2 -
+/wp-includes/ID3/ 1 -
+/wp-includes/index.php 2 -
+/wp-content/blogs.dir/about.php 8 -
+/wp-json/wpgmza/v1/markers 2 -
+/.well-known/pki-validation/index.php 2 -
+/dropdown.php 8 -
+/phpmyadmin2/index.php 1 -
+/2019 2 http://uruguayprize.com/2019
+/sql/sql/index.php 1 -
+/db/phpMyAdmin-3/index.php 1 -
+/BLOG 2 http://uruguayprize.com/BLOG
+/wp-includes/block-supports/index.php 2 -
+/pma/index.php 1 -
+/wp-includes/blocks/columns/index.php 2 -
+/wp-admin/css/about.php 8 -
+/phpmyadmin2021/index.php 1 -
+/ccx/radio.php 1 -
+/Blog 2 http://uruguayprize.com/Blog
+/wp-content/plugins/WordPressCore/include.php 1 -
+/BACKUP 2 http://uruguayprize.com/BACKUP
+/about.php7 8 -
+/wp-content/plugins/wp-catcher/index.php 3 www.google.com
+/wp-content/plugins/core-plugin/include.php 1 -
+/wp-content/plugins/byjajekyqam/byjajekyqam.php 1 -
+/wp-content/plugins/wordpres-wpz/all.php 1 -
+/wp-json/post-smtp/v1/get-logs 1 -
+/phpMyAdmin4/index.php 1 -
+/wp-admin/cloud.php 8 -
+/wp-admin/radio.php 1 -
+/phpmyadmin5/index.php 1 -
+/wp-admin/css/colors/midnight/radio.php 1 -
+/includes/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp 8 http://uruguayprize.com/wp
+/wp-includes/css/dist/edit-widgets/index.php 2 -
+/security.txt 1 http://www.uruguayprize.com/security.txt
+/cgi-bin/radio.php 1 -
+/administrator/web/index.php 1 -
+/wp-content/plugins/fix/up.php 9 -
+/wp-confg.php 1 uruguayprize.com
+/wp-admin/css/colors/midnight/index.php 2 -
+/wp-includes/blocks/post-featured-image/index.php 2 -
+/phpMyAdmin3/index.php 1 -
+/wp-includes/Text/Diff/Renderer/index.php 2 -
+/editor/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/1phpmyadmin/index.php 1 -
+/wp-includes/css/buttons.css 1 -
+/blog/ 2 -
+/wp-old 2 http://uruguayprize.com/wp-old
+/xagio-api.php 1 -
+/wp-admin/user/index.php 2 -
+/wp-content/plugins/wordpres-woot/all.php 1 -
+/wp-content/plugins/wordpress-wpsseo/all.php 1 -
+/liesmich.php 1 -
+/wp-admin/css/colors/radio.php 1 -
+/wp-content/themes/porto/css/admin_bar.css 1 uruguayprize.com
+/ws.php7 8 -
+/wp-content/plugins/ai-engine/readme.txt 1 -
+/wp-includes/Requests/Exception/Transport/index.php 2 -
+/wp-content/themes/universal-news/www.php 1 www.google.com
+/admin/db/index.php 1 -
+/wp-includes/blocks/list/index.php 2 -
+/sql/webadmin/index.php 1 -
+/wp-includes/blocks/post-title/index.php 2 -
+/wp-includes/SimplePie/Cache/index.php 2 -
+/wp-includes/js/mediaelement/index.php 2 -
+/wp-includes/images/index.php 2 -
+/bxtnprmv.php 1 www.google.com
+/wp-content/plugins/wordpres-yastsr/all.php 1 -
+/wsoyanz.php 8 -
+/avaa.php 8 -
+/administrator/phpMyAdmin/index.php 1 -
+/shopdb/index.php 1 -
+/wp-includes/js/index.php 2 -
+/.well-known/pki-validation/about.php 8 -
+/bc 2 http://uruguayprize.com/bc
+/images/index.php 2 -
+/bac 2 http://uruguayprize.com/bac
+/sites/all/modules/fckeditor/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-content/plugins/ninja-forms/readme.txt 2 -
+/wp-admin/images/ 1 -
+/admin/phpMyAdmin/index.php 1 -
+/db/webadmin/index.php 1 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 1 http://www.google.com
+/wp-admin/js/widgets/cloud.php 8 -
+/wp-admin/images/about.php 8 -
+/wp-content/themes/seotheme/mar.php 8 -
+/wp-includes/images/crystal/index.php 2 -
+/wp-includes/blocks/text-columns/index.php 2 -
+/.well-known/acme-challenge/about.php 1 -
+/wp-content/plugins/wordpres-yastst/all.php 1 -
+/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-admin/js/index.php 2 -
+/wp-admin/css/colors/xmrlpc.php 8 -
+/wp-content/plugins/seoplugins/db.php 8 -
+/wp-content/plugins/wordpres-yaosos/all.php 1 -
+/wp-admin/css/colors/modern/radio.php 1 -
+/wp-includes/blocks/cover/index.php 2 -
+/wp-includes/images/smilies/index.php 2 -
+/program/index.php 1 -
+/wp-json/wc/store/products/collection-data 1 -
+/wp-content/plugins/wordpress-wpe/all.php 1 -
+/mysqladmin/index.php 1 -
+/wp-includes/css/dist/format-library/index.php 2 -
+/wp-ver.php 10 www.google.com
+/phpmyadmin2022/index.php 1 -
+/wp-admin/css/colors/ectoplasm/radio.php 1 -
+/wp-includes/blocks/freeform/index.php 2 -
+/.wp-cli/radio.php 1 -
+/phpmyadmin1/index.php 1 -
+/wp-includes/ 1 -
+/mysql/pma/index.php 1 -
+/wp-content/plugins/wordpres-yaooo/all.php 1 -
+/complete-order/ 1 -
+/ayk.php 1 -
+/kaukdebz.php 1 www.google.com
+/wp-content/plugins/wordpres-yastse/all.php 1 -
+/backup 2 http://uruguayprize.com/backup
+/wp-content/ 2 -
+/phpMyAdmin5.1/index.php 1 -
+/wp-includes/Requests/Exception/index.php 2 -
+/Site 2 http://uruguayprize.com/Site
+/mysql/dbadmin/index.php 1 -
+/wp-includes/blocks/nextpage/index.php 2 -
+/wp-includes/SimplePie/XML/Declaration/index.php 2 -
+/wp-includes/IXR/index.php 3 -
+/wp-includes/blocks/button/index.php 2 -
+/wp-content/languages/index.php 2 -
+/wp-includes/css/dist/list-reusable-blocks/index.php 2 -
+/images/bg-winner.png 1 https://uruguayprize.com/
+/author/w-padmine/ 1 -
+/wp-includes/css/dist/nux/index.php 2 -
+/wp-includes/js/jquery/index.php 2 -
+/MyAdmin/index.php 1 -
+/wp-admin/css/index.php 10 -
+/Test 2 http://uruguayprize.com/Test
+/wp-admin/images/index.php 10 -
+/wp-admin/network/cloud.php 8 -
+/phpmyAdmin/index.php 1 -
+/about.php 14 uruguayprize.com
+/wp-content/plugins/WordPressCore/ 1 -
+/test/ 2 -
+/sql/php-myadmin/index.php 1 -
+/wp-includes/SimplePie/ 1 -
+/wp-content/plugins/apikey/apikey.php.suspected 6 -
+/wp-includes/blocks/heading/index.php 2 -
+/wp-includes/blocks/query/index.php 2 -
+/wp-content/banners/about.php 8 -
+/wp-content/plugins/wp-meta-seo/readme.txt 2 -
+/ajax-actions.php 8 -
+/wp-includes/js/codemirror/index.php 2 -
+/wp-includes/blocks/more/index.php 2 -
+/Wp 2 http://uruguayprize.com/Wp
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/wp-includes/blocks/site-title/index.php 2 -
+/alfanew.php 9 www.google.com
+/img/xmrlpc.php 8 -
+/phpmyadmin_/index.php 1 -
+/wp-includes/Requests/Transport/index.php 2 -
+/readme.php 1 -
+/wp-content/auto_seo.php 2 -
+/phpMyAdmin-4/index.php 1 -
+/wp-admin/includes/radio.php 1 -
+/sito 2 http://uruguayprize.com/sito
+/Old 2 http://uruguayprize.com/Old
+/wp-pano 1 -
+/wp-content/plugins/wordpres-yaoo/all.php 1 -
+/wp-admin/css/radio.php 1 -
+/wp-includes/blocks/image/index.php 2 -
+/comments.php 2 -
+/wp-includes/Text/Diff/Engine/index.php 2 -
+/style.php 2 -
+/php/thinkphp/aaaffff123.php 4 -
+/administrator/phpmyadmin/index.php 1 -
+/wp-content/uploads/index.php 2 -
+/wp-content/plugins/uploadify/includes/process_upload.php 2 -
+/za.php 1 www.google.com
+/wp-includes/images/about.php 8 -
+/wp-content/plugins/post-smtp/readme.txt 1 -
+/wp-content/languages/radio.php 1 -
+/wp-includes/customize/index.php 2 -
+/wp-includes/blocks/group/index.php 2 -
+/2phpmyadmin/index.php 1 -
+/wp-includes/blocks/gallery/index.php 2 -
+/wp-includes/fonts/ 1 -
+/wp-admin/css/colors/blue/xmrlpc.php 8 -
+/wp-admin/includes/about.php 8 -
+/wp-content/plugins/wp-cron.php 1 www.google.com
+/wp-content/plugins/classic-editor/js/block-editor-plugin.php 1 uruguayprize.com
+/uvscvgmh.php 1 www.google.com
+/wp-includes/SimplePie/Content/Type/index.php 2 -
+/wp-content/plugins/wordpres-wpss/all.php 1 -
+/uploads/ 2 binance.com
+/mysql/index.php 1 -
+/wp-includes/certificates/index.php 2 -
+/wp-includes/blocks/embed/index.php 2 -
+/sitio 2 http://uruguayprize.com/sitio
+/Wordpress 2 http://uruguayprize.com/Wordpress
+/wp-content/plugins/wordpres-yastsrs/all.php 1 -
+/html/fckeditor/filemanager/browser/default/browser.html 1 -
+/wp-content/plugins/wordpresssoe/all.php 1 -
+/db/websql/index.php 1 -
+/wp-content/plugins/wordpress-wpssseo/all.php 1 -
+/wp-content/plugins/wp-catcher/3.1415926535898.php 2 www.google.com
+/current.php 2 -
+/wp_gpt.php 1 -
+/phpMyAdmin6/index.php 1 -
+/wp-content/updates.php 8 -
+/wp-comments.php 2 -
+/misc/ajax.js 3 -
+/wp-content/plugins/wordpres-wpsss/all.php 1 -
+/css/index.php 2 -
+/wp-content/radio.php 2 -
+/plugins/content/apismtp/apismtp.php.suspected 6 -
+/sql/phpmyadmin4/index.php 1 -
+/wp-content/plugins/admin.php 1 -
+/wp-includes/ID3/about.php 8 -
+/wp-content/upgrade-temp-backup/about.php 8 -
+/wp-includes/js/crop/index.php 2 -
+/wp-content/themes/index.php 2 -
+/db/db-admin/index.php 1 -
+/PMA/index.php 1 -
+/contact-us 1 -
+/wp-content/index.php 4 -
+/css/xmrlpc.php 8 -
+/_phpmyadmin_/index.php 1 -
+/wp-json/wp/v2/users/1 1 https://uruguayprize.com/
+/phpMyAdmin-5.1.2/index.php 1 -
+/wp-includes.bak/html-api/about.php 8 -
+/wp-content/plugins/wordpres-wps/all.php 1 -
+/wp-json/wp/v2/users/4 1 https://uruguayprize.com/
+/wp-admin/maint/index.php 2 -
+/wp-content/plugins/wordpres-woos/all.php 1 -
+/wp-content/plugins/wordpress-jseo/all.php 1 -
+/wp-includes/images/media/index.php 2 -
+/main 2 http://uruguayprize.com/main
+/wp-includes/blocks/paragraph/index.php 2 -
+/wp-includes/SimplePie/Net/index.php 2 -
+/wp-content/themes/about.php 9 -
+/admin/web/index.php 1 -
+/wp-p.php7 8 -
+/wp-includes/Requests/ 1 -
+/sql/myadmin/index.php 1 -
+/wp-json/post-smtp/v1/connect-app 1 -
+/wp-includes/about.php 9 -
+/alfa-rex2.php7 8 -
+/phpMyAdmin-5.2.1/index.php 1 -
+/wp-includes/Requests/Proxy/index.php 2 -
+/wp-includes/blocks/table/index.php 2 -
+/wp-content/upgrade/index.php 2 -
+/pcc.php 1 uruguayprize.com
+/wp-admin/xmrlpc.php 8 -
+/cgi-bin/themes.php 1 uruguayprize.com
+/geju.php 1 -
+/wp-admin/css/colors/index.php 10 -
+/sql/sql-admin/index.php 1 -
+/SITE 2 http://uruguayprize.com/SITE
+/cache-compat.php 8 -
+/hosting.php 1 www.google.com
+/wp-admin/css/colors/blue/cloud.php 8 -
+/checkbex.php 2 www.google.com
+/wp-content/plugins/ccx/radio.php 1 -
+/inputs.php 13 -
+/wp-content/plugins/wordpres-wpw/all.php 1 -
+/wp-admin/wp-cron.php 1 www.google.com
+/wp-admin/ 1 -
+/wp-content/plugins/wordpres-seoseo/all.php 1 -
+/wp-admin/dropdown.php 9 www.google.com
+/wp-includes/Text/Diff/index.php 2 -
+/phpMyAdmin-5.1.1/index.php 1 -
+/wp-content/plugins/wordpres-wpwp/all.php 1 -
+/contact 2 -
+/wp-add.php 7 www.google.com
+/wp-content/plugins/wordpres-wpp/all.php 1 -
+/.wp-cli/cache/radio.php 1 -
+/wp-includes/Requests/Cookie/index.php 2 -
+/newsite 4 -
+/wp-content/plugins/wordpres-wp/all.php 1 -
+/ebs.php7 8 -
+/wp-content/wp-ver.php 1 https://www.google.com
+/images/radio.php 1 -
+/wp-includes/blocks/file/index.php 2 -
+/WORDPRESS 2 http://uruguayprize.com/WORDPRESS
+/wp-content/plugins/wordpres-woo/all.php 1 -
+/wp-includes/blocks/query-pagination-next/index.php 2 -
+/db/webdb/index.php 1 -
+/images/xmrlpc.php 8 -
+/alfacgiapi/perl.alfa 6 www.google.com
+/WWW 2 http://uruguayprize.com/WWW
+/wp-includes/block-patterns/about.php 8 -
+/admin-post.php 8 -
+/author/admim/ 1 -
+/database/index.php 1 -
+/index_sso.php 4 -
+/wp-includes/blocks/verse/index.php 2 -
+/wp-includes/blocks/post-terms/index.php 2 -
+/phpMyAdmin-3/index.php 1 -
+/wp-includes/blocks/index.php 2 -
+/wp-json/wp/v2/users/5 1 https://uruguayprize.com/
+/wp-content/plugins/chatbot-chatgpt/readme.txt 1 -
+/omments-post.php 2 -
+/.env 33 -
+/wp-content/plugins/Cache/Cache.php 9 www.google.com
+/wp-content/plugins/wordpres-wooall/all.php 1 -
+/wp-admin/js/widgets/index.php 2 -
+/TEST 2 http://uruguayprize.com/TEST
+/ll.php 1 uruguayprize.com
+/wp-content/plugins/wordpres-seosep/all.php 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 1 -
+/phpmy/index.php 1 -
+/wp-content/plugins/wp-statistics/readme.txt 2 -
+/phpmyadmin2017/index.php 1 -
+/sql/phpmanager/index.php 1 -
+/phpMyAdmin2/index.php 1 -
+/mysql/pMA/index.php 1 -
+/zb_system/login.php 1 -
+/simple.php 12 www.google.com
+/wp-json 7 -
+/wp-content/plugins/backup-backup/modules/gdrivebanner/assets/css/styles.css 1 -
+/wp-consar.php 9 www.google.com
+/wp-content/admin.php 1 -
+/db/dbweb/index.php 1 -
+/wp-content/plugins/wordpres-woosc/all.php 1 -
+/sql/websql/index.php 1 -
+/wp-content/plugins/phppoet-checkout-fields/readme.txt 1 -
+/wp-content/plugins/userpro/changelog.txt 1 -
+/wp-content/themes/wpclassic/inc/index.php 1 www.google.com
+/sftp.json 3 -
+/humans.txt 1 http://www.uruguayprize.com/humans.txt
+/wp-includes/style-engine/about.php 8 -
+/cgi-bin/index.php 2 -
+/author/greeceman/ 1 -
+/dbybpdhc.php 1 www.google.com
+/wp-includes/assets/index.php 2 -
+/cgi-bin/cloud.php 8 -
+/wp-includes/images/include.php 1 -
+/wp-includes/Text/about.php 8 -
+/phpMyAdmin5.2/index.php 1 -
+/wp-includes/blocks/social-links/index.php 2 -
+/wp-admin/includes/cloud.php 8 -
+/wp-content/plugins/seoo/wsoyanz1.php 8 -
+/.well-known/pki-validation/xmrlpc.php 8 -
+/wp-content/plugins/ckeditor-for-wordpress/filemanager/browser/default/browser.html 1 -
+/wp-includes/blocks/quote/index.php 2 -
+/wp-admin/css/colors/blue/index.php 2 -
+/phpMyAdmin5/index.php 1 -
+/wp-includes/blocks/audio/index.php 2 -
+/wp-includes/repeater.php 8 -
+/wp-includes/Requests/about.php 8 -
+/wp-content/plugins/wordpres-woots/all.php 1 -
+/old/ 2 -
+/wp-includes/css/index.php 2 -
+/wp-admin/network/ 1 -
+/wp-includes/blocks/calendar/index.php 2 -
+/phpmyadmin4/index.php 1 -
+/wp-content/themes/twentyseventeen/page/index.php 1 www.google.com
+/mrj.php 1 uruguayprize.com
+/administrator/db/index.php 1 -
+/wp-content/plugins/wordpres-wp2/all.php 1 -
+/wp-content/plugins/wordpres-yaososs/all.php 1 -
+/sites/default/files/ 2 binance.com
+/wp-content/plugins/seoo/wsoyanz.php 8 -
+/wp-includes/Requests/Text/admin.php 8 -
+/wp-content/plugins/hellopress/wp_filemanager.php 4 -
+/wp-content/themes/xstore/js/portfolio.min.js 2 -
+/wp-includes/blocks/query-title/index.php 2 -
+/wp-content/languages/about.php 8 -
+/wp-includes/blocks/rss/index.php 2 -
+/db/phpMyAdmin/index.php 1 -
+/author/superadmin/ 1 -
+/enhance 2 -
+/wp-includes/css/dist/edit-post/index.php 2 -
+/wp-includes/IXR/ 1 -
+/wp-content/plugins/wordpres-yasts/all.php 1 -
+/wp-admin/css/colors/blue/clean.php 2 uruguayprize.com
+/wp-includes/css/dist/components/index.php 2 -
+/author/wpservices/ 1 -
+/phpmyadmin3/index.php 1 -
+/images/ 3 binance.com
+/plugins/content/apismtp/apismtp.php 6 -
+/wp-content/themes/sketch/404.php 1 -
+/wp-includes/IXR/about.php 8 -
+/wp-json/wp/v2/users/2 3 https://uruguayprize.com/
+/js/fckeditor/filemanager/browser/default/browser.html 1 -
+/ments-post.php 2 -
+/wp-admin/meta/ 1 -
+/wp-content/plugins/miniorange-2-factor-authentication/readme.txt 1 -
+/wp-cron.php 1 www.google.com
+/wp-includes/blocks/latest-posts/index.php 2 -
+/wp-includes/blocks/archives/index.php 2 -
+/wp-admin/css/colors/coffee/xmrlpc.php 8 -
+/.well-known/traffic-advice 5 -
+/wp-includes/fonts/index.php 2 -
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 1 www.google.com
+/wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php 1 -
+/phpMyAdmin-latest-all-languages/index.php 1 -
+/db/phpMyAdmin3/index.php 1 -
+/wp-includes/blocks/html/index.php 2 -
+/wp-includes/blocks/query-pagination/index.php 2 -
+/locoy.php 2 -
+/wp-includes/certificates/ 1 -
+/wp-includes/SimplePie/Parse/index.php 2 -
+/js/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/lol.php 1 uruguayprize.com
+/radio.php 3 uruguayprize.com
+/wp-includes/js/tinymce/langs/index.php 2 -
+/wp-content/plugins/linkpreview/db.php 8 -
+/wp-admin/about.php 1 -
+/wp-22.php 1 www.google.com
+/wp-content/plugins/dzs-zoomsounds/savepng.php 4 -
+/wp-includes/images/ 1 -
+/wp-admin/css/colors/coffee/radio.php 1 -
+/administrator/PMA/index.php 1 -
+/wp-script.php 1 -
+/db/phpmyadmin3/index.php 1 -
+/wp-content/uploads/wp-cron.php 1 www.google.com
+/sitemap.xml 10 -
+/images/bg-cta.png 1 https://uruguayprize.com/
+/sample.php 4 www.google.com
+/wp-content/plugins/wp-ver.php 8 www.google.com
+/repeater.php 9 www.google.com
+/phpmyadmin/index.php 5 -
+/Www 2 http://uruguayprize.com/Www
+/.well-known/security.txt 1 http://www.uruguayprize.com/.well-known/security.txt
+/wp-include/auto_seo.php 2 -
+/wp-includes/css/dist/reusable-blocks/index.php 2 -
+/wp-content/plugins/wp-config-sample.php 2 www.google.com
+/php-myadmin/index.php 1 -
+/administrator/admin/index.php 1 -
+/wp-includes/js/jcrop/index.php 2 -
+/wp-includes/blocks/query-pagination-previous/index.php 2 -
+/wp-json/ywcas/v1/search 2 https://uruguayprize.com
+/phpMyAdmin-latest-english/index.php 1 -
+/wp-content/plugins/wordpresssoees/all.php 1 -
+/.well-known/radio.php 1 -
+/phpMyAdmin-5.2/index.php 1 -
+/wp-includes/blocks/site-logo/index.php 2 -
+/wp-includes/blocks/about.php 8 -
+/admin/sqladmin/index.php 1 -
+/sftp-config.json 5 -
+/.well-known/about.php 8 -
+/user.php 1 -
+/wp-admin/images/cloud.php 8 -
+/wp-includes/Requests/Utility/index.php 2 -
+/wp-content/themes/classic/inc/index.php 1 www.google.com
+/wp-content/plugins/seoplugins/mar.php 8 -
+/test 7 http://uruguayprize.com/test
+/phpMyAdmin6.0/index.php 1 -
+/admin/sysadmin/index.php 1 -
+/nainxd.php 1 uruguayprize.com
+/phpMyAdmin-5.2.1-all-languages/index.php 1 -
+//wp-includes/wlwmanifest.xml 6 -
+/Shop 2 http://uruguayprize.com/Shop
+/emergency.php 1 -
+/Backup 2 http://uruguayprize.com/Backup
+/wp-content/ll.php 1 uruguayprize.com
+/wp-includes/blocks/column/index.php 2 -
+/vjcgqwvw.php 1 www.google.com
+/wp-includes/block-patterns/index.php 2 -
+/js/editor/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-includes/pomo/ 1 -
+/app-ads.txt 1 -
+/wp-content/repeater.php 8 -
+/wp-includes/wlwmanifest.xml 3 -
+/goods.php 1 -
+/wp-includes/js/plupload/index.php 2 -
+/css/radio.php 1 -
+/bk 2 http://uruguayprize.com/bk
+/mysql/db/index.php 1 -
+/wp-content/themes/fing/zjxd.php 1 uruguayprize.com
+/_phpmyadmin/index.php 1 -
+/2021 2 http://uruguayprize.com/2021
+/dbadmin/index.php 1 -
+/home 4 -
+/wp-admin/includes/ 1 -
+/wp-content/plugins/acf-frontend-form-element/assets/js/try-pro-min.js 1 -
+/wp-content/plugins/wordpres-yastsrec/all.php 1 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 2 uruguayprize.com
+/old 8 http://uruguayprize.com/old
+/wp-includes/blocks/social-link/index.php 2 -
+/admin.php 13 uruguayprize.com
+/wp-json/wp/v2/users/3 2 https://uruguayprize.com/
+/wp-content/about.php 9 -
+/db/phpmyadmin5/index.php 1 -
+/wp-on.php, 2 -
+/administrator/index.php 3 -
+/files/ 2 binance.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 285
+157.230.103.180 14 14 134601 20240503053836
+149.28.220.41 8 8 83200 20240528001844
+84.32.41.136 8 8 77726 20240519113344
+144.217.135.245 6 6 1020253 20240511015518
+54.88.179.33 6 6 268145 20240522041901
+42.83.147.34 5 5 51998 20240527173059
+137.226.113.44 5 5 51982 20240530211640
+23.94.96.8 4 4 38860 20240531112404
+84.247.59.159 4 4 178764 20240505113706
+45.86.202.158 4 4 178764 20240513054121
+35.171.144.152 4 4 178760 20240522120654
+167.172.175.87 4 4 930869 20240509051246
+91.92.240.57 4 4 178764 20240516055314
+91.92.246.56 4 4 178768 20240519111327
+45.86.202.150 4 4 178768 20240519000302
+43.155.169.133 3 3 31195 20240510061506
+72.13.46.5 3 3 31225 20240501064740
+114.122.70.253 3 3 30646 20240507154209
+91.92.245.176 3 3 134072 20240513091409
+43.163.8.36 3 3 31184 20240523192300
+188.147.0.191 3 3 55085 20240503200626
+38.45.127.226 3 3 31194 20240518122517
+154.16.81.176 3 3 134073 20240505100804
+43.163.3.58 3 3 31200 20240528103336
+159.65.24.22 3 3 56947 20240522103520
+114.5.102.103 1 1 8215 20240508184300
+146.190.241.102 1 1 10394 20240502163754
+149.56.150.160 1 1 8211 20240511015539
+193.186.4.145 2 2 16428 20240508012247
+159.65.195.25 1 1 10395 20240504151025
+185.220.101.56 2 2 20796 20240526032022
+209.124.84.223 1 1 10398 20240510034913
+198.235.24.212 1 1 44690 20240514223805
+199.45.155.33 1 1 10398 20240506092627
+52.80.18.29 1 1 10392 20240523114320
+198.235.24.80 1 1 44690 20240504105531
+94.247.172.129 1 1 10394 20240516173719
+113.250.88.150 1 1 10399 20240530022512
+167.248.133.59 1 1 10398 20240513062114
+4.227.81.84 1 1 768 20240510072543
+43.135.181.13 2 2 20786 20240523063901
+185.81.128.21 1 1 10396 20240524021741
+123.160.221.131 1 1 10399 20240530133735
+205.210.31.54 1 1 44691 20240507045947
+43.155.160.173 2 2 20790 20240523125501
+135.148.195.3 1 1 10394 20240508165217
+205.210.31.103 1 1 44690 20240502223112
+111.172.249.49 1 1 10397 20240519052300
+135.148.195.12 1 1 10397 20240501195010
+192.42.116.209 1 1 10402 20240526032025
+114.5.147.179 1 1 8211 20240523055156
+129.226.146.179 1 1 10401 20240514134819
+89.248.172.174 1 1 10398 20240506104604
+36.99.136.137 2 2 20800 20240531133434
+36.134.147.75 2 2 20793 20240525060834
+117.33.163.216 1 1 10399 20240507063454
+205.210.31.180 1 1 44691 20240510052726
+172.187.160.137 1 1 10402 20240526144138
+157.230.10.22 1 1 10399 20240518155332
+114.142.170.29 1 1 14195 20240514153437
+182.0.232.236 1 1 8213 20240517052336
+36.99.136.128 1 1 10399 20240530133726
+93.174.93.215 1 1 10398 20240506105032
+165.232.136.183 1 1 10397 20240502090840
+141.95.136.89 1 1 10394 20240508094530
+199.244.88.232 1 1 10398 20240508175156
+106.75.66.162 1 1 10399 20240522000713
+38.242.238.150 1 1 10402 20240512123956
+94.228.169.182 1 1 10404 20240521020126
+42.83.147.53 1 1 10395 20240514192618
+62.141.44.236 1 1 10398 20240501083610
+198.235.24.38 1 1 44691 20240530225616
+27.187.220.250 1 1 10399 20240530022043
+93.158.91.24 1 1 10395 20240529000751
+43.155.166.202 1 1 10395 20240504075236
+147.78.47.230 1 1 10399 20240506222310
+31.220.98.139 1 1 10394 20240502224452
+43.153.89.59 1 1 10399 20240507051856
+180.102.134.69 1 1 10399 20240531193618
+72.14.201.147 1 1 8214 20240514093331
+154.28.229.123 1 1 8212 20240531165253
+91.92.246.123 1 1 44691 20240531192843
+124.156.193.7 1 1 10400 20240531074334
+124.248.183.41 1 1 8212 20240505161740
+46.166.129.7 1 1 10395 20240515081746
+192.36.109.99 1 1 10399 20240522035656
+209.38.44.168 1 1 10402 20240512144437
+106.119.167.146 1 1 10398 20240513153939
+170.106.82.193 2 2 20801 20240521034355
+93.158.91.29 1 1 10397 20240511085128
+43.155.130.43 1 1 10399 20240517190854
+43.155.138.79 1 1 10399 20240505043832
+173.239.203.198 1 1 8215 20240524152358
+103.60.148.186 1 1 10404 20240520232604
+156.255.5.58 1 1 10399 20240506164150
+34.222.12.247 1 1 10398 20240509063724
+135.148.195.7 1 1 10395 20240515220053
+43.157.40.137 1 1 10395 20240503173735
+54.219.167.103 1 1 10397 20240511015156
+187.79.81.149 2 2 89381 20240509001518
+165.231.182.89 1 1 44692 20240514033805
+128.90.141.40 1 1 10399 20240505122136
+192.42.116.179 1 1 10394 20240502224445
+104.164.173.24 1 1 8212 20240531163158
+137.184.170.50 1 1 10395 20240515235807
+91.92.244.201 1 1 44691 20240523103505
+199.45.154.60 2 2 20797 20240530051801
+36.99.136.129 2 2 20793 20240509055324
+165.227.69.126 1 1 10402 20240512012904
+223.113.128.139 1 1 10395 20240528192428
+5.35.32.125 1 1 44690 20240505234415
+43.134.66.205 2 2 20803 20240520161858
+87.236.176.212 1 1 10400 20240527163305
+175.100.113.235 1 1 10398 20240505161822
+43.128.100.220 1 1 10401 20240514023604
+5.133.192.166 1 1 10392 20240523035916
+180.244.133.175 2 2 8215 20240523161218
+62.133.60.222 1 1 10399 20240529230138
+223.244.35.77 1 1 10394 20240520040717
+103.190.46.38 1 1 8212 20240524182807
+114.10.137.51 1 1 8212 20240525090101
+104.28.250.135 1 1 8211 20240514162158
+203.33.203.148 1 1 10395 20240528221145
+115.223.43.11 2 2 20793 20240509080728
+43.163.0.99 1 1 10398 20240509085256
+36.99.136.136 1 1 10396 20240525101258
+128.90.170.38 1 1 10398 20240505192725
+14.215.163.132 1 1 10395 20240516003407
+23.155.24.4 1 1 10402 20240526032013
+43.155.136.16 2 2 20800 20240526055845
+43.128.110.17 2 2 20797 20240515010755
+140.213.106.76 1 1 8211 20240516085129
+99.79.46.127 1 1 10402 20240512152746
+185.220.101.12 1 1 10402 20240526032007
+4.184.103.4 1 1 10396 20240525064732
+175.6.217.4 2 2 20797 20240513035904
+89.248.174.11 2 2 20796 20240515172156
+72.14.201.146 1 1 8211 20240523160051
+36.74.107.36 1 1 8218 20240526110652
+35.203.211.129 1 1 44691 20240511032020
+46.101.156.129 1 1 10396 20240524162300
+93.158.90.71 1 1 10395 20240516132317
+199.45.155.17 1 1 10400 20240528073008
+43.131.243.208 1 1 10400 20240527183219
+43.135.166.178 1 1 10396 20240524185642
+205.210.31.217 1 1 44690 20240515121814
+198.235.24.68 1 1 44692 20240525170846
+222.79.104.23 1 1 10399 20240522053034
+192.42.116.178 1 1 10394 20240502224454
+43.155.152.154 1 1 10392 20240522183435
+35.94.87.16 1 1 44691 20240511104425
+94.156.64.200 1 1 10397 20240511161805
+43.134.240.57 1 1 10399 20240505041708
+103.105.28.144 1 1 8211 20240502204855
+54.218.67.33 1 1 10399 20240505064207
+93.159.230.87 1 1 10398 20240501100807
+27.115.124.53 1 1 10396 20240525150003
+199.45.154.69 1 1 10398 20240501105246
+5.255.125.196 1 1 10402 20240526032010
+3.87.176.66 1 1 44690 20240508231008
+65.154.226.168 1 1 10392 20240523051538
+128.90.157.13 1 1 10402 20240526064303
+182.42.105.144 1 1 10395 20240515132150
+165.232.143.216 1 1 10398 20240501104051
+170.106.159.160 2 2 20794 20240516134315
+205.210.31.242 1 1 44690 20240521173645
+193.188.20.137 1 1 8211 20240520133822
+41.121.14.0 1 1 8215 20240501162356
+89.248.174.182 2 2 20796 20240515164417
+54.245.215.47 1 1 10399 20240505064210
+143.198.83.5 1 1 10398 20240510160350
+159.203.125.13 1 1 10399 20240530141443
+35.160.169.20 1 1 10398 20240509064032
+54.147.188.23 1 1 10398 20240506045214
+185.220.101.5 1 1 10394 20240502224447
+143.110.252.225 1 1 10402 20240526161046
+188.147.0.107 2 2 44692 20240519045144
+182.42.105.85 1 1 10394 20240517155029
+77.74.177.119 2 2 20790 20240529101815
+5.133.192.127 1 1 10394 20240517054736
+5.42.66.6 1 1 10395 20240529050642
+54.36.113.142 1 1 10396 20240523235843
+54.199.87.84 1 1 10396 20240525021704
+176.96.138.61 2 2 20804 20240531133412
+93.158.91.25 1 1 10399 20240505111307
+178.62.227.60 1 1 10395 20240529051826
+43.163.6.35 3 3 31191 20240524063953
+198.235.24.195 1 1 44692 20240527181050
+158.115.233.183 1 1 10399 20240527011509
+184.94.240.88 1 1 44692 20240512073111
+35.90.7.245 1 1 10399 20240505064214
+192.34.60.90 1 1 10394 20240516162819
+46.101.150.103 1 1 10401 20240514142058
+178.254.38.45 1 1 10395 20240516112622
+103.184.19.246 1 1 8215 20240501085413
+137.184.76.32 1 1 10395 20240515084358
+199.45.155.34 1 1 10398 20240513084203
+114.10.11.238 1 1 8212 20240508011903
+159.203.137.148 1 1 10394 20240508160541
+206.189.192.216 1 1 10399 20240522145824
+173.249.27.178 1 1 10396 20240524162152
+36.74.40.192 1 1 8212 20240507161955
+111.7.96.173 2 2 20800 20240528094040
+5.133.192.199 1 1 10397 20240511004347
+58.71.94.1 1 1 8216 20240522034311
+52.81.77.13 1 1 10398 20240513121412
+122.228.8.181 1 1 10395 20240515210024
+43.133.39.27 1 1 10399 20240522125610
+116.203.19.246 1 1 10396 20240525041127
+178.254.24.91 2 2 20800 20240526074202
+164.92.197.38 1 1 36119 20240512150955
+35.93.54.65 1 1 10395 20240515071157
+54.213.239.65 1 1 10395 20240515071204
+221.229.106.25 1 1 10398 20240506003616
+87.236.176.103 1 1 10400 20240527194615
+43.163.1.85 1 1 10394 20240503110635
+45.15.17.3 1 1 10398 20240506002942
+72.14.201.145 1 1 8212 20240508011353
+152.42.139.47 1 1 10394 20240520144750
+51.89.153.112 1 1 10395 20240529050608
+51.8.98.184 1 1 10399 20240517215357
+185.6.10.201 1 1 10399 20240505140152
+35.166.246.214 1 1 10404 20240521060433
+37.27.7.44 1 1 10429 20240512142835
+171.116.41.202 1 1 10395 20240529000445
+165.227.187.142 1 1 10399 20240506162019
+114.79.3.250 1 1 8212 20240505161842
+154.39.66.27 1 1 10394 20240503054956
+54.226.77.96 1 1 10398 20240506045132
+199.244.88.218 1 1 10395 20240529154135
+143.110.148.239 1 1 10400 20240528151605
+114.10.135.144 1 1 8218 20240526003244
+135.148.195.5 1 1 10399 20240530005419
+82.165.103.249 2 2 1605 20240529071344
+136.243.61.201 1 1 44691 20240510094246
+146.190.21.36 1 1 10398 20240510160617
+43.134.37.211 1 1 10399 20240527053241
+198.50.168.201 1 1 10394 20240520010656
+154.28.229.51 1 1 8212 20240531163101
+69.166.230.137 1 1 10392 20240523012122
+91.92.242.55 1 1 44689 20240508000702
+49.51.206.130 1 1 10399 20240530090938
+139.59.170.242 1 1 10399 20240530041254
+158.69.25.39 1 1 10395 20240516125926
+45.77.202.224 1 1 10401 20240514042126
+199.45.155.61 1 1 10398 20240501111920
+114.122.37.27 1 1 8213 20240517065737
+199.45.154.29 1 1 10398 20240509125819
+198.235.24.37 1 1 44691 20240517122254
+123.60.68.42 3 3 31192 20240531090313
+193.186.4.147 1 1 8211 20240511111635
+130.255.161.237 1 1 10400 20240530172031
+114.125.252.23 1 1 8215 20240513091258
+40.119.193.220 1 1 10398 20240510011112
+51.178.112.57 3 3 31206 20240531042328
+43.130.7.211 1 1 10402 20240511182945
+5.133.162.130 2 2 10397 20240502080049
+185.220.101.32 1 1 10394 20240502224449
+162.142.125.47 1 1 10399 20240529234944
+43.159.129.209 1 1 10394 20240508033332
+54.241.51.64 1 1 10396 20240525001448
+122.228.8.122 1 1 10397 20240519131559
+114.5.209.38 1 1 8212 20240508155632
+114.10.99.31 1 1 8213 20240503182820
+49.51.179.103 1 1 10395 20240503215507
+154.39.66.73 1 1 10395 20240503192814
+51.178.112.60 1 1 10399 20240522093607
+114.254.26.63 1 1 10399 20240531172718
+51.222.88.214 1 1 10394 20240508063146
+128.90.170.20 1 1 10404 20240521112944
+52.34.45.160 1 1 10404 20240521060434
+141.0.9.52 2 2 46520 20240514150403
+3.215.200.136 1 1 8216 20240527105617
+64.23.245.52 1 1 10398 20240510071824
+110.166.71.39 2 2 20792 20240517003655
+43.130.31.48 1 1 10395 20240529093411
+182.0.239.118 1 1 8218 20240526135642
+103.163.80.22 1 1 8216 20240522153225
+44.201.47.148 1 1 10394 20240503030755
+35.92.227.67 1 1 10392 20240523072832
+58.49.233.126 3 3 31191 20240530200718
+180.97.221.86 1 1 10398 20240501124010
+167.71.230.142 1 1 768 20240501122722
+154.28.229.232 1 1 8212 20240531203545
+51.89.157.229 1 1 10395 20240514223530
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240501 14 14 131606 12
+20240502 16 16 188038 15
+20240503 26 26 281054 11
+20240504 7 7 104885 7
+20240505 22 22 533029 17
+20240506 17 17 279649 15
+20240507 10 10 204123 7
+20240508 17 17 268689 17
+20240509 15 15 1079539 11
+20240510 9 9 152538 9
+20240511 16 16 1188444 11
+20240512 10 10 198340 10
+20240513 11 11 283660 8
+20240514 17 17 270520 16
+20240515 13 13 169430 13
+20240516 14 14 280527 11
+20240517 8 8 113097 8
+20240518 8 8 80456 5
+20240519 17 17 472280 7
+20240520 6 6 60201 6
+20240521 9 9 127922 9
+20240522 17 17 369615 13
+20240523 15 15 173260 14
+20240524 7 7 68407 7
+20240525 9 9 125676 9
+20240526 15 15 149475 15
+20240527 8 8 115306 8
+20240528 15 15 155990 7
+20240529 12 12 105563 11
+20240530 13 13 169482 13
+20240531 17 17 199597 13
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 333
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 373 5579309 328 314
+// 14 591387 1 7
+/history-result/ 10 1773006 2 5
+/live-draw/ 9 153555 1 6
+/.well-known/ 3 2304 3 2
+/.well-known/pki-validation/ 1 837 0 1
+END_SIDER

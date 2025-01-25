@@ -1,0 +1,1073 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.sloveniaprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2045                
+POS_TIME 2722                
+POS_VISITOR 29996               
+POS_DAY 39339               
+POS_DOMAIN 3522                
+POS_LOGIN 4129                
+POS_ROBOT 4284                
+POS_WORMS 5044                
+POS_EMAILSENDER 5175                
+POS_EMAILRECEIVER 5318                
+POS_SESSION 40111               
+POS_SIDER 40312               
+POS_FILETYPES 5453                
+POS_DOWNLOADS 5538                
+POS_OS 5586                
+POS_BROWSER 5925                
+POS_SCREENSIZE 7622                
+POS_UNKNOWNREFERER 7696                
+POS_UNKNOWNREFERERBROWSER 8703                
+POS_ORIGIN 9272                
+POS_SEREFERRALS 9412                
+POS_PAGEREFS 9597                
+POS_SEARCHWORDS 9851                
+POS_KEYWORDS 10003               
+POS_MISC 2386                
+POS_ERRORS 10062               
+POS_CLUSTER 3985                
+POS_SIDER_404 10168               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501012436 43 9051 9502623191968
+FirstTime 20240401015108
+LastTime 20240430225233
+LastUpdate 20240501081742 43 0 42 0 0
+TotalVisits 284                 
+TotalUnique 241                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 241                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 17 17 1250071 12 21 146613
+1 15 15 192020 10 19 90529
+2 13 13 264064 28 42 141338
+3 6 6 52863 102 107 138389
+4 10 10 118057 24 32 71230
+5 19 19 392810 259 269 392369
+6 12 12 128513 25 30 45067
+7 11 11 131237 102 108 190225
+8 7 7 61671 18 22 120285
+9 36 36 376958 40 47 1163832
+10 13 13 178774 24 30 190681
+11 11 11 212966 13 22 50633
+12 9 9 109173 25 45 220199
+13 15 15 211337 2 10 18280
+14 57 57 250788 34 98 183709
+15 7 7 59909 248 257 334821
+16 19 19 223625 10 21 100723
+17 14 14 114425 54 66 139147
+18 16 16 290484 17 27 57835
+19 4 4 35259 19 26 53156
+20 24 24 241573 23 30 89119
+21 17 17 208691 20 27 171507
+22 24 24 480567 20 29 91501
+23 26 26 208767 35 46 1195371
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 29
+us 150 150 3296994
+cn 67 67 530322
+ca 41 41 611618
+id 29 29 76509
+jp 21 21 185083
+de 15 15 132148
+nl 13 13 144482
+se 10 10 88151
+ru 9 9 135567
+gb 9 9 77486
+in 7 7 90652
+eu 4 4 63693
+hu 4 4 37885
+za 4 4 36123
+be 3 3 26432
+bg 2 2 45741
+ch 2 2 17636
+pa 1 1 8808
+fr 1 1 8803
+az 1 1 8826
+br 1 1 38712
+pl 1 1 13227
+kh 1 1 8814
+gr 1 1 8811
+ro 1 1 8814
+vn 1 1 38712
+il 1 1 8811
+au 1 1 7030
+hk 1 1 38712
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+bingbot/ 28 196837 20240430170011 0
+AhrefsBot/ 28 227888 20240429141625 0
+no_user_agent 15 580698 20240430123700 0
+Googlebot/ 11 70303 20240430210312 0
+DotBot/ 8 2211206 20240417090516 0
+bot[\s_+:,\.\;\/\\-] 6 52931 20240414141542 0
+Go\-http\-client/ 6 52842 20240425052327 0
+(firefox/)([0-9]\.|[0-1][0]\.) 4 35275 20240430165649 0
+crawl 4 63691 20240417051701 0
+MJ12bot/ 3 27301 20240429223729 0
+BLEXBot/ 3 54882 20240422121258 0
+nutch 3 27297 20240406004057 0
+survey 3 116134 20240403122354 0
+SemrushBot/ 2 46073 20240418105823 0
+link 2 8812 20240407022957 0
+YandexBot/ 1 8800 20240421152945 0
+CCBot/ 1 7028 20240414193754 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 402 5794602 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+macosx15 39 39
+macosx10 1 1
+win10 106 106
+linuxubuntu 8 8
+winxp 2 2
+android 1 1
+win7 9 9
+androidnougat 10 10
+androidhoneycomb 1 1
+winnt 7 7
+macosx 2 2
+macosx14 3 3
+android10 53 53
+winlong 3 3
+ios_iphone 65 65
+linux 33 33
+macosx11 1 1
+macosx12 2 2
+Unknown 55 55
+macosx7 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 80
+firefox40.0 2 2
+chrome74.0.3729.169 7 7
+firefox108.0 2 2
+chrome19.0.1084.9 1 1
+chrome97.0.4280.67 2 2
+chrome79.0.3945.130 2 2
+chrome91.0.4472.114 4 4
+chrome117.0.0.0 20 20
+firefox99.0 3 3
+msie6.0 1 1
+chrome105.0.0.0 6 6
+chrome34.0.1847.116 3 3
+safari13.0.3 63 63
+chrome118.0.0.0 1 1
+chrome106.0.0.0 1 1
+chrome83.0.4103.97 12 12
+chrome60.0.3112.107 9 9
+firefox97.0 1 1
+chrome51.0.2704.103 3 3
+edge18 1 1
+chrome103.0.5042.0 1 1
+firefox52.0 1 1
+chrome95.0.4638.54 1 1
+chrome81.0.4044.138 2 2
+chrome114.0.0.0 1 1
+chrome116.0.0.0 5 5
+chrome108.0.0.0 1 1
+firefox114.0 12 12
+chrome109.0.0.0 4 4
+safari10.1.1 1 1
+chrome124.0.0.0 2 2
+chrome96.0.2849 1 1
+chrome104.0.5112.79 2 2
+chrome100.0.4896.60 18 18
+safari10.1.2 1 1
+chrome66.0.3359.181 10 10
+chrome60.0.3112.113 4 4
+chrome115.0.0.0 2 2
+chrome17.0.963.56 1 1
+chrome96.0.4664.110 3 3
+firefox123.0 1 1
+firefox66.0.3 1 1
+chrome80.0.3987.149 1 1
+chrome55.0.1793 1 1
+chrome100.0.4896.127 3 3
+safari5.1 2 2
+Unknown 20 20
+firefox45.0 1 1
+firefox63.0 1 1
+chrome88.0.4324.190 1 1
+chrome123.0.0.0 40 40
+chrome103.0.5060.53 1 1
+android 1 1
+chrome62.0.631 1 1
+mozilla 29 29
+chrome94.0.4606.61 1 1
+netscape5.0 4 4
+chrome59.0.3071.125 1 1
+chrome93.0.2976 1 1
+chrome101.0.4950.0 1 1
+chrome122.0.0.0 9 9
+firefox33.0 2 2
+chrome88.0.4240.193 5 5
+chrome103.0.5060.134 1 1
+opera80.4.4244.7786 1 1
+chrome78.0.3904.108 4 4
+chrome80.0.3987.132 1 1
+chrome92.0.4515.131 1 1
+safari17.1.2 2 2
+chrome88.0.4324.150 2 2
+chrome120.0.0.0 4 4
+chrome121.0.0.0 23 23
+chrome99.0.4844.83 1 1
+firefox32.0 1 1
+chrome70.0.3538.110 1 1
+firefox117.0 10 10
+chrome91.0.4472.101 1 1
+chrome87.0.4280.88 2 2
+chrome86.0.4240.193 1 1
+firefox77.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+python-requests/2.25.1 20240413135853
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240428190824
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240425161619
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240427043919
+Embarcadero_URI_Client/1.0 20240405011101
+python-requests/2.31.0 20240423220649
+got_(https://github.com/sindresorhus/got) 20240430173904
+Mozilla/5.0_(compatible;_ips-agent) 20240418225855
+Mozilla/5.0_Firefox/33.0 20240401200347
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240426001644
+Mozilla/5.0_(compatible;_Domains_Project/1.3.7;__https://domainsproject.org) 20240413231932
+Searcherweb 20240425090415
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Searcherweb 20240425090415
+python-requests/2.31.0 20240423220649
+Embarcadero_URI_Client/1.0 20240405011101
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240426001644
+python-requests/2.25.1 20240413135853
+got_(https://github.com/sindresorhus/got) 20240430173904
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 265 265
+From1 9 9
+From2 5 5
+From3 10 10
+From4 113 113
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 4 4
+www_google_com_eg 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://jpemas.site 7 7
+https://cometojp.site 1 1
+https://www.facebook.com 1 1
+https://mogaceria.site 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 1264 1577511
+403 25 31050
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 401
+/wp-content/plugins/wp-seo-spy-google/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/wp-admin/css/colors/light/index.php 1 sloveniaprize.com
+/wp-content/wso.php 1 http://sloveniaprize.com//wp-content/wso.php
+/wp-plain.php 1 www.google.com
+/.well-known/pki-validation/cloud.php 5 http://sloveniaprize.com//.well-known/pki-validation/cloud.php
+/wp-content/plugins/apikey/apikey.php 1 -
+/wp-admin/images/xmrlpc.php 4 -
+/wp-aa.php 2 www.google.com
+/wp-login.php 2 -
+/sample.php 1 http://sloveniaprize.com//sample.php
+/wp-admin/css/.css.php 1 sloveniaprize.com
+/wp-content/inputs.php 5 www.google.com
+/wp-content/uploads/wpr-addons/forms/ 1 http://sloveniaprize.com//wp-content/uploads/wpr-addons/forms/
+/wp-includes/IXR/about.php 4 -
+/wp-content/themes/torofilm/changelog.txt 2 -
+/sites/all/modules/contrib/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-includes/Requests/Text/admin.php 4 -
+/themes.php 2 http://sloveniaprize.com//themes.php
+/a2.php 1 sloveniaprize.com
+/cloud.php 4 -
+/wp-content/plugins/seoplugins/mar.php 4 -
+/.well-known/pki-validation/xmrlpc.php 5 http://sloveniaprize.com//.well-known/pki-validation/xmrlpc.php
+/manager/ 1 -
+/wp-content/plugins/wp-statistics/readme.txt 2 -
+//wp-includes/wlwmanifest.xml 2 -
+/blog/ 1 -
+/wp-admin/css/plugins.php 1 http://sloveniaprize.com//wp-admin/css/plugins.php
+/wp-content/upgrade/edit.php 2 http://sloveniaprize.com/wp-content/upgrade/edit.php
+/img/cloud.php 4 -
+/wp-admin/index.php 1 sloveniaprize.com
+/wp-p.php7 4 -
+/author/crander/ 1 -
+//wp-json/oembed/1.0/embed 2 -
+/wp-admin/user/plugins.php 1 http://sloveniaprize.com//wp-admin/user/plugins.php
+/atomlib.php 1 sloveniaprize.com
+/wp-admin/includes/users.php 1 sloveniaprize.com
+/sitemap1.xml 1 -
+/alfanew.PHP7 1 http://sloveniaprize.com//alfanew.PHP7
+/wp-content/plugins/ern/randkeyword.php 1 -
+/wp-includes/about.php 4 -
+/wp-content/index.php 1 sloveniaprize.com
+/wp-cron.php 1 sloveniaprize.com
+//malaysiagrandlotto.com/wp-content/themes/lottery_malaysia/assets/js/lottery.js 1 -
+/wp-content/gallery/about.php 4 -
+/inputs.php 14 www.google.com
+/wp 1 -
+/libraries/vendor/updates.php 4 -
+/wp-includes/.wp-includes.php 1 sloveniaprize.com
+/author/admim/ 1 -
+//cdn.js 1 -
+/wp-content/themes/bricks/assets/css/libs/font-awesome-6.min.css 1 -
+/wp-content/plugins/ip-logger/chart/ofc_upload_image.php 1 -
+/wp-content/updraft/about.php 4 -
+/avaa.php 4 -
+/wp-consar.php 4 -
+/wp-content/plugins/ai-engine/readme.txt 3 -
+/administrator/components/com_maianmedia/utilities/charts/php-ofc-library/ofc_upload_image.php 1 -
+/administrator/ 1 -
+/wp-json/instawp-connect/v1/config 2 https://sloveniaprize.com
+/cgi-bin/cloud.php 4 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 6 http://sloveniaprize.com/wp-content/plugins/backup-backup/includes/backup-heart.php
+/libraries/phpmailer/updates.php 4 -
+/licenses.php 1 sloveniaprize.com
+/wp-content/plugins/seoplugins/db.php 4 -
+/wp-content/themes/soledad/style.css 2 -
+/wp-content/plugins/core-plugin/.nxd.php 2 http://sloveniaprize.com/wp-content/plugins/core-plugin/.nxd.php
+/wp-content/themes/about.php 8 http://sloveniaprize.com/wp-content/themes/about.php
+/wp-includes/IXR/themes.php 4 http://sloveniaprize.com/wp-includes/IXR/themes.php
+/wp-content/themes/lottery/readme.txt 2 -
+/wp-admin/includes/about.php 4 -
+/wp-admin/css/colors/index.php 5 -
+/wp-admin/network/cloud.php 4 -
+/wp-admin/user/xmrlpc.php 4 -
+/wp-admin/cloud.php 4 -
+/wp-content/plugins/core-plugin/nxd.php 2 http://sloveniaprize.com/wp-content/plugins/core-plugin/nxd.php
+/cgi-bin/xmrlpc.php 5 -
+/wp-admin/ajax-actions.php 4 -
+/admin/ 1 -
+/wp-header.php 4 http://sloveniaprize.com/wp-header.php
+/wso.php 1 http://sloveniaprize.com//wso.php
+/wp-admin/admin-ajax.php 13 -
+/wp-admin/css/colors/blue/cloud.php 4 -
+/wp-json/wp/v2/users/5 3 https://sloveniaprize.com/
+/blog 1 -
+/music/bak_config.php 1 sloveniaprize.com
+/wp-admin/css/colors/cloud.php 4 -
+/wp-content/plugins/alfa-rex.php 4 http://sloveniaprize.com/wp-content/plugins/alfa-rex.php
+/wp-admin/css/index.php 5 -
+/sitemap-index.xml 1 -
+/wp-content/banners/about.php 4 -
+/cgi-bin/upfile.php 3 sloveniaprize.com
+/cgi-bin/.cgi-bin.php 1 sloveniaprize.com
+/dede/ 1 -
+/shellv3.php 1 http://sloveniaprize.com//shellv3.php
+/.ftp-sync.json 3 -
+/wp-admin/js/widgets/xmrlpc.php 4 -
+/wp-content/themes/lottery_malaysia/readme.txt 2 -
+/wp-admin/network/xmrlpc.php 4 -
+/test 1 -
+/wp-content/themes/finley/min.php 4 http://sloveniaprize.com/wp-content/themes/finley/min.php
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-content/plugins/forminator/assets/fonts/wpmudev-plugin-icons.svg 1 -
+/wp-admin/js/.js.php 1 sloveniaprize.com
+/wp-admin/user/upfile.php 2 sloveniaprize.com
+/wp-json/wpgmza/v1/markers 1 -
+/wp-content/plugins/apikey/apikey.php.suspected 1 -
+/sitemap_index.xml.gz 1 -
+/wp-22.php 1 http://sloveniaprize.com//wp-22.php
+/wp-content/plugins/forminator/readme.txt 2 -
+/wp-admin/includes/upfile.php 1 sloveniaprize.com
+/wp-content/plugins/seo-spy-google-wordpress-plugin/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/upfile.php 1 sloveniaprize.com
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 1 -
+/wp-includes/js/wp-emoji-release.min.js 3 www.google.com
+/wp-content/plugins/work-list/lang.php 1 www.google.com
+/wp-content/plugins/seoo/wsoyanz.php 4 -
+/images/cloud.php 4 -
+/wp-admin/user/about.php 2 http://sloveniaprize.com/wp-admin/user/about.php
+/old 1 -
+/wp-admin/js/widgets/upfile.php 1 sloveniaprize.com
+/wp-content/uploads/ 1 -
+/ws.php7 4 -
+/M1.php 4 http://sloveniaprize.com/M1.php
+//malaysiagrandlotto.com/wp-content/themes/lottery/assets/js/flipclock.js 1 -
+/alfanew.php 8 http://sloveniaprize.com/alfanew.php
+/wp-admin/images/upfile.php 1 sloveniaprize.com
+/wp-includes/rest-api/about.php 4 -
+/wp-content/plugins/moveto/assets/lib/loader_ajax.php 2 https://sloveniaprize.com
+/wp-l0gin.php 1 http://sloveniaprize.com//wp-l0gin.php
+/wp-content/plugins/wp-ver.php 1 sloveniaprize.com
+/wp-content/themes/qoe/vendor/ernilambar/wp-admin-notice/src/Start-home.php 1 sloveniaprize.com
+/wp-admin/css/colors/blue/xmrlpc.php 4 -
+/wp-includes/js/jquery/jquery.js 11 www.google.com
+/.well-known/wso112233.php 4 http://sloveniaprize.com/.well-known/wso112233.php
+/wp-content/themes/pridmag/db.php 4 -
+/wp-content/plugins/about.php 4 http://sloveniaprize.com/wp-content/plugins/about.php
+/wso112233.php 2 http://sloveniaprize.com/wso112233.php
+/%5C/malaysiagrandlotto.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 1 -
+/libraries/legacy/updates.php 4 -
+/c.php 2 http://sloveniaprize.com/c.php
+/wsoyanz.php 4 -
+/images/about.php 4 -
+/wp-content/repeater.php 4 -
+/wp-includes/css/buttons.css 2 http://sloveniaprize.com//wp-includes/css/buttons.css
+/Wp-includes/amaxx.php 2 http://sloveniaprize.com/Wp-includes/amaxx.php
+/da1.php 1 sloveniaprize.com
+/wp-content/themes/seotheme/mar.php 4 -
+/wp-content/plugins/Cache/Cache.php 7 http://sloveniaprize.com//wp-content/plugins/Cache/Cache.php
+/wp-includes/images/about.php 4 -
+/wp-includes/Requests/Text/index.php 1 sloveniaprize.com
+/ebs.php7 4 -
+/wp-content/plugins/hellopress/wp_filemanager.php 2 -
+//s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js 1 -
+/license.txt 2 -
+/sitemap.php 1 -
+/wp-admin/images/cloud.php 4 -
+/wp-includes/Requests/about.php 4 -
+/sitemap.ashx 1 -
+/PHPMailer/web_config.php 1 sloveniaprize.com
+/wp-includes/images/smilies/upfile.php 1 sloveniaprize.com
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 1 -
+/wp-includes/wso.php 1 http://sloveniaprize.com//wp-includes/wso.php
+/css/xmrlpc.php 4 -
+/wp-content/uploads/sites/8/upfile.php 1 sloveniaprize.com
+/wp-info.php 3 http://sloveniaprize.com//wp-info.php
+/menu.php 2 http://sloveniaprize.com/menu.php
+/assets/plugins/fileupload/server/php/index.php 1 -
+/wp-includes/blocks/about.php 4 -
+/author/wpsecuritypatch/ 1 -
+/wp-json/wp/v2/users/4 1 https://sloveniaprize.com/
+/wp-apxupx.php 1 www.google.com
+/robots.txt 101 -
+//xmlrpc.php 4 -
+/updates.php 4 -
+/wp-admin/dropdown.php 6 http://sloveniaprize.com/wp-admin/dropdown.php
+/wp-admin/js/widgets/about.php7 4 -
+/wp-admin/css/colors/coffee/xmrlpc.php 4 -
+/sites/all/modules/plupload/plupload/examples/upload.php 1 -
+/wp-includes.bak/html-api/about.php 4 -
+/cgi-bin/about.php 4 -
+/wp-admin/js/widgets/cloud.php 4 -
+/elrte/src/elrte.src.html 1 -
+/wp-admin/css/colors/xmrlpc.php 4 -
+/wp-admin/maint/maint/ajax-actions.php 4 -
+/.env 7 -
+/php/thinkphp/aaaffff123.php 4 -
+//wp-json/wp/v2/users/ 2 -
+/author/w-padmine/ 1 -
+/cjfuns.php 2 http://sloveniaprize.com/cjfuns.php
+/wp-admin/css/colors/coffee/cloud.php 4 -
+/alfa-rex2.php7 4 -
+/wp-content/plugins/fix/up.php 2 www.google.com
+/wp-content/languages/about.php 4 -
+/wp-admin/a2.php 1 sloveniaprize.com
+/fm1.php 4 http://sloveniaprize.com/fm1.php
+/sitemap_index.xml 2 -
+/.well-known/pki-validation/about.php 8 http://sloveniaprize.com/.well-known/pki-validation/about.php
+/admin.php 15 http://sloveniaprize.com//admin.php
+/wp-admin/repeater.php 4 -
+/classwithtostring.php 1 http://sloveniaprize.com//classwithtostring.php
+/wp-content/plugins/backup-backup/includes/x 1 -
+/wp-content/blogs.dir/about.php 4 -
+/class.api.php 4 http://sloveniaprize.com/class.api.php
+/plugins/content/apismtp/apismtp.php 1 -
+/wp-admin/maint/.maint.php 1 sloveniaprize.com
+/wp-content/plugins/backup-backup/includes/T 1 -
+/wp-content/plugins/WordPressCore/ 1 http://sloveniaprize.com//wp-content/plugins/WordPressCore/
+/wp-admin/images/.images.php 1 sloveniaprize.com
+/wp-includes/style-engine/about.php 4 -
+/delete3.php 1 http://sloveniaprize.com//delete3.php
+/administrator/components/com_maian15/charts/php-ofc-library/ofc_upload_image.php 1 -
+/wp-admin/includes/xmrlpc.php 4 -
+/author/greeceman/ 1 -
+/.vscode/sftp.json 3 -
+/repeater.php 8 http://sloveniaprize.com/repeater.php
+/wp-roto/wp-admin/css/index.php 1 sloveniaprize.com
+/wp-content/plugins/chauffeur-booking-system/script/jquery.chauffeurBookingFormAdmin.js 1 sloveniaprize.com
+/wp-admin/user/cloud.php 4 -
+/wp-includes/customize/amaxx.php 2 http://sloveniaprize.com/wp-includes/customize/amaxx.php
+/wp-admin/images/admin.php 2 http://sloveniaprize.com/wp-admin/images/admin.php
+/wp-includes/certificates/plugins.php 1 http://sloveniaprize.com//wp-includes/certificates/plugins.php
+/index_sso.php 4 -
+/wp-content/themes/theme_log.php 1 sloveniaprize.com
+/alfanew2.php7 4 -
+/wp-admin/setup-config.php 1 -
+/wp-admin/network/plugins.php 1 http://sloveniaprize.com//wp-admin/network/plugins.php
+/admin 1 -
+/wp-head.php 5 http://sloveniaprize.com//wp-head.php
+/.well-known/security.txt 1 -
+/wp-content/plugins/press/wp-class.php 4 http://sloveniaprize.com/wp-content/plugins/press/wp-class.php
+/wp-admin/.wp-admin.php 1 sloveniaprize.com
+/wp-content/themes/bute/lang.php 1 www.google.com
+/dropdown.php 8 http://sloveniaprize.com/dropdown.php
+/wp-content/.wp-content.php 1 sloveniaprize.com
+/wp-content/plugins/seoo/wsoyanz1.php 4 -
+/.DS_Store 5 -
+/wp-includes/block-patterns/about.php 4 -
+/radio.php 2 sloveniaprize.com
+/.sftp-config.json 2 -
+/wp-content/themes/twentytwentythree/patterns/ 1 http://sloveniaprize.com//wp-content/themes/twentytwentythree/patterns/
+/.well-known/traffic-advice 1 -
+/images/xmrlpc.php 4 -
+/general.php 1 http://sloveniaprize.com//general.php
+/wp-admin/install.php 1 -
+/wp-includes/random_compat/about.php 2 http://sloveniaprize.com//wp-includes/random_compat/about.php
+/.well-known/acme-challenge/xmrlpc.php 5 http://sloveniaprize.com//.well-known/acme-challenge/xmrlpc.php
+/shell20211028.php 2 http://sloveniaprize.com/shell20211028.php
+/.well-known/acme-challenge/cloud.php 9 http://sloveniaprize.com//.well-known/acme-challenge/cloud.php
+/wp-content/plugins/wp-automatic/inputs.php 1 sloveniaprize.com
+/sitemapindex.xml 1 -
+/img/xmrlpc.php 4 -
+/wp-content/uploads/wp-apxupx.php 1 http://sloveniaprize.com//wp-content/uploads/wp-apxupx.php
+/wp-2019.php 2 http://sloveniaprize.com/wp-2019.php
+/yanz.php 4 -
+/wp-admin/includes/cloud.php 4 -
+/wp-includes/customize/plugins.php 1 http://sloveniaprize.com//wp-includes/customize/plugins.php
+/images/bg.jpg 67 https://sloveniaprize.com/
+/wp-includes/ID3/about.php 8 http://sloveniaprize.com/wp-includes/ID3/about.php
+/wp-includes/inputs.php 4 www.google.com
+/wp-admin/includes/plugins.php 1 http://sloveniaprize.com//wp-admin/includes/plugins.php
+/sites/all/libraries/plupload/examples/upload.php 1 -
+/admin/users/login_do/ 1 -
+/img/about.php 4 -
+/sftp.json 1 -
+/plugins/content/apismtp/apismtp.php.suspected 1 -
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/about.php 13 http://sloveniaprize.com//about.php
+/wp-includes/SimplePie/plugins.php 4 http://sloveniaprize.com/wp-includes/SimplePie/plugins.php
+/ftp-sync.json 2 -
+/author/superadmin/ 1 -
+/cgi-bin/themes.php 1 http://sloveniaprize.com//cgi-bin/themes.php#xleet
+/wp-content/plugins/blogroll-to-page/blogroll-to-page.php 1 -
+/wp-admin/images/index.php 4 -
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 2 http://sloveniaprize.com/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+/wp-content/plugins/backup-backup/includes/ 2 http://sloveniaprize.com/wp-content/plugins/backup-backup/includes/
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 7 www.google.com
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 3 www.google.com
+/xmrlpc.php 4 -
+/wp-json/wp/v2/users/2 1 https://sloveniaprize.com/
+/wp-content/mah.php 1 http://sloveniaprize.com//wp-content/mah.php
+/wp-admin/includes/.includes.php 1 sloveniaprize.com
+/blog/wp-login.php 1 -
+/ads.txt 3 http://sloveniaprize.com/ads.txt
+/alfa-rex.php7 4 -
+/wp-admin/images/Mhbgf.php 1 http://sloveniaprize.com//wp-admin/images/Mhbgf.php
+/wp-content/plugins/formidable/pro/js/ofc-library/ofc_upload_image.php 1 -
+/wp-content/plugins/genesis-simple-share/includes/class-genesis-simple-share-view.php 1 sloveniaprize.com
+/index.php 8 sloveniaprize.com
+/wp-json 11 -
+/administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 1 -
+/wp-admin/css/colors/coffee/profile.php 1 http://sloveniaprize.com//wp-admin/css/colors/coffee/profile.php
+/sitemap.xml 15 -
+/style.php 6 www.google.com
+/css/cloud.php 4 -
+/wp-json/wp/v2/users/1 2 https://sloveniaprize.com/
+/sitemap 2 -
+/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 2 http://sloveniaprize.com/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+/wp-content/upgrade-temp-backup/about.php 5 http://sloveniaprize.com//wp-content/upgrade-temp-backup/about.php
+/wp-admin/css/colors/blue/ 1 http://sloveniaprize.com//wp-admin/css/colors/blue/
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 1 -
+/wp-json/wp/v2/users/3 3 https://sloveniaprize.com/
+/sitemap/sitemap.xml 1 -
+/admin/index.php 1 -
+/author/stender/ 1 -
+/user/ 1 -
+/wp-content/plugins/miniorange-malware-protection/includes/js/phone.js 1 -
+/new 1 -
+/wp-content/plugins/core/include.php 4 http://sloveniaprize.com/wp-content/plugins/core/include.php
+/wp-content/themes/plugins.php 1 http://sloveniaprize.com//wp-content/themes/plugins.php
+/wp-content/ 2 -
+/wp-seo.php 1 http://sloveniaprize.com//wp-seo.php
+/wp-checkbex.php 2 -
+/wp-admin/js/about.php 8 -
+/users.php 1 http://sloveniaprize.com//users.php
+/wp-content/themes/twentytwentytwo/inputs.php 1 sloveniaprize.com
+/wp-admin/images/about.php 4 -
+/components/com_joomleague/assets/classes/open-flash-chart/ofc_upload_image.php 1 -
+/sftp-config.json 3 -
+/xmlrpc.php 2 -
+/wp-admin/css/colors/blue/index.php 1 sloveniaprize.com
+/wordpress 1 -
+/wp-includes/ID3/wp-login.php 4 http://sloveniaprize.com/wp-includes/ID3/wp-login.php
+/user/login/ 1 -
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php 2 http://sloveniaprize.com/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php
+/.well-known/pki-validation/upfile.php 1 sloveniaprize.com
+/wp-admin/network/amaxx.php 2 http://sloveniaprize.com/wp-admin/network/amaxx.php
+/.well-known/acme-challenge/upfile.php 1 sloveniaprize.com
+/phpmyadmin/index.php 4 -
+/install.php 2 http://sloveniaprize.com/install.php
+/sitemap.txt 3 -
+/wp-includes/widgets/index.php 1 sloveniaprize.com
+/wp-content/about.php 5 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/ajax-actions.php 4 -
+/wp-includes/ID3/plugins.php 1 http://sloveniaprize.com//wp-includes/ID3/plugins.php
+/components/com_jvideodirect/tools/uploader/php/upload.php 1 -
+/text.php 3 http://sloveniaprize.com//text.php
+/.quarantine/upfile.php 1 sloveniaprize.com
+/sitemaps.xml 2 -
+/author/wpadminne/ 1 -
+/images/toggige-arrow.jpg 1 sloveniaprize.com
+/wp-admin/inputs.php 7 www.google.com
+/cqisqbra.php 1 www.google.com
+/wp-content/shell20211028.php 2 http://sloveniaprize.com/wp-content/shell20211028.php
+/wp-content/themes/seotheme/db.php 6 www.google.com
+/.vscode/.sftp.json 1 -
+/wp-content/plugins/gotmls/readme.txt 1 -
+/admin-post.php 4 -
+/wp-includes/theme-compat/network.php 1 http://sloveniaprize.com//wp-includes/theme-compat/network.php
+/wp-content/plugins/spamtask/chart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/about.php7 4 -
+/wp-ver.php 1 sloveniaprize.com
+/alfanew.php7 8 http://sloveniaprize.com/alfanew.php7
+/wp-admin/edit-forms.php 1 sloveniaprize.com
+/wp-includes/SimplePie/about.php 4 -
+/wp-includes/customize/about.php 4 -
+/wp-includes/ 2 -
+/wp-includes/theme-compat/wp-conflg.php 2 http://sloveniaprize.com/wp-includes/theme-compat/wp-conflg.php
+/wp-admin/mb.php 1 sloveniaprize.com
+/wp-includes/pomo/about.php 4 -
+/chosen.php 16 -
+/ioxi02.php 2 http://sloveniaprize.com/ioxi02.php
+/wp-includes/js/jquery/jquery.min.js 4 www.google.com
+/wp-includes/Text/about.php 4 -
+/_well-known/amaxx.php 2 http://sloveniaprize.com/_well-known/amaxx.php
+/nf_tracking.php 1 http://sloveniaprize.com//nf_tracking.php
+/wp-includes/widgets/about.php 4 -
+/wp-includes/repeater.php 4 -
+/.vscode/ftp-sync.json 2 -
+/.well-known/acme-challenge/plugins.php 1 http://sloveniaprize.com//.well-known/acme-challenge/plugins.php
+/wp-content/plugins/ern/bypmini.php 1 -
+/wp-atom.php 1 sloveniaprize.com
+/wp-content/plugins/royal-elementor-addons/readme.txt 4 -
+/wp-woulds.php 1 sloveniaprize.com
+/.well-known/about.php 4 -
+/wp-content/plugins/wp-meta-seo/readme.txt 2 -
+/media/system/js/core.js 3 -
+/sitemap.xml.gz 4 -
+/wp-uploads-config.php 1 http://sloveniaprize.com//wp-uploads-config.php
+/wp-content/updates.php 4 -
+/wp-json/litespeed/v1/cdn_status 15 -
+/author/wpservices/ 1 -
+/humans.txt 2 http://sloveniaprize.com/humans.txt
+/wp-content/plugins/background-image-cropper/ 1 http://www.google.com
+/wp-content/plugins/linkpreview/db.php 4 -
+/wp-includes/wp-class.php 1 http://sloveniaprize.com//wp-includes/wp-class.php
+/administrator/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-content/admin.php 1 www.google.com
+/cache-compat.php 4 -
+/autoload_classmap.php 2 http://sloveniaprize.com/autoload_classmap.php
+/wp-admin/css/about.php 4 -
+/freichat/client/plugins/upload/upload.php 2 -
+/wp-admin/xmrlpc.php 4 -
+/cjfuns%20.php 2 http://sloveniaprize.com/cjfuns%20.php
+/sitemap/index.xml 1 -
+/simple.php 10 http://sloveniaprize.com/simple.php
+/adminfuns.php7 4 -
+/radio.txt 1 sloveniaprize.com
+/shop 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 241
+142.198.109.116 18 18 109792 20240413231932
+140.213.106.83 13 13 27298 20240426145815
+192.95.30.227 11 11 97077 20240424152212
+54.88.179.33 10 10 387120 20240425135634
+35.171.144.152 8 8 309696 20240425135633
+146.70.212.85 8 8 68676 20240428162651
+139.180.164.155 7 7 61656 20240406091333
+114.10.143.229 7 7 14055 20240416144138
+154.12.225.94 7 7 61649 20240403095256
+213.202.233.34 7 7 61659 20240425191541
+116.206.14.36 6 6 7028 20240426145625
+34.150.138.167 5 5 193550 20240417023457
+122.180.182.169 4 4 34328 20240422211223
+137.226.113.44 4 4 35247 20240425161619
+143.198.85.181 4 4 154848 20240410224554
+118.194.231.231 4 4 65112 20240422123523
+165.232.119.192 4 4 1105602 20240419003459
+72.13.46.2 3 3 26429 20240418225855
+178.254.24.91 3 3 26434 20240419230055
+178.62.82.141 3 3 54885 20240428233649
+116.206.14.41 3 3 14055 20240430145551
+35.88.59.30 3 3 21081 20240406063312
+196.136.96.143 3 3 27297 20240412171354
+116.206.15.6 3 3 0 20240401145442
+69.160.160.54 3 3 53097 20240417051731
+36.99.136.128 1 1 8808 20240430013927
+34.38.181.30 1 1 8821 20240423015736
+52.10.131.169 2 2 17614 20240403102651
+43.163.8.148 1 1 8808 20240430080251
+192.36.109.129 1 1 8814 20240412154817
+198.54.132.241 1 1 8811 20240424031355
+34.222.79.52 2 2 17614 20240403084904
+130.255.166.82 1 1 8825 20240418051027
+167.172.53.47 1 1 8810 20240425201227
+199.45.154.52 1 1 8808 20240406050103
+185.220.101.56 1 1 8829 20240410200901
+43.155.138.79 1 1 8825 20240418023307
+84.38.188.16 1 1 38712 20240421214840
+65.21.143.178 1 1 8814 20240415055926
+42.83.147.34 2 2 17626 20240430210128
+62.141.44.236 1 1 8808 20240429220011
+43.159.128.149 1 1 8806 20240416173731
+89.248.174.182 2 2 17616 20240406061924
+159.203.8.137 1 1 8806 20240401203516
+50.3.196.172 2 2 8814 20240415143125
+193.233.231.22 1 1 8829 20240411004544
+199.249.230.120 1 1 8807 20240402185018
+45.15.17.3 1 1 8819 20240430170051
+34.221.60.121 1 1 8821 20240423065406
+58.49.233.126 1 1 8815 20240429084954
+81.200.156.80 1 1 7028 20240425112000
+43.130.31.48 1 1 8819 20240404191626
+198.235.24.38 1 1 38712 20240419131032
+205.210.31.56 1 1 38710 20240410103922
+34.219.81.118 1 1 8812 20240401093405
+43.128.110.17 2 2 17643 20240423045736
+43.128.100.206 1 1 8810 20240426021029
+64.227.149.148 1 1 8800 20240421223524
+107.178.207.139 1 1 8810 20240426070835
+162.142.125.217 1 1 8808 20240406053654
+38.122.112.147 1 1 8814 20240413003536
+65.154.226.169 1 1 8810 20240421070323
+124.156.193.7 1 1 8825 20240409050605
+188.166.87.205 1 1 8822 20240407214758
+103.20.82.155 1 1 8814 20240415012904
+123.160.221.133 1 1 8814 20240414160301
+8.41.221.56 2 2 47520 20240401200347
+36.133.172.82 1 1 8812 20240401052921
+54.244.42.150 1 1 8815 20240429091023
+67.220.86.160 1 1 8800 20240422093433
+182.42.111.156 1 1 8812 20240420040655
+185.100.87.144 1 1 8814 20240413135853
+34.222.7.211 2 2 17638 20240405100309
+54.190.191.145 1 1 8815 20240429091022
+52.81.203.9 2 2 17624 20240427143744
+93.158.90.73 1 1 8815 20240428155107
+188.225.60.227 1 1 7028 20240425111053
+114.96.103.33 1 1 8825 20240417150034
+154.28.229.185 1 1 7031 20240402140618
+182.43.70.143 1 1 8808 20240425143716
+116.206.14.17 1 1 7031 20240411145722
+89.248.174.11 1 1 8805 20240409174628
+185.241.208.232 1 1 8807 20240402185028
+203.2.64.59 2 2 17629 20240413074518
+212.25.25.162 1 1 8829 20240415204514
+18.144.147.59 1 1 8819 20240405111054
+129.226.158.26 1 1 8814 20240412215047
+161.35.183.108 1 1 8825 20240417222117
+3.239.100.9 1 1 7029 20240430173904
+202.74.40.142 1 1 38712 20240429063249
+44.229.15.179 1 1 38712 20240411051817
+52.81.87.90 1 1 8805 20240410124410
+42.83.147.56 2 2 17630 20240411174529
+125.164.19.15 2 2 0 20240409145733
+43.163.1.85 2 2 17623 20240412024330
+138.197.139.146 1 1 8810 20240420214839
+54.245.73.220 1 1 8806 20240417105719
+43.163.3.58 1 1 8806 20240402002854
+146.190.242.93 1 1 8826 20240413202637
+192.42.116.211 2 2 17624 20240407102613
+129.226.146.179 2 2 17648 20240427124644
+106.227.49.113 1 1 8807 20240403140225
+5.133.192.140 1 1 8808 20240406080156
+41.203.16.186 1 1 8826 20240414042318
+109.205.213.18 1 1 8826 20240414020044
+199.45.155.34 1 1 8824 20240427043919
+158.69.247.77 1 1 8825 20240409015636
+146.190.240.183 1 1 8825 20240418073632
+185.107.44.94 1 1 38714 20240402145021
+35.88.171.241 1 1 8814 20240415071247
+222.79.103.59 2 2 17651 20240418110046
+154.39.66.38 1 1 8826 20240414084025
+198.235.24.162 1 1 38710 20240417103718
+43.157.40.112 1 1 8825 20240409135845
+135.148.195.5 2 2 17624 20240421121748
+198.235.24.119 1 1 38712 20240424161216
+117.214.125.184 1 1 8803 20240419071217
+43.155.169.133 1 1 8819 20240430200749
+15.204.182.106 2 2 17612 20240401222815
+118.69.175.73 1 1 38712 20240413121609
+123.187.240.242 1 1 8808 20240424160135
+185.220.101.32 1 1 8800 20240422124710
+87.236.176.217 1 1 8806 20240417062921
+161.35.146.240 1 1 8808 20240429220734
+146.190.250.215 1 1 8829 20240415211000
+64.23.214.57 1 1 8822 20240404102612
+158.69.25.39 1 1 8808 20240429205843
+38.150.5.90 1 1 8808 20240430003952
+182.42.105.85 1 1 8812 20240419170243
+182.2.74.148 2 2 14071 20240401145241
+192.200.97.154 1 1 8808 20240406022444
+43.134.142.8 1 1 8807 20240402185849
+198.235.24.53 1 1 38714 20240415221558
+91.92.247.48 1 1 38710 20240403091414
+89.248.174.34 1 1 8822 20240408011137
+91.92.242.243 1 1 7031 20240412053453
+134.122.39.72 1 1 8811 20240423214541
+182.44.9.147 2 2 17623 20240423171933
+43.135.166.178 1 1 8812 20240420135117
+124.225.164.130 1 1 8806 20240417043226
+65.108.93.62 1 1 8811 20240423213504
+188.166.44.33 1 1 8812 20240407090911
+128.90.170.38 2 2 17632 20240417052233
+13.52.101.62 1 1 8810 20240426134218
+89.248.172.174 1 1 8822 20240408142910
+192.36.109.127 1 1 8811 20240423183057
+37.76.154.94 1 1 38712 20240426044150
+178.62.13.151 1 1 8808 20240405221740
+45.138.16.230 1 1 8807 20240402185026
+223.15.245.170 1 1 8808 20240406004152
+64.225.15.165 1 1 8812 20240419204950
+89.23.107.251 1 1 8822 20240408133606
+43.163.8.36 1 1 8822 20240408091648
+89.248.172.115 2 2 17640 20240414135813
+222.79.104.23 1 1 8826 20240413174420
+116.206.14.18 1 1 7027 20240402150737
+34.222.68.161 2 2 17616 20240425091026
+5.133.192.99 1 1 8825 20240417230938
+87.236.176.236 1 1 8815 20240428190824
+125.164.17.113 2 2 0 20240410145217
+170.106.171.77 1 1 8807 20240403044712
+4.185.168.246 1 1 769 20240424174044
+35.88.72.133 1 1 8819 20240405091640
+69.10.48.160 1 1 38712 20240420015859
+199.45.155.48 1 1 8800 20240422092102
+164.90.184.44 1 1 8805 20240409203621
+198.235.24.222 1 1 38712 20240411164445
+206.72.195.45 1 1 38714 20240402092901
+175.6.217.4 1 1 8815 20240428222409
+185.12.248.5 1 1 8812 20240407014557
+182.42.104.32 1 1 8811 20240428105317
+36.74.40.178 1 1 7029 20240422145106
+38.45.127.226 1 1 8819 20240430225233
+5.133.192.138 1 1 8811 20240423185552
+150.109.13.194 1 1 8812 20240407135701
+180.97.221.86 1 1 8808 20240429211741
+52.80.71.82 1 1 8812 20240419155840
+205.210.31.253 1 1 38712 20240412052644
+93.158.91.32 1 1 8815 20240429143102
+35.92.43.217 1 1 8812 20240401105038
+205.210.31.228 1 1 38712 20240426001644
+116.206.15.39 1 1 7027 20240412145030
+182.44.2.148 1 1 8803 20240418202707
+37.111.206.28 2 2 20259 20240421070148
+114.142.172.31 1 1 7030 20240419145126
+205.210.31.88 1 1 38710 20240402210003
+187.79.81.149 1 1 38712 20240405011101
+154.28.229.148 1 1 7031 20240402140617
+101.91.148.219 1 1 8806 20240402093320
+43.135.181.13 1 1 8822 20240408002256
+36.99.136.137 1 1 8814 20240414160259
+182.42.111.213 1 1 8814 20240415092250
+125.94.144.102 1 1 8800 20240421212134
+114.80.36.40 1 1 8829 20240411060854
+34.219.165.252 1 1 8825 20240409010914
+43.130.39.101 1 1 8803 20240419063056
+35.89.184.240 2 2 17624 20240407093650
+165.227.69.63 1 1 8815 20240411201902
+45.154.35.141 1 1 38714 20240406182312
+113.141.91.58 3 3 26428 20240424042822
+2.58.56.191 1 1 8811 20240427211509
+166.1.135.185 1 1 0 20240421052256
+193.186.4.98 1 1 13227 20240429102137
+35.89.31.193 1 1 8821 20240423065404
+35.166.248.5 1 1 8812 20240401093406
+43.128.100.220 1 1 8800 20240422065440
+154.28.229.54 1 1 7027 20240402165123
+49.7.227.204 3 3 26455 20240426134046
+138.68.100.201 1 1 8822 20240403204101
+36.99.136.129 1 1 8808 20240430013926
+179.43.191.18 1 1 8808 20240425090415
+43.135.129.233 1 1 8815 20240412120739
+62.77.154.96 2 2 17626 20240423220649
+34.220.46.46 1 1 8814 20240415071251
+42.83.147.53 3 3 26430 20240422233456
+52.43.199.58 1 1 8819 20240405091644
+205.210.31.183 1 1 38712 20240405184255
+15.204.194.30 1 1 8815 20240429031527
+36.134.147.75 2 2 17622 20240429204819
+178.128.246.65 1 1 8811 20240427223057
+94.103.124.90 1 1 8807 20240402185016
+45.77.234.190 1 1 8811 20240427223804
+163.5.108.18 1 1 8803 20240419074312
+180.253.166.153 1 1 7028 20240415144847
+93.174.93.127 1 1 8805 20240410070722
+170.106.159.160 1 1 8825 20240408185658
+14.215.163.132 1 1 8811 20240428000336
+93.158.91.19 1 1 8815 20240412035724
+135.148.195.13 1 1 8822 20240407180930
+206.168.34.190 1 1 8800 20240422084048
+140.213.107.135 1 1 7028 20240414145256
+203.33.203.148 1 1 8822 20240404095015
+104.238.189.239 1 1 8811 20240428142407
+199.244.88.222 1 1 8806 20240416234112
+43.159.141.180 1 1 8810 20240421004319
+44.221.62.25 1 1 8808 20240425021231
+87.236.176.49 1 1 8811 20240428022605
+3.101.14.196 1 1 8815 20240412112051
+104.28.250.135 2 2 7030 20240405135452
+43.133.77.230 1 1 8808 20240425033100
+49.51.179.103 1 1 8821 20240422172527
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240401 16 16 140881 11
+20240402 14 14 205901 14
+20240403 17 17 179637 9
+20240404 5 5 44104 5
+20240405 16 16 339736 11
+20240406 19 19 191915 11
+20240407 11 11 96952 9
+20240408 6 6 52935 6
+20240409 10 10 59936 8
+20240410 21 21 317068 9
+20240411 12 12 163818 11
+20240412 12 12 132955 10
+20240413 30 30 365086 12
+20240414 9 9 77612 9
+20240415 13 13 133912 12
+20240416 10 10 40473 4
+20240417 20 20 471998 13
+20240418 12 12 165562 10
+20240419 14 14 1221804 11
+20240420 4 4 65146 4
+20240421 9 9 103001 8
+20240422 17 17 176911 11
+20240423 10 10 88150 10
+20240424 10 10 169762 8
+20240425 13 13 170758 12
+20240426 25 25 146990 8
+20240427 7 7 61729 7
+20240428 18 18 185250 9
+20240429 12 12 140054 12
+20240430 10 10 84566 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 2
+30s-2mn 2
+0s-30s 275
+15mn-30mn 1
+5mn-15mn 3
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 364 4244151 282 271
+/live-draw/ 16 125098 0 2
+/history-result/ 16 1231030 1 8
+// 5 193554 0 2
+/.well-known/ 1 769 1 1
+END_SIDER

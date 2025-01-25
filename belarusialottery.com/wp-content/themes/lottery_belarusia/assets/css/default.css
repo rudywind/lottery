@@ -1,0 +1,239 @@
+/**** begin countdown colors ****/
+.flip-clock-wrapper ul,
+.flip-clock-wrapper ul li a div div.inn,
+.flip-clock-divider .flip-clock-dot {
+	background-color: var(--flipclock-bg-color);
+}
+.flip-clock-wrapper ul li a div div.inn {
+	color: var(--flipclock-color);
+}
+/**** endof countdown colors ****/
+
+/**** begin custom style ****/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+hr {
+    border-bottom: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+    border-style: dashed;
+    border-width: 3px;
+}
+
+header {
+    display: block;
+    position: relative;
+}
+header .logo-wrapper {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 150px;
+}
+header .logo-wrapper img {
+    width: 100%;
+}
+header .navbar-header .navbar-nav > .nav-item {
+    margin-right: 10px;
+}
+header .navbar-header .navbar-nav > .nav-item:last-child {
+    margin-right: 0;
+}
+header .navbar-header .navbar-nav > .nav-item > .nav-link {
+    padding: 0 15px;
+    background-image: var(--gradient-3);
+    border-radius: 50px 8px 50px 8px;
+    color: var(--color-9);
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 35px;
+}
+header .navbar-header .navbar-nav > .nav-item.active > .nav-link {
+    background-image: var(--gradient-2);
+}
+header .marquee-wrapper {
+    display: block;
+    position: relative;
+    border-radius: 12px 3px 0 0;
+    z-index: 1;
+}
+header .marquee-wrapper::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -10px;
+    bottom: 0;
+    width: 50px;
+    height: auto;
+    background-color: var(--color-6);
+    border-radius: 12px 0 0 0;
+    transform: skewX(-15deg);
+    z-index: -1;
+}
+
+section {
+    display: block;
+    position: relative;
+}
+section.content-wrapper {
+    min-height: 100px;
+    background-image: url(../images/bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section .welcome-wrapper {
+    display: block;
+    position: relative;
+    max-width: 650px;
+}
+section .welcome-wrapper .welcome-title,
+section .welcome-wrapper .welcome-subtitle,
+section .welcome-wrapper .welcome-description {
+    display: block;
+    position: relative;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.12;
+}
+section .welcome-wrapper .welcome-subtitle {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1;
+}
+section .welcome-wrapper .welcome-description {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 1;
+}
+section .welcome-image {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 300px;
+}
+section .page-title,
+section .page-subtitle {
+    display: block;
+    position: relative;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.12;
+}
+section .page-subtitle {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1;
+}
+section .banner-wrapper {
+    display: block;
+    position: relative;
+    margin-bottom: -100px;
+    padding: 20px;
+    background-color: var(--color-9);
+    background-image: url(../images/bg-shape.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    z-index: 99;
+}
+section .banner-wrapper .banner-item {
+    display: block;
+    position: relative;
+}
+section .banner-wrapper .banner-item .banner-number {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: rgba(0, 0, 0, 0.35);
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 1;
+}
+section .banner-wrapper .banner-item .banner-icon {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    width: 50px;
+    height: 50px;
+}
+section .banner-wrapper .banner-item .banner-icon img {
+    width: 100%;
+}
+
+footer {
+    display: block;
+    position: relative;
+    padding-top: 100px;
+}
+footer .logo-wrapper {
+    display: block;
+    position: relative;
+    max-width: 150px;
+}
+footer .logo-wrapper img {
+    width: 100%;
+}
+footer .logo-wrapper img {
+    width: 100%;
+}
+footer .icon-wrapper {
+    display: block;
+    position: relative;
+}
+footer .icon-wrapper .img-icon {
+    padding: 3px;
+    width: 50px;
+    background-color: var(--white);
+    border-radius: 6px;
+}
+footer .menu-wrapper {
+    display: block;
+    position: relative;
+    min-width: 250px;
+}
+footer .navbar-quicklink .navbar-nav > .nav-item > .nav-link {
+    padding: 4px 0;
+    color: var(--white);
+}
+footer .navbar-footer .navbar-nav > .nav-item > .nav-link {
+    padding: 0 10px;
+    color: var(--white);
+}
+footer .navbar-footer .navbar-nav > .nav-item:first-child > .nav-link {
+    padding-left: 0;
+}
+footer .navbar-footer .navbar-nav > .nav-item:last-child > .nav-link {
+    padding-right: 0;
+}
+
+footer .navbar-footer .navbar-nav > .nav-item.active > .nav-link {
+    color : var(--color-4);
+}
+
+.line-height-1 {
+    line-height: 1 !important;
+}
+
+.pagination .paginate_button a {
+    background-color: var(--color-7) !important;
+    border-color: var(--color-7) !important;
+    box-shadow: none !important;
+    color: var(--color-9) !important;
+    outline: none !important;
+}
+.pagination .paginate_button.active a {
+    background-color: var(--color-7) !important;
+    border-color: var(--color-7) !important;
+    box-shadow: none !important;
+    color: var(--color-9) !important;
+    font-weight: 700;
+    outline: none !important;
+}
+/**** endof custom style ****/

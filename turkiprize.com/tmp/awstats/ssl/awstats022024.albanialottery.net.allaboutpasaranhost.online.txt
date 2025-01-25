@@ -1,0 +1,933 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202402 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.albanialottery.net.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2046                
+POS_TIME 2724                
+POS_VISITOR 17049               
+POS_DAY 28665               
+POS_DOMAIN 3515                
+POS_LOGIN 4086                
+POS_ROBOT 4241                
+POS_WORMS 4887                
+POS_EMAILSENDER 5018                
+POS_EMAILRECEIVER 5161                
+POS_SESSION 29447               
+POS_SIDER 29626               
+POS_FILETYPES 5296                
+POS_DOWNLOADS 5382                
+POS_OS 5430                
+POS_BROWSER 5850                
+POS_SCREENSIZE 8471                
+POS_UNKNOWNREFERER 8545                
+POS_UNKNOWNREFERERBROWSER 9269                
+POS_ORIGIN 9788                
+POS_SEREFERRALS 9928                
+POS_PAGEREFS 10181               
+POS_SEARCHWORDS 10410               
+POS_KEYWORDS 10562               
+POS_MISC 2388                
+POS_ERRORS 10621               
+POS_CLUSTER 3942                
+POS_SIDER_404 10725               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240301002435 24 4561 15083573872159
+FirstTime 20240201014853
+LastTime 20240229224933
+LastUpdate 20240301071740 24 0 23 0 0
+TotalVisits 561                 
+TotalUnique 298                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 298                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 13 317603 5 10 11083
+1 20 20 218206 19 29 142839
+2 24 24 364736 28 46 101266
+3 25 25 287051 71 80 975082
+4 21 21 300602 3 14 13126
+5 31 31 430420 15 31 27610
+6 26 26 342131 13 25 64109
+7 19 19 314981 22 33 90688
+8 31 31 696670 20 29 40218
+9 24 24 514716 18 22 24404
+10 58 58 875335 20 35 130269
+11 24 24 410468 13 22 42138
+12 25 25 426684 17 24 65662
+13 54 54 718805 16 19 37030
+14 35 35 1473902 16 26 106185
+15 9 9 139928 10 13 60834
+16 17 17 216281 8 14 137437
+17 35 35 413425 4 35 53950
+18 27 27 394117 24 36 88193
+19 43 43 474225 18 23 119723
+20 26 26 445349 21 36 96792
+21 37 37 393296 17 28 71984
+22 26 26 409790 22 32 264935
+23 18 18 240584 6 31 42299
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 25
+us 195 195 4084666
+jp 160 160 1815975
+cn 67 67 758310
+ru 50 50 623155
+fr 49 49 1752429
+kh 32 32 180367
+ca 15 15 370271
+gb 15 15 299196
+bg 12 12 155602
+ro 12 12 258201
+lt 10 10 82643
+my 9 9 38440
+se 9 9 82407
+de 9 9 111308
+in 7 7 59636
+sc 4 4 34804
+br 3 3 28517
+il 2 2 19355
+nl 2 2 18274
+au 1 1 7311
+id 1 1 7327
+al 1 1 7321
+ua 1 1 9158
+rs 1 1 7321
+jo 1 1 7311
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+Googlebot/ 24 124308 20240229012037 0
+no_user_agent 18 698930 20240226223811 0
+DuckDuckGo\-Favicons\-Bot/ 6 54959 20240222121123 0
+YandexBot/ 5 104228 20240205222024 0
+crawl 4 65859 20240216203150 0
+MJ12bot/ 4 33997 20240224135651 0
+DotBot/ 3 920639 20240229035100 0
+nbot 3 56701 20240208223714 0
+Go\-http\-client/ 3 27478 20240229113406 0
+bot[\s_+:,\.\;\/\\-] 2 16479 20240225080843 0
+AhrefsBot/ 1 7321 20240229220241 0
+bingbot/ 1 9161 20240213135910 0
+java 1 38833 20240208073754 0
+curl 1 9159 20240225022646 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 668 10819305 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 25
+win8.1 1 1
+win8 1 1
+winnt 6 6
+macosx15 22 22
+win2003 2 2
+winxp 7 7
+macosx12 1 1
+macosx 21 21
+androidlollipop 1 1
+android 13 13
+winlong 1 1
+androideclair 1 1
+androidoreo 3 3
+win7 12 12
+macosx11 1 1
+linux 56 56
+ios_ipad 1 1
+ios_iphone 228 228
+Unknown 26 26
+winvista 1 1
+androidmarshmallow 8 8
+android10 15 15
+androidnougat 5 5
+win10 227 227
+androidpie 8 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 120
+chrome92.0.4515.159 2 2
+chrome106.0.0.0 1 1
+chrome116.0.0.0 4 4
+firefox122.0 2 2
+chrome96.0.4664.104 8 8
+chrome81.0.438 1 1
+opera61.2.3076.56749 1 1
+chrome121.0.6167.160 2 2
+chrome122.0.0.0 13 13
+chrome96.0.4664.110 5 5
+chrome121.0.6167.164 1 1
+opera93.0.0.0 1 1
+chrome78.0.3904.108 6 6
+chrome76.0.3809.111 1 1
+chrome80.0.3987.87 1 1
+netscape5.0 1 1
+chrome92.0.4515.107 2 2
+chrome44.0.2403.157 1 1
+chrome101.0.4951.54 1 1
+chrome78.0.2454.88 1 1
+firefox108.0 8 8
+safari15.6 1 1
+chrome51.0.2704.106 57 57
+chrome83.0.4103.97 10 10
+safari10.1.1 1 1
+chrome88.0.4240.193 5 5
+chrome112.0.0.0 2 2
+chrome74.0.2878.88 1 1
+chrome54.0.1079.133 1 1
+firefox121.0 1 1
+chrome77.0.3865.75 1 1
+safari17.3.1 5 5
+chrome104.0.5112.79 1 1
+chrome87.0.4280.88 4 4
+chrome74.0.3729.169 3 3
+firefox118.0 1 1
+chrome87.0.4280.141 1 1
+chrome19.0.1062.0 1 1
+chrome72.0.3626.121 1 1
+chrome104.0.5112.101 1 1
+chrome56.0.1240 1 1
+firefox58.0 1 1
+chrome79.0.3945.130 1 1
+android 1 1
+chrome74.0.3346.88 1 1
+chrome109.0.0.0 1 1
+chrome72.0.1215 1 1
+chrome11.0.696.71 2 2
+chrome89.0.4389.82 1 1
+firefox47.0 1 1
+chrome81.0.4044.138 10 10
+chrome89.0.4389.114 10 10
+chrome97.0.179 1 1
+chrome100.0.4896.60 21 21
+chrome81.0.4044.117 2 2
+chrome79.0.3945.136 3 3
+opera89.0.4447.51 10 10
+chrome91.0.4472.114 3 3
+firefox54.0 1 1
+chrome80.0.3987.162 5 5
+chrome81.0.4044.111 1 1
+firefox86.0 1 1
+chrome83.0.4103.106 1 1
+chrome75.0.1484.88 1 1
+chrome97.0.4280.67 2 2
+chrome86.0.4240.198 1 1
+chrome119.0.6045.199 2 2
+chrome121.0.0.0 24 24
+chrome70.0.3538.77 1 1
+safari 1 1
+chrome78.0.3661.88 1 1
+chrome100.0.4896.127 1 1
+chrome114.0.0.0 13 13
+chrome115.0.0.0 1 1
+chrome105.0.0.0 5 5
+chrome95.0.4624.0 1 1
+firefox117.0 1 1
+chrome75.0.2790.88 1 1
+chrome79.0.3945.79 1 1
+chrome87.0.4280.66 1 1
+chrome77.0.3480.88 1 1
+safari13.0.3 222 222
+chrome84.0.4147.89 1 1
+mozilla 7 7
+chrome85.0.4183.127 2 2
+chrome79.0.1548.88 1 1
+chrome85.0.4183.121 1 1
+opera60.3.3004.55692 1 1
+chrome83.0.4103.61 2 2
+chrome66.0.3359.158 1 1
+chrome97.0.4692.71 2 2
+chrome75.0.3770.143 1 1
+chrome75.0.3759.88 1 1
+chrome61.0.3163.100 1 1
+chrome71.0.3578.80 1 1
+chrome117.0.5938.132 4 4
+msie9.0 1 1
+chrome108.0.0.0 19 19
+chrome118.0.0.0 4 4
+firefox114.0 10 10
+chrome95.0.4638.54 2 2
+chrome83.0.4103.116 1 1
+msie7.0 2 2
+chrome71.0.1690.88 1 1
+safari16.1 2 2
+chrome93.0.706 1 1
+firefox52.0 1 1
+chrome117.0.0.0 2 2
+chrome86.0.4240.110 1 1
+chrome84.0.4147.111 1 1
+firefox29.0 1 1
+chrome94.0.4606.61 33 33
+Unknown 18 18
+firefox113.0 1 1
+chrome104.0.1630 1 1
+msie6.0 4 4
+chrome103.0.5060.71 1 1
+chrome113.0.0.0 1 1
+chrome120.0.0.0 11 11
+chrome70.0.3320.88 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240228094216
+python-requests/2.27.1 20240228114424
+python-requests/2.31.0 20240226113033
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240226144659
+python-requests/2.23.0 20240225040716
+python-requests/2.21.0 20240205032409
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240216032855
+Mozilla/5.0_(https://t.me/codeb0ss)_Gecko/20100101_Firefox/113.0 20240224174151
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+python-requests/2.21.0 20240205032409
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240228094216
+python-requests/2.23.0 20240225040716
+python-requests/2.27.1 20240228114424
+python-requests/2.31.0 20240226113033
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 397 397
+From1 0 0
+From2 23 23
+From3 4 4
+From4 244 244
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 6
+www_google_com 16 16
+id_search_yahoo_com 1 1
+duckduckgo 2 2
+www_google_it 1 1
+baidu 1 1
+www_google_co_uk 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://onic4dpasaran.site 2 2
+https://onicsuka.site 1 1
+https://onic-4d.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 21 24410
+404 519 615394
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 172
+/wp-content/themes/seotheme/db.php 2 www.google.com
+//wp-content/uploads/protectedfiles/codeb0ss_671x1.php 1 -
+/M1.php 1 www.google.com
+/sitemap_index.xml 19 -
+/wp-content/plugins/userpro/changelog.txt 1 -
+/user/login/ 1 -
+/sitemap1.xml 1 -
+/wp-content/plugins/ultimate-member/readme.txt 1 -
+/wp-admin/css/index.php 1 -
+///wp-content/plugins/manager-for-icomoon/inc/fonts/icomoon/CodeB0ss.php 1 -
+/wsoyanz.php 1 -
+/readme.html 1 -
+//xmlrpc.php 6 -
+/humans.txt 7 http://albanialottery.net/humans.txt
+//wp-content/uploads/cfom_files/codeb0ss.php 1 -
+/dropdown.php 1 -
+/wp-content/themes/finley/min.php 1 www.google.com
+/wp-admin/css/colors/blue/blue.php 1 www.google.com
+/wp-p.php7 1 -
+/dup-installer/main.installer.php 1 http://albanialottery.net/dup-installer/main.installer.php
+/sitemap.xml.gz 22 -
+/wp-content/plugins/wordpresss3cll/up.php 1 www.google.com
+/wp-content/plugins/ht-mega-for-elementor/readme.txt 1 -
+///wp-content/uploads/mainwp/CodeB0ss.php 1 -
+/wp-admin/setup-config.php 3 -
+/wp-admin/user/cloud.php 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 4 -
+/sitemap.xml 30 -
+/index_sso.php 6 -
+/css/cloud.php 1 -
+/administrator/index.php 4 -
+//taipolottery.com/wp-content/themes/lottery/assets/js/flipclock.js 3 -
+/author-sitemap.xml 2 -
+/test 1 -
+/class.api.php 1 www.google.com
+/libraries/phpmailer/updates.php 1 -
+/.well-known/traffic-advice 1 -
+/misc/ajax.js 4 -
+//cdn.js 4 -
+/about.php 3 albanialottery.net
+/wordpress 5 -
+/alfa-rex.php7 1 -
+/libraries/legacy/updates.php 1 -
+/admin/users/login_do/ 1 -
+/dist/jquery.min.js 4 -
+/phpfox.php 1 http://albanialottery.net/phpfox.php
+/cgi-bin/cloud.php 1 -
+/wp-admin/css/colors/coffee/cloud.php 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/updates.php 1 -
+/.env 4 http://albanialottery.net/.env
+/sitemap_index/xml 1 -
+/dist/js/bootstrap.bundle.min.js 4 -
+/wp-content/plugins/anttt/simple.php 1 www.google.com
+/wp-json/wp/v2/users/5 1 https://albanialottery.net/
+/blog/ 1 -
+/atom.xml 19 -
+/xxl.php 1 www.google.com
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 1 -
+/wp-content/plugins/Cache/Cache.php 1 -
+/wp-head.php 1 www.google.com
+/sitemap/sitemap.xml 1 -
+/wp-content/plugins/press/wp-class.php 1 www.google.com
+/yanz.php 1 -
+/wp-json/wp/v2/users/2 1 https://albanialottery.net/
+///wp-content/plugins/mainwp-file-uploader/admin/uploadify/upload.php 1 -
+/wp-admin/install.php 3 -
+/admin.php 4 albanialottery.net
+/shell20211028.php 1 www.google.com
+/wp-admin/js/widgets/cloud.php 1 -
+/license.txt 1 -
+/security.txt 1 http://www.albanialottery.net/security.txt
+/complete-order/ 2 -
+/new 2 -
+/blog 2 -
+/cloud.php 1 -
+/wp-content/plugins/ioptimization/IOptimize.php 2 www.google.com
+/.well-known/acme-challenge/cloud.php 1 -
+/ajax-actions.php 1 -
+/simple.php 1 www.google.com
+/wp-content/plugins/wpgateway/css/style.css 1 -
+//wp-content/plugins/manager-for-icomoon/index.php 1 -
+/user/ 1 -
+/old 3 -
+/wordpress/ 1 -
+/wp-json/wp/v2/users/3 1 https://albanialottery.net/
+/fm1.php 1 www.google.com
+/wp-admin/network/cloud.php 1 -
+/sitemap/index.xml 1 -
+/blog/wp-login.php 1 -
+/wp-admin/cloud.php 1 -
+/sitemapindex.xml 1 -
+/wp-consar.php 1 -
+//wp-content/plugins/manager-for-icomoon/inc/fonts/icomoon/ 1 -
+/img/cloud.php 1 -
+//wp-json/oembed/1.0/embed 4 -
+/wp-admin/images/cloud.php 1 -
+/wp 3 -
+/wp-content/themes/wp-update.php 2 www.google.com
+/category-sitemap.xml 1 -
+/wp-content/plugins/wp-post-author/readme.txt 1 -
+/robots.txt 79 -
+/wp-json/wp/v2/users/1 1 https://albanialottery.net/
+/admin/index.php 1 -
+/core/start.php 1 http://www.albanialottery.net/core/start.php
+/phpmyadmin/index.php 6 -
+/wp-includes/wlwmanifest.xml 4 -
+/tag-sitemap.xml 1 -
+/wp-admin/repeater.php 1 -
+//wp-json/wp/v2/users/ 4 -
+/wp-content/plugins/woocommerce-payments/readme.txt 4 -
+/wp-json/ 24 http://albanialottery.net/wp-json/
+/wp-admin/js/about.php 1 -
+/libraries/vendor/updates.php 1 -
+/sitemaps.xml 16 -
+/php/thinkphp/aaaffff123.php 6 -
+/cache-compat.php 1 -
+//wp-login.php 1 -
+/wp-admin/js/widgets/about.php7 1 -
+/wp-emoji-release.min.js 4 -
+//wp-includes/wlwmanifest.xml 5 -
+/admin-post.php 1 -
+/wp-content/plugins/wp-file-upload/ROOBOTS.php 1 www.google.com
+/wp-admin/css/colors/blue/cloud.php 1 -
+///wp-admin/admin.php 1 https://albanialottery.net/wordpress/wp-admin/admin.php
+/wp-admin/includes/cloud.php 1 -
+/sitemap.txt 20 -
+/wp-admin/css/colors/cloud.php 1 -
+/apple-touch-icon.png 1 -
+//wp-content/uploads/bit-forms/CodeB0ss.php 1 -
+/wp-content/plugins/seoo/wsoyanz1.php 1 -
+/wp-json/wp/v2/users/4 2 https://albanialottery.net/
+/images/cloud.php 1 -
+/wp-content/plugins/seoo/wsoyanz.php 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 2 -
+/admin/ 1 -
+/wp-admin/dropdown.php 1 -
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 2 www.google.com
+/wp-content/themes/intense/block-css.php 1 -
+/wp-content/plugins/ninja-forms/readme.txt 1 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 2 -
+/wp-includes/css/buttons.css 1 http://albanialottery.net//wp-includes/css/buttons.css
+/about.php7 1 -
+/wp-content/themes/wpclassic/inc/index.php 1 -
+//taipolottery.com/wp-content/themes/lottery_taipo/assets/js/lottery.js 4 -
+/wp-content/repeater.php 1 -
+/wp/ 1 -
+/.DS_Store 6 -
+/wp-admin/ajax-actions.php 1 -
+/wp-content/updates.php 1 -
+/.well-known/security.txt 1 http://www.albanialottery.net/.well-known/security.txt
+/wp-login.php 1 -
+/administrator/ 1 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 4 -
+/wp-includes/Requests/Text/admin.php 1 -
+/repeater.php 1 -
+/alfanew.php 1 -
+/wp-admin/maint/maint/ajax-actions.php 1 -
+/wp-includes/repeater.php 1 -
+/ads.txt 7 http://albanialottery.net/ads.txt
+/sitemap.php 1 -
+/view-source: 4 -
+/wp-content/plugins/mstore-api/readme.txt 1 -
+/shop 1 -
+/.well-known/pki-validation/cloud.php 1 -
+/wp-content/plugins/TOPXOH/wDR.php 1 www.google.com
+/wp-json/wp/v2/users 2 -
+///wp-admin/admin-ajax.php 2 -
+/sitemap-index.xml 1 -
+/,https://taipolottery.com 9 -
+/wp-content/plugins/yyobang/mar.php 1 www.google.com
+/manager/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 298
+124.248.183.41 31 31 173047 20240229170112
+87.98.140.71 15 15 582431 20240229224933
+87.98.153.11 13 13 504777 20240229055340
+43.128.68.127 13 13 119054 20240202091247
+193.233.233.29 12 12 109918 20240227005728
+84.247.116.197 12 12 258201 20240228114424
+23.111.114.116 12 12 109896 20240212174403
+54.38.211.230 12 12 465956 20240224073733
+178.33.149.171 11 11 427141 20240219172452
+123.60.68.42 11 11 100751 20240227014958
+54.88.179.33 11 11 427133 20240228002406
+84.32.41.136 10 10 82643 20240223124139
+43.157.40.112 10 10 91571 20240226223026
+35.171.144.152 10 10 388270 20240228002407
+43.134.37.211 9 9 82442 20240228221805
+149.56.150.178 6 6 1037159 20240226144634
+43.163.8.148 6 6 113374 20240222064442
+43.134.190.89 6 6 142582 20240227143337
+51.89.211.248 6 6 232976 20240225091532
+43.133.77.230 6 6 54958 20240224195523
+170.106.104.42 5 5 45811 20240228201314
+43.159.129.209 5 5 45791 20240225223304
+163.5.210.83 5 5 194125 20240222103654
+194.33.191.139 5 5 194165 20240209090303
+108.181.123.74 5 5 41324 20240220212040
+43.130.37.62 4 4 36637 20240227201400
+35.180.209.64 1 1 7311 20240212140145
+106.227.49.113 1 1 9168 20240228191326
+27.125.242.162 1 1 7321 20240228015859
+135.148.195.12 1 1 9157 20240215164129
+43.134.66.205 3 3 56690 20240224150953
+89.104.110.204 1 1 9158 20240202235235
+89.22.101.69 1 1 9155 20240219144630
+89.104.111.172 1 1 9158 20240210042108
+167.99.61.128 1 1 9156 20240221013039
+199.244.88.231 1 1 9162 20240227064257
+65.154.226.168 1 1 7314 20240214100742
+129.226.146.179 4 4 36636 20240223195721
+89.104.111.49 1 1 9158 20240207030934
+164.90.209.0 1 1 9157 20240217015620
+185.246.188.74 1 1 9164 20240224084851
+128.90.141.7 4 4 36648 20240227111422
+38.46.14.179 2 2 18326 20240224032732
+66.108.144.163 1 1 7320 20240219105504
+124.221.186.82 1 1 9158 20240201163908
+124.220.161.119 2 2 18316 20240201170042
+125.94.144.102 1 1 9176 20240220135433
+185.242.177.4 2 2 18318 20240220194454
+176.53.217.188 1 1 9162 20240219225550
+176.53.217.161 1 1 9157 20240216230420
+34.79.162.186 1 1 9158 20240205044248
+54.224.29.14 1 1 7317 20240220222634
+111.7.100.24 1 1 7311 20240203192957
+176.53.216.179 1 1 9159 20240224203437
+36.99.136.137 1 1 9137 20240226120117
+110.166.71.39 1 1 9159 20240225012558
+43.128.100.220 1 1 9157 20240216062910
+34.222.134.179 1 1 9158 20240207050241
+198.235.24.197 1 1 38825 20240222212421
+163.172.145.157 1 1 7327 20240206025756
+223.15.245.170 3 3 56693 20240229141607
+38.13.21.203 1 1 9157 20240217145626
+52.13.206.255 1 1 9161 20240213050835
+179.104.248.149 1 1 9158 20240205032409
+45.90.63.134 1 1 9158 20240208054107
+45.90.60.251 1 1 9161 20240214040059
+101.44.249.197 1 1 9176 20240224105401
+154.28.229.234 1 1 7311 20240203143820
+43.163.6.35 4 4 65847 20240222162143
+182.44.9.147 1 1 9137 20240226170204
+66.102.6.148 1 1 7311 20240209071602
+65.109.236.15 1 1 9162 20240227094454
+89.104.111.103 1 1 9158 20240207060749
+223.244.35.77 1 1 9159 20240223090653
+52.80.162.245 4 4 36632 20240210050037
+154.91.64.33 1 1 9162 20240219192943
+106.74.24.54 2 2 18332 20240203032705
+159.223.207.107 1 1 9158 20240211025816
+65.154.226.166 2 2 16480 20240227184119
+5.61.55.96 1 1 9168 20240228195250
+49.51.179.103 2 2 18313 20240219133638
+178.148.119.2 1 1 7321 20240225130737
+43.155.138.79 3 3 56692 20240220012035
+113.219.218.197 1 1 9156 20240220225715
+176.53.223.114 1 1 9156 20240220200801
+93.158.90.71 1 1 9158 20240208172318
+205.210.31.225 1 1 38823 20240220185448
+106.119.167.146 3 3 56707 20240226202709
+101.91.133.20 1 1 9162 20240222124019
+208.80.194.41 1 1 38825 20240223131001
+46.4.33.48 1 1 38831 20240225034133
+178.16.129.12 1 1 9157 20240215083508
+34.78.99.177 1 1 9166 20240217175417
+43.159.63.75 2 2 47524 20240218171255
+170.106.82.193 2 2 18324 20240217212135
+43.135.129.233 3 3 27477 20240213101427
+144.172.118.41 1 1 9164 20240224084857
+176.53.216.242 2 2 18316 20240206115918
+93.158.90.136 1 1 9158 20240204080739
+176.53.218.13 2 2 18316 20240208235146
+67.220.86.160 1 1 9159 20240224191151
+36.41.75.167 1 1 9166 20240227231255
+60.50.34.185 1 1 9155 20240218225910
+101.44.251.42 1 1 38369 20240223144806
+185.12.151.99 1 1 9137 20240225205407
+43.155.160.173 1 1 9158 20240208073035
+129.226.158.26 3 3 27471 20240221101925
+121.229.185.160 1 1 9158 20240206012641
+129.226.147.7 1 1 9157 20240229222715
+18.197.97.14 1 1 9158 20240211180632
+18.236.114.58 1 1 9158 20240201051027
+141.98.140.176 2 2 19365 20240228135054
+176.53.222.251 1 1 9158 20240201050025
+43.159.128.68 1 1 9162 20240226200348
+35.92.7.30 1 1 9155 20240219044654
+43.130.7.211 2 2 18301 20240226135443
+137.226.113.44 1 1 9157 20240216032855
+128.90.144.150 3 3 27474 20240209205005
+222.249.228.245 2 2 18332 20240204131240
+66.102.8.224 1 1 7311 20240202182946
+43.131.243.208 1 1 9158 20240211050253
+43.155.152.154 1 1 9159 20240224215746
+198.235.24.217 1 1 38827 20240224072338
+176.53.221.140 2 2 18316 20240204051800
+43.130.32.224 4 4 36641 20240229105858
+175.6.217.4 1 1 9174 20240205053845
+35.87.188.115 1 1 9162 20240220045332
+205.210.31.88 1 1 38827 20240228094216
+91.92.253.104 5 5 41304 20240202193607
+54.191.55.85 1 1 9158 20240207050242
+27.125.241.222 2 2 7327 20240202230819
+34.219.182.230 1 1 9162 20240226221417
+101.44.249.211 1 1 9164 20240224071131
+93.158.91.242 1 1 9162 20240221182014
+89.104.110.240 1 1 9158 20240210232734
+176.53.221.204 1 1 9166 20240218025635
+64.227.124.119 1 1 9158 20240203022017
+34.123.170.104 1 1 7311 20240202183930
+54.191.101.206 1 1 9155 20240219044656
+170.106.101.31 4 4 36629 20240218193843
+101.91.148.219 2 2 18313 20240219041848
+111.7.100.26 1 1 9158 20240203192835
+167.99.222.255 1 1 9162 20240222000150
+149.34.251.242 1 1 7329 20240214120908
+81.200.156.80 1 1 7311 20240205113205
+111.172.249.49 1 1 9158 20240204061516
+3.19.77.236 1 1 7318 20240222113332
+24.199.106.201 1 1 9159 20240225015122
+206.189.35.74 4 4 155316 20240229081058
+114.122.116.119 1 1 7327 20240203120555
+27.125.246.244 1 1 0 20240216001257
+93.158.90.164 1 1 9158 20240213022132
+5.133.192.166 1 1 9162 20240227065312
+43.131.44.218 2 2 18316 20240203224154
+43.131.249.153 2 2 18322 20240223185709
+43.163.1.85 1 1 9159 20240225104706
+43.130.62.164 1 1 9166 20240227224940
+35.90.63.7 1 1 9158 20240201051755
+34.231.180.74 1 1 9168 20240228172011
+176.53.216.215 1 1 9158 20240206055049
+149.56.150.51 1 1 7321 20240226144659
+43.163.6.124 1 1 9158 20240201155850
+65.154.226.171 1 1 7321 20240227184959
+93.174.93.127 2 2 18274 20240226113033
+34.81.16.175 1 1 7311 20240208073755
+43.134.142.8 1 1 9174 20240205084328
+43.159.128.172 1 1 9162 20240227140519
+192.36.109.132 1 1 9157 20240217105315
+89.104.111.52 1 1 9164 20240223233200
+43.163.3.58 2 2 18332 20240210132522
+150.109.253.34 3 3 56701 20240210053832
+103.242.58.101 1 1 7320 20240219170333
+43.135.149.154 2 2 18321 20240225135133
+43.131.62.4 1 1 9158 20240212101029
+45.90.63.38 1 1 9158 20240212231532
+91.227.68.183 1 1 0 20240207134914
+205.169.39.117 1 1 7321 20240227192954
+45.90.61.117 1 1 9158 20240205030435
+89.104.110.60 1 1 9159 20240222203037
+216.189.151.105 1 1 9161 20240213201219
+180.172.58.141 1 1 38833 20240201114258
+43.130.39.101 2 2 18316 20240210211555
+170.106.159.160 2 2 18315 20240217132621
+2.58.73.58 2 2 19355 20240211031935
+205.169.39.177 2 2 14622 20240202184449
+111.7.96.164 2 2 18314 20240214175842
+154.91.83.168 2 2 18321 20240226204722
+89.104.100.201 1 1 9158 20240204074559
+147.182.164.180 1 1 9158 20240209031002
+45.194.3.146 1 1 7321 20240229025303
+5.133.192.127 1 1 9158 20240210082011
+217.21.145.196 1 1 7321 20240228135029
+172.191.91.54 2 2 18316 20240207182758
+142.93.154.145 1 1 9158 20240203050958
+117.33.163.216 2 2 18316 20240206033139
+104.197.69.115 1 1 7321 20240227184115
+31.222.239.188 1 1 7311 20240203224811
+27.125.245.206 1 1 7319 20240215084902
+43.155.166.202 5 5 104238 20240218064734
+154.28.229.172 1 1 7311 20240203151928
+91.92.241.173 1 1 9159 20240225105012
+43.133.72.69 2 2 18320 20240220110953
+2.60.11.106 1 1 7311 20240206084408
+113.141.91.58 1 1 9158 20240201035305
+178.254.38.45 2 2 18322 20240224130400
+3.144.9.115 1 1 7311 20240211074735
+18.246.9.178 1 1 38833 20240210184808
+137.184.161.92 1 1 9159 20240223020232
+185.220.100.246 1 1 9158 20240205141330
+182.40.104.255 1 1 9158 20240205032312
+49.51.206.130 4 4 36630 20240223135206
+205.210.31.83 1 1 38833 20240205174111
+45.90.62.56 1 1 9157 20240216035457
+45.90.63.164 1 1 9157 20240214230800
+152.39.255.62 1 1 7311 20240207111256
+163.172.154.33 2 2 0 20240206015122
+89.104.111.90 1 1 9158 20240212040356
+51.159.103.13 1 1 9158 20240203053435
+159.223.11.208 1 1 9157 20240217124555
+43.130.47.136 4 4 36636 20240222102416
+52.80.18.29 2 2 18320 20240223080105
+27.125.246.3 1 1 0 20240215182643
+43.159.128.149 5 5 45806 20240228103208
+45.90.62.67 1 1 9155 20240218212922
+150.109.13.194 2 2 18317 20240222230033
+156.146.62.52 5 5 45806 20240227091603
+43.153.110.177 2 2 18319 20240214132123
+43.134.170.46 3 3 27477 20240227032025
+43.159.141.180 4 4 36633 20240225102942
+43.142.179.19 4 4 36628 20240216133816
+185.220.101.149 1 1 9164 20240224084910
+43.134.89.111 2 2 18316 20240222210228
+42.83.147.53 3 3 27429 20240226082328
+212.47.228.55 1 1 7311 20240206020551
+27.125.246.13 2 2 7318 20240217232148
+137.184.220.96 1 1 9157 20240215033244
+27.115.124.53 1 1 9158 20240204124124
+135.148.195.16 2 2 18324 20240227171847
+135.148.195.2 1 1 9158 20240209223523
+205.210.31.209 1 1 38833 20240208235314
+43.131.248.209 3 3 27476 20240221133826
+43.128.100.206 1 1 9156 20240221093346
+205.210.31.228 1 1 38833 20240202080218
+43.163.8.36 1 1 9176 20240225210313
+91.92.245.204 5 5 95982 20240202204321
+193.187.172.24 1 1 38833 20240202085805
+143.198.156.31 1 1 9158 20240213023242
+182.42.111.213 1 1 9166 20240228091143
+43.131.48.214 3 3 27474 20240211192458
+198.235.24.245 1 1 38833 20240207090239
+176.53.222.21 1 1 9162 20240221230709
+159.89.123.197 1 1 9155 20240219030001
+43.155.183.138 1 1 9157 20240215042157
+194.156.224.61 3 3 26682 20240211024749
+165.227.179.115 1 1 9158 20240207011227
+43.135.181.13 2 2 18320 20240220133608
+95.217.18.177 1 1 9158 20240202090627
+124.156.193.7 2 2 18326 20240227125523
+51.254.199.11 4 4 36644 20240228161202
+43.133.77.208 2 2 18319 20240219213328
+35.162.94.85 1 1 9161 20240213050833
+199.244.88.220 1 1 9158 20240212235303
+119.12.183.61 1 1 7311 20240207110136
+54.196.211.86 1 1 7311 20240213015350
+35.205.159.124 1 1 38831 20240225040716
+43.153.93.68 4 4 36632 20240204130411
+43.128.110.17 4 4 65846 20240214040257
+174.138.8.85 1 1 9158 20240208053227
+208.80.194.42 3 3 116491 20240216100410
+45.90.61.75 1 1 9158 20240205062033
+159.65.34.113 1 1 9168 20240229031158
+43.135.166.178 2 2 18319 20240213211819
+67.205.161.34 1 1 9162 20240227020023
+180.102.134.69 2 2 18295 20240225203944
+45.147.254.223 4 4 33993 20240203224815
+52.42.112.127 1 1 9158 20240201050955
+45.138.16.85 2 2 18316 20240204020515
+147.182.132.185 1 1 9158 20240205011719
+54.220.67.223 1 1 9137 20240226035419
+43.133.38.182 2 2 18293 20240226102930
+18.189.188.232 1 1 7319 20240217073657
+117.62.235.53 1 1 9155 20240219143105
+18.117.128.206 1 1 7311 20240206052337
+173.44.222.128 1 1 9164 20240223180053
+191.7.170.65 2 2 19359 20240224085546
+128.199.51.29 1 1 9158 20240201020711
+51.15.203.47 1 1 12044 20240206025759
+176.53.221.255 1 1 9158 20240202055412
+195.90.221.76 1 1 9161 20240214143154
+43.130.31.48 3 3 27475 20240222232517
+103.189.123.4 1 1 7327 20240203120556
+5.133.192.138 1 1 9157 20240216125313
+52.88.79.136 1 1 7311 20240212091744
+146.190.85.236 2 2 77662 20240225130632
+170.106.171.77 4 4 36643 20240227103156
+65.154.226.169 1 1 7311 20240202185210
+45.90.62.37 1 1 9158 20240203061800
+14.215.163.132 1 1 38369 20240205173636
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20240201 36 36 437383 33
+20240202 36 36 473870 29
+20240203 31 31 299900 25
+20240204 24 24 303883 18
+20240205 38 38 610976 35
+20240206 26 26 480061 23
+20240207 20 20 288544 19
+20240208 16 16 233706 16
+20240209 17 17 361564 13
+20240210 18 18 252038 16
+20240211 19 19 229905 15
+20240212 15 15 222237 15
+20240213 23 23 345400 18
+20240214 20 20 324184 18
+20240215 13 13 137733 13
+20240216 24 24 379462 19
+20240217 21 21 364372 20
+20240218 14 14 187569 13
+20240219 21 21 335136 19
+20240220 25 25 309847 21
+20240221 13 13 148731 13
+20240222 31 31 671296 18
+20240223 24 24 391081 18
+20240224 25 25 346927 23
+20240225 21 21 336952 19
+20240226 29 29 1273585 20
+20240227 31 31 454240 25
+20240228 20 20 327133 18
+20240229 17 17 291590 9
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30mn-1h 4
+0s-30s 549
+5mn-15mn 5
+30s-2mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 601 8518392 532 518
+/history-result/ 29 1627738 17 21
+/live-draw/ 27 246068 12 18
+// 11 427107 0 4
+END_SIDER

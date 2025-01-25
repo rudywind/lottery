@@ -1,0 +1,172 @@
+/**** begin countdown colors ****/
+.flip-clock-wrapper ul,
+.flip-clock-wrapper ul li a div div.inn,
+.flip-clock-divider .flip-clock-dot {
+	background-color: var(--flipclock-bg-color);
+}
+.flip-clock-wrapper ul li a div div.inn {
+	color: var(--flipclock-color);
+}
+/**** endof countdown colors ****/
+
+/**** begin custom style ****/
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-1);
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.btn, button {
+    border: 0 !important;
+    box-shadow: none !important;
+    outline: 0 !important;
+}
+
+header {
+    display: block;
+    position: relative;
+}
+header .logo-wrapper {
+    position: relative;
+    margin: 0 auto;
+    max-width: 250px;
+}
+header .logo-wrapper .web-logo {
+    width: 100%;
+}
+header .menu-wrapper {
+    display: block;
+    position: relative;
+    padding: 5px 10px;
+    z-index: 1;
+}
+header .menu-wrapper::before,
+header .menu-wrapper::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 10px;
+    right: 0;
+    bottom: 0;
+    width: 60%;
+    height: 100%;
+    background-color: var(--color-2);
+    border-radius: 0 0 0 12px;
+    transform: skewX(45deg);
+    z-index: -1;
+}
+header .menu-wrapper::after {
+    left: auto;
+    right: 10px;
+    border-radius: 0 0 12px 0;
+    transform: skewX(-45deg);
+}
+header .menu-wrapper .navbar .navbar-nav > .nav-item > .nav-link {
+    color: var(--color-9);
+    font-weight: 600;
+}
+header .menu-wrapper .navbar .navbar-nav > .nav-item.active > .nav-link {
+    color: var(--color-8);
+}
+
+section {
+    display: block;
+    position: relative;
+}
+section .jackpot-date {
+    display: block;
+    position: relative;
+    font-size: 24px;
+    font-weight: 400;
+}
+section .result-separator {
+    display: block;
+    position: relative;
+    margin: 25px auto 45px;
+    width: auto;
+    height: 3px;
+    background-image: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.5), transparent);
+}
+
+footer {
+    display: block;
+    position: relative;
+    background-image: url(../images/footer.png);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+footer .footer-separator {
+    display: block;
+    position: relative;
+    width: auto;
+    height: 1px;
+    background-image: linear-gradient(to right, transparent, rgba(0, 6, 27, 0.5), transparent);
+}
+footer .navbar-footer .navbar-nav > .nav-item > .nav-link {
+    color: var(--color-1);
+    font-weight: 600;
+}
+footer .menu-wrapper .navbar .navbar-nav > .nav-item > .nav-link {
+    color: var(--color-1);
+    font-weight: 600;
+}
+footer .menu-wrapper .navbar .navbar-nav > .nav-item.active > .nav-link {
+    color: var(--color-5);
+}
+footer .logo-wrapper {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 250px;
+}
+footer .logo-wrapper .web-logo {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+footer .email-wrapper {
+    display: block;
+    position: relative;
+    max-width: 550px;
+}
+footer .email-wrapper .input-wrapper {
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 3px 5px;
+    background-color: var(--color-9);
+    border-radius: 50px;
+}
+footer .email-wrapper .input-wrapper input.form-control {
+    border: 0 !important;
+    border-radius: 50px 0 0 50px;
+    box-shadow: none !important;
+    outline: 0 !important;
+}
+footer .email-wrapper .input-wrapper .btn {
+    min-width: 130px;
+    border-radius: 0 50px 50px 0;
+}
+
+.line-height-1 {
+    line-height: 1 !important;
+}
+
+.pagination .paginate_button a {
+    background-color: var(--color-3) !important;
+    border-color: var(--color-3) !important;
+    box-shadow: none !important;
+    color: var(--white) !important;
+    outline: none !important;
+}
+.pagination .paginate_button.active a {
+    background-color: var(--color-5) !important;
+    border-color: var(--color-5) !important;
+    box-shadow: none !important;
+    color: var(--color-8) !important;
+    font-weight: 700;
+    outline: none !important;
+}
+/**** endof custom style ****/

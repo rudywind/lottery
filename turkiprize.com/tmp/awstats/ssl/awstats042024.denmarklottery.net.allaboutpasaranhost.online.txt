@@ -1,0 +1,969 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.denmarklottery.net.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2046                
+POS_TIME 2725                
+POS_VISITOR 25043               
+POS_DAY 35251               
+POS_DOMAIN 3531                
+POS_LOGIN 4132                
+POS_ROBOT 4287                
+POS_WORMS 5146                
+POS_EMAILSENDER 5277                
+POS_EMAILRECEIVER 5420                
+POS_SESSION 36026               
+POS_SIDER 36216               
+POS_FILETYPES 5555                
+POS_DOWNLOADS 5659                
+POS_OS 5707                
+POS_BROWSER 6122                
+POS_SCREENSIZE 8170                
+POS_UNKNOWNREFERER 8244                
+POS_UNKNOWNREFERERBROWSER 9342                
+POS_ORIGIN 10050               
+POS_SEREFERRALS 10190               
+POS_PAGEREFS 10380               
+POS_SEARCHWORDS 10528               
+POS_KEYWORDS 10680               
+POS_MISC 2389                
+POS_ERRORS 10739               
+POS_CLUSTER 3988                
+POS_SIDER_404 10843               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501000842 55 11485 12670667206815
+FirstTime 20240401002334
+LastTime 20240430225232
+LastUpdate 20240501081722 55 0 54 0 0
+TotalVisits 301                 
+TotalUnique 258                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 264                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 14 14 110352 8 54 88434
+1 17 22 976966 15 22 91363
+2 32 37 1448369 11 35 126345
+3 25 28 699178 32 47 963646
+4 17 22 855901 19 35 159619
+5 25 25 361542 17 58 107450
+6 11 12 346140 19 52 153917
+7 14 26 1787448 27 37 347751
+8 20 20 194203 14 29 111458
+9 13 13 104369 22 38 309494
+10 10 12 299358 10 15 204024
+11 20 25 470922 25 33 234006
+12 18 22 625221 6 50 230129
+13 12 19 1041924 12 17 32626
+14 10 11 283598 16 29 244277
+15 16 21 832381 32 41 228565
+16 21 24 715121 14 21 31648
+17 18 20 347171 28 35 263597
+18 17 20 378964 18 27 251664
+19 33 35 443077 46 49 116428
+20 3 3 44639 26 31 73858
+21 12 13 273505 17 22 128184
+22 7 9 445419 101 108 156719
+23 11 12 240804 27 38 427745
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 28
+us 176 217 7930042
+cn 41 45 997139
+ru 27 34 690025
+jp 26 26 155338
+ca 15 15 463668
+gb 14 14 83637
+se 14 20 1160838
+in 10 10 59710
+ge 9 9 46810
+de 9 9 53759
+id 8 14 672209
+nl 8 8 47817
+es 8 8 46257
+il 7 7 52015
+bz 5 6 83865
+be 3 6 543177
+fr 3 3 17925
+kh 2 2 11941
+sa 2 2 11950
+kz 1 2 43776
+pa 1 1 5976
+it 1 1 5980
+hk 1 1 32692
+hr 1 1 5975
+eu 1 1 5975
+vn 1 1 32692
+br 1 1 32692
+hu 1 1 32692
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 19
+no_user_agent 23 751916 20240429095915 0
+Googlebot/ 16 70696 20240427190339 0
+AhrefsBot/ 16 82438 20240429171755 0
+YandexBot/ 15 105803 20240421172813 0
+Go\-http\-client/ 10 736195 20240429094817 0
+facebookexternalhit/ 6 543183 20240422143140 0
+bot[\s_+:,\.\;\/\\-] 6 35850 20240414115414 0
+(firefox/)([0-9]\.|[0-1][0]\.) 5 23895 20240430165653 0
+crawl 4 40081 20240424202539 0
+link 4 40079 20240418081727 0
+DotBot/ 4 701417 20240405035852 0
+Googlebot\-Image/ 3 525255 20240416231034 0
+SemrushBot/ 3 34104 20240421232037 0
+yandex 2 350170 20240426075453 0
+MJ12bot/ 2 11186 20240430224508 0
+Applebot/ 2 11940 20240423092309 0
+YandexImages/ 1 39357 20240420045449 0
+bingbot/ 1 4422 20240403070042 0
+curl 1 4418 20240418064821 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 396 4503179 0 0
+png 69 8823393 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 26
+linuxubuntu 4 4
+macosx15 60 47
+winxp 2 2
+macosx14 5 5
+Unknown 70 50
+macosx7 7 2
+macosx11 2 2
+unix 1 1
+macosx 9 8
+androidnougat 2 2
+win2000 2 2
+win10 120 108
+winlong 3 3
+androidkitkat 5 5
+linux 51 46
+bsdfreebsd 1 1
+ios_iphone 62 62
+android 4 4
+blackberry 1 1
+android10 16 10
+win7 15 15
+macosx9 1 1
+ios_ipad 1 1
+macosx10 5 5
+androidoreo 7 4
+winnt 9 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 99
+chrome119 2 1
+chrome123.0.6312.105 2 1
+netscape5.0 5 5
+opera91.0.4516.106 1 1
+chrome62.0.3202.84 1 1
+firefox102.0 1 1
+chrome117.0.5938.132 1 1
+chrome96.0.4664.110 2 1
+chrome78.0.3904.97 1 1
+safari17.1.2 1 1
+chrome103.0.5060.66 2 2
+safari13.0.3 55 55
+firefox59.0 1 1
+firefox43.0 1 1
+firefox52.0 1 1
+chrome88.0.4324.150 1 1
+safari6.0 3 3
+chrome121.0.0.0 23 23
+chrome11.0.696.71 2 2
+chrome47.0.2526.106 1 1
+chrome101.0.4951.41 1 1
+chrome81.0.4044.138 5 5
+chrome113.0.0.0 3 3
+chrome120.0.6099.291 5 3
+chrome17.0.963.56 7 2
+firefox111.0 1 1
+opera102.0.0.0 4 4
+chrome34.0.1847.116 3 3
+chrome36.0.1985.135 1 1
+chrome39.0.2171.95 4 4
+firefox66.0.1 1 1
+chrome91.0.4472.114 4 4
+firefox33.0 3 3
+chrome120.0.0.0 6 6
+chrome99.0.2180 1 1
+firefox117.0 12 12
+mozilla 43 23
+chrome83.0.4103.97 11 11
+chrome115.0.0.0 1 1
+chrome71.0.3578.98 1 1
+safari17.0 2 2
+chrome74.0.3729.169 8 8
+chrome60.0.3112.107 2 2
+chrome122.0.0.0 11 9
+chrome87.0.1249 1 0
+chrome116.0.0.0 13 13
+chrome105.0.0.0 12 6
+chrome87.0.4280.88 1 1
+chrome120.0.6099.71 1 1
+android 4 4
+blackberry 1 1
+Unknown 24 24
+chrome112.0.0.0 1 1
+chrome80.0.3987.162 1 1
+chrome94.0.4606.81 9 9
+firefox40.0 2 2
+chrome97.0.4280.67 2 2
+chrome109.0.0.0 19 7
+firefox49.0 1 1
+chrome18.6.872.0 1 1
+chrome98.0.4758.81 4 4
+chrome83.0.2435 1 0
+chrome116.0.5845.1023 2 1
+msie7.0 2 2
+chrome110.0.0.0 3 3
+chrome114.0.0.0 8 5
+firefox116.0 1 0
+chrome94.0.4606.61 1 1
+firefox42.0 1 1
+firefox118.0 4 4
+safari8.0.5 1 1
+chrome71.0.1564.88 1 1
+firefox73.0 1 1
+firefox108.0 4 4
+opera108.0.0.0 2 1
+chrome54.0.476 1 1
+chrome58.0.3029.110 1 1
+chrome83.0.2978 1 0
+chrome104.0.5112.79 1 1
+chrome51.0.2704.103 4 4
+firefox123.0 1 1
+chrome79.0.3945.117 1 1
+chrome69.0.1781 1 1
+chrome72.0.2167 1 0
+sonyericsson 1 1
+chrome123.0.0.0 4 2
+chrome100.0.4896.60 17 17
+firefox114.0 15 15
+chrome71.0.1160.88 1 1
+chrome100.0.4896.127 2 2
+chrome117.0.0.0 22 20
+chrome68.0.3440.91 6 3
+chrome92.0.4515.131 1 1
+firefox115 1 1
+safari16.6 3 3
+chrome64.0.2329 1 1
+iphone 1 1
+opera100.0.0.0 1 0
+firefox115.0 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240428144136
+python-requests/2.26.0 20240430000536
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240430022006
+python-requests/2.31.0 20240414115238
+Embarcadero_URI_Client/1.0 20240404034338
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240430163120
+python-requests/2.18.4 20240423124950
+got_(https://github.com/sindresorhus/got) 20240424115936
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240426030611
+Mozilla/5.0_Firefox/33.0 20240428200400
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_https://domini.cat/catexplorador/) 20240413092028
+Searcherweb 20240425101406
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240430170528
+SonyEricssonT100/R101 20240422002134
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240430170528
+python-requests/2.31.0 20240414115238
+python-requests/2.18.4 20240423124950
+Searcherweb 20240425101406
+Embarcadero_URI_Client/1.0 20240404034338
+python-requests/2.26.0 20240430000536
+CATExplorador/1.0beta_(sistemes_at_domini_dot_cat;_https://domini.cat/catexplorador/) 20240413092028
+got_(https://github.com/sindresorhus/got) 20240424115936
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 264 314
+From1 4 4
+From2 14 14
+From3 0 0
+From4 114 133
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+yandexru 7 7
+www_google_com 6 6
+yandexcom 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 26 32292
+404 751 938250
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 249
+/wp-admin/widgets-blocks.php 1 denmarklottery.net
+/wp-content/themes/twenty/twenty.php 1 http://denmarklottery.net//wp-content/themes/twenty/twenty.php
+/.well-known/pki-validation/xmrlpc.php 1 http://denmarklottery.net//.well-known/pki-validation/xmrlpc.php
+/wp-woulds.php 1 denmarklottery.net
+/security.txt 1 http://www.denmarklottery.net/security.txt
+/wp-login.php 4 -
+//victoriapeaklottery.com/wp-content/themes/lottery/assets/js/flipclock.js 19 -
+/ads.txt 7 -
+/wp-cron.php 1 denmarklottery.net
+/wp-includes/Text/about.php 1 http://denmarklottery.net//wp-includes/Text/about.php
+/wp-admin/network/upfile.php 1 denmarklottery.net
+/wp-content/plugins/ai-engine/readme.txt 2 -
+/wp-content/themes/twentytwentythree/patterns/ 1 http://denmarklottery.net//wp-content/themes/twentytwentythree/patterns/
+/simple.php 5 http://denmarklottery.net//simple.php
+/wp-includes/random_compat/about.php 1 http://denmarklottery.net//wp-includes/random_compat/about.php
+/wp-admin/includes/upfile.php 2 denmarklottery.net
+/wp-uploads-config.php 1 http://denmarklottery.net//wp-uploads-config.php
+/wp-includes/.wp-includes.php 1 denmarklottery.net
+/wp-admin/images/install.php 1 http://denmarklottery.net//wp-admin/images/install.php
+/wp-content/about.php 1 http://denmarklottery.net//wp-content/about.php
+/sitemap_index.xml 4 -
+/ee.php 1 http://denmarklottery.net//ee.php
+/.well-known/acme-challenge/cloud.php 1 http://denmarklottery.net//.well-known/acme-challenge/cloud.php
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 1 http://denmarklottery.net//wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/wp-content/plugins/wp-meta-seo/readme.txt 2 -
+/wp-roto/wp-admin/css/index.php 1 denmarklottery.net
+/wordpress 2 -
+/admin/index.php 9 -
+/cgi-bin/upfile.php 1 denmarklottery.net
+/chosen.php 3 http://denmarklottery.net//chosen.php
+/wp-admin/user/upfile.php 2 denmarklottery.net
+/sftp.json 1 -
+/wp-admin/css/.css.php 1 denmarklottery.net
+/a2.php 1 denmarklottery.net
+/wp-content/wso.php 1 http://denmarklottery.net//wp-content/wso.php
+/wp-content/themes/lottery/readme.txt 4 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/class.api.php 1 denmarklottery.net
+/sftp-config.json 2 -
+/wp-admin/css/colors/coffee/profile.php 1 http://denmarklottery.net//wp-admin/css/colors/coffee/profile.php
+/author/wpadminne/ 2 -
+/wp-content/plugins/master/mode/table.php 1 denmarklottery.net
+/archivarix.cms.php 1 -
+/wp-content/themes/plugins.php 1 http://denmarklottery.net//wp-content/themes/plugins.php
+/wp-privacys.php 1 denmarklottery.net
+/wp-includes/wp-class.php 1 http://denmarklottery.net//wp-includes/wp-class.php
+/da1.php 1 denmarklottery.net
+/wp-admin/cong.php 1 http://denmarklottery.net//wp-admin/cong.php
+/new 2 -
+/wp-content/themes/torofilm/changelog.txt 2 -
+/shellv3.php 1 http://denmarklottery.net//shellv3.php
+/wp-content/uploads/wp-apxupx.php 1 http://denmarklottery.net//wp-content/uploads/wp-apxupx.php
+/wp-admin/about.php 1 http://denmarklottery.net//wp-admin/about.php
+/author/wpsecuritypatch/ 2 -
+/wp-content/uploads/sites/8/upfile.php 1 denmarklottery.net
+/wp-info.php 1 http://denmarklottery.net//wp-info.php
+/cgi-bin/cgi-bin/about.php7 1 http://denmarklottery.net//cgi-bin/cgi-bin/about.php7
+/wp-includes/install.php 1 http://denmarklottery.net//wp-includes/install.php
+/wp-content/plugins/moveto/assets/lib/loader_ajax.php 2 https://denmarklottery.net
+/wp-admin/user/about.php 1 http://denmarklottery.net//wp-admin/user/about.php
+/wp-admin/maint/.maint.php 1 denmarklottery.net
+/wp-includes/inputs.php 1 www.google.com
+/wp-22.php 2 http://denmarklottery.net//wp-22.php
+/cgi-bin/upfile_(2).php 1 denmarklottery.net
+/radio.php 2 denmarklottery.net
+/wp-json/wpgmza/v1/markers 2 -
+/wp-content/plugins/backup-backup/modules/gdrivebanner/assets/css/styles.css 2 -
+/.well-known/security.txt 2 -
+/wp 2 -
+/wp-ver.php 1 denmarklottery.net
+/php/thinkphp/aaaffff123.php 4 -
+/wp-includes/rest-api/about.php 1 http://denmarklottery.net//wp-includes/rest-api/about.php
+/nf_tracking.php 1 http://denmarklottery.net//nf_tracking.php
+/wp-admin/.wp-admin.php 1 denmarklottery.net
+/.well-known/acme-challenge/xmrlpc.php 1 http://denmarklottery.net//.well-known/acme-challenge/xmrlpc.php
+/css/install.php 1 http://denmarklottery.net//css/install.php
+/wp-content/uploads/ 1 http://denmarklottery.net//wp-content/uploads/
+/wp-admin/images/upfile.php 1 denmarklottery.net
+/wp-admin/setup-config.php 2 -
+/wp-admin/js/index.php 1 denmarklottery.net
+/wp-content/plugins/Cache/Cache.php 1 http://denmarklottery.net//wp-content/plugins/Cache/Cache.php
+/themes.php 2 http://denmarklottery.net//themes.php
+/wp-content/install.php 1 http://denmarklottery.net//wp-content/install.php
+/wp-admin/includes/.includes.php 1 denmarklottery.net
+/wp-admin/dropdown.php 1 http://denmarklottery.net//wp-admin/dropdown.php
+/general.php 2 http://denmarklottery.net//general.php
+/cgi-bin/themes.php 1 http://denmarklottery.net//cgi-bin/themes.php#xleet
+/author/wpservices/ 2 -
+/wp-content/plugins/gotmls/readme.txt 2 -
+/license.txt 2 -
+/media/system/js/core.js 3 -
+/wp-l0gin.php 1 http://denmarklottery.net//wp-l0gin.php
+/delete3.php 1 http://denmarklottery.net//delete3.php
+/wp-content/dropdown.php 1 http://denmarklottery.net//wp-content/dropdown.php
+/sitemap.xml 20 -
+/robots.txt 113 -
+/wp-content/patior/ 1 http://denmarklottery.net//wp-content/patior/
+/wp-includes/ 1 -
+/about.php 6 http://denmarklottery.net//about.php
+/test 2 -
+/wp-content/plugins/chauffeur-booking-system/script/jquery.chauffeurBookingFormAdmin.js 1 denmarklottery.net
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 1 http://denmarklottery.net//wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php
+/wp-content/upgrade-temp-backup/about.php 1 http://denmarklottery.net//wp-content/upgrade-temp-backup/about.php
+/wp-includes/wso.php 1 http://denmarklottery.net//wp-includes/wso.php
+/wp-admin/maint/atomlib.php 1 http://denmarklottery.net//wp-admin/maint/atomlib.php
+/wp-admin/css/plugins.php 1 http://denmarklottery.net//wp-admin/css/plugins.php
+/index_sso.php 4 -
+/dist/jquery.min.js 19 -
+/wp-content/plugins/Cache/dropdown.php 1 http://denmarklottery.net//wp-content/plugins/Cache/dropdown.php
+/wp-content/themes/wp-admin/css/index.php 1 denmarklottery.net
+/author/stender/ 2 -
+/wp-content/plugins/backup-backup/includes/r 1 -
+/wp-content/plugins/backup-backup/includes/v 1 -
+/wp-content/themes/qoe/vendor/ernilambar/wp-admin-notice/src/Start-home.php 1 denmarklottery.net
+/wp-admin/images/admin.php 1 http://denmarklottery.net//wp-admin/images/admin.php
+/wp-admin/maint/moon.php 1 http://denmarklottery.net//wp-admin/maint/moon.php
+/dist/js/bootstrap.bundle.min.js 18 -
+/wp-admin/link-forms.php 1 denmarklottery.net
+/cgi-bin/.cgi-bin.php 1 denmarklottery.net
+/.well-known/acme-challenge/install.php 1 http://denmarklottery.net//.well-known/acme-challenge/install.php
+/.well-known/acme-challenge/plugins.php 1 http://denmarklottery.net//.well-known/acme-challenge/plugins.php
+/author/admim/ 2 -
+/wp-admin/includes/plugins.php 1 http://denmarklottery.net//wp-admin/includes/plugins.php
+/wp-admin/a2.php 1 denmarklottery.net
+/wp-admin/images/Mhbgf.php 1 http://denmarklottery.net//wp-admin/images/Mhbgf.php
+/wp-rocket.php 1 http://denmarklottery.net//wp-rocket.php
+/index.php 7 denmarklottery.net
+/wp-admin/js/about.php 1 http://denmarklottery.net//wp-admin/js/about.php
+//victoriapeaklottery.com/wp-content/themes/lottery_victoriapeak/assets/js/lottery.js 18 -
+/wso.php 1 http://denmarklottery.net//wso.php
+/wp-admin/network/licenses.php 1 denmarklottery.net
+/sitemap.xml.gz 3 -
+/wp-admin/mb.php 1 denmarklottery.net
+/.well-known/acme-challenge/upfile.php 1 denmarklottery.net
+/wp-admin/maint/upfile.php 1 denmarklottery.net
+/wp-content/plugins/LayerSlider/static/js/builder.js 1 denmarklottery.net
+/wp-boards.php 1 denmarklottery.net
+/wp-content/index.php 1 denmarklottery.net
+/wp-content/plugins/install.php 1 http://denmarklottery.net//wp-content/plugins/install.php
+/wp-content/.wp-content.php 1 denmarklottery.net
+/wp-content/plugins/WordPressCore/ 1 http://denmarklottery.net//wp-content/plugins/WordPressCore/
+/wp-head.php 3 http://denmarklottery.net//wp-head.php
+/author/greeceman/ 2 -
+/wp-json/litespeed/v1/cdn_status 21 -
+/inputs.php 5 www.google.com
+//victoriapeaklottery.com/xmlrpc.php 1 -
+/wp-admin/js/widgets/upfile.php 1 denmarklottery.net
+/wp-admin/admin-ajax.php 18 http://denmarklottery.net//wp-admin/admin-ajax.php
+/wp-json/wp/v2/users 1 https://www.google.com
+/radio.txt 1 denmarklottery.net
+/.DS_Store 5 -
+/install.php 1 http://denmarklottery.net//install.php
+/wp-includes/css/buttons.css 1 http://denmarklottery.net/wp-includes/css/buttons.css
+/wp-content/plugins/wp-automatic/inputs.php 1 denmarklottery.net
+/wp-includes/js/wp-emoji-release.min.js 1 www.google.com
+/style.php 4 www.google.com
+/wp-includes/theme-compat/network.php 1 http://denmarklottery.net//wp-includes/theme-compat/network.php
+/wp-content/plugins/wp-statistics/readme.txt 2 -
+/wp-json/wp/v2/users/5 2 https://denmarklottery.net/
+/wp-includes/customize/plugins.php 1 http://denmarklottery.net//wp-includes/customize/plugins.php
+/wp-content/plugins/backup-backup/includes/backup-heart.php 2 -
+/wp-admin/network/plugins.php 1 http://denmarklottery.net//wp-admin/network/plugins.php
+/wp-content/plugins/genesis-simple-share/includes/class-genesis-simple-share-view.php 1 denmarklottery.net
+/wp-admin/inputs.php 4 www.google.com
+/.well-known/pki-validation/cloud.php 1 http://denmarklottery.net//.well-known/pki-validation/cloud.php
+/wp-admin/network/admin.php 1 http://denmarklottery.net//wp-admin/network/admin.php
+/alfanew.PHP7 1 http://denmarklottery.net//alfanew.PHP7
+//wp-content/plugins/backup-backup/includes/backup-heart.php 1 -
+/wp-admin/privacy-guides.php 1 denmarklottery.net
+/.well-known/admin.php 1 http://denmarklottery.net//.well-known/admin.php
+/wp-admin/user/plugins.php 1 http://denmarklottery.net//wp-admin/user/plugins.php
+/wp-content/plugins/wp-ver.php 1 denmarklottery.net
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 1 www.google.com
+/wp-includes/Requests/Text/index.php 1 denmarklottery.net
+/xmlrpc.php 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 19 -
+/wp-includes/js/jquery/jquery.min.js 1 www.google.com
+/wp-admin/network/index.php 1 http://denmarklottery.net//wp-admin/network/index.php
+/wp-json/wp/v2/users/4 1 https://denmarklottery.net/
+/cgi-bin/install.php 1 http://denmarklottery.net//cgi-bin/install.php
+/wp-content/plugins/forminator/readme.txt 2 -
+/.well-known/pki-validation/upfile.php 1 denmarklottery.net
+/st.php 1 http://denmarklottery.net//st.php
+/wp-content/themes/soledad/style.css 2 -
+/wp-admin/install.php 3 http://denmarklottery.net//wp-admin/install.php
+/wp-json 18 -
+/wp-content/ 6 -
+/.quarantine/upfile.php 1 denmarklottery.net
+/author/superadmin/ 2 -
+/wp-admin/css/colors/blue/ 1 http://denmarklottery.net//wp-admin/css/colors/blue/
+/sitemap.txt 2 -
+/wp-hoard.php 1 http://denmarklottery.net//wp-hoard.php
+/wp-admin/images/revision.php 1 http://denmarklottery.net//wp-admin/images/revision.php
+/dropdown.php 1 http://denmarklottery.net//dropdown.php
+/phpmyadmin/index.php 4 -
+/author/w-padmine/ 2 -
+/classwithtostring.php 1 http://denmarklottery.net//classwithtostring.php
+/wp-content/uploads/wpr-addons/forms/ 1 http://denmarklottery.net//wp-content/uploads/wpr-addons/forms/
+/.env 26 -
+/repeater.php 1 http://denmarklottery.net//repeater.php
+/wp-admin/images/.images.php 1 denmarklottery.net
+//s3.tradingview.com/external-embedding/embed-widget-timeline.js 18 -
+/wp-content/mah.php 1 http://denmarklottery.net//wp-content/mah.php
+/sample.php 2 http://denmarklottery.net//sample.php
+/shop 2 -
+/sitemaps.xml 6 -
+/wp-content/themes/lottery_victoriapeak/readme.txt 4 -
+/wp-includes/images/smilies/upfile.php 1 denmarklottery.net
+/atomlib.php 1 denmarklottery.net
+/wp-content/themes/theme_log.php 1 denmarklottery.net
+/wpwp.php 1 http://denmarklottery.net//wpwp.php
+/wp-admin/js/.js.php 1 denmarklottery.net
+/wordpress/ 1 https://www.google.com
+/wp-admin/index.php 2 denmarklottery.net
+/wp-checkbex.php 2 -
+/users.php 1 http://denmarklottery.net//users.php
+/author/crander/ 2 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 19 -
+/wp-includes/certificates/plugins.php 1 http://denmarklottery.net//wp-includes/certificates/plugins.php
+/.vscode/sftp.json 2 -
+/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js 1 -
+/wp-includes/js/jquery/jquery.js 2 www.google.com
+/administrator/index.php 3 -
+/text.php 1 http://denmarklottery.net//text.php
+/wp-content/plugins/background-image-cropper/ 1 http://www.google.com
+/blog 2 -
+/wp-content/themes/twentytwentytwo/inputs.php 1 denmarklottery.net
+/wp-json/wp/v2/users/2 1 https://denmarklottery.net/
+/wp-content/plugins/user-registration/assets/css/user-registration.css 1 -
+/backup_1/cleaner.php 1 denmarklottery.net
+/wp-content/plugins/royal-elementor-addons/readme.txt 4 -
+/wp-admin/js/about.php7 1 http://denmarklottery.net//wp-admin/js/about.php7
+/wp-content/plugins/user-registration/assets/js/frontend/ur-login.js 1 -
+/wp-includes/ID3/plugins.php 1 http://denmarklottery.net//wp-includes/ID3/plugins.php
+/wp-json/instawp-connect/v1/config 2 https://denmarklottery.net
+/wp-content/plugins/ 1 http://denmarklottery.net//wp-content/plugins/
+/admin.php 11 http://denmarklottery.net//admin.php
+/wp-seo.php 1 http://denmarklottery.net//wp-seo.php
+/cong.php 1 http://denmarklottery.net//cong.php
+/wp-admin/css/colors/index.php 1 denmarklottery.net
+//cdn.js 19 -
+/wp-aa.php 1 www.google.com
+/wp-content/inputs.php 2 www.google.com
+/.well-known/acme-challenge/admin.php 1 http://denmarklottery.net//.well-known/acme-challenge/admin.php
+/humans.txt 4 http://denmarklottery.net/humans.txt
+/old 2 -
+/cgi-bin/cgi-bin/about.php 1 http://denmarklottery.net//cgi-bin/cgi-bin/about.php
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 264
+34.105.132.246 14 14 83734 20240427195455
+35.171.144.152 10 10 326920 20240425152353
+217.35.144.53 9 9 53757 20240408185413
+45.174.144.16 9 9 53730 20240411115230
+82.223.15.74 7 7 41839 20240401175845
+168.119.64.222 7 7 41783 20240407015131
+54.88.179.33 7 7 228844 20240425152355
+149.56.150.216 6 6 766801 20240430021941
+2.57.122.80 5 5 40069 20240423124956
+42.83.147.56 5 5 29863 20240430103652
+182.2.136.92 5 7 227710 20240401192507
+152.32.142.75 4 6 400772 20240423024251
+137.226.113.44 4 4 23885 20240426030611
+181.177.122.249 4 4 40089 20240402071155
+104.171.153.86 4 4 40089 20240402025539
+123.58.192.229 4 6 400790 20240425035036
+23.95.210.115 4 4 40089 20240402045218
+114.80.36.40 3 3 17924 20240429133340
+154.29.103.76 3 3 13273 20240430085801
+43.163.8.36 3 3 17920 20240422214129
+54.184.84.173 3 9 792317 20240407135601
+89.248.172.115 3 3 17925 20240414115238
+138.68.180.18 3 3 34108 20240422165106
+35.87.251.63 3 9 792314 20240401073604
+51.255.79.114 3 3 17925 20240403214522
+45.83.220.211 1 1 5970 20240427013809
+35.92.55.43 1 1 5970 20240415052520
+198.235.24.122 1 1 32692 20240430170528
+188.225.60.227 1 1 4421 20240422065316
+167.94.138.50 1 2 181067 20240406012034
+159.223.142.50 1 1 5970 20240411023247
+49.51.179.103 2 2 11944 20240424080725
+167.172.248.214 1 1 5982 20240405231651
+87.236.176.112 1 1 5976 20240425121419
+81.36.129.195 1 1 4418 20240416053555
+68.183.33.184 1 1 5975 20240404080657
+138.68.167.171 1 1 5975 20240418043828
+134.209.45.143 1 1 5981 20240420035948
+178.254.24.91 2 2 11944 20240430175616
+179.43.191.18 1 1 5976 20240425101406
+93.159.230.87 1 1 5980 20240409091727
+135.148.195.16 1 2 181065 20240420223031
+49.7.227.204 1 1 5980 20240410135150
+69.10.48.160 1 1 32692 20240420032929
+166.1.138.207 1 1 0 20240416134730
+223.15.245.170 1 1 5975 20240416101932
+130.255.163.47 1 1 5969 20240418214724
+5.133.192.88 1 2 181062 20240401061222
+182.44.8.254 2 2 11941 20240416215240
+93.158.91.24 1 2 181059 20240424121805
+5.133.164.30 1 1 6757 20240430020154
+107.189.12.7 1 1 5975 20240416031123
+43.153.110.177 1 1 5980 20240409175936
+199.45.155.28 1 2 181066 20240428144125
+38.150.5.90 1 1 5973 20240430003953
+42.83.147.34 2 2 11939 20240419123529
+192.42.116.210 1 1 5980 20240409160922
+198.235.24.104 1 1 32692 20240410063221
+185.190.42.200 1 1 32692 20240413000319
+15.204.182.106 2 2 11962 20240427212919
+43.159.128.172 1 1 5970 20240402233507
+154.29.101.180 1 1 4422 20240430020150
+94.228.169.182 1 1 5973 20240430000536
+101.198.0.188 1 1 5982 20240406150828
+52.80.18.29 1 2 45336 20240422034414
+104.236.5.138 1 1 5970 20240423044811
+43.159.128.68 1 1 5980 20240408233443
+209.97.190.107 1 1 5980 20240409050102
+154.39.66.38 1 1 5977 20240414084025
+43.163.6.35 2 2 11950 20240422015059
+175.6.217.4 1 1 5975 20240418145500
+77.238.237.38 2 2 65384 20240404141054
+164.132.172.209 1 1 5980 20240409160915
+178.18.15.20 1 1 32692 20240418185901
+43.134.142.8 1 1 5977 20240401175327
+107.174.248.152 1 1 5980 20240402104358
+147.182.217.125 1 1 5976 20240425021734
+198.235.24.185 1 1 32692 20240424124445
+20.240.192.154 2 2 11952 20240414094045
+167.94.138.34 1 2 181067 20240406011515
+178.254.29.124 1 1 5975 20240404100056
+5.35.90.134 1 1 32692 20240427225942
+54.190.145.41 1 1 5975 20240413055559
+199.45.154.22 1 5 706311 20240412042337
+137.184.178.118 1 1 5969 20240407021806
+170.106.82.193 2 2 11946 20240430015701
+43.128.100.220 1 1 5970 20240403081421
+54.234.110.115 1 2 43776 20240415111503
+43.130.32.224 1 1 5970 20240411093932
+203.33.203.148 1 1 5980 20240421150529
+165.232.38.147 1 1 5964 20240405042054
+5.133.165.122 1 1 4422 20240430085801
+134.122.59.120 1 1 5980 20240421024226
+36.134.147.75 1 1 5980 20240410043049
+138.68.142.198 1 1 5969 20240419030323
+43.155.166.202 1 1 5972 20240417080614
+43.163.6.124 1 1 5976 20240425065405
+51.15.17.105 1 1 5974 20240401002334
+51.15.114.103 1 1 5974 20240424145136
+185.119.1.93 1 2 43786 20240410025030
+52.91.217.174 1 1 5981 20240428123509
+104.161.20.238 1 1 5977 20240414000215
+5.133.162.130 1 1 4422 20240430190017
+111.90.185.121 1 1 5971 20240412090341
+124.226.222.66 1 1 5975 20240413113240
+52.81.237.92 1 2 45326 20240419155806
+23.95.210.202 1 2 43776 20240402045214
+154.28.229.185 1 1 4419 20240402140618
+202.74.40.142 1 1 32692 20240429063250
+95.32.231.38 1 2 43786 20240408124051
+185.230.64.135 1 1 5974 20240424050747
+178.62.204.22 1 1 5975 20240413025148
+205.210.31.89 1 1 32692 20240418213218
+13.48.190.46 1 1 5975 20240404095126
+8.41.221.56 2 2 38658 20240428200400
+64.227.133.46 1 1 5972 20240417035356
+111.7.96.152 2 3 187025 20240411153536
+20.191.66.162 2 2 11960 20240402002303
+43.135.166.178 1 1 5975 20240413020952
+198.235.24.83 1 1 32692 20240403065105
+54.177.91.16 1 1 5975 20240412194253
+43.163.3.58 1 1 5971 20240412160928
+93.158.90.70 1 1 5970 20240403083848
+34.79.161.217 1 1 5975 20240416011501
+34.140.130.61 1 1 5975 20240404094734
+35.89.55.50 1 1 32692 20240410221933
+185.220.100.252 1 1 5980 20240409160912
+43.130.7.211 1 1 5973 20240430124719
+188.16.104.179 1 2 43775 20240403193054
+205.210.31.251 1 1 32692 20240410023242
+89.248.174.9 1 1 5980 20240409045503
+113.219.218.197 1 1 5970 20240427052704
+154.28.229.148 1 1 4419 20240402140617
+43.135.129.233 1 1 5979 20240422103621
+38.45.127.226 1 1 5965 20240430225232
+43.128.100.206 2 2 11949 20240419004243
+188.18.229.59 1 2 43776 20240415111548
+52.81.33.66 1 2 45327 20240427174527
+34.219.15.96 1 1 5979 20240422050332
+178.254.12.183 1 1 5980 20240420225738
+101.198.0.182 0 1 175085 
+172.233.136.243 1 1 5970 20240423140150
+54.215.67.95 1 1 5964 20240405190641
+212.112.19.20 1 1 32692 20240426054555
+205.210.31.106 1 1 32692 20240413103121
+206.168.34.53 1 2 181067 20240405235508
+154.29.100.220 1 1 4429 20240430190022
+167.94.138.126 1 3 356152 20240406011259
+35.92.15.213 1 1 5975 20240413055553
+118.69.175.73 1 1 32692 20240414081139
+135.148.195.12 0 1 175085 
+94.247.172.129 1 1 5970 20240415143345
+135.148.195.13 1 1 5969 20240406192801
+109.184.83.105 1 2 43778 20240405182214
+44.200.154.81 1 1 4421 20240424115936
+43.159.129.209 1 1 5964 20240405090120
+149.100.158.5 1 1 5973 20240430051602
+158.69.247.77 1 1 5980 20240409055243
+18.236.248.115 1 1 5977 20240401055102
+35.87.244.50 1 1 5976 20240425055922
+198.235.24.126 1 1 32692 20240406050048
+54.202.21.65 1 1 5975 20240413055550
+52.41.254.201 1 1 5972 20240417060023
+93.158.90.41 1 1 5975 20240413082816
+95.161.223.123 1 2 43786 20240407161614
+205.210.31.239 1 1 32692 20240406164533
+181.177.116.252 1 2 43776 20240402071152
+104.28.249.139 1 1 4417 20240412172337
+107.178.105.167 2 2 11956 20240428113527
+60.188.57.0 1 1 5970 20240415131214
+185.119.0.254 1 2 43776 20240402104550
+87.236.176.25 0 1 175085 
+123.60.68.42 2 2 11942 20240416235703
+206.168.34.52 1 2 181055 20240426222538
+185.119.0.229 1 1 4429 20240410024833
+107.173.163.148 1 2 43776 20240402025535
+5.133.192.171 1 2 181060 20240412211825
+154.28.229.54 1 1 4419 20240402165123
+185.215.167.78 2 2 11940 20240422192616
+69.10.48.174 1 1 32692 20240420032929
+2.56.243.48 1 1 5980 20240421060922
+5.133.162.82 1 1 4422 20240430190017
+198.235.24.231 1 1 32692 20240429154309
+49.51.206.130 1 1 5981 20240426174810
+35.87.149.204 1 1 5969 20240419052216
+176.9.18.134 1 1 5975 20240418095739
+45.94.31.180 1 1 5975 20240416031126
+85.208.22.179 2 2 11950 20240413092028
+77.246.105.178 2 2 65384 20240404133802
+87.236.176.36 1 1 5973 20240430075938
+54.176.91.0 1 1 5980 20240402002713
+18.237.184.187 1 1 5969 20240419052217
+87.236.176.72 0 1 175085 
+199.45.154.70 1 4 531226 20240412074759
+5.133.165.202 2 2 11179 20240430190022
+109.60.78.188 1 1 5975 20240418025535
+154.29.103.205 1 1 4422 20240430085805
+5.133.192.108 1 2 181058 20240430074659
+43.155.138.79 1 1 5970 20240403174638
+125.75.66.97 1 1 5970 20240423090147
+35.85.138.60 1 1 5976 20240425055923
+89.248.174.182 2 2 11962 20240409190005
+13.57.211.128 1 1 5981 20240426181548
+104.244.79.50 1 1 5980 20240409160917
+199.45.155.25 1 2 181064 20240422171136
+87.236.176.187 1 1 5973 20240430163119
+135.148.195.14 0 1 175085 
+39.173.116.8 1 1 4421 20240422140120
+129.226.158.26 1 1 5977 20240414075559
+185.246.188.74 1 1 5975 20240416031115
+124.156.193.7 1 1 5964 20240404234744
+43.163.1.85 2 2 11961 20240420075008
+5.133.192.128 1 2 181054 20240407014327
+87.236.176.12 0 1 175085 
+198.211.97.134 1 1 5970 20240415030802
+2.58.56.191 1 1 5966 20240429010448
+35.88.171.241 1 1 5970 20240415052519
+205.210.31.212 1 1 32692 20240419111838
+170.106.104.42 2 2 11948 20240425183146
+199.45.154.19 1 2 181064 20240422135922
+150.109.16.20 1 1 5981 20240428154427
+137.184.162.141 1 1 5977 20240401044427
+162.243.4.24 1 1 5977 20240401185713
+193.178.170.190 1 1 32692 20240412120029
+103.20.82.155 1 1 5970 20240411102325
+140.213.59.34 2 4 225628 20240427152607
+128.90.141.40 1 1 5969 20240407155643
+54.183.177.4 1 1 5969 20240419125310
+93.174.93.215 1 1 5970 20240410221243
+184.72.8.73 1 1 5980 20240421062906
+35.91.149.45 1 1 5979 20240422002134
+104.248.11.134 1 1 5970 20240427031747
+149.56.160.222 1 2 43779 20240430022004
+101.198.0.156 1 1 32692 20240406150625
+170.106.101.31 1 1 5982 20240406043423
+157.245.38.199 1 1 5970 20240403032814
+5.35.32.125 1 1 32692 20240430064437
+111.172.249.49 1 1 5981 20240419203109
+198.235.24.165 1 1 32692 20240426052625
+52.81.236.145 1 2 45337 20240410124529
+198.235.24.227 1 1 32692 20240401154958
+180.97.221.86 2 2 11946 20240430110712
+58.211.23.183 1 1 5969 20240407074051
+43.159.141.180 2 2 11950 20240426062350
+182.40.104.255 1 1 5975 20240416001314
+93.158.98.56 1 1 5974 20240424111839
+5.133.192.138 1 2 181060 20240418163446
+182.1.136.133 1 3 218871 20240401111226
+95.59.26.109 1 2 43776 20240415111551
+135.148.195.15 1 1 5977 20240414101703
+77.246.102.95 2 2 65384 20240404124128
+43.134.89.111 1 1 5981 20240428040201
+45.139.122.176 1 1 5980 20240409160914
+5.133.166.4 1 1 4422 20240430020142
+143.198.18.216 1 1 5966 20240429040452
+93.159.230.89 1 1 5970 20240423093337
+128.90.170.38 3 3 17915 20240417231020
+5.133.167.14 2 2 11186 20240430085809
+93.158.90.17 1 1 5969 20240407185113
+51.12.49.186 2 2 11950 20240413163301
+205.210.31.183 1 1 32692 20240424141044
+187.79.81.149 1 1 32692 20240404034338
+130.255.166.51 1 1 5966 20240429083628
+170.106.171.77 2 2 11952 20240427170122
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240401 25 36 1536327 13
+20240402 26 30 350478 17
+20240403 10 11 124247 8
+20240404 12 12 258708 12
+20240405 13 15 424125 11
+20240406 11 17 1196416 11
+20240407 17 25 1088785 9
+20240408 13 14 115469 5
+20240409 12 12 71760 12
+20240410 9 11 209558 9
+20240411 19 20 288516 9
+20240412 13 21 1583641 11
+20240413 17 17 208443 15
+20240414 8 9 249609 8
+20240415 11 14 179088 11
+20240416 10 10 52212 10
+20240417 5 5 29863 5
+20240418 13 14 439773 10
+20240419 10 11 125782 10
+20240420 7 8 270372 7
+20240421 4 4 23920 4
+20240422 15 18 492240 12
+20240423 14 16 470691 7
+20240424 8 9 274760 8
+20240425 13 16 683091 10
+20240426 7 8 270363 7
+20240427 24 27 423223 9
+20240428 7 8 243648 6
+20240429 7 7 95221 7
+20240430 36 40 1546243 28
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30s-2mn 4
+15mn-30mn 3
+30mn-1h 1
+2mn-5mn 1
+0s-30s 292
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 369 3655183 292 285
+/live-draw/ 17 106935 8 10
+/history-result/ 10 741061 1 6
+END_SIDER

@@ -1,0 +1,179 @@
+/**** begin card style ****/
+.card.card-result {
+    position: relative;
+    margin: 0 auto;
+    border-radius: 12px;
+}
+.card.card-result .card-header {
+    border-radius: 12px 12px 0 0;
+}
+.card.card-result .card-header .card-title {
+    position: relative;
+    padding: 10px;
+    border-radius: 0 0 12px 12px;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.card.card-result .card-body {
+    border-radius: 0;
+}
+.card.card-result .card-footer {
+    border-radius: 0 0 12px 12px;
+}
+.card.card-result .card-footer .time-wrapper {
+    display: block;
+	position: relative;
+	border-radius: 12px;
+}
+.card.card-result .prize-wrapper .prize-block {
+    position: relative;
+    display: inline-block;
+    margin: 0 2.5px;
+    width: 35px;
+    height: 35px;
+    background-image: var(--gradient-3);
+    border: 2px solid var(--color-2);
+    border-radius: 50px;
+    padding: 2.5px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.65);
+}
+.card.card-result .prize-wrapper .prize-block.winner {
+    background-image: var(--gradient-2);
+}
+.card.card-result .prize-wrapper .prize-block.mini {
+    margin: 0 1.5px;
+    width: 30px;
+    height: 30px;
+    padding: 1.5px;
+}
+.card.card-result .prize-wrapper .prize-block:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 16px;
+    height: 8px;
+    margin: 0 auto;
+    background-color: rgba(225, 225, 225, 0.45);
+    border-radius: 50px;
+}
+.card.card-result .prize-wrapper .prize-block.mini:after {
+    width: 10px;
+}
+.card.card-result .prize-wrapper .prize-block:before {
+    content: "";
+    position: absolute;
+    bottom: -9px;
+    left: 0;
+    right: 0;
+    width: auto;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #07133080;
+    filter: blur(3px);
+}
+.card.card-result .prize-wrapper .prize-block .prize-digit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: var(--color-9);
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.card.card-result .prize-wrapper .prize-block.winner .prize-digit {
+    color: var(--color-2);
+}
+.card.card-result .prize-wrapper .prize-block.mini .prize-digit {
+    width: 23px;
+    height: 23px;
+    line-height: 23px;
+    font-size: 16px;
+}
+.list-group .list-group-item .prize-wrapper .prize-block {
+    position: relative;
+    display: inline-block;
+    margin: 0 2.5px;
+    width: 35px;
+    height: 35px;
+    background-image: var(--gradient-3);
+    border: 2px solid var(--color-2);
+    border-radius: 50px;
+    padding: 2.5px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.65);
+}
+.list-group .list-group-item .prize-wrapper .prize-block.winner {
+    background-image: var(--gradient-2);
+}
+.list-group .list-group-item .prize-wrapper .prize-block:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 16px;
+    height: 8px;
+    margin: 0 auto;
+    background-color: rgba(225, 225, 225, 0.45);
+    border-radius: 50px;
+}
+.list-group .list-group-item .prize-wrapper .prize-block:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 16px;
+    height: 8px;
+    margin: 0 auto;
+    background-color: rgba(225, 225, 225, 0.45);
+    border-radius: 50px;
+}
+.list-group .list-group-item .prize-wrapper .prize-block.mini:after {
+    width: 10px;
+}
+.list-group .list-group-item .prize-wrapper .prize-block:before {
+    content: "";
+    position: absolute;
+    bottom: -9px;
+    left: 0;
+    right: 0;
+    width: auto;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #07133080;
+    filter: blur(3px);
+}
+.list-group .list-group-item .prize-wrapper .prize-block .prize-digit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: var(--color-9);
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.list-group .list-group-item .prize-wrapper .prize-block.winner .prize-digit {
+    color: var(--color-2);
+}
+.list-group .list-group-item .prize-wrapper .prize-block.mini .prize-digit {
+    width: 23px;
+    height: 23px;
+    line-height: 23px;
+    font-size: 16px;
+}
+/**** endof card style ****/

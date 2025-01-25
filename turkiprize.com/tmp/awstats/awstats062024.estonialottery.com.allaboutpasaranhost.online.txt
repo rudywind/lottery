@@ -1,0 +1,272 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202406 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/awstats.estonialottery.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2042                
+POS_TIME 2707                
+POS_VISITOR 7052                
+POS_DAY 7522                
+POS_DOMAIN 3384                
+POS_LOGIN 3635                
+POS_ROBOT 3790                
+POS_WORMS 4050                
+POS_EMAILSENDER 4181                
+POS_EMAILRECEIVER 4324                
+POS_SESSION 7746                
+POS_SIDER 7893                
+POS_FILETYPES 4459                
+POS_DOWNLOADS 4559                
+POS_OS 4607                
+POS_BROWSER 4707                
+POS_SCREENSIZE 4830                
+POS_UNKNOWNREFERER 4904                
+POS_UNKNOWNREFERERBROWSER 5276                
+POS_ORIGIN 5643                
+POS_SEREFERRALS 5775                
+POS_PAGEREFS 5919                
+POS_SEARCHWORDS 6102                
+POS_KEYWORDS 6254                
+POS_MISC 2371                
+POS_ERRORS 6313                
+POS_CLUSTER 3491                
+POS_SIDER_404 6430                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240701002754 13 2277 13124696303456
+FirstTime 0
+LastTime 20240629193810
+LastUpdate 20240701083939 13 0 12 0 0
+TotalVisits 10                  
+TotalUnique 10                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 10                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 1 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 43 48 76202
+1 0 0 0 235 238 221437
+2 0 0 0 40 43 34185
+3 0 0 0 111 121 96195
+4 0 0 0 67 71 56445
+5 1 1 6635 289 291 231345
+6 1 1 33022 243 248 197160
+7 1 1 33022 33 33 26235
+8 0 0 0 88 99 84653
+9 1 1 33022 252 254 201930
+10 0 0 0 33 34 27030
+11 1 1 33022 52 53 42135
+12 0 0 0 45 48 38160
+13 1 1 33022 41 47 38277
+14 0 0 0 44 47 69593
+15 1 1 33022 55 57 55724
+16 0 0 0 40 43 66412
+17 0 0 0 198 205 164343
+18 0 0 0 34 37 29415
+19 2 2 39671 27 30 23850
+20 0 0 0 19 20 15900
+21 1 2 852695 63 66 84697
+22 0 0 0 47 51 40545
+23 0 0 0 265 269 213855
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 7 8 1024440
+ca 2 2 66044
+nl 1 1 6649
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+no_user_agent 5 165111 20240630003909 0
+Go\-http\-client/ 2 13254 20240610151721 0
+bot[\s_+:,\.\;\/\\-] 1 6635 20240613084239 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 10 251087 0 0
+png 1 846046 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+macosx15 4 3
+win10 2 2
+Unknown 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+firefox122.0 1 1
+Unknown 5 5
+chrome100.0.4896.60 2 2
+chrome121.0.0.0 3 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240629193810
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240629193810
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 10 10
+From1 0 0
+From2 0 0
+From3 0 1
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://mail.estonialottery.com 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+301 2427 1928670
+403 1 1242
+404 16 20016
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 14
+/.aws/credentials 1 -
+/.aws/config 1 -
+/assets/filemanager/dialog.php 1 -
+/robots.txt 1 -
+/.env.prod 1 -
+/filemanager/dialog.php 1 -
+/sendgrid.env 1 -
+/docker-compose.yml 1 -
+/application/configs/application.ini 1 -
+/.env.dev 1 -
+/wp-config.php.backup 1 -
+/wp-admin/admin.php 3 -
+/.env 1 -
+/appsettings.json 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 10
+147.185.132.171 1 1 33022 20240611112818
+198.235.24.100 1 1 33022 20240624153204
+24.144.92.233 1 2 852695 20240625214343
+137.184.70.140 1 1 6635 20240612054134
+147.185.132.34 1 1 33022 20240629193810
+145.220.91.19 1 1 6649 20240625192529
+147.185.132.165 1 1 33022 20240619093511
+54.88.179.33 1 1 33022 20240622062524
+205.210.31.238 1 1 33022 20240614074600
+35.171.144.152 1 1 33022 20240614133535
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20240611 1 1 33022 1
+20240612 1 1 6635 1
+20240614 2 2 66044 2
+20240619 1 1 33022 1
+20240622 1 1 33022 1
+20240624 1 1 33022 1
+20240625 2 3 859344 2
+20240629 1 1 33022 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 10 251087 10 10
+END_SIDER

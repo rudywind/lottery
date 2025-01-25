@@ -1,0 +1,1056 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.kostarikaprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2046                
+POS_TIME 2725                
+POS_VISITOR 27451               
+POS_DAY 37066               
+POS_DOMAIN 3531                
+POS_LOGIN 4122                
+POS_ROBOT 4277                
+POS_WORMS 5052                
+POS_EMAILSENDER 5183                
+POS_EMAILRECEIVER 5326                
+POS_SESSION 37829               
+POS_SIDER 38008               
+POS_FILETYPES 5461                
+POS_DOWNLOADS 5547                
+POS_OS 5595                
+POS_BROWSER 5939                
+POS_SCREENSIZE 7757                
+POS_UNKNOWNREFERER 7831                
+POS_UNKNOWNREFERERBROWSER 8719                
+POS_ORIGIN 9203                
+POS_SEREFERRALS 9343                
+POS_PAGEREFS 9506                
+POS_SEARCHWORDS 9685                
+POS_KEYWORDS 9837                
+POS_MISC 2389                
+POS_ERRORS 9896                
+POS_CLUSTER 3978                
+POS_SIDER_404 10002               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501000319 57 12599 12208564910493
+FirstTime 20240401053722
+LastTime 20240430230040
+LastUpdate 20240501081728 57 0 56 0 0
+TotalVisits 287                 
+TotalUnique 248                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 248                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 22 22 338102 22 54 269428
+1 28 28 733074 30 41 139573
+2 9 9 218654 23 30 51534
+3 14 14 226852 21 41 47502
+4 22 22 1600290 13 34 1420947
+5 38 38 445508 26 51 142749
+6 10 10 125869 20 21 171284
+7 14 14 1557000 97 117 158496
+8 6 6 89139 23 33 171440
+9 22 22 270008 37 40 88191
+10 10 10 198124 246 256 388302
+11 11 11 203033 14 20 66942
+12 12 12 246169 17 28 87839
+13 15 15 1562637 11 26 68492
+14 59 59 476803 37 97 323746
+15 13 13 155271 29 40 103441
+16 17 17 260498 20 28 105683
+17 19 19 1710483 14 26 85094
+18 8 8 62428 112 121 285071
+19 16 16 136726 53 59 1408772
+20 18 18 267353 98 105 229257
+21 18 18 233323 10 17 35274
+22 8 8 141488 19 29 102471
+23 18 18 254525 19 28 93254
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 27
+us 167 167 8525287
+cn 60 60 500602
+ca 47 47 925091
+de 25 25 261768
+jp 24 24 220517
+id 14 14 51254
+ru 13 13 175243
+nl 11 11 101066
+se 11 11 135052
+au 11 11 38470
+gb 11 11 105274
+in 4 4 40447
+lt 4 4 40449
+be 4 4 36743
+eu 3 3 65817
+bg 3 3 93667
+hu 2 2 18374
+kh 2 2 18378
+hn 2 2 9199
+sa 2 2 18372
+pl 1 1 9190
+il 1 1 9189
+vn 1 1 43173
+ch 1 1 9190
+fr 1 1 9193
+az 1 1 9179
+hk 1 1 43173
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+AhrefsBot/ 29 268136 20240429052448 0
+no_user_agent 21 906633 20240429002518 0
+Googlebot/ 14 102479 20240430231508 0
+DotBot/ 7 2694403 20240413193201 0
+bot[\s_+:,\.\;\/\\-] 6 55111 20240413215141 0
+(firefox/)([0-9]\.|[0-1][0]\.) 4 36736 20240430165647 0
+crawl 4 75368 20240416142652 0
+nbot 3 66191 20240402062602 0
+DuckDuckGo\-Favicons\-Bot/ 3 27569 20240415134538 0
+SemrushBot/ 3 66191 20240414202405 0
+survey 3 129519 20240403182325 0
+nutch 3 33131 20240404161321 0
+bingbot/ 2 22614 20240422193917 0
+Go\-http\-client/ 2 18382 20240425051538 0
+MJ12bot/ 1 7318 20240430182908 0
+CCBot/ 1 7323 20240414103746 0
+BLEXBot/ 1 9189 20240424145820 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 427 11513357 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+android10 42 42
+linuxubuntu 6 6
+androidmarshmallow 1 1
+win10 129 129
+winvista 1 1
+Unknown 64 64
+winlong 3 3
+winnt 5 5
+winxp 3 3
+win7 14 14
+linux 25 25
+macosx15 41 41
+android 6 6
+macosx7 3 3
+macosx 4 4
+ios_iphone 61 61
+androidkitkat 5 5
+win8.1 1 1
+androidnougat 7 7
+macosx14 6 6
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 87
+opera79.2.4195.76518 2 2
+chrome106.0.1826 1 1
+chrome69.0.3497.100 1 1
+chrome113.0.0.0 1 1
+firefox97.0 1 1
+msie11.0 1 1
+chrome68.0.3440.106 7 7
+chrome72.0.3626.121 1 1
+firefox117.0 8 8
+chrome51.0.2704.103 4 4
+chrome73.0.3629.88 1 1
+chrome122.0.0.0 7 7
+safari16.6 2 2
+msie7.0 1 1
+chrome110.0.0.0 3 3
+chrome60.0.3112.107 7 7
+chrome117.0.0.0 12 12
+chrome100.0.4896.60 15 15
+chrome97.0.4280.67 2 2
+chrome87.0.4280.88 2 2
+safari12.0 2 2
+chrome66.0.3359.181 12 12
+chrome77.0.3865.90 1 1
+chrome77.0.3865.75 1 1
+chrome124.0.0.0 5 5
+msie6.0 2 2
+chrome74.0.1271.88 1 1
+chrome80.0.3987.132 1 1
+chrome88.0.4240.193 5 5
+Unknown 18 18
+chrome104.0.5112.79 1 1
+chrome121.0.0.0 20 20
+firefox99.0 4 4
+chrome116.0.0.0 8 8
+firefox60.0 1 1
+chrome122.0.6261.94 1 1
+chrome114.0.0.0 8 8
+opera89.0.4447.51 4 4
+chrome94.0.4606.61 1 1
+chrome96.0.4664.110 2 2
+chrome120.0.0.0 3 3
+firefox115.0 1 1
+chrome123.0.0.0 32 32
+chrome68.0.2463 1 1
+chrome17.0.963.56 3 3
+chrome112.0.5615.136 1 1
+chrome91.0.4472.114 3 3
+safari17.3.1 1 1
+chrome80.0.3987.162 4 4
+android 5 5
+mozilla 43 43
+chrome74.0.3729.169 7 7
+firefox40.0 1 1
+chrome81.0.4044.138 5 5
+chrome105.0.0.0 6 6
+opera80.4.4244.7786 1 1
+chrome104.0.0.0 1 1
+firefox118.0 6 6
+edge18 1 1
+firefox114.0 5 5
+firefox73.0 1 1
+chrome99.0.4844.83 1 1
+chrome88.0.4324.150 2 2
+chrome58.0.1957 1 1
+safari13.0.3 56 56
+safari9.0 1 1
+opera102.0.0.0 2 2
+chrome79.0.3945.130 2 2
+chrome90.0.4430.85 1 1
+firefox56.0 1 1
+firefox54.0 1 1
+firefox45.0 1 1
+chrome78.0.3904.108 19 19
+safari17.0 2 2
+chrome109.0.0.0 3 3
+chrome14.0.835.163 1 1
+chrome92.0.4515.131 1 1
+chrome49.0.2623.87 1 1
+firefox108.0 3 3
+chrome100.0.4896.127 5 5
+netscape5.0 4 4
+chrome34.0.1847.116 3 3
+firefox44.0 1 1
+chrome83.0.4103.97 3 3
+chrome88.0.4324.192 1 1
+chrome58.0.2377 1 1
+chrome103.0.0.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+got_(https://github.com/sindresorhus/got) 20240424144620
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240429032827
+python-requests/2.31.0 20240419150542
+Mozilla/5.0_(compatible;_Domains_Project/1.3.7;__https://domainsproject.org) 20240413231931
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240430230040
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240420151156
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240426163352
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240425025305
+undici 20240407192807
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240420151156
+undici 20240407192807
+python-requests/2.31.0 20240419150542
+got_(https://github.com/sindresorhus/got) 20240424144620
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 309 309
+From1 10 10
+From2 2 2
+From3 2 2
+From4 104 104
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://onic4dpasaran.site 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 1192 1487439
+403 25 31050
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 383
+/wp-admin/includes/about.php 2 -
+/wp-includes/images/smilies/upfile.php 1 kostarikaprize.com
+/images/ 1 binance.com
+/wp-includes/.wp-includes.php 1 kostarikaprize.com
+/php/thinkphp/aaaffff123.php 4 -
+/wp-content/themes/seotheme/db.php 6 www.google.com
+/style.php 6 www.google.com
+/sitemap.xml 22 -
+/wp-content/about.php 2 -
+/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 1 -
+/sites/all/modules/plupload/plupload/examples/upload.php 1 -
+/wp-includes/images/about.php 2 -
+/wp-content/themes/seotheme/mar.php 2 -
+/wp-content/plugins/seoplugins/mar.php 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 5 -
+/cgi-bin/.cgi-bin.php 1 kostarikaprize.com
+/wp-admin/css/ 1 binance.com
+/sitemap_index.xml 3 -
+/admin/controller/extension/extension/ 1 binance.com
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/wp-content/themes/qoe/vendor/ernilambar/wp-admin-notice/src/Start-home.php 1 kostarikaprize.com
+/wp-content/plugins/Cache/Cache.php 5 http://kostarikaprize.com/wp-content/plugins/Cache/Cache.php
+/sites/all/libraries/plupload/examples/upload.php 1 -
+/%5C/lotteriacostarica.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 1 -
+/wp-admin/css/colors/blue/index.php 1 kostarikaprize.com
+/plugins/content/apismtp/apismtp.php 2 -
+/api/index.php/v1/users 4 -
+/wp-content/plugins/moveto/assets/lib/loader_ajax.php 2 http://kostarikaprize.com
+/images/about.php 2 -
+/wp-content/pm.php 1 -
+/wp-checkbex.php 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 3 www.google.com
+/wp-content/plugins/seo-spy-google-wordpress-plugin/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/ftp-sync.json 2 -
+/wp-admin/install.php 1 -
+/wp-admin/images/admin.php 3 http://kostarikaprize.com/wp-admin/images/admin.php
+/worm0.PhP7 1 -
+/wp-content/plugins/background-image-cropper/ 1 http://www.google.com
+/admin.php 10 -
+/.well-known/security.txt 6 -
+/wp-content/languages/about.php 2 -
+/wp-content/themes/torofilm/changelog.txt 2 -
+/wp-includes/widgets/about.php 2 -
+/wp-admin/images/cloud.php 2 -
+/.vscode/sftp.json 2 -
+/PHPMailer/web_config.php 1 kostarikaprize.com
+/files/ 1 binance.com
+/wp-content/plugins/backup-backup/includes/m 1 -
+/sitemap1.xml 1 -
+/author/superadmin/ 1 -
+/wp-content/plugins/apikey/apikey.php.suspected 3 -
+/wp-admin/edit-forms.php 1 kostarikaprize.com
+/wp-admin/js/.js.php 1 kostarikaprize.com
+/wp-content/plugins/ern/randkeyword.php 1 -
+/.well-known/about.php 2 -
+/wp-content/plugins/press/wp-class.php 6 http://kostarikaprize.com/wp-content/plugins/press/wp-class.php
+/wp-content/plugins/core/include.php 6 http://kostarikaprize.com/wp-content/plugins/core/include.php
+/wp-admin/dropdown.php 5 http://kostarikaprize.com/wp-admin/dropdown.php
+/author/greeceman/ 1 -
+/about.php7 2 -
+/wp-content/.wp-content.php 1 kostarikaprize.com
+/classwithtostring.php 1 -
+/uploads/ 1 binance.com
+/wp-content/updraft/about.php 2 -
+/users.php 1 -
+/libraries/vendor/updates.php 2 -
+/wp-admin/css/colors/index.php 4 -
+/ioxi01.php 1 -
+/wp-woulds.php 1 kostarikaprize.com
+/wp-includes/ 1 -
+/wp-admin/js/about.php 4 -
+/sitemap.xml.gz 2 -
+/wp-includes/block-patterns/about.php 2 -
+/.DS_Store 5 -
+/wp-admin/repeater.php 2 -
+/cgi-bin/upfile_(2).php 1 kostarikaprize.com
+/wp-admin/css/colors/blue/xmrlpc.php 2 -
+/wp-content/plugins/backup-backup/modules/gdrivebanner/assets/css/styles.css 8 -
+/img/xmrlpc.php 2 -
+/wp-admin/maint/.maint.php 1 kostarikaprize.com
+/wp-json/litespeed/v1/cdn_status 20 -
+/wp-content/plugins/ip-logger/chart/ofc_upload_image.php 1 -
+/simple.php 9 www.google.com
+/admin/index.php 3 -
+/wp-admin/images/upfile.php 1 kostarikaprize.com
+/admin-post.php 2 -
+/wp-admin/css/colors/light/index.php 1 kostarikaprize.com
+/radio.php 2 kostarikaprize.com
+/wp-content/plugins/about.php 6 http://kostarikaprize.com/wp-content/plugins/about.php
+/gawean.PhP7 1 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 3 -
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php 3 http://kostarikaprize.com/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php
+/otpznwsb.php 1 www.google.com
+/wp-includes/blocks/about.php 2 -
+/wp-admin/setup-config.php 1 -
+/wp-plain.php 2 www.google.com
+/install.php 3 http://kostarikaprize.com/install.php
+/wp-admin/user/about.php 3 http://kostarikaprize.com/wp-admin/user/about.php
+/yanz.php 2 -
+/wp-admin/js/widgets/cloud.php 2 -
+/wp-admin/user/xmrlpc.php 2 -
+/wp-includes/js/wp-emoji-release.min.js 3 www.google.com
+/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 3 http://kostarikaprize.com/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+/fm1.php 7 -
+/wp-emoji-release.min.js 2 -
+/alfacgiapi/perl.alfa 2 www.google.com
+/media/system/js/core.js 3 -
+//wp-includes/wlwmanifest.xml 6 -
+/wp-content/gallery/about.php 2 -
+/wp-content/plugins/backup-backup/includes/b 1 -
+/wp-content/plugins/fix/up.php 2 www.google.com
+/index_sso.php 4 -
+/wp-content/themes/theme_log.php 1 kostarikaprize.com
+/top.php 1 -
+/wp-content/plugins/core-plugin/nxd.php 3 http://kostarikaprize.com/wp-content/plugins/core-plugin/nxd.php
+/wp-content/plugins/ai-engine/readme.txt 3 -
+/sites/default/files/ 1 binance.com
+/wp-admin/network/upfile.php 1 kostarikaprize.com
+/wp-admin/network/cloud.php 2 -
+/wp-includes/js/jquery/jquery.min.js 4 www.google.com
+/ws.php 1 -
+/wp-content/plugins/alfa-rex.php 6 http://kostarikaprize.com/wp-content/plugins/alfa-rex.php
+/wp-content/plugins/seoo/wsoyanz.php 2 -
+/cgi-bin/xmrlpc.php 3 -
+/wp-content/banners/about.php 2 -
+/wp 2 -
+/wp-admin/network/amaxx.php 3 http://kostarikaprize.com/wp-admin/network/amaxx.php
+/alfa-rex.php7 2 -
+/.well-known/acme-challenge/xmrlpc.php 2 -
+/ioxi02.php 4 -
+/wp-admin/maint/upfile.php 1 kostarikaprize.com
+/wp-theme.php 1 kostarikaprize.com
+/c.php 3 http://kostarikaprize.com/c.php
+/freichat/client/plugins/upload/upload.php 2 -
+/wp-includes/style-engine/about.php 2 -
+/wp-content/themes/about.php 8 http://kostarikaprize.com/wp-content/themes/about.php
+/wp-content/plugins/genesis-simple-share/includes/class-genesis-simple-share-view.php 1 kostarikaprize.com
+/author/admim/ 1 -
+/author/w-padmine/ 1 -
+/security.txt 4 http://www.kostarikaprize.com/security.txt
+/wp-content/plugins/wp-ver.php 1 kostarikaprize.com
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-2019.php 3 http://kostarikaprize.com/wp-2019.php
+/plugins/content/apismtp/apismtp.php.suspected 2 -
+/.vscode/.sftp.json 1 -
+/.vscode/ftp-sync.json 2 -
+/wp-includes/customize/amaxx.php 3 http://kostarikaprize.com/wp-includes/customize/amaxx.php
+/wp-content/plugins/work-list/lang.php 1 www.google.com
+/wp-includes/rest-api/about.php 2 -
+/wp-content/plugins/apikey/apikey.php 2 -
+/index.php 7 kostarikaprize.com
+/.ftp-sync.json 3 -
+/xmrlpc.php 2 -
+/wp-content/themes/lottery/readme.txt 5 -
+/wp-content/themes/bute/lang.php 1 www.google.com
+/wp-admin/js/widgets/xmrlpc.php 2 -
+/wp-json/wp/v2/users/5 1 https://kostarikaprize.com/
+/wp-json 14 -
+/wp-admin/cloud.php 2 -
+/updates.php 2 -
+/wp-admin/includes/xmrlpc.php 2 -
+//lotteriacostarica.com/wp-content/themes/lottery_costarica/assets/js/lottery.js 3 -
+/sitemap-index.xml 1 -
+/author/crander/ 1 -
+/wp-content/plugins/forminator/readme.txt 2 -
+/.well-known/fierzashell.php 1 -
+/cjfuns.php 3 http://kostarikaprize.com/cjfuns.php
+/wp-admin/mb.php 1 kostarikaprize.com
+/backup_1/cleaner.php 1 kostarikaprize.com
+/dist/js/bootstrap.bundle.min.js 2 -
+/wp-admin/css/colors/coffee/cloud.php 2 -
+/login 1 -
+/avaa.php 2 -
+/.well-known/pki-validation/cloud.php 2 -
+/wp-content/plugins/forminator/assets/fonts/wpmudev-plugin-icons.svg 2 -
+/css/cloud.php 2 -
+/wp-includes.bak/html-api/about.php 2 -
+/administrator/components/com_maianmedia/utilities/charts/php-ofc-library/ofc_upload_image.php 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 3 -
+/chosen.php 13 -
+/adminfuns.php7 2 -
+/wp-content/inputs.php 1 www.google.com
+/da1.php 1 kostarikaprize.com
+/wp-content/themes/finley/min.php 6 http://kostarikaprize.com/wp-content/themes/finley/min.php
+/wp-includes/css/dist/block-library/style.min.css 81 https://kostarikaprize.com/
+/wp/xmlrpc.php 1 -
+/wp-admin/css/about.php 2 -
+/wp-content/plugins/wp-statistics/readme.txt 2 -
+/ws.php7 2 -
+/sites/all/libraries/elfinder/elfinder.html 1 -
+/wp-content/plugins/wp-meta-seo/readme.txt 2 -
+/wp-content/plugins/seoplugins/db.php 2 -
+/wp-content/plugins/blogroll-to-page/blogroll-to-page.php 1 -
+/old 2 -
+/wp-admin/images/about.php 2 -
+/wp-admin/index.php 2 kostarikaprize.com
+/wp-admin/admin-ajax.php 12 -
+/wp-content/updates.php 2 -
+/wp-consar.php 2 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 6 www.google.com
+/radio.txt 1 kostarikaprize.com
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 1 -
+/cloud.php 2 -
+//wp-json/oembed/1.0/embed 6 -
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 3 http://kostarikaprize.com/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+/alfanew.PHP7 1 -
+/license.txt 2 -
+/wsoyanz.php 2 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 4 -
+/wp-content/themes/bricks/assets/css/libs/font-awesome-6.min.css 1 -
+/wp-admin/maint/maint/ajax-actions.php 2 -
+/about.php 10 http://kostarikaprize.com/about.php
+/sitemap.txt 5 -
+/wp-admin/css/index.php 3 -
+/wp-admin/css/.css.php 1 kostarikaprize.com
+/wp-content/plugins/LayerSlider/static/js/builder.js 1 kostarikaprize.com
+/wp-admin/js/widgets/about.php7 2 -
+/wp-includes/Text/about.php 2 -
+/.well-known/wso112233.php 6 http://kostarikaprize.com/.well-known/wso112233.php
+/sitemaps.xml 2 -
+/ebs.php7 2 -
+/sites/all/libraries/elfinder/src/connectors/php/connector.php 1 -
+/wp-includes/js/jquery/jquery.js 13 www.google.com
+/cache-compat.php 2 -
+/licenses.php 1 kostarikaprize.com
+/wp-admin/.wp-admin.php 1 kostarikaprize.com
+/cjfuns%20.php 3 http://kostarikaprize.com/cjfuns%20.php
+/autoload_classmap.php 3 http://kostarikaprize.com/autoload_classmap.php
+/wp-includes/SimplePie/about.php 2 -
+/dropdown.php 8 http://kostarikaprize.com/dropdown.php
+//wp-json/wp/v2/users/ 6 -
+/cgi-bin/about.php 2 -
+/wp-content/themes/pridmag/db.php 2 -
+/wp-admin/user/upfile.php 1 kostarikaprize.com
+/author/wpadminne/ 1 -
+/wp-content/plugins/wp-slimstat-ex/lib/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/sitemap.php 1 -
+/administrator/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/Wp-includes/amaxx.php 3 http://kostarikaprize.com/Wp-includes/amaxx.php
+/wp-cron.php 2 -
+/.well-known/acme-challenge/upfile.php 2 kostarikaprize.com
+/admin/ 1 -
+/administrator/components/com_maian15/charts/php-ofc-library/ofc_upload_image.php 1 -
+/wp-includes/ID3/wp-login.php 5 http://kostarikaprize.com/wp-includes/ID3/wp-login.php
+/wp-content/plugins/woopra/inc/php-ofc-library/ofc_upload_image.php 1 -
+/wordpress/xmlrpc.php 1 -
+/.well-known/acme-challenge/cloud.php 4 -
+/wp-admin/network/xmrlpc.php 2 -
+/ads.txt 6 http://kostarikaprize.com/ads.txt
+/wp-json/wp/v2/users/3 1 https://kostarikaprize.com/
+/images/xmrlpc.php 2 -
+/wp-content/plugins/spamtask/chart/php-ofc-library/ofc_upload_image.php 1 -
+//s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js 3 -
+/wp-content/plugins/seoo/wsoyanz1.php 2 -
+/sitemap/sitemap.xml 1 -
+/wp-admin/includes/cloud.php 2 -
+/yntnlcju.php 1 www.google.com
+/wp-content/plugins/backup-backup/includes/ 3 http://kostarikaprize.com/wp-content/plugins/backup-backup/includes/
+/wp-includes/IXR/themes.php 6 http://kostarikaprize.com/wp-includes/IXR/themes.php
+/wp-includes/ID3/about.php 8 http://kostarikaprize.com/wp-includes/ID3/about.php
+/wp-ver.php 1 kostarikaprize.com
+/sites/all/modules/contrib/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/blog 2 -
+//xmlrpc.php 12 -
+/robots.txt 99 -
+/images/cloud.php 2 -
+/.well-known/pki-validation/xmrlpc.php 2 -
+/wp-content/plugins/ern/bypmini.php 1 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 8 http://kostarikaprize.com/wp-content/plugins/backup-backup/includes/backup-heart.php
+/inputs.php 9 www.google.com
+//cdn.js 3 -
+/text.php 3 http://kostarikaprize.com/text.php
+/wp-includes/SimplePie/plugins.php 6 http://kostarikaprize.com/wp-includes/SimplePie/plugins.php
+/wp-info.php 3 http://kostarikaprize.com/wp-info.php
+/wp-includes/Requests/Text/admin.php 2 -
+/wp-content/plugins/linkpreview/db.php 2 -
+/wp-includes/Requests/about.php 2 -
+/wp-content/plugins/master/mode/table.php 1 kostarikaprize.com
+/wp-json/wp/v2/users/4 2 https://kostarikaprize.com/
+/joobi/inc/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/.sftp-config.json 2 -
+/a2.php 1 kostarikaprize.com
+/cgi-bin/cloud.php 2 -
+/alfanew.php7 8 http://kostarikaprize.com/alfanew.php7
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 2 -
+/author/stender/ 1 -
+/new 1 -
+/img/cloud.php 2 -
+/wp-aa.php 4 www.google.com
+/.well-known/pki-validation/upfile.php 2 kostarikaprize.com
+/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js 1 -
+/defaults.php 1 -
+/repeater.php 8 http://kostarikaprize.com/repeater.php
+/wp-includes/random_compat/about.php 2 http://kostarikaprize.com//wp-includes/random_compat/about.php
+/phpmyadmin/index.php 3 -
+/xmlrpc.php 2 -
+/wp-admin/ajax-actions.php 2 -
+/music/bak_config.php 1 kostarikaprize.com
+/alfa-rex2.php7 2 -
+/libraries/phpmailer/updates.php 2 -
+/menu.php 3 http://kostarikaprize.com/menu.php
+/wp-content/plugins/gotmls/readme.txt 1 -
+/ajax-actions.php 2 -
+/alfanew.php 8 http://kostarikaprize.com/alfanew.php
+/wp-content/themes/rehub-theme/icons/modulobox.svg 2 -
+/wp-admin/css/colors/xmrlpc.php 2 -
+/wp-admin/images/.images.php 1 kostarikaprize.com
+/wp-content/shell20211028.php 3 http://kostarikaprize.com/wp-content/shell20211028.php
+/author/wpservices/ 1 -
+/wp-includes/pomo/about.php 2 -
+/humans.txt 6 http://kostarikaprize.com/humans.txt
+/wp-admin/images/index.php 2 -
+/_well-known/amaxx.php 3 http://kostarikaprize.com/_well-known/amaxx.php
+/wp-includes/theme-compat/wp-conflg.php 3 http://kostarikaprize.com/wp-includes/theme-compat/wp-conflg.php
+/img/about.php 2 -
+/wp-content/themes/soledad/style.css 2 -
+/wp-admin/xmrlpc.php 2 -
+/wp-content/upgrade-temp-backup/about.php 2 -
+/wordpress 2 -
+/wp-json/wp/v2/users/2 3 https://kostarikaprize.com/
+/administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 1 -
+/wp-includes/css/buttons.css 1 http://kostarikaprize.com/wp-includes/css/buttons.css
+/wp-head.php 5 -
+//lotteriacostarica.com/wp-content/themes/lottery/assets/js/flipclock.js 3 -
+/shell20211028.php 3 http://kostarikaprize.com/shell20211028.php
+/wp-admin/css/colors/cloud.php 2 -
+/dist/jquery.min.js 2 -
+/ALFA_DATA/alfacgiapi/perl.alfa 2 www.google.com
+/components/com_jvideodirect/tools/uploader/php/upload.php 1 -
+/wp-admin/images/xmrlpc.php 2 -
+/wp-json/instawp-connect/v1/config 2 http://kostarikaprize.com
+/wp-admin/user/cloud.php 2 -
+/sitemap/index.xml 1 -
+/sftp-config.json 2 -
+/wp-admin/inputs.php 3 www.google.com
+/.well-known/pki-validation/about.php 8 http://kostarikaprize.com/.well-known/pki-validation/about.php
+/wp-includes/inputs.php 1 www.google.com
+/test 2 -
+/wp-p.php7 2 -
+/wp-includes/repeater.php 2 -
+/administrator/index.php 3 -
+/wp-content/repeater.php 2 -
+/wp-includes/customize/about.php 2 -
+/wp-content/index.php 1 kostarikaprize.com
+/sitemapindex.xml 1 -
+/wp-admin/includes/.includes.php 1 kostarikaprize.com
+/admin 1 -
+/wp-blog.php 1 kostarikaprize.com
+/administrator/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 1 -
+/atomlib.php 1 kostarikaprize.com
+/shop 2 -
+/wp-content/upgrade/edit.php 3 http://kostarikaprize.com/wp-content/upgrade/edit.php
+/libraries/legacy/updates.php 2 -
+/wp-admin/includes/users.php 1 kostarikaprize.com
+/wp-content/uploads/sites/8/upfile.php 1 kostarikaprize.com
+/wso112233.php 3 http://kostarikaprize.com/wso112233.php
+/cgi-bin/upfile.php 2 -
+/wp-admin/css/colors/coffee/xmrlpc.php 2 -
+/wp-admin/css/colors/blue/cloud.php 2 -
+/.env 16 -
+/wp-login.php 8 http://www.google.com.hk
+/wp-includes/about.php 2 -
+/wzy.php 1 -
+/M1.php 6 http://kostarikaprize.com/M1.php
+/components/com_joomleague/assets/classes/open-flash-chart/ofc_upload_image.php%20 1 -
+/wp-content/plugins/core-plugin/.nxd.php 3 http://kostarikaprize.com/wp-content/plugins/core-plugin/.nxd.php
+/class.api.php 8 -
+/wp-content/ 2 -
+/sites/all/libraries/elfinder/connectors/php/connector.php 1 -
+/wp-includes/IXR/about.php 2 -
+/wp-includes/Requests/Text/index.php 1 kostarikaprize.com
+/sitemap 1 -
+/wp-admin/a2.php 1 kostarikaprize.com
+/dede/ 1 -
+/alfanew2.php7 2 -
+/css/xmrlpc.php 2 -
+/wp-content/blogs.dir/about.php 2 -
+/author/wpsecuritypatch/ 1 -
+/wp-roto/wp-admin/css/index.php 1 kostarikaprize.com
+/wp-content/themes/lottery_costarica/readme.txt 4 -
+/wp-header.php 6 http://kostarikaprize.com/wp-header.php
+/wp-admin/includes/upfile.php 2 kostarikaprize.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 248
+192.95.30.15 9 9 82701 20240413192700
+217.160.71.43 9 9 82620 20240410095346
+142.198.109.116 9 9 66181 20240413231931
+192.95.31.35 9 9 82666 20240424051417
+172.174.212.114 8 8 345384 20240406010325
+116.206.15.26 8 8 7319 20240406143138
+140.213.106.162 8 8 7322 20240426141711
+146.70.212.85 8 8 77725 20240429161008
+35.171.144.152 8 8 345384 20240426025052
+72.235.219.207 7 7 64330 20240403012153
+213.202.233.34 7 7 64313 20240425185345
+54.88.179.33 7 7 302211 20240426025056
+149.56.160.242 6 6 1455134 20240428135347
+149.56.160.132 6 6 1455134 20240428172746
+149.56.150.57 6 6 1455134 20240428040949
+149.56.160.181 6 6 1455134 20240428072633
+34.174.75.157 5 5 215865 20240424011703
+42.83.147.34 5 5 45937 20240428224806
+122.176.205.12 4 4 40447 20240430155627
+152.32.162.60 4 4 70740 20240425030354
+114.142.172.34 4 4 7318 20240428142441
+165.154.36.113 4 4 70740 20240425140401
+137.226.113.44 4 4 36772 20240425025305
+34.162.91.244 4 4 172692 20240402140351
+45.86.202.161 4 4 172692 20240410171633
+43.130.37.62 2 2 18377 20240411061633
+159.65.29.30 1 1 9187 20240427214725
+114.142.173.9 1 1 7319 20240401143206
+69.10.48.160 1 1 43173 20240420015831
+135.148.195.14 1 1 9189 20240414122616
+205.210.31.217 1 1 43173 20240404225101
+104.161.20.238 1 1 9190 20240411114312
+205.210.31.73 1 1 43173 20240416014800
+124.156.193.7 1 1 9190 20240403045149
+159.89.115.159 1 1 9189 20240423213649
+43.159.128.68 1 1 9180 20240410101958
+43.128.100.206 1 1 9189 20240423172651
+43.130.39.101 1 1 9199 20240415001910
+89.248.174.34 2 2 18386 20240401053722
+180.102.134.69 1 1 9184 20240405145623
+43.133.77.230 1 1 9191 20240411162608
+123.6.49.38 1 1 9190 20240408201152
+147.182.198.133 1 1 9179 20240407211138
+87.236.176.199 1 1 9189 20240425095951
+18.237.126.117 1 1 9199 20240402052027
+157.230.239.174 1 1 9189 20240415213406
+43.134.170.46 1 1 9189 20240415192119
+206.168.34.35 1 1 9189 20240416034429
+18.237.144.183 2 2 18368 20240406053046
+129.226.158.26 1 1 9189 20240424043448
+123.60.68.42 2 2 18390 20240418081614
+182.42.111.213 1 1 9199 20240402003718
+68.183.26.38 1 1 9189 20240413202721
+5.188.62.26 1 1 9185 20240421194253
+198.235.24.97 1 1 43173 20240417090811
+89.248.172.115 3 3 27568 20240414072518
+93.158.91.12 1 1 9199 20240401230227
+206.168.34.38 1 1 9189 20240424042556
+35.91.79.160 1 1 9192 20240430052236
+185.220.101.62 1 1 9190 20240411065340
+14.215.163.132 2 2 18375 20240427125616
+199.244.88.230 1 1 9187 20240417043608
+138.94.218.236 2 2 9199 20240415134449
+159.65.21.181 1 1 9191 20240411201742
+44.234.252.120 1 1 9184 20240406053049
+185.12.249.39 1 1 9189 20240425032227
+116.206.14.38 1 1 7318 20240430141840
+54.254.162.138 1 1 7317 20240407192807
+93.158.91.235 1 1 9187 20240419140851
+69.160.160.53 3 3 63950 20240416142716
+64.23.195.79 1 1 9190 20240425203244
+5.133.192.128 1 1 9187 20240419092626
+212.162.149.43 2 2 18372 20240422094152
+103.20.82.155 2 2 18378 20240414133305
+107.189.8.181 1 1 9190 20240411065354
+198.235.24.15 1 1 43173 20240409083801
+43.133.38.182 1 1 9191 20240412121349
+109.248.204.72 1 1 7319 20240406055247
+36.134.147.75 2 2 18378 20240420041915
+157.245.106.194 1 1 9186 20240427051536
+62.77.154.96 2 2 18374 20240419150542
+178.254.38.45 1 1 9190 20240409030525
+62.133.61.166 1 1 9179 20240408122018
+91.92.247.48 1 1 43173 20240403091403
+124.226.222.66 2 2 18387 20240427015848
+43.159.141.180 2 2 18383 20240429085839
+167.99.184.210 1 1 9192 20240403202839
+124.225.164.130 1 1 9185 20240419171053
+116.206.14.2 1 1 7321 20240411143604
+35.92.83.77 2 2 18384 20240404052459
+109.248.138.236 1 1 7320 20240414182713
+62.197.150.19 1 1 9190 20240402205036
+44.242.168.83 1 1 9199 20240402052029
+42.83.147.53 1 1 9193 20240423121445
+43.130.62.164 1 1 9189 20240416062847
+125.164.22.139 1 1 7323 20240410141613
+159.203.7.214 1 1 9185 20240419224827
+91.92.242.243 1 1 7321 20240412050640
+36.74.44.155 1 1 7318 20240427151333
+38.45.127.226 1 1 9177 20240430225234
+108.62.0.15 2 2 86346 20240424101455
+128.90.170.38 1 1 9189 20240413151337
+174.138.9.177 1 1 9189 20240413061532
+199.45.155.21 2 2 18382 20240411053230
+43.133.72.69 1 1 9190 20240408190216
+154.39.66.38 1 1 9189 20240414084026
+139.59.90.16 1 1 9192 20240429212541
+199.45.155.23 1 1 9192 20240404011319
+54.193.11.8 1 1 9184 20240406003534
+43.130.32.224 1 1 9192 20240404095818
+38.150.5.90 1 1 9192 20240430003952
+35.87.77.204 1 1 9199 20240402044459
+54.176.198.122 1 1 9187 20240419135826
+135.148.195.13 1 1 9184 20240405193105
+52.81.236.145 1 1 9185 20240419155941
+43.163.0.99 1 1 9188 20240421005444
+106.119.167.146 1 1 9190 20240409051216
+165.227.76.3 1 1 9189 20240413094618
+128.90.141.40 2 2 18376 20240429155754
+77.74.177.119 1 1 9187 20240419042804
+118.98.26.6 1 1 7318 20240430141849
+194.31.173.201 1 1 7323 20240424053213
+83.26.9.159 1 1 9190 20240426003306
+52.25.141.250 1 1 9199 20240402044745
+135.148.195.7 1 1 9185 20240419204207
+43.159.129.209 1 1 9189 20240413075444
+34.219.160.199 1 1 9189 20240424051238
+185.220.101.41 1 1 9187 20240417003340
+182.42.104.32 2 2 18400 20240418111546
+43.135.129.233 1 1 9179 20240408003021
+87.236.176.237 1 1 9184 20240406065429
+116.206.14.53 2 2 7313 20240404142016
+114.10.23.105 2 2 14650 20240414141718
+60.188.57.0 2 2 18379 20240429210647
+146.190.167.145 1 1 9180 20240409203527
+42.83.147.56 1 1 9199 20240415101835
+43.135.149.154 1 1 9185 20240422070147
+154.28.229.185 1 1 7319 20240402140618
+134.209.157.26 1 1 9186 20240427041711
+2.56.243.194 1 1 9189 20240424080519
+51.15.17.105 1 1 9180 20240410123223
+205.210.31.44 1 1 43173 20240409120717
+185.190.42.200 1 1 43173 20240416200044
+84.38.188.16 1 1 43173 20240419162730
+87.236.176.58 1 1 9184 20240406114821
+109.205.213.18 1 1 9179 20240408071106
+54.219.151.130 1 1 9189 20240413011940
+113.141.91.58 2 2 18377 20240407044333
+114.96.103.33 1 1 9183 20240405054106
+104.238.189.239 1 1 9187 20240428135717
+36.74.40.178 1 1 7323 20240423141609
+178.254.29.124 1 1 9190 20240426011953
+202.74.40.142 1 1 43173 20240429063250
+43.159.63.75 1 1 9192 20240430081045
+182.44.12.37 1 1 9179 20240408092324
+188.126.89.92 1 1 43173 20240421200641
+93.158.98.56 1 1 9192 20240430002339
+117.33.163.216 1 1 9184 20240406094411
+36.99.136.136 1 1 9191 20240411153626
+212.47.253.17 1 1 9193 20240423113853
+49.51.179.103 1 1 9190 20240402190715
+198.235.24.81 1 1 43173 20240402163510
+107.178.105.167 2 2 18379 20240413144239
+180.97.221.86 1 1 9192 20240430110704
+182.42.110.255 1 1 9187 20240416174543
+101.91.148.219 1 1 9190 20240410200103
+154.28.229.148 1 1 7319 20240402140617
+89.248.174.42 1 1 9179 20240408121117
+54.212.76.134 1 1 9192 20240430044329
+1.192.192.8 1 1 9190 20240408212247
+91.92.246.109 1 1 43173 20240427224957
+18.236.173.112 2 2 18378 20240424051233
+147.182.145.117 1 1 9199 20240401203718
+36.111.67.189 2 2 18379 20240426135122
+5.133.192.133 2 2 18378 20240425051017
+182.42.105.85 1 1 9187 20240418204202
+118.69.175.73 1 1 43173 20240412031643
+3.84.125.218 1 1 7322 20240424144620
+31.7.62.54 1 1 9190 20240426102646
+150.109.16.20 2 2 18380 20240423050319
+44.226.205.51 3 3 21951 20240408073738
+170.106.101.31 1 1 9184 20240406004736
+199.45.154.68 1 1 9189 20240424034347
+43.130.7.211 1 1 9192 20240404002536
+52.33.174.115 1 1 9192 20240430052233
+130.255.166.121 1 1 9179 20240408111537
+93.158.90.74 1 1 9189 20240414003743
+43.155.169.133 1 1 9180 20240410005909
+149.56.150.20 1 1 7318 20240428041041
+223.113.128.132 1 1 9185 20240422034519
+34.219.15.97 2 2 18370 20240420052317
+185.241.208.122 1 1 770 20240427190940
+199.45.154.77 1 1 9177 20240430230040
+5.133.192.136 1 1 9179 20240407184020
+164.92.86.132 1 1 9184 20240405213722
+34.222.149.128 2 2 18358 20240408053520
+185.220.101.86 1 1 9183 20240404181223
+193.35.18.77 1 1 9190 20240426003242
+104.234.53.120 3 3 129519 20240428124950
+114.142.173.44 3 3 7321 20240422142017
+52.81.249.147 1 1 9187 20240427143722
+84.32.41.136 4 4 40449 20240409231647
+43.134.190.89 1 1 9189 20240414044006
+54.70.169.90 1 1 9192 20240404052504
+54.176.91.0 1 1 9199 20240402001205
+36.99.136.129 2 2 18354 20240430170040
+93.159.230.89 1 1 9183 20240405042215
+178.62.74.6 3 3 65817 20240416101614
+185.220.101.58 1 1 9183 20240404181220
+54.215.144.169 1 1 9186 20240426161956
+43.157.40.137 1 1 9177 20240430173224
+111.172.249.49 1 1 9195 20240428224051
+114.142.173.32 2 2 7320 20240407141613
+116.206.14.41 1 1 7323 20240409142137
+104.28.250.135 1 1 0 20240405141145
+198.235.24.125 1 1 43173 20240412075121
+87.236.176.158 1 1 9186 20240426163352
+43.155.138.79 1 1 9189 20240413175220
+116.206.15.40 1 1 7319 20240403141541
+54.218.49.33 1 1 9179 20240408053523
+198.235.24.82 1 1 43173 20240412033651
+106.227.49.113 1 1 9187 20240428110254
+44.213.60.12 1 1 9189 20240412222235
+113.219.218.197 1 1 9190 20240425145235
+52.81.237.92 1 1 9180 20240410124305
+169.150.198.86 1 1 9189 20240423201300
+195.90.221.76 1 1 9187 20240417011653
+198.235.24.74 1 1 43173 20240404233306
+205.210.31.17 1 1 43173 20240420151156
+77.221.159.184 1 1 9190 20240426003251
+192.42.116.221 1 1 9183 20240404181211
+34.223.250.36 1 1 9185 20240420052319
+35.81.80.249 1 1 43173 20240411012822
+137.184.65.90 1 1 9185 20240421205019
+46.4.33.48 1 1 43173 20240402020545
+123.6.49.4 1 1 43173 20240408200954
+66.249.79.102 1 1 7313 20240405030840
+149.56.150.37 1 1 7322 20240429032827
+157.245.45.98 1 1 9201 20240417223708
+158.69.25.39 1 1 9192 20240429203244
+154.28.229.54 1 1 7320 20240402165123
+107.178.207.149 1 1 9190 20240426054708
+89.248.172.92 1 1 9180 20240410053218
+89.248.174.182 1 1 9190 20240410181435
+43.135.181.13 1 1 9187 20240417044022
+205.210.31.69 1 1 43173 20240401162535
+166.1.138.207 1 1 0 20240419185937
+192.42.116.174 1 1 9190 20240411065334
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240401 8 8 105662 7
+20240402 19 19 372959 16
+20240403 16 16 315086 7
+20240404 15 15 194744 13
+20240405 15 15 126703 9
+20240406 23 23 347148 11
+20240407 8 8 60556 7
+20240408 18 18 193663 14
+20240409 11 11 170868 8
+20240410 22 22 336095 11
+20240411 12 12 142397 12
+20240412 8 8 241566 7
+20240413 34 34 397858 16
+20240414 10 10 86293 9
+20240415 7 7 55174 6
+20240416 12 12 252865 8
+20240417 9 9 184669 8
+20240418 9 9 184683 7
+20240419 13 13 144218 13
+20240420 6 6 123086 5
+20240421 5 5 79919 5
+20240422 6 6 34876 4
+20240423 7 7 62469 7
+20240424 19 19 408746 12
+20240425 16 16 214995 10
+20240426 20 20 219543 12
+20240427 9 9 106379 9
+20240428 37 37 6010642 12
+20240429 15 15 174183 8
+20240430 18 18 165312 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+2mn-5mn 3
+5mn-15mn 2
+0s-30s 279
+30s-2mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 386 5543940 286 274
+/live-draw/ 14 237118 0 1
+/history-result/ 13 5170280 0 5
+// 13 561249 0 6
+/.well-known/ 1 770 1 1
+END_SIDER

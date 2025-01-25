@@ -1,0 +1,30 @@
+/**** begin responsive style ****/
+@media (min-width: 993px) {
+    header .logo-wrapper {
+        max-width: 300px;
+    }
+    header .navbar.navbar-main {
+        background: transparent;
+    }
+    header .navbar.navbar-main .navbar-nav .nav-item {
+        margin-right: 10px;
+    }
+    header .navbar.navbar-main .navbar-nav .nav-item .nav-link {
+        padding: 0 15px;
+        min-width: 160px;
+        font-size: 18px;
+        line-height: 56px;
+    }
+
+    section .logo-wrapper {
+        max-width: 250px;
+    }
+
+    footer .logo-wrapper {
+        max-width: 300px;
+    }
+}
+
+@media (min-width: 1200px) {
+}
+/**** endof responsive style ****/

@@ -1,0 +1,744 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202405 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.chilelottery.net.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2044                
+POS_TIME 2705                
+POS_VISITOR 21280               
+POS_DAY 24374               
+POS_DOMAIN 3409                
+POS_LOGIN 3776                
+POS_ROBOT 3931                
+POS_WORMS 4317                
+POS_EMAILSENDER 4448                
+POS_EMAILRECEIVER 4591                
+POS_SESSION 25024               
+POS_SIDER 25181               
+POS_FILETYPES 4726                
+POS_DOWNLOADS 4811                
+POS_OS 4859                
+POS_BROWSER 5056                
+POS_SCREENSIZE 5797                
+POS_UNKNOWNREFERER 5871                
+POS_UNKNOWNREFERERBROWSER 6471                
+POS_ORIGIN 6876                
+POS_SEREFERRALS 7010                
+POS_PAGEREFS 7173                
+POS_SEARCHWORDS 7321                
+POS_KEYWORDS 7473                
+POS_MISC 2369                
+POS_ERRORS 7532                
+POS_CLUSTER 3632                
+POS_SIDER_404 7636                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240601025204 7 1423 9752096569143
+FirstTime 0
+LastTime 20240531201949
+LastUpdate 20240601080827 7 0 6 0 0
+TotalVisits 85                  
+TotalUnique 78                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 78                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 91749 7 12 38637
+1 4 4 39177 7 8 35649
+2 14 14 172183 87 87 108828
+3 9 9 88058 55 64 80055
+4 0 0 0 4 5 6237
+5 1 1 9795 4 5 101823
+6 4 4 39176 3 6 59543
+7 0 0 0 4 7 15279
+8 3 3 64377 4 8 53523
+9 4 4 109139 6 7 8748
+10 3 3 99315 2 4 5004
+11 16 16 183729 21 22 27522
+12 2 2 19584 4 6 7506
+13 11 11 247659 51 54 74080
+14 7 7 103529 6 6 94540
+15 5 5 48989 163 164 205164
+16 16 16 156828 45 48 60048
+17 11 11 107754 90 93 122872
+18 2 2 19590 2 5 12784
+19 6 6 91741 11 13 16263
+20 7 7 173494 6 7 8757
+21 2 2 54566 162 163 212460
+22 2 2 19594 2 2 2493
+23 1 1 9797 163 165 206415
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 11
+us 58 58 777988
+gb 18 18 168318
+de 16 16 156830
+ca 14 14 486847
+cn 10 10 167936
+ru 9 9 88184
+se 5 5 48989
+nl 3 3 29371
+il 1 1 7777
+kh 1 1 7779
+be 1 1 9804
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+AhrefsBot/ 6 48694 20240531073126 0
+Applebot/ 4 39182 20240516052109 0
+no_user_agent 3 134302 20240524145027 0
+survey 3 134298 20240506063913 0
+nbot 1 9797 20240515002429 0
+bot[\s_+:,\.\;\/\\-] 1 9798 20240517013257 0
+SemrushBot/ 1 9798 20240517015443 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 136 1949823 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+winxp 1 1
+win7 2 2
+android 3 3
+linuxubuntu 2 2
+Unknown 18 18
+win10 46 46
+androidkitkat 5 5
+macosx14 2 2
+linux 17 17
+macosx15 40 40
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 35
+msie10.0 1 1
+chrome71.0.2635 1 1
+chrome83.0.4103.97 4 4
+opera102.0.0.0 3 3
+chrome121.0.0.0 18 18
+chrome110.0.0.0 3 3
+chrome58.0.3029.110 3 3
+chrome116.0.0.0 11 11
+chrome89.0.4389.82 2 2
+chrome105.0.0.0 5 5
+netscape5.0 6 6
+chrome102.0.5005.63 1 1
+chrome112.0.0.0 1 1
+chrome100.0.4896.60 2 2
+chrome74.0.3729.169 1 1
+chrome88.0.4324.150 1 1
+safari16.6 1 1
+Unknown 11 11
+chrome54.0.2840.59 1 1
+safari17.0.1 1 1
+chrome117.0.0.0 21 21
+mozilla 1 1
+chrome122.0.0.0 1 1
+firefox77.0 1 1
+firefox118.0 2 2
+chrome102.0.1002 1 1
+chrome124.0.0.0 3 3
+chrome74.0.2405 1 1
+firefox117.0 14 14
+chrome81.0.4044.138 2 2
+firefox33.0 1 1
+android 5 5
+chrome99.0.1504 1 1
+chrome120.0.0.0 3 3
+chrome96.0.4664.110 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0 20240518222916
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240531201949
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240531023440
+python-requests/2.31.0 20240517215356
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240504085821
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+python-requests/2.31.0 20240517215356
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240531201949
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 133 133
+From1 1 1
+From2 1 1
+From3 0 0
+From4 1 1
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 933 1167183
+403 9 11178
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 343
+/wp-includes/SimplePie/Net/index.php 3 -
+/wp-content/plugins/wordpress-wpssseo/admin.php 2 -
+/wp-includes/js/swfupload/index.php 3 -
+/locoy.php 6 -
+/wp-content/plugins/wordpress-wpsseo/admin.php 2 -
+/phpmyadmin/index.php 4 -
+/wp-content/themes/index.php 3 -
+/wp-includes/js/jcrop/index.php 3 -
+/wp-includes/images/wlw/index.php 3 -
+/wp-content/plugins/wordpres-wpps/admin.php 2 -
+/wp-content/plugins/wordpres-seoseo/admin.php 2 -
+/wp-content/plugins/wordpres-yastst/all.php 2 -
+/wp-includes/block-supports/index.php 3 -
+/wp-includes/certificates/index.php 3 -
+/wp-content/plugins/wordpress-jbsseo/all.php 2 -
+/wp-content/plugins/wordpres-woos/all.php 2 -
+/wp-includes/blocks/paragraph/index.php 3 -
+/wp-content/plugins/wordpres-wpp/admin.php 2 -
+/wp-json/litespeed/v1/cdn_status 5 -
+/wp-admin.php 1 -
+/wp-includes/customize/index.php 3 -
+/wp-content/plugins/wordpres-woo/admin.php 2 -
+/wp-content/plugins/wordpres-googlepagespeed/admin.php 2 -
+/wp-includes/blocks/post-date/index.php 3 -
+/author/stender/ 1 -
+/wp-includes/css/dist/list-reusable-blocks/index.php 3 -
+/wp-content/plugins/wordpress-wpsseo/all.php 2 -
+/index_sso.php 4 -
+/author/w-padmine/ 1 -
+/wp-includes/IXR/index.php 4 -
+/wp-includes/blocks/latest-posts/index.php 3 -
+/wp-includes/Requests/Cookie/index.php 3 -
+/wp-includes/blocks/group/index.php 3 -
+/wp-includes/css/dist/edit-post/index.php 3 -
+/wp-content/plugins/wordpres-wpw/all.php 2 -
+/wp-includes/Requests/Utility/index.php 3 -
+/app-ads.txt 1 -
+/wp-includes/SimplePie/HTTP/index.php 3 -
+/wp-json/wp/v2/users 1 -
+/enhance 2 -
+/wp-includes/blocks/file/index.php 3 -
+/wp-content/plugins/wordpres-yaooo/all.php 2 -
+/robots.txt 36 -
+/wp-admin/css/colors/midnight/index.php 3 -
+/wp-content/plugins/wordpres-wp2/all.php 2 -
+/ments-post.php 6 -
+/ads.txt 1 -
+/wp-includes/blocks/code/index.php 3 -
+/wp-includes/js/tinymce/plugins/charmap/index.php 3 -
+/wp-includes/images/crystal/index.php 3 -
+/wp-content/plugins/wordpres-yastse/admin.php 2 -
+/wp-includes/blocks/embed/index.php 3 -
+/wp-content/plugins/wordpres-yastse/all.php 2 -
+/wp-includes/js/mediaelement/index.php 3 -
+/wp-admin/js/widgets/index.php 3 -
+/wp-includes/js/wp-emoji-release.min.js 1 www.google.com
+/wp-config.blank 1 -
+/rttvqsjh.php 1 www.google.com
+/wp-content/plugins/ccx/index.php 3 -
+/wp-includes/blocks/site-title/index.php 3 -
+/wp-admin/js/index.php 3 -
+/wp-includes/Requests/Proxy/index.php 3 -
+/author/superadmin/ 1 -
+/wp-json/post-smtp/v1/get-logs 1 -
+/wp-includes/blocks/calendar/index.php 3 -
+/wp-includes/blocks/quote/index.php 3 -
+/wp-admin/css/colors/coffee/index.php 3 -
+/wp-content/plugins/wordpres-yastsr/all.php 2 -
+/wp-includes/Text/Diff/Renderer/index.php 3 -
+/wp-content/plugins/wordpres-wpssc/admin.php 2 -
+/ccx/index.php 3 -
+/wp-content/plugins/wordpres-yaososs/admin.php 2 -
+/wp-content/plugins/index.php 3 -
+/wp-includes/blocks/column/index.php 3 -
+/wp-includes/index.php 3 -
+/wp-content/plugins/wordpres-wps/admin.php 2 -
+/wp-content/plugins/wordpres-yaosos/admin.php 2 -
+/.well-known/security.txt 1 -
+/wp-includes/blocks/html/index.php 3 -
+/current.php 6 -
+/chilelottery.Z 1 -
+/author/admim/ 1 -
+/uninstall.php 6 -
+/security.txt 1 -
+/wp-content/plugins/wordpres-wpsss/admin.php 2 -
+/wp-json/post-smtp/v1/connect-app 1 -
+/wp-content/plugins/wordpres-wp2/admin.php 2 -
+/wp-includes/blocks/text-columns/index.php 3 -
+/wp-content/plugins/wordpres-wpwp/admin.php 2 -
+/wp-includes/blocks/pullquote/index.php 3 -
+/chilelottery.tar 1 -
+/wp-content/plugins/wordpres-seosep/admin.php 2 -
+/author/wpservices/ 1 -
+/wp-includes/blocks/cover/index.php 3 -
+/wp-includes/css/dist/nux/index.php 3 -
+/wp-content/plugins/wordpres-wooall/all.php 2 -
+/wp-content/plugins/wordpres-yastsrs/admin.php 2 -
+/wp-includes/blocks/gallery/index.php 3 -
+/wp-content/plugins/wordpres-woot/admin.php 2 -
+/wp-content/plugins/wordpress-wpe/all.php 2 -
+/wp-includes/blocks/post-terms/index.php 3 -
+/wp-add.php 2 www.google.com
+/wp-admin/css/colors/modern/index.php 3 -
+/wp-plain.php 3 www.google.com
+/wp-content/plugins/wordpres-woosc/all.php 2 -
+/wp-includes/SimplePie/Content/Type/index.php 3 -
+/wp-includes/blocks/tag-cloud/index.php 3 -
+/wp-includes/ID3/index.php 3 -
+/wp-content/plugins/wordpres-yastsrec/all.php 2 -
+/chilelottery.db 1 -
+/wp-includes/Text/index.php 3 -
+/wp-includes/blocks/button/index.php 3 -
+/inputs.php 7 www.google.com
+/wp-content/plugins/wp-catcher/index.php 2 www.google.com
+/wp-includes/blocks/post-excerpt/index.php 3 -
+/wp-includes/images/media/index.php 3 -
+/wp-includes/js/codemirror/index.php 3 -
+/wp-includes/blocks/more/index.php 3 -
+/options.php 1 -
+/wp-includes/blocks/image/index.php 3 -
+/chilelottery.tar.bz2 1 -
+/wp-content/plugins/wordpres-wooall/admin.php 2 -
+/wp-includes/Requests/Exception/index.php 3 -
+/wp-comments.php 6 -
+/wp-includes/css/dist/editor/index.php 3 -
+/wp-includes/SimplePie/index.php 3 -
+/wp-includes/blocks/verse/index.php 3 -
+/wp-includes/blocks/site-tagline/index.php 3 -
+/xmlrpc.php 1 -
+/wp-admin/css/colors/blue/index.php 3 -
+/wp-includes/blocks/columns/index.php 3 -
+/wp-content/plugins/wordpress-sseo/all.php 2 -
+/wp-includes/css/dist/format-library/index.php 3 -
+/wp-includes/blocks/categories/index.php 3 -
+/wp-includes/blocks/query/index.php 3 -
+/wp-content/plugins/wordpres-yaoo/admin.php 2 -
+/wp-content/plugins/wordpresssoees/admin.php 2 -
+/wp-content/uploads/index.php 3 -
+/wp-content/plugins/wordpres-wpwp/all.php 2 -
+/wp-includes/Requests/Auth/index.php 3 -
+/wp-content/plugins/wordpres-yastst/admin.php 2 -
+/wp-includes/blocks/preformatted/index.php 3 -
+/wp-includes/blocks/media-text/index.php 3 -
+/wp-content/plugins/wordpres-yaooo/admin.php 2 -
+/wp-content/plugins/wordpress-wpssseo/all.php 2 -
+/cgi-bin/index.php 3 -
+/wp-includes/css/dist/customize-widgets/index.php 3 -
+/wp-cron.php 1 www.google.com
+/wp-content/plugins/wordpres-yasts/all.php 2 -
+/wp-json/ 1 -
+/wp-content/index.php 6 -
+/wp-content/languages/index.php 3 -
+/wp-loader.php 6 -
+/wp-content/plugins/wordpres-wpw/admin.php 2 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 1 -
+/wp-includes/blocks/latest-comments/index.php 3 -
+/wp-script.php 2 -
+/wp-includes/Requests/Exception/HTTP/index.php 3 -
+/wp-includes/blocks/freeform/index.php 3 -
+/wp-content/plugins/temporary-login/core/admin.php 2 -
+/comments.php 6 -
+/wp-json 15 -
+/wp-content/plugins/wordpress-sseo/admin.php 2 -
+/wp-includes/blocks/query-title/index.php 3 -
+/wp-limit-login.php 6 -
+/wp-includes/Requests/Response/index.php 3 -
+/wp-content/plugins/wordpres-seosep/all.php 2 -
+/mments-post.php 6 -
+/wp-includes/blocks/page-list/index.php 3 -
+/wp-content/plugins/wordpres-wpss/admin.php 2 -
+/wp-content/plugins/wordpres-wp3/all.php 2 -
+/wp-content/plugins/wordpresssoe/admin.php 2 -
+/wp-content/themes/lottery_bugis/readme.txt 1 -
+/wp-login.php 1 http://www.google.com.hk
+/wp-admin/index.php 3 -
+/wp-content/plugins/wordpresssoe/all.php 2 -
+/author/greeceman/ 1 -
+/wp-includes/blocks/query-pagination/index.php 3 -
+/wp-includes/blocks/separator/index.php 3 -
+/wp-includes/blocks/post-content/index.php 3 -
+/wp-content/plugins/wp-term.php 2 https://www.google.com
+/sellers.json 1 -
+/wp-content/plugins/wordpres-yastsre/admin.php 2 -
+/viewtopic.php 1 -
+/wp-admin/css/index.php 3 -
+/wp-includes/blocks/missing/index.php 3 -
+/loader.php 1 -
+/wp-includes/css/dist/block-directory/index.php 3 -
+/wp-includes/SimplePie/Decode/HTML/index.php 3 -
+/wp-content/plugins/wordpres-yastsre/all.php 2 -
+/wp-includes/js/thickbox/index.php 3 -
+/wp-content/plugins/wordpres-yastsrs/all.php 2 -
+/wp-on.php, 4 -
+/wp-includes/images/smilies/index.php 3 -
+/omments-post.php 6 -
+/chilelottery.z 1 -
+/wp-content/plugins/fix/up.php 2 www.google.com
+/wp-includes/Requests/Transport/index.php 3 -
+/wp-content/plugins/wordpres-wps/all.php 2 -
+/wp-includes/blocks/heading/index.php 3 -
+/wp-content/plugins/wordpresssoees/all.php 2 -
+/wp-includes/block-patterns/index.php 3 -
+/wp-json/ywcas/v1/search 1 https://chilelottery.net
+/wp-admin/images/index.php 3 -
+/wp-includes/blocks/archives/index.php 3 -
+/wp-includes/blocks/post-featured-image/index.php 3 -
+/wp-includes/blocks/buttons/index.php 3 -
+/wp-content/plugins/wordpres-wpp/all.php 2 -
+/wp-includes/blocks/legacy-widget/index.php 3 -
+/wp-content/plugins/wordpres-googlepagespeed/all.php 2 -
+/wp-content/plugins/incache/index.php 1 www.google.com
+/wp-includes/css/dist/components/index.php 3 -
+/wp-includes/css/index.php 3 -
+/wp-content/plugins/wordpres-wp3/admin.php 2 -
+/wp-includes/js/dist/vendor/index.php 3 -
+/wp-content/plugins/loader.php 1 -
+/wp-includes/js/tinymce/index.php 3 -
+/wp-includes/blocks/shortcode/index.php 3 -
+/wp-content/plugins/wordpres-wpz/admin.php 2 -
+/readme.php 2 -
+/wp-includes/Requests/index.php 3 -
+/wp-content/plugins/wp-catcher/admin.php 1 www.google.com
+/wp-includes/css/dist/widgets/index.php 3 -
+/eprvgkws.php 1 www.google.com
+/wp-content/plugins/wordpres-woo/all.php 2 -
+/wp-includes/blocks/post-title/index.php 3 -
+/liesmich.php 2 -
+/chilelottery.7z 1 -
+/wp-content/plugins/wordpres-wpps/all.php 2 -
+/wp-content/plugins/wordpres-wpssc/all.php 2 -
+/wp-includes/Text/Diff/Engine/index.php 3 -
+/wp-content/plugins/wordpres-yasts/admin.php 2 -
+/wp-pluploads.php 2 -
+/wp-content/plugins/wadidaw/all.php 2 -
+/wp-includes/blocks/loginout/index.php 3 -
+/wp-includes/blocks/list/index.php 3 -
+/wp-admin/css/colors/index.php 3 -
+/sitemap.xml 6 -
+/chilelottery.xz 1 -
+/wp-includes/css/dist/reusable-blocks/index.php 3 -
+/chilelottery.rar 1 -
+/wp-content/plugins/wordpres-woos/admin.php 2 -
+/wp-includes/js/mediaelement/renderers/index.php 3 -
+/wp-includes/js/tinymce/langs/index.php 3 -
+/wp-json/wc/store/products/collection-data 1 -
+/wp-admin/includes/index.php 3 -
+/wp-content/plugins/wordpres-yaoos/admin.php 2 -
+/index.php 1 -
+/wp-content/plugins/wordpress-seoa/admin.php 2 -
+/wp-ver.php 1 www.google.com
+/wp-includes/blocks/query-pagination-previous/index.php 3 -
+/wp-includes/blocks/post-template/index.php 3 -
+/wp-admin/network/index.php 3 -
+/wp-includes/PHPMailer/index.php 3 -
+/wp-includes/js/plupload/index.php 3 -
+/wp-content/plugins/wordpres-yaoos/all.php 2 -
+/wp-includes/blocks/audio/index.php 3 -
+/.well-known/pki-validation/index.php 3 -
+/wp-includes/blocks/social-links/index.php 3 -
+/wp-content/plugins/wordpress-jseo/admin.php 2 -
+/efsszwle.php 1 www.google.com
+/wp-includes/SimplePie/Parse/index.php 3 -
+/wp-includes/SimplePie/XML/Declaration/index.php 3 -
+/wp-content/plugins/wordpres-wpss/all.php 2 -
+/wp-content/plugins/catnip/all.php 2 -
+/wp-admin/user/index.php 3 -
+/wp-content/themes/seotheme/db.php 3 www.google.com
+/xagio-api.php 2 -
+/.env 10 -
+/wp-content/plugins/wordpres-woosc/admin.php 2 -
+/wp-admin/css/colors/ocean/index.php 3 -
+/wp-includes/js/imgareaselect/index.php 3 -
+/wp_gpt.php 2 -
+/wp-includes/js/jquery/index.php 3 -
+/wp-includes/blocks/rss/index.php 3 -
+/wp-includes/Requests/Exception/Transport/index.php 3 -
+/wp-links-way.php 6 -
+/wp-includes/blocks/search/index.php 3 -
+/wp-includes/js/index.php 3 -
+/wp-content/plugins/wordpress-jbsseo/admin.php 2 -
+/wp-on.php 2 -
+/author/crander/ 1 -
+/page.php 1 -
+/wp-content/plugins/temporary-login/core/all.php 2 -
+/wp-includes/blocks/index.php 3 -
+/chilelottery.sqlite 1 -
+/wp-content/plugins/wordpres-woots/all.php 2 -
+/wp-includes/SimplePie/Cache/index.php 3 -
+/chosen.php 1 www.google.com
+/wp-content/plugins/wordpress-seoa/all.php 2 -
+/wp-includes/blocks/query-pagination-numbers/index.php 3 -
+/wp-content/wp-term.php 2 https://www.google.com
+/wp-content/upgrade/index.php 3 -
+/wp-content/plugins/wordpress-wpe/admin.php 2 -
+/wp-pluploads.php, 4 -
+/wp-content/plugins/wordpres-seoseo/all.php 2 -
+/wp-content/plugins/catnip/admin.php 2 -
+/wp-content/plugins/wordpres-wp/admin.php 2 -
+/css/index.php 3 -
+/chilelottery.gz 1 -
+/wp-content/plugins/uploadify/includes/process_upload.php 1 -
+/wp-content/plugins/wordpres-woots/admin.php 2 -
+/wp-includes/blocks/social-link/index.php 3 -
+/wp-content/plugins/wordpress-jseo/all.php 2 -
+/author/wpsecuritypatch/ 1 -
+/wp-includes/js/dist/index.php 3 -
+/wp-includes/blocks/spacer/index.php 3 -
+/.well-known/index.php 3 -
+/wp-includes/blocks/nextpage/index.php 3 -
+/wp-includes/js/crop/index.php 3 -
+/images/index.php 3 -
+/wp-includes/blocks/block/index.php 3 -
+/wp-includes/blocks/video/index.php 3 -
+/wp-content/plugins/wordpres-wp/all.php 2 -
+/wp-content/plugins/wordpres-yastsr/admin.php 2 -
+/license.php 6 -
+/wp-links-on.php 6 -
+/wp-includes/js/jquery/ui/index.php 3 -
+/wp-admin/maint/index.php 3 -
+/chilelottery.bz2 1 -
+/.DS_Store 4 -
+/wp-includes/fonts/index.php 3 -
+/wp-content/plugins/wordpres-woot/all.php 2 -
+/wp-includes/assets/index.php 3 -
+/wp-content/plugins/wadidaw/admin.php 2 -
+/wp-content/plugins/wordpres-yaosos/all.php 2 -
+/author/wpadminne/ 1 -
+/wp-content/plugins/wordpres-yaososs/all.php 2 -
+/wp-includes/blocks/site-logo/index.php 3 -
+/wp-includes/images/index.php 3 -
+/wp-includes/css/dist/edit-widgets/index.php 3 -
+/wp-includes/Text/Diff/index.php 3 -
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/wp-admin/admin-ajax.php 9 -
+/wp-term.php 2 https://www.google.com
+/wp-content/plugins/wordpres-wpsss/all.php 2 -
+/wp-content/plugins/wordpres-yaoo/all.php 2 -
+/wp-admin/css/colors/ectoplasm/index.php 3 -
+/wp-content/plugins/wordpres-wpz/all.php 2 -
+/wp-content/plugins/wordpres-yastsrec/admin.php 2 -
+/wp-includes/blocks/table/index.php 3 -
+/wp-includes/blocks/query-pagination-next/index.php 3 -
+/php/thinkphp/aaaffff123.php 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 78
+217.182.192.87 13 13 119356 20240504113418
+62.113.195.8 11 11 107855 20240529161331
+149.102.138.18 8 8 78376 20240521170618
+149.28.92.105 8 8 78440 20240529020923
+195.201.226.18 6 6 58782 20240510131332
+138.197.32.162 6 6 58698 20240507034020
+137.226.113.44 5 5 48975 20240531023440
+23.224.198.139 4 4 179072 20240519130003
+147.78.47.230 2 2 19575 20240512123452
+54.88.179.33 2 2 89532 20240506100238
+93.159.230.89 2 2 19598 20240531201624
+204.10.160.166 2 2 19581 20240516090414
+27.115.124.113 2 2 54573 20240529081205
+77.74.177.119 1 1 9804 20240503202603
+107.151.203.21 1 1 9802 20240518222916
+208.109.234.122 1 1 9792 20240508200430
+147.124.209.254 1 1 9792 20240509013448
+106.75.65.221 1 1 9803 20240513151124
+106.75.100.92 1 1 9792 20240523121124
+142.93.173.192 1 1 9798 20240531142741
+64.23.214.40 1 1 9798 20240517013059
+34.220.171.70 1 1 9795 20240508055931
+205.210.31.246 1 1 44768 20240522022130
+159.89.189.37 1 1 9796 20240501162720
+198.235.24.79 1 1 44766 20240503205804
+165.232.101.183 1 1 9790 20240511145554
+159.65.150.70 1 1 9782 20240503152107
+198.235.24.81 1 1 44768 20240531201949
+45.15.17.3 1 1 9802 20240506003155
+89.248.174.9 1 1 9783 20240507103422
+138.197.130.137 1 1 9803 20240513155603
+87.236.176.235 1 1 9804 20240504085821
+205.210.31.70 1 1 44768 20240513215459
+141.95.127.241 1 1 9797 20240509231801
+138.197.154.191 1 1 9805 20240529153733
+104.248.75.7 1 1 9799 20240524194054
+143.110.221.204 1 1 9798 20240517180806
+205.210.31.67 1 1 44766 20240506200408
+198.235.24.113 1 1 44766 20240506195445
+93.158.91.12 1 1 9798 20240517191740
+93.158.91.13 1 1 9792 20240511221532
+167.71.107.210 1 1 9796 20240527155803
+5.133.192.88 1 1 9802 20240506003532
+165.22.123.108 1 1 9782 20240505160226
+20.165.234.156 1 1 9802 20240506113817
+34.222.143.170 1 1 9794 20240514065157
+52.81.249.147 1 1 9795 20240528192140
+157.230.239.219 1 1 9797 20240515143512
+123.6.49.17 1 1 9805 20240529090409
+51.8.98.184 1 1 9798 20240517215356
+45.55.200.122 1 1 9792 20240509175911
+104.236.204.21 1 1 9799 20240525164321
+165.232.109.114 1 1 9802 20240519164301
+198.235.24.221 1 1 44768 20240525004616
+165.227.181.57 1 1 9783 20240507141744
+143.198.211.47 1 1 9798 20240516145320
+202.93.153.68 1 1 7779 20240524194054
+42.83.147.56 1 1 9797 20240510001916
+209.38.33.211 1 1 9795 20240528012049
+104.248.87.183 1 1 9794 20240514034143
+35.87.199.15 1 1 9798 20240502061656
+5.133.192.168 1 1 9805 20240529132332
+172.233.136.243 1 1 9804 20240503194052
+35.160.211.133 1 1 9792 20240512060920
+114.245.90.150 1 1 9803 20240522114139
+205.210.31.51 1 1 44768 20240529115751
+36.99.136.129 1 1 9792 20240509060624
+106.75.101.188 1 1 9803 20240522000944
+123.6.49.38 1 1 44768 20240529090157
+89.248.174.11 1 1 9794 20240514172700
+2.57.122.148 1 1 7777 20240514001738
+137.184.47.9 1 1 9797 20240521143354
+205.210.31.54 1 1 44766 20240504140802
+89.248.174.182 1 1 9794 20240514163123
+5.133.192.94 1 1 9792 20240523172145
+163.172.137.113 1 1 9792 20240523013240
+157.245.109.55 1 1 9792 20240523181841
+198.235.24.12 1 1 44768 20240518090618
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20240501 1 1 9796 1
+20240502 1 1 9798 1
+20240503 5 5 83938 5
+20240504 15 15 173926 3
+20240505 1 1 9782 1
+20240506 7 7 208470 6
+20240507 10 10 97830 5
+20240508 2 2 19587 2
+20240509 4 4 39173 4
+20240510 8 8 78376 3
+20240511 2 2 19582 2
+20240512 2 2 19584 2
+20240513 3 3 64374 3
+20240514 5 5 46953 5
+20240515 1 1 9797 1
+20240516 2 2 19596 2
+20240517 6 6 58788 6
+20240518 2 2 54570 2
+20240519 5 5 188874 2
+20240521 9 9 88173 2
+20240522 3 3 64374 3
+20240523 4 4 39168 4
+20240524 3 3 27378 3
+20240525 2 2 54567 2
+20240527 1 1 9796 1
+20240528 2 2 19590 2
+20240529 26 26 359819 8
+20240531 4 4 74164 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 80
+30s-2mn 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 134 1930213 85 85
+// 2 19610 0 0
+END_SIDER

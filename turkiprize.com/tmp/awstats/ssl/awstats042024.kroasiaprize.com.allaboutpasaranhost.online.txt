@@ -1,0 +1,1353 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.kroasiaprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2044                
+POS_TIME 2723                
+POS_VISITOR 36757               
+POS_DAY 47601               
+POS_DOMAIN 3527                
+POS_LOGIN 4156                
+POS_ROBOT 4311                
+POS_WORMS 4972                
+POS_EMAILSENDER 5103                
+POS_EMAILRECEIVER 5246                
+POS_SESSION 48377               
+POS_SIDER 48558               
+POS_FILETYPES 5381                
+POS_DOWNLOADS 5466                
+POS_OS 5514                
+POS_BROWSER 5901                
+POS_SCREENSIZE 7720                
+POS_UNKNOWNREFERER 7794                
+POS_UNKNOWNREFERERBROWSER 8616                
+POS_ORIGIN 9086                
+POS_SEREFERRALS 9226                
+POS_PAGEREFS 9389                
+POS_SEARCHWORDS 9537                
+POS_KEYWORDS 9689                
+POS_MISC 2387                
+POS_ERRORS 9748                
+POS_CLUSTER 4012                
+POS_SIDER_404 9855                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501001832 52 11133 12865339015120
+FirstTime 20240401030840
+LastTime 20240430225232
+LastUpdate 20240501081729 52 0 51 0 0
+TotalVisits 325                 
+TotalUnique 276                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 276                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 27 27 492191 28 44 78015
+1 17 17 269597 28 31 128788
+2 25 25 449070 62 72 212256
+3 27 27 1461309 63 82 173977
+4 18 18 303488 93 99 264818
+5 14 14 196486 72 79 166989
+6 27 27 318286 24 29 108145
+7 10 10 133288 282 286 465718
+8 12 12 118069 33 38 75382
+9 27 27 634610 74 76 203685
+10 20 20 380460 27 40 78858
+11 9 9 104780 29 42 196073
+12 14 14 206453 343 353 550817
+13 24 24 318013 22 29 100281
+14 10 10 261513 45 53 231040
+15 9 9 152135 73 81 179521
+16 14 14 161259 61 64 96345
+17 9 9 111946 31 54 984578
+18 16 16 218167 39 49 173318
+19 23 23 315636 25 37 110308
+20 11 11 264366 57 63 142388
+21 18 18 180360 34 42 108438
+22 9 9 90180 10 15 80688
+23 17 17 335826 70 83 270621
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 30
+us 177 177 4018073
+cn 50 50 531977
+jp 31 31 310536
+ca 26 26 922494
+ru 19 19 415809
+nl 16 16 207293
+de 16 16 160263
+se 12 12 153314
+es 9 9 90180
+ge 7 7 67909
+bg 5 5 139374
+kh 5 5 45935
+in 4 4 61076
+lt 4 4 37930
+gb 4 4 40062
+ch 3 3 30052
+be 3 3 30048
+ua 2 2 20040
+au 2 2 10791
+il 2 2 20035
+co 1 1 43118
+eu 1 1 10023
+sa 1 1 10017
+lb 1 1 10019
+no 1 1 10011
+my 1 1 10015
+id 1 1 7934
+fr 1 1 10018
+vn 1 1 43119
+ao 1 1 10023
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+bingbot/ 32 274709 20240428040832 0
+no_user_agent 22 948626 20240428120259 0
+Go\-http\-client/ 21 210369 20240426214543 0
+AhrefsBot/ 20 189637 20240430135859 0
+Googlebot/ 14 111114 20240430210827 0
+bot[\s_+:,\.\;\/\\-] 6 60133 20240414085541 0
+(firefox/)([0-9]\.|[0-1][0]\.) 5 40082 20240430165647 0
+DotBot/ 4 901955 20240403174406 0
+MJ12bot/ 4 37931 20240429152220 0
+crawl 4 63198 20240422190800 0
+SemrushBot/ 3 53175 20240422003707 0
+survey 3 129356 20240403184944 0
+link 3 53180 20240413060610 0
+curl 1 7936 20240418071303 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 407 7477488 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 24
+androidfroyo 1 1
+winxp 4 4
+winlong 3 3
+win8.1 5 5
+Unknown 62 62
+macosx12 1 1
+androidoreo 1 1
+winnt 2 2
+ios_iphone 63 63
+androidnougat 10 10
+androidkitkat 7 7
+win7 16 16
+unix 1 1
+macosx13 1 1
+linuxubuntu 4 4
+macosx14 1 1
+win8 1 1
+macosx9 1 1
+linux 22 22
+macosx15 48 48
+win10 135 135
+android 4 4
+android10 4 4
+macosx 10 10
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 88
+chrome90.0.4430.85 8 8
+firefox115.0 1 1
+chrome88.0.4324.150 2 2
+firefox87.0 1 1
+chrome104.0.5112.79 2 2
+firefox108.0 6 6
+msie11.0 2 2
+chrome63.0.582 1 1
+netscape5.0 5 5
+chrome110.0.0.0 3 3
+chrome51.0.2704.103 3 3
+chrome81.0.4044.145 1 1
+firefox102.0 1 1
+firefox118.0 4 4
+chrome19.0.1084.9 1 1
+chrome105.0.0.0 6 6
+opera56.0.3051.104 1 1
+chrome88.0.4240.193 10 10
+firefox40.0 1 1
+chrome62.0.1410 1 1
+firefox21.0 2 2
+chrome60.0.3112.107 10 10
+chrome61.0.641 1 1
+firefox63.0 1 1
+edge18 2 2
+msie6.0 3 3
+chrome123.0.0.0 2 2
+safari16.6 2 2
+chrome26.0.1410.64 1 1
+Unknown 34 34
+chrome100.0.4896.127 4 4
+firefox117.0 8 8
+chrome107.0.0.0 1 1
+chrome57.0.2987.133 1 1
+chrome74.0.3729.169 8 8
+chrome124.0.0.0 2 2
+chrome97.0.4280.67 1 1
+chrome50.0.2642 1 1
+chrome83.0.4103.116 1 1
+chrome118.0.0.0 1 1
+iphone 1 1
+safari12.1.2 1 1
+chrome96.0.4664.110 2 2
+chrome117.0.0.0 18 18
+chrome114.0.0.0 11 11
+chrome79.0.3869.88 1 1
+chrome71.0.1920.88 1 1
+firefox45.0 1 1
+chrome91.0.4472.114 3 3
+chrome81.0.4044.138 1 1
+opera63.0.3368.17 1 1
+chrome34.0.1847.116 3 3
+firefox59.0 1 1
+firefox33.0 3 3
+chrome103.0.5060.134 2 2
+firefox123 1 1
+android 8 8
+chrome87.0.4280.88 2 2
+opera95.0.0. 1 1
+chrome113.0.0.0 2 2
+chrome109.0.0.0 6 6
+chrome94.0.4606.61 1 1
+chrome80.0.3987.149 4 4
+chrome120.0.6099.71 2 2
+safari13.0.3 62 62
+chrome122.0.0.0 6 6
+chrome120.0.0.0 4 4
+msie7.0 1 1
+chrome93.0.4577.82 1 1
+chrome79.0.3945.117 2 2
+firefox60.0 1 1
+chrome78.0.3904.108 13 13
+chrome80.0.3987.162 1 1
+chrome116.0.0.0 6 6
+opera11.50 1 1
+chrome115.0.0.0 1 1
+chrome100.0.4896.60 16 16
+chrome81.0.4044.92 1 1
+chrome121.0.0.0 24 24
+mozilla 22 22
+chrome84.0.4147.105 1 1
+chrome83.0.4103.97 6 6
+chrome79.0.3945.130 2 2
+safari14.1 1 1
+opera89.0.4447.51 8 8
+chrome14.0.835.163 1 1
+chrome122.0.6261.64 1 1
+firefox115 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240430204551
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240425025738
+python-requests/2.26.0 20240429233039
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240430144123
+python-requests/2.31.0 20240430210403
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240422033053
+Mozilla/5.0_Firefox/33.0 20240422231232
+GoogleOther 20240408135359
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240420024235
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240430144123
+python-requests/2.31.0 20240430210403
+python-requests/2.26.0 20240429233039
+GoogleOther 20240408135359
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 278 278
+From1 13 13
+From2 4 4
+From3 0 0
+From4 112 112
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 87 108054
+404 1595 1991592
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 648
+/managermanager/login.php 1 -
+/wp-admin/images/.images.php 1 kroasiaprize.com
+/wp-includes/repeater.php 2 -
+/kroasiaprize_888kroasiaprize_888/login.php 1 -
+/kroasiaprizekroasiaprize/login.php 1 -
+/wp-includes/install.php 7 http://kroasiaprize.com//wp-includes/install.php
+/.wp-cli/about.php 1 -
+/wp-includes/js/tinymce/plugins/lists/about.php 1 -
+/kroasiaprize1111kroasiaprize1111/login.php 1 -
+//wp1/wp-includes/wlwmanifest.xml 6 -
+/wp-includes/blocks/video/about.php 1 -
+/wp-includes/id3/license.txt/2019/wp-includes/wlwmanifest.xml 2 -
+/wp-includes/blocks/gallery/about.php 1 -
+/kroasiaprize_rootkroasiaprize_root/login.php 1 -
+/wp-includes/id3/license.txt/test/wp-includes/wlwmanifest.xml 2 -
+/wp-content/plugins/apikey/apikey.php.suspected 2 -
+/.well-known/security.txt 3 -
+/admin_kroasiaprizeadmin_kroasiaprize/login.php 1 -
+/kroasiaprize147kroasiaprize147/login.php 1 -
+/wp-includes/block-supports/about.php 1 -
+/wp-includes/js/mediaelement/about.php 1 -
+/wp-includes/Requests/about.php 3 -
+/wp-content/plugins/wp-automatic/inputs.php 1 kroasiaprize.com
+/wp-includes/blocks/html/about.php 1 -
+/wp-includes/blocks/tag-cloud/about.php 1 -
+/sitemap.xml.gz 3 -
+/kroasiaprize1kroasiaprize1/login.php 1 -
+/htkroasiaprizehtkroasiaprize/login.php 1 -
+/wp-cron.php 1 kroasiaprize.com
+/sitemap.txt 3 -
+/wp-json/instawp-connect/v1/config 2 https://kroasiaprize.com
+/wp-admin/user/upfile.php 1 kroasiaprize.com
+/wp-content/plugins/wp-statistics/readme.txt 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 7 -
+/wp-admin/network/xmrlpc.php 2 -
+/.quarantine/upfile.php 1 kroasiaprize.com
+/wp-includes/Requests/Cookie/about.php 1 -
+/wp-admin/network/cloud.php 2 -
+/wp-content/updates.php 2 -
+/wp-admin/css/colors/xmrlpc.php 2 -
+/alfanew2.php7 2 -
+/wp-includes/images/smilies/upfile.php 1 kroasiaprize.com
+/wp-includes/blocks/calendar/about.php 1 -
+/simple.php 8 www.google.com
+/wp-content/install.php 7 http://kroasiaprize.com//wp-content/install.php
+/xmrlpc.php 2 -
+/wp-includes/js/tinymce/plugins/wpgallery/about.php 1 -
+/wp-admin/maint/about.php 1 -
+/wp-admin/includes/about.php 3 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 3 -
+/chosen.php 3 www.google.com
+/wp-consar.php 2 -
+/wp-includes/id3/license.txt/wp/wp-includes/wlwmanifest.xml 2 -
+/kroasiaprizeglkroasiaprizegl/login.php 1 -
+/.well-known/acme-challenge/nF2LuIJBeq3F_M1iE9iHPqTA973wVe0UDf6oDzOoj08 3 http://kroasiaprize.com/.well-known/acme-challenge/nF2LuIJBeq3F_M1iE9iHPqTA973wVe0UDf6oDzOoj08
+/wp-includes/js/tinymce/plugins/wpemoji/about.php 1 -
+/kroasiaprize123.789kroasiaprize123.789/login.php 1 -
+/wp-includes/SimplePie/Parse/about.php 1 -
+/wp-content/repeater.php 2 -
+/wp-admin/mb.php 1 kroasiaprize.com
+/wp-includes/Text/Diff/Renderer/about.php 1 -
+/new/ 1 -
+/humans.txt 4 http://kroasiaprize.com/humans.txt
+/wp-admin/css/colors/light/index.php 1 kroasiaprize.com
+/wp-admin/dropdown.php 9 http://kroasiaprize.com//wp-admin/dropdown.php
+/author/wpsecuritypatch/ 1 -
+/wp-content/plugins/work-list/lang.php 1 www.google.com
+/wp-content/upgrade/about.php 1 -
+/author/admim/ 1 -
+/glkroasiaprizeglkroasiaprize/login.php 1 -
+/media/system/js/core.js 3 -
+/wp-json/wpgmza/v1/markers 2 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/cgi-bin/cgi-bin/about.php7 7 http://kroasiaprize.com//cgi-bin/cgi-bin/about.php7
+/wp-includes/id3/license.txt/blog/wp-includes/wlwmanifest.xml 2 -
+/wp-content/plugins/ 7 http://kroasiaprize.com//wp-content/plugins/
+/wp-includes/css/dist/block-directory/about.php 1 -
+/author/wpadminne/ 1 -
+/wp-includes/blocks/cover/about.php 1 -
+/wp-includes/IXR/about.php 3 -
+/wp-includes/css/dist/block-editor/about.php 1 -
+//test/wp-includes/wlwmanifest.xml 6 -
+/wp-admin/includes/cloud.php 2 -
+/wp-content/plugins/backup-backup/includes/k 1 -
+/css/xmrlpc.php 2 -
+/wp-includes/blocks/spacer/about.php 1 -
+/wp-includes/PHPMailer/about.php 1 -
+//web/wp-includes/wlwmanifest.xml 6 -
+/wp-include/auto_seo.php 1 -
+/wp-json/wp/v2/users/3 1 https://kroasiaprize.com/
+/st.php 9 http://kroasiaprize.com//st.php
+/wp-admin/images/index.php 2 -
+/wp-admin/user/cloud.php 2 -
+/wp-content/plugins/hellopress/wp_filemanager.php 2 -
+/wp-admin/js/.js.php 1 kroasiaprize.com
+/wp-admin/install.php 14 -
+/kroasiaprizehtkroasiaprizeht/login.php 1 -
+/wp-content/plugins/linkpreview/db.php 2 -
+/dede/admindede/admin/login.php 1 -
+/style.php 5 www.google.com
+//icelandpools.com/wp-content/themes/lottery_iceland_pools/assets/js/lottery.js 3 -
+/wp-includes/js/tinymce/plugins/wptextpattern/about.php 1 -
+/wp-content/themes/seotheme/mar.php 2 -
+/wp-includes/js/tinymce/skins/lightgray/fonts/about.php 1 -
+/home 3 -
+/wp-includes/sitemaps/about.php 1 -
+/wp-includes/css/dist/format-library/about.php 1 -
+/wp-includes/css/dist/edit-post/about.php 1 -
+/wp-admin/css/colors/ocean/about.php 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 3 www.google.com
+/about.php7 2 -
+//wp-content/plugins/backup-backup/includes/backup-heart.php 1 -
+/css/cloud.php 2 -
+/guanli@kroasiaprizeguanli@kroasiaprize/login.php 1 -
+/wp-includes/blocks/page-list/about.php 1 -
+/wp-includes/blocks/about.php 3 -
+/wp-admin/xmrlpc.php 2 -
+/wp-includes/style-engine/about.php 2 -
+/wp-includes/blocks/heading/about.php 1 -
+/wp-includes/js/codemirror/about.php 1 -
+/wp-admin/repeater.php 2 -
+/wp-includes/blocks/post-featured-image/about.php 1 -
+/wp-admin/css/colors/blue/about.php 1 -
+/ccx/about.php 1 -
+/wp-includes/id3/license.txt/web/wp-includes/wlwmanifest.xml 2 -
+/membermember/login.php 1 -
+/wp-includes/blocks/file/about.php 1 -
+/.ftp-sync.json 3 -
+/wp-content/inputs.php 5 -
+/wp-includes/Requests/Text/index.php 1 kroasiaprize.com
+/alfacgiapi/perl.alfa 3 www.google.com
+/htht/login.php 1 -
+/wp-includes/block-patterns/about.php 3 -
+/radio.txt 1 kroasiaprize.com
+/wp-includes/blocks/embed/about.php 1 -
+/wp-admin/widgets-blocks.php 1 kroasiaprize.com
+/wp-content/plugins/ccx/about.php 1 -
+/admin/login.php 1 -
+/wp-admin/about.php 1 -
+/houtai_kroasiaprizehoutai_kroasiaprize/login.php 1 -
+/new 5 -
+/accountaccount/login.php 1 -
+/admin-post.php 2 -
+/guanli_kroasiaprizeguanli_kroasiaprize/login.php 1 -
+//cdn.js 3 -
+/wp-includes/rest-api/fields/about.php 1 -
+/wp-admin/includes/upfile.php 1 kroasiaprize.com
+/wp-admin/.wp-admin.php 1 kroasiaprize.com
+/wp-includes/blocks/rss/about.php 1 -
+/wp-includes/js/tinymce/themes/inlite/about.php 1 -
+/wp-includes/blocks/pullquote/about.php 1 -
+/wp-includes/blocks/site-logo/about.php 1 -
+/.tmb/about.php 1 -
+/adminfuns.php7 2 -
+/dede@admindede@admin/login.php 1 -
+/dede_admindede_admin/login.php 1 -
+/wp-admin/js/about.php7 7 http://kroasiaprize.com//wp-admin/js/about.php7
+/wp-includes/js/tinymce/plugins/directionality/about.php 1 -
+/wp-admin/images/install.php 7 http://kroasiaprize.com//wp-admin/images/install.php
+//cms/wp-includes/wlwmanifest.xml 6 -
+/wp-includes/Text/Diff/Engine/about.php 1 -
+/wp-content/plugins/wp-automatic/inc/csv.php 2 -
+/class.api.php 10 http://kroasiaprize.com//class.api.php
+/wordpress/ 1 -
+/wp-content/themes/torofilm/changelog.txt 2 -
+/wp-content/languages/about.php 3 -
+/wp-includes/blocks/quote/about.php 1 -
+/updates.php 2 -
+/wp-admin/css/colors/coffee/cloud.php 2 -
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/wp-includes/id3/license.txt/site/wp-includes/wlwmanifest.xml 2 -
+/wp-content/index.php 1 kroasiaprize.com
+/dist/jquery.min.js 3 -
+/wp-ver.php 1 kroasiaprize.com
+/sellers.json 1 -
+//2019/wp-includes/wlwmanifest.xml 6 -
+/managemanage/login.php 1 -
+/wp-admin/user/about.php 1 -
+/.well-known/acme-challenge/xmrlpc.php 2 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 5 http://www.google.com
+/wp-content/updraft/about.php 2 -
+/wp-includes/Text/about.php 10 http://kroasiaprize.com//wp-includes/Text/about.php
+/cache-compat.php 2 -
+/wp-admin/includes/.includes.php 1 kroasiaprize.com
+/wp-includes/js/tinymce/skins/lightgray/about.php 1 -
+/libraries/phpmailer/updates.php 2 -
+/wp-content/uploads/sites/8/upfile.php 1 kroasiaprize.com
+/wp-includes/blocks/paragraph/about.php 1 -
+/wp-emoji-release.min.js 3 -
+/wp-admin/includes/users.php 1 kroasiaprize.com
+/wp-includes/js/jcrop/about.php 1 -
+/wp-content/themes/soledad/style.css 2 -
+/wp-includes/blocks/post-terms/about.php 1 -
+/sitemap 1 -
+/wp-admin/images/xmrlpc.php 2 -
+/dropdown.php 9 http://kroasiaprize.com//dropdown.php
+/test/ 1 -
+/wp-content/dropdown.php 7 http://kroasiaprize.com//wp-content/dropdown.php
+/kroasiaprize@adminkroasiaprize@admin/login.php 1 -
+/admin/controller/extension/extension/ 8 binance.com
+/wp-includes/rest-api/about.php 10 http://kroasiaprize.com//wp-includes/rest-api/about.php
+/wp 5 -
+/wp-admin/images/upfile.php 2 kroasiaprize.com
+/wp-includes/js/tinymce/about.php 1 -
+/wp-content/plugins/ai-engine/readme.txt 2 -
+/kroasiaprize_houtaikroasiaprize_houtai/login.php 1 -
+/wp-includes/Requests/Response/about.php 1 -
+/wp-admin/css/colors/ectoplasm/about.php 1 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 3 -
+/wp-admin/cloud.php 2 -
+/wp-includes/blocks/latest-posts/about.php 1 -
+//wp-json/wp/v2/users/ 6 -
+/core 3 -
+/ht_kroasiaprizeht_kroasiaprize/login.php 1 -
+/wp-includes/css/dist/editor/about.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/img/about.php 1 -
+/wp-checkbex.php 2 -
+/kroasiaprize147258369kroasiaprize147258369/login.php 1 -
+/wp-includes/id3/license.txt/shop/wp-includes/wlwmanifest.xml 2 -
+/dist/js/bootstrap.bundle.min.js 3 -
+//site/wp-includes/wlwmanifest.xml 6 -
+/alfanew.php7 2 -
+/ajax-actions.php 2 -
+/license.txt 2 -
+/wp-json 14 -
+/yanz.php 2 -
+/wp-content/plugins/Cache/Cache.php 2 -
+/wp-includes/.wp-includes.php 1 kroasiaprize.com
+/wp-content/themes/pridmag/db.php 2 -
+/wp-includes/theme-compat/about.php 1 -
+/wp-includes/blocks/query-pagination-numbers/about.php 1 -
+/wp-includes/js/tinymce/plugins/wpview/about.php 1 -
+/wp-includes/js/tinymce/plugins/fullscreen/about.php 1 -
+/dede123dede123/login.php 1 -
+/wp-includes/blocks/image/about.php 1 -
+/wp-includes/blocks/post-excerpt/about.php 1 -
+/kroasiaprize123456kroasiaprize123456/login.php 1 -
+/wp-includes/blocks/buttons/about.php 1 -
+/wp-admin/edit-forms.php 1 kroasiaprize.com
+/wp-admin/css/ 8 binance.com
+/old 5 -
+/cjfuns.php 9 http://kroasiaprize.com//cjfuns.php
+/wp-includes/blocks/preformatted/about.php 1 -
+/wp-includes/blocks/categories/about.php 1 -
+/kroasiaprize_glkroasiaprize_gl/login.php 1 -
+/cgi-bin/cloud.php 2 -
+/author/stender/ 1 -
+/wp-admin/setup-config.php 7 -
+/wp-admin/js/widgets/about.php 1 -
+/index_sso.php 4 -
+/wp-admin/js/widgets/about.php7 2 -
+/wp-includes/js/crop/about.php 1 -
+/wp-content/themes/twentytwentytwo/inputs.php 1 kroasiaprize.com
+/wp-includes/certificates/about.php 1 -
+/wp-admin/css/colors/about.php 1 -
+/wp-includes/blocks/text-columns/about.php 1 -
+/wp-includes/blocks/legacy-widget/about.php 1 -
+/blog/ 1 -
+/phpmyadmin/index.php 4 -
+/.wp-cli/cache/about.php 1 -
+/wp-includes/js/tinymce/plugins/media/about.php 1 -
+/kroasiaprize8888kroasiaprize8888/login.php 1 -
+/wp-includes/Requests/Exception/about.php 1 -
+/wp-includes/images/about.php 3 -
+/ht@kroasiaprizeht@kroasiaprize/login.php 1 -
+/upfile.php 1 kroasiaprize.com
+/backup_1/cleaner.php 1 kroasiaprize.com
+/wp-includes/js/plupload/about.php 1 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/wp-login.php 3 -
+/sitemap.php 1 -
+/wp-includes/css/dist/components/about.php 1 -
+/wp-includes/blocks/site-tagline/about.php 1 -
+/wp-includes/css/dist/nux/about.php 1 -
+/sample.php 3 http://kroasiaprize.com//sample.php
+/dede/dededede/dede/login.php 1 -
+/wp-content/plugins/seoo/wsoyanz1.php 2 -
+/admin 1 -
+/kroasiaprize11kroasiaprize11/login.php 1 -
+/wp-boards.php 1 kroasiaprize.com
+/wp-includes/blocks/table/about.php 1 -
+/wp-content/ 9 -
+/wp-includes/js/tinymce/plugins/wpeditimage/about.php 1 -
+/dede/login.php 1 -
+/wp-admin/inputs.php 4 -
+/kroasiaprize123kroasiaprize123/login.php 1 -
+/wp-includes/sodium_compat/about.php 1 -
+/wp-content/plugins/seoplugins/db.php 2 -
+/cgi-bin/upfile_(2).php 1 kroasiaprize.com
+/wp-admin/css/colors/coffee/about.php 1 -
+/rootroot/login.php 1 -
+/wp-includes/id3/license.txt/cms/wp-includes/wlwmanifest.xml 2 -
+/wp-content/uploads/about.php 1 -
+/radio.php 2 kroasiaprize.com
+/wp-includes/blocks/separator/about.php 1 -
+/.vscode/sftp.json 3 -
+/wp-admin/a2.php 1 kroasiaprize.com
+/dede/ 1 -
+/cgi-bin/install.php 7 http://kroasiaprize.com//cgi-bin/install.php
+/wp-includes/sodium_compat/namespaced/Core/Poly1305/about.php 1 -
+/wp-includes/id3/license.txt/2021/wp-includes/wlwmanifest.xml 2 -
+/wp-includes/js/tinymce/plugins/hr/about.php 1 -
+/wp-includes/blocks/query-pagination-next/about.php 1 -
+/wp-includes/assets/about.php 1 -
+/kroasiaprizerootkroasiaprizeroot/login.php 1 -
+/wp-includes/js/tinymce/utils/about.php 1 -
+/wp-includes/js/dist/vendor/about.php 1 -
+/wp-includes/images/wlw/about.php 1 -
+/wp-admin/link-forms.php 1 kroasiaprize.com
+/img/cloud.php 2 -
+/administratoradministrator/login.php 1 -
+/kroasiaprize12kroasiaprize12/login.php 1 -
+/wp-includes/blocks/site-title/about.php 1 -
+//wordpress/wp-includes/wlwmanifest.xml 6 -
+/wp-json/wp/v2/users/2 2 https://kroasiaprize.com/
+/wp-admin/js/index.php 1 kroasiaprize.com
+//wp-json/oembed/1.0/embed 6 -
+/img/xmrlpc.php 2 -
+/wp-p.php7 2 -
+/old/ 1 -
+/wp-includes/blocks/column/about.php 1 -
+/ads.txt 4 http://kroasiaprize.com/ads.txt
+/wp-includes/blocks/list/about.php 1 -
+/wp-includes/customize/about.php 3 -
+/wp-admin/css/.css.php 1 kroasiaprize.com
+/.well-known/pki-validation/upfile.php 2 kroasiaprize.com
+/kroasiaprize@guanlikroasiaprize@guanli/login.php 1 -
+/inputs.php 8 -
+/uploads/ 8 binance.com
+/wp-content/plugins/master/mode/table.php 1 kroasiaprize.com
+/wp-includes/SimplePie/about.php 3 -
+/wp-includes/js/tinymce/plugins/wplink/about.php 1 -
+/admin/privilege.php 1 -
+//icelandpools.com/wp-content/themes/lottery/assets/js/flipclock.js 3 -
+/wp-content/banners/about.php 2 -
+/wp-includes/js/mediaelement/renderers/about.php 1 -
+/wp-includes/js/jquery/about.php 1 -
+/kroasiaprize369kroasiaprize369/login.php 1 -
+/wp-includes/images/media/about.php 1 -
+/wp-includes/blocks/post-title/about.php 1 -
+/cgi-bin/upfile.php 2 kroasiaprize.com
+//icelandpools.com/xmlrpc.php 1 -
+/wp-includes/css/dist/block-library/about.php 1 -
+/admin1admin1/login.php 1 -
+/wp-content/plugins/LayerSlider/static/js/builder.js 1 kroasiaprize.com
+/sitemaps.xml 4 -
+/wp-includes/blocks/social-links/about.php 1 -
+/temp/ 1 -
+/general.php 3 http://kroasiaprize.com//general.php
+/wp-admin/js/about.php 12 http://kroasiaprize.com//wp-admin/js/about.php
+/.well-known/pki-validation/about.php 3 -
+/wp-head.php 11 http://kroasiaprize.com//wp-head.php
+/wp-json/litespeed/v1/cdn_status 16 -
+/.well-known/acme-challenge/install.php 7 http://kroasiaprize.com//.well-known/acme-challenge/install.php
+/alfanew.php 2 -
+/wp-includes/js/tinymce/plugins/wordpress/about.php 1 -
+/admin888admin888/login.php 1 -
+/wp-includes/blocks/query/about.php 1 -
+/wp-includes/blocks/more/about.php 1 -
+/kroasiaprize@dedekroasiaprize@dede/login.php 1 -
+/install.php 7 http://kroasiaprize.com//install.php
+/avaa.php 2 -
+/wp-includes/id3/license.txt/wp1/wp-includes/wlwmanifest.xml 2 -
+/wp-includes/inputs.php 3 -
+/wp-includes/blocks/button/about.php 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/about.php 1 -
+/sftp-config.json 3 -
+/wp-admin/maint/upfile.php 1 kroasiaprize.com
+/.sftp-config.json 2 -
+/wp-includes/id3/license.txt/xmlrpc.php 2 -
+/atomlib.php 1 kroasiaprize.com
+/wp-includes/css/dist/reusable-blocks/about.php 1 -
+/wp-json/wp/v2/users/4 2 https://kroasiaprize.com/
+/wp-includes/Requests/Auth/about.php 1 -
+/administrator/index.php 3 -
+/wp-includes/blocks/columns/about.php 1 -
+/wp-includes/js/tinymce/plugins/tabfocus/about.php 1 -
+/wp-admin/css/colors/cloud.php 2 -
+/wp-content/plugins/forminator/readme.txt 2 -
+/wp-includes/blocks/code/about.php 1 -
+/wp-includes/id3/license.txt/feed/ 2 -
+//wp/wp-includes/wlwmanifest.xml 6 -
+/author/crander/ 1 -
+/adminkroasiaprizeadminkroasiaprize/login.php 1 -
+/kroasiaprize666kroasiaprize666/login.php 1 -
+/kroasiaprizeadminkroasiaprizeadmin/login.php 1 -
+/dede12dede12/login.php 1 -
+/wp-includes/css/dist/list-reusable-blocks/about.php 1 -
+/sitemap.xml 15 -
+/wp-content/plugins/background-image-cropper/ 1 http://www.google.com
+/wp-includes/blocks/latest-comments/about.php 1 -
+/dededede/login.php 1 -
+/wp-includes/id3/license.txt/wordpress/wp-includes/wlwmanifest.xml 2 -
+/ws.php7 2 -
+/wp-includes/js/jquery/jquery.js 2 www.google.com
+/wp-content/blogs.dir/about.php 2 -
+/gl@kroasiaprizegl@kroasiaprize/login.php 1 -
+/wp-content/plugins/seoo/wsoyanz.php 2 -
+/wp-includes/blocks/verse/about.php 1 -
+/wp-includes/blocks/media-text/about.php 1 -
+/wp-includes/js/tinymce/plugins/charmap/about.php 1 -
+/xmlrpc.php 3 -
+/wp-content/patior/ 7 http://kroasiaprize.com//wp-content/patior/
+/css/install.php 7 http://kroasiaprize.com//css/install.php
+/author/w-padmine/ 1 -
+/wp-includes/Requests/Exception/HTTP/about.php 1 -
+/wp-content/upgrade-temp-backup/about.php 2 -
+//xmlrpc.php 18 -
+/PHPMailer/web_config.php 1 kroasiaprize.com
+/author/greeceman/ 1 -
+/files/ 8 binance.com
+/wp-includes/id3/license.txt/2020/wp-includes/wlwmanifest.xml 2 -
+/wp-includes/SimplePie/HTTP/about.php 1 -
+/wp-content/plugins/miniorange-malware-protection/includes/js/phone.js 1 -
+/wp-content/about.php 4 -
+/css/about.php 1 -
+/wp-includes/blocks/social-link/about.php 1 -
+/php/thinkphp/aaaffff123.php 4 -
+/admin@kroasiaprizeadmin@kroasiaprize/login.php 1 -
+/wp-admin/network/about.php 1 -
+/wp-includes/blocks/query-pagination-previous/about.php 1 -
+/wp-admin/maint/moon.php 7 http://kroasiaprize.com//wp-admin/maint/moon.php
+/ee.php 7 http://kroasiaprize.com//ee.php
+/wp-admin/css/colors/index.php 4 kroasiaprize.com
+/wp-includes/SimplePie/XML/Declaration/about.php 1 -
+/.well-known/pki-validation/xmrlpc.php 2 -
+/wp-plain.php 3 www.google.com
+/sitemap1.xml 1 -
+/wp-content/plugins/install.php 7 http://kroasiaprize.com//wp-content/plugins/install.php
+/wp-includes/images/smilies/about.php 1 -
+/wp-includes/js/tinymce/langs/about.php 1 -
+//blog/wp-includes/wlwmanifest.xml 6 -
+/wp-includes/Requests/Proxy/about.php 1 -
+/kroasiaprize_managerkroasiaprize_manager/login.php 1 -
+//2021/wp-includes/wlwmanifest.xml 6 -
+/newsite 3 -
+/kroasiaprize123456789kroasiaprize123456789/login.php 1 -
+/wp-includes/blocks/archives/about.php 1 -
+/wp-content/auto_seo.php 1 -
+/huiyuanhuiyuan/login.php 1 -
+/wp-content/plugins/gotmls/readme.txt 2 -
+/wp-includes/blocks/missing/about.php 1 -
+//wp-includes/wlwmanifest.xml 6 -
+/wp-includes/js/jquery/jquery.min.js 4 -
+/.well-known/pki-validation/cloud.php 2 -
+/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js 1 -
+/wp-includes/js/wp-emoji-release.min.js 1 www.google.com
+/wp-admin/css/colors/midnight/about.php 1 -
+/wp-admin/privacy-guides.php 1 kroasiaprize.com
+/wp-includes/js/thickbox/about.php 1 -
+/wp-content/themes/twenty/twenty.php 7 http://kroasiaprize.com//wp-content/themes/twenty/twenty.php
+/wp-admin/network/licenses.php 1 kroasiaprize.com
+/wp-admin/js/widgets/cloud.php 2 -
+/e/admin/index.php 1 -
+/wp-blog.php 1 kroasiaprize.com
+/wp-includes/js/tinymce/plugins/colorpicker/about.php 1 -
+/wp-privacys.php 1 kroasiaprize.com
+/wp/ 1 -
+/libraries/legacy/updates.php 2 -
+/wp-includes/blocks/audio/about.php 1 -
+/wp-includes/js/tinymce/plugins/link/about.php 1 -
+/shop 1 -
+/wp-admin/ajax-actions.php 2 -
+/wp-includes/js/tinymce/plugins/wpautoresize/about.php 1 -
+/wp-22.php 3 http://kroasiaprize.com//wp-22.php
+/kroasiaprize789.123kroasiaprize789.123/login.php 1 -
+/wp-content/themes/wp-admin/css/index.php 1 kroasiaprize.com
+/music/bak_config.php 1 kroasiaprize.com
+/wp-content/plugins/backup-backup/includes/A 1 -
+/wsoyanz.php 2 -
+/wp-includes/sodium_compat/src/about.php 1 -
+/wp-admin/js/widgets/upfile.php 1 kroasiaprize.com
+/kroasiaprize@glkroasiaprize@gl/login.php 1 -
+/wp-includes/widgets/about.php 3 -
+/glgl/login.php 1 -
+/wp-includes/css/about.php 1 -
+/wp-includes/Text/Diff/about.php 1 -
+/wp-includes/ID3/about.php 3 -
+/wp-includes/js/jquery/ui/about.php 1 -
+/wp-includes/js/tinymce/themes/modern/about.php 1 -
+//feed/ 6 -
+/about.php 8 www.google.com
+/.env.example 1 -
+/a2.php 1 kroasiaprize.com
+/wp-includes/blocks/freeform/about.php 1 -
+/wp-includes/sodium_compat/lib/about.php 1 -
+/guanliguanli/login.php 1 -
+/wp-includes/js/tinymce/skins/wordpress/images/about.php 1 -
+/wp-include/inputs.php 1 -
+/ftp-sync.json 2 -
+/kqefnivj.php 1 www.google.com
+/wp-includes/js/tinymce/plugins/textcolor/about.php 1 -
+/wp-content/themes/seotheme/about.php 1 -
+/houtaihoutai/login.php 1 -
+/wp-includes/sitemaps/providers/about.php 1 -
+/wp-json/wp/v2/users/1 1 https://kroasiaprize.com/
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 3 -
+/alfa-rex2.php7 2 -
+/images/xmrlpc.php 2 -
+/wp-includes/blocks/shortcode/about.php 1 -
+/plugins/content/apismtp/apismtp.php.suspected 2 -
+/wp-includes/random_compat/about.php 1 -
+/img/about.php 2 -
+/wp-includes/js/imgareaselect/about.php 1 -
+/test 5 -
+/testing 3 -
+/wp-includes/blocks/loginout/about.php 1 -
+//wp-includes/ID3/license.txt 6 -
+/kroasiaprize9999kroasiaprize9999/login.php 1 -
+/repeater.php 2 -
+/.DS_Store 5 -
+/wp-includes/js/tinymce/plugins/compat3x/css/index.php 7 http://kroasiaprize.com//wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/kroasiaprizehoutaikroasiaprizehoutai/login.php 1 -
+/wp-includes/SimplePie/Content/Type/about.php 1 -
+/wp-includes/css/buttons.css 1 http://kroasiaprize.com/wp-includes/css/buttons.css
+/wp-content/uploads/ 7 http://kroasiaprize.com//wp-content/uploads/
+/cgi-bin/about.php 3 -
+/zb_system/login.php 1 -
+/dede1dede1/login.php 1 -
+/hudouacj.php 1 www.google.com
+/wp-includes/blocks/query-title/about.php 1 -
+/wp-admin/includes/xmrlpc.php 2 -
+/wp-includes/blocks/group/about.php 1 -
+/wp-admin/css/colors/modern/about.php 1 -
+/adminadmin/login.php 1 -
+/wp-admin/css/colors/blue/index.php 1 kroasiaprize.com
+/wp-includes/js/tinymce/plugins/paste/about.php 1 -
+/wp-content/.wp-content.php 1 kroasiaprize.com
+/.vscode/ftp-sync.json 2 -
+/wp-includes/css/dist/widgets/about.php 1 -
+/wp-admin/css/about.php 3 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 2 -
+/wp-includes/js/dist/about.php 1 -
+/sitemapindex.xml 1 -
+/wp-includes/js/tinymce/skins/wordpress/about.php 1 -
+/wp-content/gallery/about.php 2 -
+/wp-content/plugins/Cache/dropdown.php 7 http://kroasiaprize.com//wp-content/plugins/Cache/dropdown.php
+/houtai@kroasiaprizehoutai@kroasiaprize/login.php 1 -
+/wp-includes/images/crystal/about.php 1 -
+/sitemap_index.xml 5 -
+/wp-includes/SimplePie/Net/about.php 1 -
+/kroasiaprize@rootkroasiaprize@root/login.php 1 -
+/wp-content/plugins/wp-ver.php 1 kroasiaprize.com
+/wp-includes/ 2 -
+/wp-includes/js/tinymce/plugins/compat3x/about.php 1 -
+/sites/default/files/ 8 binance.com
+/backup/ 1 -
+/wp-admin/maint/.maint.php 1 kroasiaprize.com
+/.well-known/gpc.json 1 -
+/wp-admin/images/about.php 3 -
+/wp-includes/js/about.php 1 -
+/wp-admin/js/widgets/xmrlpc.php 2 -
+/wp-content/themes/seotheme/db.php 9 www.google.com
+/index.php 7 kroasiaprize.com
+/wp-includes/js/tinymce/plugins/image/about.php 1 -
+/images/cloud.php 2 -
+/kroasiaprize@htkroasiaprize@ht/login.php 1 -
+/wp-includes/Requests/Utility/about.php 1 -
+/wp-admin/network/upfile.php 1 kroasiaprize.com
+/wp-admin/css/index.php 3 -
+/wp-includes/js/swfupload/about.php 1 -
+/wp-includes/css/dist/customize-widgets/about.php 1 -
+/kroasiaprize@houtaikroasiaprize@houtai/login.php 1 -
+/wp-includes/Requests/Exception/Transport/about.php 1 -
+/images/header-bg.jpg 9 https://kroasiaprize.com/
+/cgi-bin/.cgi-bin.php 1 kroasiaprize.com
+/kroasiaprize258kroasiaprize258/login.php 1 -
+/wp-includes/blocks/post-content/about.php 1 -
+/wp-includes/blocks/post-date/about.php 1 -
+/security.txt 1 http://www.kroasiaprize.com/security.txt
+/wp-content/mu-plugins/about.php 1 -
+/.env 34 -
+/kroasiaprize999kroasiaprize999/login.php 1 -
+/wp-includes.bak/html-api/about.php 2 -
+/admin.php 16 http://kroasiaprize.com//admin.php
+//shop/wp-includes/wlwmanifest.xml 6 -
+//s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js 3 -
+//2020/wp-includes/wlwmanifest.xml 6 -
+/kroasiaprize888kroasiaprize888/login.php 1 -
+/houtaikroasiaprizehoutaikroasiaprize/login.php 1 -
+/ebs.php7 2 -
+/cgi-bin/cgi-bin/about.php 7 http://kroasiaprize.com//cgi-bin/cgi-bin/about.php
+/author/wpservices/ 1 -
+/cloud.php 2 -
+/wp-includes/rest-api/endpoints/about.php 1 -
+/sitemap/sitemap.xml 1 -
+/wp-content/plugins/chauffeur-booking-system/script/jquery.chauffeurBookingFormAdmin.js 1 kroasiaprize.com
+/.vscode/.sftp.json 1 -
+/login.php 2 -
+/wp-includes/blocks/query-pagination/about.php 1 -
+/wp-content/plugins/apikey/apikey.php 2 -
+/alfa-rex.php7 2 -
+/wp-includes/blocks/post-template/about.php 1 -
+/cgi-bin/xmrlpc.php 2 -
+/wp-admin/admin-ajax.php 20 http://kroasiaprize.com//wp-admin/admin-ajax.php
+/wp-admin/maint/maint/ajax-actions.php 2 -
+/images/ 8 binance.com
+/wp-includes/rest-api/search/about.php 1 -
+/sitemap/index.xml 1 -
+/robots.txt 98 -
+/blog 5 -
+/wp-admin/images/cloud.php 2 -
+/wp-admin/css/colors/blue/xmrlpc.php 2 -
+/jakfkicp.php 1 www.google.com
+/wp-includes/fonts/about.php 1 -
+/dede888dede888/login.php 1 -
+/wp-admin/css/colors/coffee/xmrlpc.php 2 -
+/auto_seo.php 2 -
+/wp-includes/js/tinymce/plugins/wpdialogs/about.php 1 -
+/wp-includes/Requests/Transport/about.php 1 -
+/wp-content/plugins/seoplugins/mar.php 2 -
+/wp-includes/Requests/Text/admin.php 2 -
+/wp-includes/about.php 3 -
+/wp-includes/blocks/nextpage/about.php 1 -
+/.well-known/acme-challenge/upfile.php 2 kroasiaprize.com
+/kroasiaprize_dedekroasiaprize_dede/login.php 1 -
+/wp-json/wp/v2/users/5 1 https://kroasiaprize.com/
+/wp-includes/blocks/search/about.php 1 -
+/kroasiaprize_htkroasiaprize_ht/login.php 1 -
+/wp-includes/SimplePie/Cache/about.php 1 -
+/sitemap-index.xml 1 -
+/.well-known/acme-challenge/cloud.php 4 -
+/wp-includes/pomo/about.php 3 -
+/dede321dede321/login.php 1 -
+/libraries/vendor/updates.php 2 -
+/wp-admin/css/colors/blue/cloud.php 2 -
+/wp-admin/user/xmrlpc.php 2 -
+/gl_kroasiaprizegl_kroasiaprize/login.php 1 -
+/.well-known/about.php 3 -
+/wp-includes/blocks/block/about.php 1 -
+/my1.php 9 http://kroasiaprize.com//my1.php
+/wp-content/themes/about.php 3 -
+/useruser/login.php 1 -
+/wordpress 5 -
+/wp-admin/index.php 2 kroasiaprize.com
+/wp-content/plugins/dzs-zoomsounds/savepng.php 2 -
+/wp-content/themes/bute/lang.php 1 www.google.com
+/wp-content/themes/lottery_iceland_pools/readme.txt 1 -
+/wp-content/plugins/moveto/assets/lib/loader_ajax.php 2 https://kroasiaprize.com
+/wp-content/plugins/wp-meta-seo/readme.txt 2 -
+/author/superadmin/ 1 -
+/guanlikroasiaprizeguanlikroasiaprize/login.php 1 -
+/licenses.php 1 kroasiaprize.com
+/wp-content/plugins/fix/up.php 2 www.google.com
+/images/about.php 3 -
+/plugins/content/apismtp/apismtp.php 2 -
+/wp-includes/SimplePie/Decode/HTML/about.php 1 -
+/wp-includes/css/dist/edit-widgets/about.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 276
+152.228.221.99 9 9 90225 20240413193239
+185.70.93.6 9 9 90180 20240410095826
+54.88.179.33 9 9 388071 20240426005719
+87.106.158.5 7 7 70112 20240403012533
+164.90.170.3 7 7 70161 20240405212623
+35.171.144.152 7 7 301833 20240426005720
+149.56.160.250 6 6 988195 20240422033030
+143.198.201.154 5 5 215595 20240415022541
+34.174.119.207 5 5 215595 20240413031206
+104.28.254.47 4 4 172476 20240422093727
+137.226.113.44 4 4 40059 20240425025738
+43.159.128.68 4 4 40063 20240427235006
+159.223.55.19 4 4 172476 20240412040752
+104.234.140.76 4 4 172480 20240422200130
+34.76.167.253 4 4 172476 20240429090810
+84.32.41.136 4 4 37930 20240410062511
+170.106.104.42 4 4 40066 20240422063559
+69.160.160.55 3 3 51095 20240422190811
+89.248.174.182 3 3 30066 20240410182318
+5.133.165.122 3 3 23847 20240424150816
+42.83.147.34 3 3 30054 20240422053925
+43.159.128.149 3 3 30054 20240426015636
+35.80.3.130 3 3 23805 20240403134247
+46.101.9.216 3 3 53177 20240410051434
+89.248.172.115 3 3 30070 20240414111007
+38.122.112.147 1 1 10015 20240428101940
+84.54.51.61 1 1 10019 20240427073337
+91.244.198.23 1 1 10020 20240423125309
+36.133.35.23 1 1 10023 20240406183128
+5.133.162.82 1 1 14096 20240424082124
+4.242.244.197 1 1 768 20240408114139
+43.135.181.13 2 2 20027 20240417041652
+3.84.126.238 1 1 10020 20240422231014
+124.156.193.7 1 1 10025 20240414133343
+128.90.174.26 1 1 10019 20240427020710
+203.2.64.59 1 1 10015 20240411160443
+209.38.218.125 1 1 10020 20240425024522
+54.183.185.115 1 1 10023 20240405215235
+1.192.192.6 1 1 43120 20240408194829
+103.20.82.155 2 2 20048 20240414133526
+205.210.31.199 1 1 43120 20240430144123
+195.90.221.76 2 2 20036 20240415232748
+135.148.195.15 1 1 10018 20240421230814
+51.222.98.70 2 2 20027 20240419014044
+139.59.38.146 1 1 768 20240412102657
+149.56.150.138 1 1 7938 20240422033053
+182.44.67.97 1 1 10019 20240429201631
+198.235.24.142 1 1 43119 20240404191335
+188.225.60.227 1 1 7936 20240423153800
+46.101.213.23 1 1 10020 20240423023039
+15.204.182.106 2 2 20040 20240422222258
+198.235.24.203 1 1 43120 20240401232907
+45.154.35.141 1 1 43120 20240407025559
+146.59.3.188 1 1 10011 20240416214825
+128.90.170.27 1 1 10017 20240414191446
+198.235.24.182 1 1 43119 20240413134022
+77.74.177.119 1 1 10025 20240414023125
+43.130.32.224 2 2 20036 20240415185455
+205.210.31.171 1 1 43119 20240401184037
+36.99.136.128 1 1 10019 20240430014007
+93.158.91.251 1 1 10011 20240417000642
+4.242.130.182 1 1 768 20240415114231
+178.254.38.45 1 1 10020 20240424232523
+124.248.183.41 2 2 15870 20240424185046
+217.114.43.253 1 1 10019 20240402061251
+154.223.17.210 1 1 10023 20240421162952
+5.133.192.87 1 1 10015 20240428081523
+222.79.104.23 2 2 20038 20240425031123
+198.235.24.102 1 1 43119 20240419013610
+42.83.147.56 2 2 20044 20240409102634
+60.188.57.0 1 1 10023 20240412212921
+135.148.195.14 1 1 10015 20240401063622
+205.210.31.211 1 1 43118 20240410090856
+94.247.172.129 1 1 10017 20240415120329
+20.165.234.156 1 1 10019 20240427182934
+168.119.89.246 2 2 20040 20240422232131
+169.150.198.86 1 1 10020 20240424002949
+85.236.62.219 1 1 10022 20240409113949
+94.228.122.109 1 1 7936 20240423170228
+205.210.31.185 1 1 43119 20240422155815
+182.42.111.156 1 1 10019 20240427123033
+101.44.249.212 1 1 10017 20240415005048
+185.12.251.124 1 1 10023 20240405194440
+36.134.147.75 1 1 10011 20240417142239
+43.135.129.233 1 1 10015 20240411054949
+43.130.39.101 2 2 20039 20240427004752
+43.134.190.89 2 2 20044 20240430074715
+2.57.122.215 1 1 10020 20240410125945
+178.18.15.20 1 1 43119 20240419133849
+123.249.91.159 1 1 10023 20240406033949
+35.88.59.157 1 1 10020 20240410064757
+34.27.18.253 1 1 10023 20240405001514
+124.248.183.133 1 1 10017 20240415163822
+111.7.96.180 2 2 20050 20240414160134
+209.141.39.104 1 1 10019 20240427073329
+35.238.73.248 1 1 10016 20240403011348
+158.69.25.39 1 1 10019 20240430000505
+199.45.155.50 1 1 10020 20240410025439
+5.133.167.29 1 1 7935 20240424150811
+104.28.250.135 1 1 7939 20240403185811
+147.45.50.18 1 1 10015 20240408130249
+141.138.208.43 1 1 10015 20240411104037
+199.45.154.69 1 1 10020 20240412004644
+45.120.49.120 2 2 10017 20240415161925
+87.236.176.67 1 1 10012 20240430204551
+158.69.247.77 1 1 10022 20240409031948
+154.39.66.38 1 1 10025 20240414084025
+154.28.229.54 1 1 7934 20240402165123
+43.159.128.172 1 1 10015 20240408085711
+35.167.147.34 1 1 10020 20240410064758
+134.209.28.32 1 1 10015 20240428050209
+165.232.120.178 1 1 10015 20240401030840
+203.33.203.148 1 1 10020 20240412114328
+18.222.201.223 1 1 10018 20240407003412
+201.184.246.236 1 1 43118 20240410070832
+1.192.192.8 1 1 10022 20240408195023
+87.236.176.129 1 1 10017 20240419063753
+101.44.248.189 1 1 10018 20240407031712
+135.148.195.12 1 1 10015 20240429020840
+125.94.144.102 1 1 10019 20240402001513
+49.51.206.130 2 2 20036 20240428103048
+2.58.56.191 1 1 10015 20240429162023
+206.168.34.33 1 1 10023 20240406001922
+104.161.20.238 1 1 10023 20240413064901
+185.230.64.135 1 1 10020 20240425064307
+91.92.254.43 2 2 43118 20240417063657
+205.209.106.139 1 1 43119 20240420015917
+89.248.174.42 1 1 10015 20240408122502
+180.102.134.69 1 1 10023 20240421103901
+199.45.154.23 1 1 10023 20240406081822
+43.134.89.111 1 1 10015 20240408000803
+104.248.162.61 1 1 10017 20240415033713
+128.90.141.40 1 1 10018 20240407090406
+182.42.105.144 1 1 10025 20240420133630
+150.109.16.20 1 1 10020 20240423165725
+64.225.63.125 1 1 10025 20240420063300
+34.123.79.232 1 1 10014 20240403222544
+178.62.208.215 1 1 10023 20240421050006
+43.155.130.43 1 1 10015 20240401122752
+77.246.102.95 2 2 86238 20240404133041
+185.220.101.15 1 1 10018 20240407185240
+194.26.192.41 1 1 768 20240401202639
+154.29.101.192 1 1 7935 20240424082123
+52.80.18.29 1 1 10019 20240427143742
+158.220.80.95 1 1 10018 20240422101446
+180.97.221.86 1 1 10019 20240429211742
+199.45.155.23 1 1 10020 20240412010658
+139.59.4.171 1 1 10023 20240413031910
+198.235.24.14 1 1 43119 20240419063321
+128.90.170.38 2 2 20028 20240417162128
+222.79.103.59 1 1 10023 20240413072342
+36.99.136.137 1 1 10019 20240430014009
+199.45.154.54 1 1 10025 20240420024235
+5.133.192.127 1 1 10015 20240410213814
+199.45.154.67 1 1 10025 20240413222517
+93.158.91.32 1 1 10023 20240405014435
+182.2.136.92 1 1 7934 20240401184608
+198.235.24.74 1 1 43119 20240427142718
+52.81.237.92 1 1 10017 20240419155806
+43.131.243.208 1 1 10015 20240429083123
+91.92.244.237 1 1 10019 20240427094815
+95.216.203.215 1 1 10020 20240424220421
+43.128.100.206 1 1 10016 20240403134901
+182.42.111.213 1 1 10010 20240418104701
+205.210.31.201 1 1 43119 20240406155610
+154.28.229.185 1 1 7934 20240402140618
+166.1.135.185 1 1 0 20240419001611
+14.215.163.132 1 1 10014 20240404000130
+107.178.105.167 2 2 20041 20240414132214
+36.133.172.82 1 1 10015 20240401134926
+24.199.117.77 1 1 10016 20240403032805
+128.90.174.12 1 1 10025 20240420021723
+135.148.195.2 1 1 10015 20240408092124
+35.90.186.147 1 1 10025 20240420064902
+123.60.68.42 2 2 20031 20240417065927
+198.235.24.116 1 1 43119 20240425161857
+4.227.19.137 2 2 10786 20240422133347
+192.42.116.185 1 1 10019 20240427073327
+34.221.32.160 1 1 10014 20240426063948
+199.45.154.70 1 1 10020 20240410001104
+199.244.88.222 1 1 10011 20240417061627
+54.176.8.237 1 1 10023 20240412223014
+38.242.250.246 1 1 10020 20240424210521
+116.206.15.48 1 1 7941 20240426190656
+154.28.229.148 1 1 7934 20240402140617
+34.71.194.12 1 1 10018 20240407021025
+54.176.91.0 1 1 10019 20240402171128
+185.181.247.186 1 1 7935 20240413201849
+118.69.175.73 1 1 43119 20240412035758
+103.157.149.208 1 1 7939 20240408135358
+34.172.57.105 1 1 10012 20240430210403
+185.34.33.2 1 1 10018 20240407185232
+209.182.219.227 1 1 43118 20240417002407
+93.159.230.87 1 1 10015 20240428024835
+172.233.136.243 1 1 10020 20240423175053
+34.220.34.157 1 1 10014 20240426063950
+43.163.0.99 2 2 20038 20240425140422
+31.7.62.54 1 1 10014 20240426123008
+66.249.68.33 2 2 15878 20240408135359
+20.46.230.0 1 1 10015 20240407202719
+192.95.30.227 2 2 20040 20240424051840
+43.134.66.205 2 2 20044 20240416172039
+107.178.207.27 1 1 10020 20240425100850
+170.106.159.160 1 1 10023 20240413172925
+4.242.238.58 2 2 1536 20240419102930
+13.52.237.29 1 1 10014 20240426130047
+142.93.113.76 1 1 10011 20240417041049
+165.22.230.1 1 1 10023 20240405021616
+159.203.11.132 1 1 10017 20240419040106
+93.158.90.40 1 1 10019 20240427110237
+170.106.101.31 1 1 10012 20240430194904
+89.248.172.92 1 1 10020 20240410054534
+182.44.10.67 2 2 20035 20240428215901
+123.187.240.242 1 1 10020 20240410095203
+43.153.216.189 1 1 10019 20240402091756
+93.158.90.74 1 1 10015 20240401102054
+206.168.34.124 1 1 10025 20240419233533
+35.164.181.225 1 1 10025 20240420064906
+205.210.31.16 1 1 43118 20240424140334
+51.15.59.15 1 1 10020 20240410125934
+161.35.179.159 1 1 10019 20240427024133
+114.80.36.40 1 1 10020 20240412022414
+159.203.57.253 1 1 10025 20240414044429
+5.133.164.30 1 1 14096 20240424150815
+167.94.138.124 1 1 10023 20240406083024
+198.235.24.90 1 1 43118 20240416232909
+20.172.9.8 1 1 768 20240410174954
+212.162.149.43 1 1 10017 20240419085241
+43.155.183.138 1 1 10015 20240410195243
+146.190.28.115 1 1 10023 20240406004105
+199.45.155.33 1 1 10025 20240413212124
+95.164.22.4 1 1 10020 20240410125926
+164.92.225.95 1 1 10015 20240429044839
+223.113.128.132 1 1 10018 20240422034513
+34.213.47.11 1 1 43119 20240411012954
+39.173.116.9 2 2 20036 20240422073906
+38.45.127.226 1 1 10012 20240430225232
+101.44.250.212 1 1 10011 20240417031128
+206.168.34.125 1 1 10023 20240406063517
+192.42.116.209 1 1 10019 20240427073338
+93.158.90.69 1 1 10018 20240422132504
+101.44.250.114 1 1 10016 20240402210630
+203.161.32.78 1 1 10015 20240429104233
+104.248.75.7 1 1 10015 20240401184608
+35.194.24.93 1 1 10022 20240409155141
+159.89.54.155 1 1 10018 20240407044627
+43.153.110.177 2 2 20031 20240414235737
+91.92.249.173 1 1 43118 20240403173156
+35.226.22.151 1 1 10019 20240402004341
+43.155.136.16 1 1 10018 20240422170348
+161.35.159.96 1 1 10015 20240411031705
+45.61.55.132 1 1 43119 20240401180415
+43.134.170.46 1 1 10017 20240415090341
+199.45.155.22 1 1 10023 20240405223456
+176.9.18.134 1 1 10014 20240404080720
+91.92.246.109 1 1 43119 20240417200416
+205.210.31.88 1 1 43120 20240409033914
+185.220.100.248 1 1 10018 20240407185247
+101.44.250.95 1 1 10025 20240414000615
+5.133.164.42 1 1 7935 20240424150811
+87.236.176.53 1 1 10019 20240430184535
+158.220.80.101 1 1 10020 20240423103230
+104.197.37.58 1 1 10011 20240417003418
+157.245.107.0 1 1 10022 20240409045844
+117.33.163.216 1 1 10025 20240420034737
+34.71.140.185 1 1 10020 20240423220315
+42.83.147.53 2 2 20036 20240429133712
+77.246.105.178 2 2 86238 20240404141809
+188.126.89.92 1 1 43119 20240422000342
+8.41.221.56 2 2 53140 20240422231232
+185.107.83.2 1 1 43119 20240401032954
+35.90.94.148 3 3 23802 20240401064552
+5.133.192.168 2 2 20039 20240422123415
+77.238.237.38 2 2 86238 20240404145741
+94.228.169.182 1 1 10019 20240429233039
+52.80.71.82 1 1 10020 20240410124344
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240401 16 16 275086 14
+20240402 11 11 103951 11
+20240403 18 18 205068 10
+20240404 11 11 341889 11
+20240405 20 20 365940 12
+20240406 10 10 133326 10
+20240407 13 13 163330 13
+20240408 11 11 127802 10
+20240409 9 9 123296 8
+20240410 33 33 408561 20
+20240411 7 7 103214 7
+20240412 14 14 362727 10
+20240413 24 24 437062 12
+20240414 14 14 140326 13
+20240415 15 15 296503 10
+20240416 6 6 93213 6
+20240417 15 15 230232 14
+20240418 8 8 245625 6
+20240419 14 14 220286 14
+20240420 8 8 113294 8
+20240421 5 5 50105 5
+20240422 38 38 1682610 21
+20240423 9 9 86012 9
+20240424 17 17 194952 14
+20240425 8 8 146358 8
+20240426 10 10 197382 9
+20240427 14 14 173362 14
+20240428 6 6 60090 6
+20240429 13 13 262623 10
+20240430 10 10 133263 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+15mn-30mn 1
+30s-2mn 1
+0s-30s 322
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 373 5899487 314 304
+// 14 603668 0 6
+/.well-known/ 8 6144 8 8
+/history-result/ 6 881072 2 3
+/live-draw/ 6 87117 1 4
+END_SIDER

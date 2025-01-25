@@ -1,0 +1,99 @@
+/**** begin card style ****/
+.card.card-result,
+.card.card-result .card-body {
+    border-radius: 12px;
+    box-shadow: none;
+}
+.card.card-result .box-date {
+    position: relative;
+    border-radius: 50px 50px 0 0;
+}
+.card.card-result .box-date h1 {
+    font-size: 24px;
+}
+.card.card-result .box-date h3 {
+    font-size: 24px;
+}
+.card.card-result .box-date h5 {
+    font-size: 24px;
+}
+.card.card-result .featured-prize {
+    position: relative;
+    height: 100%;
+}
+.card.card-result .featured-prize::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -15px;
+    right: -15px;
+    width: auto;
+    height: auto;
+    background-color: var(--color-7) !important;
+    border-radius: 50px 8px;
+}
+.card.card-result .winner-box.last {
+    border-radius: 0 0 50px 50px;
+}
+.prize .prize-block {
+    position: relative;
+    display: inline-block;
+    margin: 0 2.5px;
+    width: 45px;
+    height: 45px;
+    background-color: var(--color-3);
+    border: 2px solid #071330;
+    border-radius: 50px;
+    padding: 5px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.65);
+}
+.prize .prize-block.winner {
+    background-color: var(--color-6);
+}
+.prize .prize-block:after {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 12px;
+    width: 16px;
+    height: 16px;
+    background-color: rgba(225, 225, 225, 0.65);
+    border-radius: 50px;
+}
+.prize .prize-block .prize-digit {
+    position: relative;
+    width: 31px;
+    height: 31px;
+    line-height: 30px;
+    color: var(--color-1);
+    background-color: #E9EAEC;
+    border-radius: 50px;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+.prize .prize-block.mini {
+    width: 30px;
+    height: 30px;
+    border: 2px solid #071330;
+    padding: 3px;
+    margin: 0 1.5px;
+    background-color: var(--color-7);
+}
+.prize .prize-block.mini.winner {
+    background-color: var(--color-5);
+}
+.prize .prize-block.mini:after {
+    top: 1px;
+    left: 7.5px;
+    width: 10px;
+    height: 10px;
+}
+.prize .prize-block.mini .prize-digit {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 16px;
+}
+/**** endof card style ****/

@@ -1,0 +1,134 @@
+.card.card-result {
+    border-radius: 12px
+}
+
+.card.card-result .card-header {
+    border-radius: 12px 12px 0 0
+}
+
+.card.card-result .card-body {
+    border-radius: 0 0 12px 12px
+}
+
+.card.card-result .icon-container {
+    position: relative;
+    width: 48px;
+    height: 48px;
+    padding: 5px;
+    border-radius: 50px
+}
+
+.card.card-result .icon-container .web-icon {
+    padding: 3px;
+    width: 100%
+}
+
+.card.card-result .box {
+    position: relative
+}
+
+.card.card-result .box::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: auto;
+    height: 10px;
+    background-color: var(--color-6)
+}
+
+.card.card-result .box .box-list {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    background-color: var(--color-6);
+    color: var(--white)!important;
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px
+}
+
+.card.card-result .box .box-list::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -15px;
+    width: 0;
+    height: 0;
+    border-top: 15px solid var(--color-6);
+    border-right: 30px solid transparent
+}
+
+.card.card-result .box .box-list::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: -15px;
+    width: 0;
+    height: 0;
+    border-top: 15px solid var(--color-6);
+    border-left: 30px solid transparent
+}
+
+.card.card-result .prize .prize-block {
+    position: relative;
+    display: inline-block;
+    margin: 0 2.5px;
+    width: 35px;
+    height: 35px;
+    background: linear-gradient(to bottom,var(--color-2),var(--color-4))!important;
+    border: 2px solid #071330;
+    border-radius: 50px;
+    padding: 3px;
+    box-shadow: inset 0 0 5px rgba(0,0,0,.65)
+}
+
+.card.card-result .prize .prize-block:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 10px;
+    height: 10px;
+    margin: 0 auto;
+    background-color: rgba(225,225,225,.65);
+    border-radius: 50px
+}
+
+.card.card-result .prize .prize-block .prize-digit {
+    position: relative;
+    width: 26px;
+    height: 26px;
+    line-height: 26px;
+    color: var(--color-1);
+    background-color: #e9eaec;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center
+}
+
+.card.card-result .prize .prize-block.mini {
+    width: 30px;
+    height: 30px;
+    border: 2px solid #071330;
+    padding: 3px;
+    margin: 0 1.5px
+}
+
+.card.card-result .prize .prize-block.mini:after {
+    top: 1px;
+    left: 7.5px;
+    width: 10px;
+    height: 10px
+}
+
+.card.card-result .prize .prize-block.mini .prize-digit {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 16px
+}

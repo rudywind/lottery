@@ -1,0 +1,1203 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.kolombialottery.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2047                
+POS_TIME 2725                
+POS_VISITOR 30279               
+POS_DAY 42785               
+POS_DOMAIN 3542                
+POS_LOGIN 4243                
+POS_ROBOT 4398                
+POS_WORMS 5308                
+POS_EMAILSENDER 5439                
+POS_EMAILRECEIVER 5582                
+POS_SESSION 43594               
+POS_SIDER 43785               
+POS_FILETYPES 5717                
+POS_DOWNLOADS 5881                
+POS_OS 5929                
+POS_BROWSER 6300                
+POS_SCREENSIZE 8273                
+POS_UNKNOWNREFERER 8347                
+POS_UNKNOWNREFERERBROWSER 9151                
+POS_ORIGIN 9696                
+POS_SEREFERRALS 9840                
+POS_PAGEREFS 10005               
+POS_SEARCHWORDS 10348               
+POS_KEYWORDS 10500               
+POS_MISC 2389                
+POS_ERRORS 10559               
+POS_CLUSTER 4099                
+POS_SIDER_404 10689               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501012734 22 4641 13390930662856
+FirstTime 20240401043130
+LastTime 20240430225234
+LastUpdate 20240501081728 22 0 21 0 0
+TotalVisits 371                 
+TotalUnique 310                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 325                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 15 32 789123 34 61 207403
+1 22 52 3133711 24 37 106915
+2 12 17 1391065 15 22 82620
+3 17 26 3055981 26 62 401553
+4 30 31 553758 23 41 94022
+5 33 33 464647 33 41 276541
+6 19 39 846061 7 9 53588
+7 14 15 668785 94 102 301298
+8 24 53 4231302 23 29 84353
+9 72 169 4493691 53 63 120999
+10 74 223 5513561 19 39 869076
+11 13 14 455581 20 47 769538
+12 10 12 804731 32 49 740673
+13 13 35 1088101 46 52 98287
+14 15 16 584679 24 50 469790
+15 13 26 1194310 30 45 679798
+16 20 35 1655693 43 52 164097
+17 14 28 2821187 12 21 25011
+18 19 30 637055 13 21 31550
+19 9 21 724498 15 25 79349
+20 7 11 1309428 85 102 197356
+21 10 25 1055551 8 13 65932
+22 17 27 552204 244 249 367615
+23 9 13 1417578 28 36 102776
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 34
+us 165 345 21861320
+cn 72 88 3526177
+id 37 161 4824696
+ca 33 34 940047
+kh 25 115 1892250
+de 23 35 231761
+jp 22 22 181274
+au 20 30 422128
+ro 14 14 474801
+gb 12 21 265944
+ru 12 12 110728
+nl 12 24 756496
+se 10 15 1682722
+lt 7 7 211744
+bg 6 6 138026
+ar 3 3 20626
+be 3 6 966895
+sa 3 3 24715
+hu 2 2 16468
+za 2 12 349675
+mn 2 2 15097
+in 2 2 39095
+fr 2 2 9046
+ee 2 2 8237
+br 1 1 6524
+rs 1 1 6522
+eu 1 1 8231
+zz 1 1 8236
+ua 1 1 6877
+gr 1 1 8215
+pa 1 1 8248
+hk 1 1 38336
+vn 1 1 38336
+ht 1 11 342788
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 20
+AhrefsBot/ 55 306078 20240430145622 0
+Applebot/ 43 179017 20240428154137 0
+Googlebot/ 22 95067 20240425223532 0
+no_user_agent 18 690048 20240428230148 0
+Go\-http\-client/ 14 1606621 20240427143756 0
+bingbot/ 11 33376 20240413002122 0
+nbot 7 210317 20240423054645 0
+bot[\s_+:,\.\;\/\\-] 5 41238 20240414091235 0
+DotBot/ 4 301984 20240403151213 0
+(firefox/)([0-9]\.|[0-1][0]\.) 4 32980 20240430165645 0
+crawl 4 37240 20240423103112 0
+Apache\-HttpClient/ 3 24690 20240417044505 0
+Googlebot\-Image/ 3 942174 20240423115432 0
+BLEXBot/ 2 20775 20240401010730 0
+DuckDuckGo\-Favicons\-Bot/ 2 322311 20240411102603 0
+survey 2 76672 20240403190757 0
+TelegramBot 2 13048 20240404101510 0
+SemrushBot/ 1 8237 20240411083235 0
+CCBot/ 1 6523 20240420030748 0
+MJ12bot/ 1 6529 20240407002113 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 268 657275 0 0
+html 493 5721777 0 0
+Unknown 8 713672 0 0
+js 109 315641 0 0
+png 105 32033916 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 22
+androidoreo 13 1
+android10 256 62
+macosx7 5 1
+android 40 14
+androidnougat 13 10
+androidkitkat 4 4
+winxp 1 1
+winnt 6 5
+ios_ipad 1 1
+win7 28 17
+macosx12 1 1
+macosx 15 7
+linux 43 42
+win10 232 137
+Unknown 87 46
+androidlollipop 1 1
+ios_iphone 87 67
+winlong 3 3
+macosx15 140 74
+win8.1 3 3
+win8 1 1
+macosx14 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 95
+chrome123.0.6312.46 1 1
+chrome122.0.0.0 6 6
+chrome87.0.4280.88 12 5
+firefox115 1 1
+chrome116.0.0.0 6 6
+firefox118.0 2 2
+chrome121.0.0.0 19 19
+chrome83.0.16 1 1
+chrome103.0.0.0 1 1
+chrome60.0.3112.113 1 1
+chrome105.0.1871 1 0
+chrome88.0.4240.193 10 10
+chrome100.0.4895.86 1 1
+android 5 5
+msie9.0 15 4
+firefox125.0 13 1
+iphone 1 1
+opera79.2.4195.76518 24 8
+mozilla 63 22
+firefox36.0 1 1
+chrome19.0.1084.9 1 1
+chrome117.0.0.0 19 9
+safari17.4.1 24 4
+chrome114.0.0.0 27 27
+chrome64.0.2721 1 1
+safari11.0 1 1
+chrome108.0.0.0 4 1
+firefox117.0 4 4
+firefox77.0 2 2
+Unknown 22 22
+chrome79.0.3945.88 1 0
+chrome100.0.4896.127 5 5
+chrome69.0.2799 1 1
+chrome73.0.2192.88 1 1
+firefox90.0 1 1
+chrome103.0.9999.0 1 1
+safari16.6 3 3
+chrome80.0.298 1 0
+chrome100.0.4896.60 15 15
+safari16.2 1 0
+chrome55.0.2883.87 1 1
+edge18 1 1
+chrome78.0.3904.87 1 1
+opera102.0.0.0 1 1
+chrome94.0.4606.61 1 1
+firefox103.0 4 4
+chrome101.0.4951.67 2 2
+chrome96.0.4664.110 9 3
+chrome88.0.4324.150 2 2
+omniweb 1 1
+safari13.0.3 57 57
+chrome80.0.3987.149 1 1
+chrome80.0.3987.162 1 1
+msie8.0 2 2
+chrome14.0.835.163 1 1
+chrome84.0.3846.100 1 1
+chrome60.0.3112.107 13 10
+chrome104.0.0.0 3 3
+chrome107.0.0.0 3 1
+chrome74.0.3729.169 7 7
+firefox102.0 1 1
+chrome79.0.3945.147 1 1
+chrome64.0.3282.167 1 1
+safari17.1.2 1 1
+chrome109.0.0.0 36 11
+chrome81.0.4044.138 3 3
+chrome110.0.0.0 9 9
+netscape5.0 4 4
+firefox119.0 1 1
+chrome123.0.0.0 346 73
+firefox108.0 2 2
+chrome120.0.0.0 29 18
+chrome72.0.1954 1 1
+chrome34.0.1847.116 3 3
+chrome51.0.2704.103 3 3
+chrome97.0.4280.67 2 2
+chrome103.0.5060.66 1 1
+firefox40.0 1 1
+chrome78.0.3904.108 12 12
+chrome123.0.6312.99 11 1
+firefox43.0 1 1
+firefox97.0 1 1
+chrome17.0.963.56 5 1
+chrome81.0.4044.145 1 1
+chrome91.0.4472.114 4 4
+firefox114.0 7 7
+safari17.0 3 3
+chrome62.0.1107 1 0
+safari13.1.2 1 1
+chrome105.0.0.0 11 6
+chrome104.0.5112.79 20 2
+chrome92.0.4515.131 1 1
+chrome83.0.4103.97 20 20
+firefox99.0 4 4
+chrome101.0.4951.64 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240425034802
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240430094642
+Searcherweb 20240425085815
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240425024935
+undici 20240425083903
+python-requests/2.25.1 20240413114947
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240404011859
+python-requests/2.31.0 20240425135104
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240427174530
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+python-requests/2.31.0 20240425135104
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240430094642
+Searcherweb 20240425085815
+Uzbl_(Webkit_1.3)_(Linux_i686_[i686]) 20240423192714
+undici 20240425083903
+python-requests/2.25.1 20240413114947
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 301 384
+From1 10 13
+From2 11 11
+From3 36 36
+From4 143 539
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 11 11
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+https://secure.livechatinc.com 13 13
+https://onicforyou.com 12 12
+https://onic4dpasaran.site 8 8
+https://cometojp.site 2 2
+https://www.christianlouboutinsaleflagshipstore.com/latest_news.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+206 3 142140
+404 1007 1257255
+403 25 31050
+301 6 4770
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 417
+/.sftp-config.json 1 -
+/install.php 3 http://kolombialottery.com/install.php
+/wp-content/plugins/wp-automatic/inputs.php 1 kolombialottery.com
+/wp-content/themes/rehub-theme/icons/modulobox.svg 1 -
+/wp-content/plugins/backup-backup/includes/ 2 http://kolombialottery.com/wp-content/plugins/backup-backup/includes/
+/.well-known/pki-validation/about.php 6 http://kolombialottery.com/.well-known/pki-validation/about.php
+/wp-includes/random_compat/about.php 1 http://kolombialottery.com//wp-includes/random_compat/about.php
+/class.api.php 5 http://kolombialottery.com/class.api.php
+/M1.php 4 http://kolombialottery.com/M1.php
+/wp-includes/customize/about.php 2 -
+/sftp.json 1 -
+/wp-admin/ajax-actions.php 2 -
+/wp-content/plugins/seoplugins/mar.php 2 -
+/blog 1 -
+/updates.php 2 -
+/wp-content/themes/blossom-spa/wp-config-sample.php 1 kolombialottery.com
+/xmrlpc.php 2 -
+/wp-content/plugins/wp-automatic/inc/csv.php 2 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php 2 http://kolombialottery.com/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php
+/xgfdmqlf.php 1 www.google.com
+/wp-admin/css/about.php 2 -
+/wp-admin/js/about.php 4 -
+/worksec.php 1 kolombialottery.com
+/upfile.php 1 kolombialottery.com
+/wp-admin/includes/.includes.php 1 kolombialottery.com
+/dede/ 1 -
+/defaults.php 2 -
+//kolombialottery.com/wp-content/themes/lottery_kolombia/assets/js/lottery.js 3 -
+/admin/ 1 -
+/new 1 -
+/wp-content/plugins/forminator/assets/js/shared-ui.js 1 kolombialottery.com
+/c.php 2 http://kolombialottery.com/c.php
+/wp-content/plugins/blogroll-to-page/blogroll-to-page.php 1 -
+/autoload_classmap.php 2 http://kolombialottery.com/autoload_classmap.php
+/cgi-bin/upfile_(2).php 1 kolombialottery.com
+/wp-json/instawp-connect/v1/config 2 http://kolombialottery.com
+/elfinder/elfinder.html 1 -
+/.well-known/security.txt 2 http://www.kolombialottery.com/.well-known/security.txt
+/author/wpservices/ 1 -
+/author/admim/ 1 -
+/css/cloud.php 2 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 7 http://kolombialottery.com/wp-content/plugins/backup-backup/includes/backup-heart.php
+/wp-includes/Requests/Text/index.php 1 kolombialottery.com
+/wp-admin/css/colors/xmrlpc.php 2 -
+/test 1 -
+/%5C/kolombialottery.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 1 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 2 -
+/wp 1 -
+/wp-admin/maint/users.php 1 -
+/.DS_Store 4 -
+/wp-content/themes/soledad/style.css 2 -
+/fm1.php 5 http://kolombialottery.com/fm1.php
+/wsoyanz.php 2 -
+/wp-includes/about.php 2 -
+/wp-includes/js/jquery/jquery.js 13 www.google.com
+/.env 15 -
+/wp-content/themes/lottery_kolombia/readme.txt 2 -
+/.well-known/pki-validation/upfile.php 1 kolombialottery.com
+/administrator/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 1 -
+/cgi-bin/users.php 1 -
+/libraries/legacy/updates.php 2 -
+/wp-content/plugins/seo-spy-google-wordpress-plugin/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/img/cloud.php 2 -
+/wp-header.php 4 http://kolombialottery.com/wp-header.php
+/wp-content/plugins/core-plugin/.nxd.php 2 http://kolombialottery.com/wp-content/plugins/core-plugin/.nxd.php
+/wp-content/themes/lottery/readme.txt 2 -
+/wp-admin/maint/maint/ajax-actions.php 2 -
+/sites/all/modules/plupload/plupload/examples/upload.php 1 -
+/wp-admin/maint/.maint.php 1 kolombialottery.com
+/wp-edit.php 1 kolombialottery.com
+//kolombialottery.com/wp-content/themes/lottery/assets/js/flipclock.js 3 -
+/wp-content/plugins/seoplugins/db.php 2 -
+/Wp-includes/amaxx.php 2 http://kolombialottery.com/Wp-includes/amaxx.php
+/admin-post.php 2 -
+/options-discussion.php 1 kolombialottery.com
+/menu.php 2 http://kolombialottery.com/menu.php
+/chosen.php 6 http://kolombialottery.com/chosen.php
+/wp-content/updraft/about.php 2 -
+/wp-content/gallery/about.php 2 -
+/yanz.php 2 -
+/wp-admin/mb.php 1 kolombialottery.com
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 8 www.google.com
+/wp-plain.php 3 www.google.com
+/wp-checkbex.php 1 -
+/sftp-config.json 4 -
+/wp-content/plugins/wp-slimstat-ex/lib/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/dist/js/bootstrap.bundle.min.js 2 -
+/sitemap.php 1 -
+/a2.php 1 kolombialottery.com
+/wp-content/plugins/alfa-rex.php 4 http://kolombialottery.com/wp-content/plugins/alfa-rex.php
+/sitemap/index.xml 1 -
+/wp-includes/images/smilies/upfile.php 1 kolombialottery.com
+/wp-json/wp/v2/users/3 2 https://kolombialottery.com/
+/layouts/System/VisitorIdentification.aspx 1 -
+/admin.php 8 http://kolombialottery.com/admin.php
+/wp-admin/maint/clean.php 1 kolombialottery.com
+/wp-content/banners/about.php 2 -
+/sitemap_index.xml.gz 1 -
+/wordpress 1 -
+/wp-content/plugins/user-registration/assets/css/user-registration.css 2 -
+/wp-woulds.php 1 kolombialottery.com
+/wp-admin/css/colors/ectoplasm/users.php 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 2 www.google.com
+/index.php 8 kolombialottery.com
+/wp-content/themes/magxpress/sldebar.php 1 kolombialottery.com
+/sitemap.xml 18 -
+/users.php 2 -
+/assets/fileupload/server/php/index.php 1 -
+/wp-includes/theme-compat/wp-conflg.php 2 http://kolombialottery.com/wp-includes/theme-compat/wp-conflg.php
+/mycommand.php 1 kolombialottery.com
+/wp-includes/inputs.php 2 www.google.com
+/wp-admin/link-forms.php 1 kolombialottery.com
+/wp-content/plugins/core/include.php 4 http://kolombialottery.com/wp-content/plugins/core/include.php
+/wp-content/themes/bute/lang.php 1 www.google.com
+/wp-admin/network/licenses.php 1 kolombialottery.com
+/radio.php 3 kolombialottery.com
+/.vscode/ftp-sync.json 1 -
+/wp-includes/repeater.php 2 -
+/wp-json/wp/v2/users/1 1 https://kolombialottery.com/
+/wp-admin/css/colors/coffee/shell_utchiha.php 1 kolombialottery.com
+/wp-content/plugins/formidable/pro/js/ofc-library/ofc_upload_image.php 1 -
+/wp-content/upgrade/about.php 1 kolombialottery.com
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 2 http://kolombialottery.com/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+/wp-admin/css/colors/blue/clean.php 1 kolombialottery.com
+/.well-known/acme-challenge/xmrlpc.php 2 -
+/sitemap_index.xml 2 -
+/wp-content/uploads/wpr-addons/forms/index.php 1 kolombialottery.com
+/wp-content/plugins/gotmls/readme.txt 2 -
+/text.php 2 http://kolombialottery.com/text.php
+/alfanew.php7 6 http://kolombialottery.com/alfanew.php7
+/wp-admin/images/users.php 1 -
+/x-cp-T9ujXS9l.php 1 kolombialottery.com
+/backup_1/server_name.txt 2 kolombialottery.com
+/atomlib.php 1 kolombialottery.com
+/wso112233.php 2 http://kolombialottery.com/wso112233.php
+/wp-content/themes/torofilm/changelog.txt 2 -
+/bu1.php 1 kolombialottery.com
+/wp-content/uploads/sites/8/upfile.php 1 kolombialottery.com
+/lol.php 1 kolombialottery.com
+/images/toggige-arrow.jpg 1 kolombialottery.com
+/wp-includes/block-patterns/about.php 2 -
+/.vscode/sftp.json 4 -
+/wp-admin/network/upfile.php 1 kolombialottery.com
+/sitemapindex.xml 1 -
+/author/greeceman/ 1 -
+/wp-content/themes/finley/min.php 4 http://kolombialottery.com/wp-content/themes/finley/min.php
+/.well-known/acme-challenge/cloud.php 4 -
+/magento_version 1 -
+/.well-known/pki-validation/cloud.php 2 -
+/wp-admin/privacy-guides.php 1 kolombialottery.com
+/wp-content/languages/about.php 2 -
+/wp-content/themes/supermag/wp-config-sample.php 1 kolombialottery.com
+/x-cp-rY7Yi6bD.php 1 kolombialottery.com
+/php/thinkphp/aaaffff123.php 4 -
+/classwithtostring.php 1 -
+/media/system/js/core.js 3 -
+/elrte/src/elrte.src.html 1 -
+/wp-includes/Requests/Text/admin.php 2 -
+/adminfuns.php7 2 -
+/wp-content/plugins/classic-addon/op.php 1 kolombialottery.com
+/ads.txt 4 http://kolombialottery.com/ads.txt
+/old 1 -
+/shell20211028.php 2 http://kolombialottery.com/shell20211028.php
+/wp-includes/widgets/about.php 2 -
+/alfa-rex.php7 2 -
+/wp-content/plugins/wp-statistics/readme.txt 2 -
+/radio.txt 1 kolombialottery.com
+/wp-admin/includes/upfile.php 2 kolombialottery.com
+/wp-content1/wp-apxupx.php 1 kolombialottery.com
+/wp-admin/images/about.php 2 -
+/img/about.php 2 -
+/wp-boards.php 1 kolombialottery.com
+/gawean.PhP7 1 -
+/sitemap-index.xml 1 -
+/repeater.php 6 http://kolombialottery.com/repeater.php
+/wp-admin/includes/cloud.php 2 -
+/wp-content/plugins/moveto/assets/lib/loader_ajax.php 2 http://kolombialottery.com
+/wp-content/plugins/work-list/lang.php 1 www.google.com
+/wp-content/plugins/forminator/readme.txt 2 -
+/wp-includes/rest-api/about.php 2 -
+/wp-content/themes/pridmag/db.php 2 -
+/about.php7 2 -
+/author/stender/ 1 -
+/wp-admin/.wp-admin.php 1 kolombialottery.com
+/wp-ver.php 1 kolombialottery.com
+/cache-compat.php 2 -
+/wp-content/themes/seotheme/db.php 8 www.google.com
+/wp-content/themes/gutenify-fse/paqe.php 1 kolombialottery.com
+/alfacgiapi/perl.alfa 3 www.google.com
+/wp-admin/images/admin.php 2 http://kolombialottery.com/wp-admin/images/admin.php
+/wp-content/plugins/ai-engine/readme.txt 5 -
+/wp-content/.wp-content.php 1 kolombialottery.com
+/ajax-actions.php 2 -
+/inputs.php 10 www.google.com
+/wp-includes/IXR/themes.php 4 http://kolombialottery.com/wp-includes/IXR/themes.php
+/wp-admin/cloud.php 2 -
+/sitemap1.xml 1 -
+/wp-includes/SimplePie/plugins.php 4 http://kolombialottery.com/wp-includes/SimplePie/plugins.php
+/wp-content/uploads/wpr-addons/forms/b1ack.php 1 -
+/shop 1 -
+/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 1 -
+/alfa-rex2.php7 2 -
+/wp-content/plugins/LayerSlider/static/js/builder.js 1 kolombialottery.com
+/wp-content/plugins/wp-apxupx.php 1 kolombialottery.com
+/wp-admin/js/widgets/about.php7 2 -
+/wp-aa.php 3 www.google.com
+/cgi-bin/cloud.php 2 -
+//cdn.js 3 -
+/wp-content/themes/seotheme/mar.php 2 -
+/wp-includes/SimplePie/about.php 2 -
+/wp-admin/css/colors/blue/cloud.php 2 -
+/wp-admin/includes/xmrlpc.php 2 -
+/plugins/content/apismtp/apismtp.php.suspected 3 -
+/wp-content/plugins/eventon-addon/op.php 1 kolombialottery.com
+/wp-content/repeater.php 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/sitemap/sitemap.xml 1 -
+/ioxi02.php 3 http://kolombialottery.com/ioxi02.php
+/wzy.php 1 -
+/simple.php 12 http://kolombialottery.com/simple.php
+/alfanew.PHP7 1 -
+/phpmyadmin/index.php 4 -
+/bu.php 1 kolombialottery.com
+/wp-admin/css/colors/coffee/cloud.php 2 -
+/wp-admin/maint/upfile.php 1 kolombialottery.com
+/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 2 http://kolombialottery.com/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 3 -
+/cgi-bin/about.php 2 -
+/wp-content/blogs.dir/about.php 2 -
+/images/xmrlpc.php 2 -
+/wp-content/plugins/spamtask/chart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-content/plugins/apikey/apikey.php.suspected 4 -
+/wp-admin/inputs.php 5 www.google.com
+/wp-atom.php 1 kolombialottery.com
+/admin 1 -
+/wp-admin/user/cloud.php 2 -
+/administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 1 -
+/.well-known/fierzashell.php 1 -
+/license.txt 2 -
+/wp-login.php 5 -
+/images/cloud.php 2 -
+/wp-content/plugins/press/wp-class.php 4 http://kolombialottery.com/wp-content/plugins/press/wp-class.php
+/index_sso.php 4 -
+/avaa.php 2 -
+/.well-known/pki-validation/xmrlpc.php 2 -
+/wp-content/updates.php 2 -
+/wp-content/plugins/fix/up.php 3 www.google.com
+/wp-admin/images/cloud.php 2 -
+/plugins/content/apismtp/apismtp.php 3 -
+/wp-content/themes/wp-admin/css/index.php 1 kolombialottery.com
+/wp-content/pm.php 1 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 4 -
+/wp-includes/widgets/index.php 1 kolombialottery.com
+/wp-content/x.php 1 kolombialottery.com
+/wp-includes/customize/amaxx.php 2 http://kolombialottery.com/wp-includes/customize/amaxx.php
+/sitemap.xml.gz 2 -
+/wp-content/about.php 2 -
+/wp-content/plugins/root-file-manager/up.php 1 kolombialottery.com
+/.quarantine/upfile.php 1 kolombialottery.com
+/ftp-sync.json 1 -
+/exy.php 1 kolombialottery.com
+/wp-admin/js/widgets/cloud.php 2 -
+/shell_utchiha.php 1 kolombialottery.com
+/cgi-bin/xmrlpc.php 3 -
+/wp-apxupx/function.php 1 kolombialottery.com
+/author/w-padmine/ 1 -
+/wp-admin/images/.images.php 1 kolombialottery.com
+/wp-content/plugins/seoo/wsoyanz.php 2 -
+/wp-admin/css/colors/blue/xmrlpc.php 2 -
+/cjfuns%20.php 2 http://kolombialottery.com/cjfuns%20.php
+/wp-includes/Text/about.php 2 -
+/wp-admin/user/upfile.php 2 kolombialottery.com
+/wp-includes/images/about.php 2 -
+/wp-p.php7 2 -
+/wp-content/plugins/user-registration/assets/js/frontend/ur-login.js 2 -
+/ws.php 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 3 www.google.com
+/wp-admin/images/xmrlpc.php 2 -
+/wp-json/wp/v2/users/5 2 https://kolombialottery.com/
+/wp-content/plugins/background-image-cropper/ 1 http://www.google.com
+/index4.php 1 kolombialottery.com
+/wp-consar.php 2 -
+/about.php 9 http://kolombialottery.com/about.php
+/wp-admin/network/xmrlpc.php 2 -
+/robots.txt 83 -
+/wp-admin/js/widgets/upfile.php 1 kolombialottery.com
+//wp-includes/wlwmanifest.xml 5 -
+/wp-includes.bak/html-api/about.php 2 -
+/ll.php 1 kolombialottery.com
+/wp-content/plugins/woocommerce-product-addon/css/divider.css 1 kolombialottery.com
+/da1.php 1 kolombialottery.com
+/components/com_jvideodirect/tools/uploader/php/upload.php 1 -
+//wp-json/oembed/1.0/embed 5 -
+/qbpcnkdo.php 1 www.google.com
+/wp-roto/wp-admin/css/index.php 1 kolombialottery.com
+/wp-admin/setup-config.php 1 -
+/wp-admin/xmrlpc.php 2 -
+/wp-admin/user/about.php 2 http://kolombialottery.com/wp-admin/user/about.php
+/wp-includes/style-engine/about.php 2 -
+/images/about.php 2 -
+/ioxi01.php 1 -
+/wp-privacys.php 1 kolombialottery.com
+/wp-includes/pomo/about.php 2 -
+/apple-touch-icon.png 1 -
+/wp-admin/repeater.php 2 -
+/wp-content/plugins/linkpreview/db.php 2 -
+/cloud.php 2 -
+/wp-content/plugins/genesis-simple-share/includes/class-genesis-simple-share-view.php 1 kolombialottery.com
+/wp-emoji-release.min.js 2 -
+/api/index.php/v1/users 4 -
+/wp-admin/css/index.php 2 -
+/wp-content/inputs.php 3 www.google.com
+/wp-2019.php 2 http://kolombialottery.com/wp-2019.php
+/wp-content/plugins/apikey/apikey.php 3 -
+/wp-admin/images/index.php 2 -
+/wp-admin/admin-ajax.php 15 -
+/img/xmrlpc.php 2 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 3 -
+/wp-admin/network/cloud.php 2 -
+/wp-content/plugins/backup-backup/includes/h 1 -
+/security.txt 1 http://www.kolombialottery.com/security.txt
+/wp-content/plugins/about.php 4 http://kolombialottery.com/wp-content/plugins/about.php
+/cgi-bin/.cgi-bin.php 1 kolombialottery.com
+/wp-admin/dropdown.php 4 http://kolombialottery.com/wp-admin/dropdown.php
+/cgi-bin/upfile.php 3 kolombialottery.com
+/wp-admin/user/xmrlpc.php 2 -
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 1 -
+/wp-content/plugins/wp-meta-seo/readme.txt 2 -
+/author/superadmin/ 1 -
+/wp-content/themes/bricks/assets/css/libs/font-awesome-6.min.css 1 -
+/dropdown.php 7 http://kolombialottery.com/dropdown.php
+/wp-content/themes/twentytwentytwo/inputs.php 1 kolombialottery.com
+/author/wpadminne/ 1 -
+//xmlrpc.php 10 -
+/wp-includes/js/jquery/jquery.min.js 3 www.google.com
+/wp-admin/js/widgets/xmrlpc.php 2 -
+/wp-json/wp/v2/users/2 1 https://kolombialottery.com/
+/wp-includes/ID3/about.php 6 http://kolombialottery.com/wp-includes/ID3/about.php
+/sites/all/modules/contrib/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/.well-known/acme-challenge/upfile.php 1 kolombialottery.com
+/wp-info.php 2 http://kolombialottery.com/wp-info.php
+/.ftp-sync.json 2 -
+/wp-includes/Requests/about.php 2 -
+/wp-admin/network/amaxx.php 2 http://kolombialottery.com/wp-admin/network/amaxx.php
+/wp-head.php 4 http://kolombialottery.com//wp-head.php
+/cjfuns.php 2 http://kolombialottery.com/cjfuns.php
+/wp-admin/js/.js.php 1 kolombialottery.com
+/xmlrpc.php 7 -
+/wp-cron.php 1 kolombialottery.com
+/administrator/components/com_maianmedia/utilities/charts/php-ofc-library/ofc_upload_image.php 1 -
+/wp-apxupx.php 1 kolombialottery.com
+/wp-admin/css/.css.php 1 kolombialottery.com
+/wp-content/plugins/backup-backup/includes/t 1 -
+/wp-content/plugins/seoo/wsoyanz1.php 2 -
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/.env.example 1 -
+/sitemap 2 -
+/wp-content/themes/about.php 6 http://kolombialottery.com/wp-content/themes/about.php
+/joobi/inc/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/alfanew.php 6 http://kolombialottery.com/alfanew.php
+/wp-content/wp-apxupx.php 1 kolombialottery.com
+/wp-includes/.wp-includes.php 1 kolombialottery.com
+/sitemap.ashx 1 -
+/wp-content/plugins/chauffeur-booking-system/script/jquery.chauffeurBookingFormAdmin.js 1 kolombialottery.com
+/wp-content/plugins/master/mode/table.php 1 kolombialottery.com
+/wp-admin/includes/about.php 2 -
+/wp-admin/js/widgets/users.php 1 -
+/wp-includes/blocks/about.php 2 -
+/ebs.php7 2 -
+/wp-content/upgrade-temp-backup/about.php 2 -
+/wp-content/plugins/core-plugin/nxd.php 2 http://kolombialottery.com/wp-content/plugins/core-plugin/nxd.php
+/iwmlcmxg.php 1 www.google.com
+/wp-admin/css/colors/index.php 3 kolombialottery.com
+/wp-content/themes/twentyfive/include.php 1 -
+/author/crander/ 1 -
+/humans.txt 3 http://kolombialottery.com/humans.txt
+/wp-content/options-discussion.php 1 kolombialottery.com
+/wp-content/shell20211028.php 2 http://kolombialottery.com/wp-content/shell20211028.php
+/wp-content/plugins/Cache/Cache.php 4 http://kolombialottery.com/wp-content/plugins/Cache/Cache.php
+/wp-content/uploads/wpr-addons/forms/wp-apxupx.php 1 kolombialottery.com
+/wp-includes/ID3/wp-login.php 4 http://kolombialottery.com/wp-includes/ID3/wp-login.php
+/author/wpsecuritypatch/ 1 -
+/wp-content/themes/qoe/vendor/ernilambar/wp-admin-notice/src/Start-home.php 1 kolombialottery.com
+/wp-admin/css/colors/cloud.php 2 -
+/wp-admin/user/users.php 1 -
+/wp-admin/images/upfile.php 2 kolombialottery.com
+/sitemap.txt 4 -
+/wp-includes/css/buttons.css 1 http://kolombialottery.com/wp-includes/css/buttons.css
+/wp-content/themes/theme_log.php 1 kolombialottery.com
+/.well-known/about.php 2 -
+//wp-json/wp/v2/users/ 5 -
+/wp-admin/css/colors/coffee/xmrlpc.php 2 -
+/wp-admin/install.php 1 -
+/_well-known/amaxx.php 2 http://kolombialottery.com/_well-known/amaxx.php
+/.well-known/wso112233.php 4 http://kolombialottery.com/.well-known/wso112233.php
+/wp-admin/widgets-blocks.php 1 kolombialottery.com
+/wp-content/upgrade/edit.php 2 http://kolombialottery.com/wp-content/upgrade/edit.php
+/worm0.PhP7 1 -
+/wp-diff.php 1 kolombialottery.com
+/libraries/phpmailer/updates.php 2 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-content/plugins/wordpresss3cll/includes.php 1 -
+/wp-json/litespeed/v1/cdn_status 15 -
+/top.php 1 -
+/wp-admin/js/index.php 1 kolombialottery.com
+/sites/all/libraries/plupload/examples/upload.php 1 -
+/wp-includes/IXR/about.php 2 -
+/ws.php7 2 -
+/administrator/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/css/xmrlpc.php 2 -
+/wp-content/plugins/royal-elements/op.php 1 kolombialottery.com
+/libraries/vendor/updates.php 2 -
+/style.php 6 www.google.com
+/alfanew2.php7 2 -
+/wp-admin/a2.php 1 kolombialottery.com
+/dist/jquery.min.js 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 325
+124.248.183.41 23 113 1875781 20240426100559
+114.142.173.54 12 22 363063 20240416100806
+192.95.30.227 12 12 76605 20240410094912
+35.171.144.152 9 9 345024 20240424154434
+104.28.218.134 9 19 342789 20240424100031
+140.213.26.46 9 20 361193 20240406100446
+180.244.161.126 9 19 363065 20240401100624
+84.32.41.136 7 7 211744 20240410094158
+213.202.233.34 7 10 75129 20240425185336
+146.70.212.85 7 7 211731 20240429100540
+149.56.150.50 6 6 378656 20240404011829
+54.88.179.33 6 6 230016 20240424154434
+18.236.92.179 5 17 2417154 20240405081708
+34.211.216.133 5 17 2417145 20240413174058
+35.245.103.160 5 5 191680 20240416144508
+34.85.175.77 5 5 191680 20240424073138
+84.247.59.128 4 4 153344 20240427095634
+182.2.39.8 4 15 361193 20240409100022
+137.226.113.44 4 4 32971 20240425024935
+84.247.59.64 4 4 153344 20240420053628
+192.95.31.35 4 4 18072 20240424051024
+84.247.59.159 4 4 153344 20240409164026
+123.58.193.194 4 6 691196 20240425034959
+104.28.218.136 4 20 972374 20240420095545
+85.25.93.236 4 4 37254 20240401182553
+185.12.148.78 1 1 8236 20240404053512
+51.15.17.105 1 1 8243 20240409230817
+202.74.40.142 1 1 38336 20240429063247
+104.28.250.135 1 11 342798 20240404101519
+185.220.101.53 1 1 8230 20240424001023
+109.94.227.102 1 1 6522 20240420201124
+94.74.91.67 1 1 6877 20240419190819
+54.70.32.158 1 1 8215 20240426045536
+42.83.147.53 3 3 24734 20240429180524
+223.244.35.77 1 1 8240 20240403050127
+65.20.191.31 1 1 6527 20240409235425
+13.56.213.191 1 1 8232 20240412224058
+54.200.171.41 1 1 8245 20240420045644
+182.44.10.67 2 2 16469 20240425151130
+182.42.104.32 1 1 8237 20240410202245
+91.92.243.105 1 1 8242 20240426185842
+222.79.104.23 1 1 8233 20240407045258
+119.13.111.86 1 1 6860 20240424075644
+146.190.246.93 1 1 8253 20240412094121
+123.60.68.42 1 1 8245 20240419163714
+112.215.211.182 1 11 342799 20240422100932
+179.43.191.18 1 1 8248 20240425085815
+101.44.251.195 1 1 8600 20240410132227
+159.138.122.45 1 1 8226 20240417080948
+199.45.154.69 1 2 322288 20240423115038
+64.227.186.189 1 1 8227 20240416081820
+52.69.212.119 1 1 8232 20240412163120
+198.235.24.40 1 1 38336 20240410082044
+104.28.218.135 2 22 685592 20240407085619
+36.99.136.137 0 1 314058 
+103.20.82.155 2 2 16469 20240414133044
+43.134.142.8 1 1 8241 20240401054740
+5.133.192.146 1 2 322288 20240420211609
+101.44.249.87 1 1 8589 20240416094500
+35.84.211.165 1 1 8230 20240424050036
+198.235.24.102 1 1 38336 20240409052513
+43.128.110.17 1 1 8230 20240424044558
+69.10.48.138 1 1 38336 20240419234517
+20.165.234.156 1 1 8245 20240420084301
+54.176.91.0 1 1 8243 20240410032221
+199.45.155.43 1 5 1264480 20240425034752
+104.238.189.239 1 1 8247 20240428135629
+93.159.230.89 1 1 8227 20240416064643
+178.254.12.183 1 1 8242 20240426221144
+111.7.100.28 0 2 320435 
+170.106.171.77 1 1 8243 20240409052221
+141.98.10.113 1 1 759 20240423101350
+89.248.174.42 1 1 8243 20240408120647
+182.2.38.12 2 3 327465 20240410101408
+138.197.161.156 1 1 8231 20240405114505
+159.138.82.138 1 1 6871 20240430220857
+182.43.70.143 2 2 16479 20240421215030
+34.220.22.167 1 1 8227 20240416050209
+180.214.233.30 1 11 342795 20240413212840
+128.90.170.38 1 1 8232 20240412123756
+35.85.37.229 1 2 20131 20240411175851
+89.248.174.182 1 1 8237 20240410180542
+198.235.24.211 1 1 38336 20240426163809
+84.29.153.165 1 13 661502 20240420130331
+182.42.105.85 1 1 8254 20240428002242
+80.94.92.105 1 1 8227 20240415104712
+209.141.62.71 1 1 8243 20240410051923
+35.87.130.145 1 1 8243 20240410045258
+49.51.206.130 1 1 8251 20240414044754
+23.129.64.227 1 1 8236 20240403112240
+54.223.89.173 1 2 322303 20240419155751
+51.255.79.114 2 2 9046 20240403011826
+199.45.155.39 2 7 1586753 20240423140140
+199.244.88.232 1 1 8226 20240417074833
+124.243.135.66 1 1 6861 20240420033850
+5.133.192.87 1 2 322295 20240415013517
+159.138.111.129 1 1 6877 20240429133707
+36.134.147.75 3 3 24695 20240418205650
+161.35.27.6 1 1 8231 20240406091657
+46.101.80.192 3 3 29044 20240424185501
+128.90.141.40 1 1 8254 20240427135925
+124.243.133.99 1 1 6859 20240418200956
+101.44.248.189 1 1 8243 20240409000505
+140.213.38.250 1 11 342804 20240410101110
+49.7.227.204 1 1 8253 20240411163450
+114.10.125.41 1 11 342798 20240409154901
+43.131.243.208 1 1 8245 20240419172320
+49.51.179.103 1 1 8247 20240429091156
+206.168.34.125 1 2 322313 20240408095453
+5.157.23.158 2 2 8237 20240415062616
+43.130.7.211 1 1 8237 20240414140533
+54.212.56.246 1 1 8253 20240412045902
+42.83.147.56 2 2 16486 20240409073449
+52.38.128.189 1 1 8253 20240412045812
+91.92.242.243 1 1 6529 20240406152623
+52.203.23.91 2 5 23073 20240425083908
+52.36.165.206 1 1 8215 20240426045640
+87.236.176.237 0 1 314058 
+134.209.199.155 1 1 8245 20240420084535
+36.99.136.128 0 2 314231 
+101.44.251.13 1 1 12188 20240406211654
+62.141.44.236 2 2 16491 20240417213049
+138.197.165.118 1 1 8248 20240424100215
+42.83.147.34 2 2 16470 20240423231409
+36.133.35.23 1 1 8231 20240402004140
+36.111.67.189 1 1 8255 20240408093433
+43.135.129.233 1 1 8250 20240418024659
+123.249.103.79 1 1 8225 20240430193044
+205.210.31.215 1 1 38336 20240418185557
+182.42.105.144 1 1 8231 20240401144206
+101.44.250.118 1 1 8233 20240407075958
+5.42.65.47 1 1 6531 20240412003331
+43.135.181.13 1 1 8247 20240430082417
+62.109.4.125 1 1 0 20240414045224
+190.92.207.3 1 1 6877 20240418065605
+172.58.126.231 3 13 356545 20240417132502
+124.226.222.66 2 2 16475 20240430203828
+205.210.31.70 1 1 38336 20240413073408
+101.91.135.45 1 1 8607 20240403041000
+185.100.87.144 1 1 8251 20240413114947
+198.235.24.99 1 1 38336 20240401154823
+43.133.38.182 1 1 8250 20240404100703
+43.135.149.154 1 1 8237 20240410103257
+51.195.91.124 1 1 8243 20240410051927
+101.91.136.128 1 1 12188 20240404033744
+101.91.134.78 1 1 12188 20240405034605
+167.99.150.187 1 1 8243 20240408104131
+205.210.31.177 1 1 38336 20240430094642
+170.106.159.160 1 1 8255 20240408003947
+77.91.86.95 1 1 8236 20240403112221
+114.10.22.8 2 6 320586 20240414100245
+156.146.62.52 0 1 6377 
+101.44.248.183 1 1 12188 20240416052637
+135.148.195.8 1 1 8245 20240419122911
+52.81.249.147 1 1 8254 20240427143722
+101.44.250.20 1 1 12188 20240413175940
+154.28.229.185 1 1 6521 20240402140618
+78.46.142.160 1 1 8230 20240423123655
+52.80.18.29 1 2 322312 20240422034412
+123.160.221.131 1 1 8237 20240414160152
+124.225.164.130 1 1 8232 20240412122807
+54.190.16.185 1 1 8243 20240410045143
+89.248.174.34 2 2 16482 20240401043131
+43.131.248.209 1 1 8234 20240422173715
+101.44.249.35 1 1 8624 20240407112302
+52.81.248.110 1 2 322295 20240410124551
+35.89.9.55 1 1 8247 20240430045020
+124.71.235.245 1 1 8232 20240412143128
+123.6.49.36 0 1 314058 
+114.10.123.132 1 8 342294 20240411005017
+87.236.176.220 0 1 314058 
+101.44.248.131 1 1 12188 20240416123921
+38.150.5.90 1 1 8247 20240430003952
+199.45.155.17 1 5 1264483 20240413205433
+187.16.64.186 1 1 6524 20240414093723
+51.79.147.164 1 10 28731 20240424060222
+182.42.111.213 1 1 8230 20240420140655
+84.38.188.16 1 1 38336 20240419160156
+174.138.42.86 1 1 8231 20240405222752
+158.69.25.39 1 1 8247 20240429165353
+107.119.69.34 1 11 342798 20240406000102
+159.138.98.180 1 1 12188 20240412111037
+43.130.39.101 1 1 8231 20240402095551
+35.146.164.140 1 11 342794 20240419224736
+34.211.189.181 2 2 16486 20240410045227
+170.106.82.193 1 1 8237 20240411062234
+205.210.31.139 1 1 38336 20240405083916
+135.148.195.9 0 1 314058 
+111.7.100.31 0 1 314058 
+154.28.229.148 1 1 6521 20240402140617
+13.57.25.158 1 1 8242 20240426162237
+111.7.100.30 2 2 16494 20240430014112
+178.62.237.204 1 1 8231 20240402090351
+87.236.176.141 1 1 8225 20240419030601
+62.77.154.96 2 2 16468 20240425135104
+89.248.172.92 1 1 8243 20240410052802
+190.92.202.169 1 1 6872 20240429050748
+101.44.249.139 1 1 8624 20240407161933
+43.155.169.133 1 1 8226 20240417045043
+161.0.154.187 1 11 342788 20240418160508
+5.133.192.140 1 2 322301 20240409062003
+159.89.143.224 1 1 8245 20240419224759
+178.128.33.62 1 1 8215 20240426085801
+101.44.251.246 1 1 8237 20240414164735
+206.168.34.34 1 2 322288 20240421011838
+101.44.249.224 1 1 6877 20240419001854
+178.254.29.124 1 1 8243 20240409222640
+166.1.138.80 1 1 0 20240417221949
+212.162.149.43 3 3 24715 20240419080403
+43.159.63.75 1 1 8236 20240404004122
+180.244.164.126 1 11 342790 20240424101316
+209.170.125.226 2 13 369691 20240404183251
+114.119.172.74 1 1 6877 20240424231423
+124.243.136.109 1 1 6851 20240425130629
+165.232.127.250 1 1 8254 20240422085428
+180.102.134.69 1 1 8231 20240405151424
+134.122.40.230 1 1 8251 20240414084027
+194.31.173.201 1 10 28731 20240424060636
+34.220.236.147 1 1 8253 20240412045838
+119.13.100.97 1 1 6530 20240430181608
+165.154.224.237 0 1 314058 
+87.236.176.230 1 1 8242 20240427093627
+43.134.66.205 3 3 24726 20240423173339
+36.99.136.129 2 4 23027 20240414160153
+198.235.24.222 1 1 38336 20240417092123
+209.97.189.94 1 1 8225 20240419065249
+38.75.43.195 1 1 6529 20240418051108
+165.154.224.61 2 2 16452 20240417050404
+41.115.60.190 2 12 349675 20240409191526
+104.131.212.234 1 1 6512 20240412164919
+114.122.5.28 1 11 342795 20240427012043
+13.57.24.202 1 1 8231 20240405220547
+44.211.81.107 1 1 8243 20240409153202
+44.232.152.4 1 1 38335 20240411012359
+43.153.216.189 1 1 8227 20240416063255
+135.148.195.12 0 1 314058 
+78.24.220.1 1 1 0 20240424053414
+123.6.49.42 1 1 38336 20240408151359
+82.145.215.206 1 1 8237 20240410101454
+185.220.101.106 1 1 8230 20240424001030
+165.22.125.194 1 1 8225 20240418101247
+35.203.255.12 1 1 8215 20240426060250
+125.94.144.102 2 2 16479 20240428225958
+130.255.162.249 1 1 8215 20240425212347
+154.28.229.54 1 1 6521 20240402165123
+150.109.16.20 1 1 8250 20240404192959
+135.148.195.13 1 1 8233 20240407063257
+120.71.59.24 2 2 16492 20240427020424
+49.0.207.93 1 1 6863 20240426195307
+93.158.90.32 1 1 8227 20240415101612
+44.203.119.190 0 1 314058 
+199.45.154.22 1 5 1264463 20240401235257
+54.237.19.10 1 1 8230 20240424013241
+93.158.91.11 1 2 322294 20240403102933
+45.125.66.29 1 1 759 20240424032602
+43.131.44.218 1 1 8254 20240427131157
+5.188.62.140 2 2 16460 20240421005117
+45.154.35.141 1 1 38336 20240406070056
+45.77.234.190 1 1 8254 20240427155259
+67.220.86.160 1 1 8255 20240407104312
+199.45.155.42 1 2 322288 20240421041823
+54.226.131.237 0 1 314058 
+199.45.155.48 1 5 1264487 20240408081118
+36.41.75.167 1 1 8215 20240426022502
+89.248.172.115 3 3 24745 20240413181831
+104.248.87.23 1 1 8254 20240428090716
+93.158.91.30 1 2 322300 20240426165448
+199.45.154.52 1 2 322306 20240425033359
+36.82.125.196 2 12 342798 20240405100530
+38.45.127.226 1 1 8225 20240430225234
+43.134.37.211 1 1 8253 20240412025745
+43.133.72.69 1 1 8248 20240425034727
+87.236.176.10 1 1 8254 20240427174529
+209.141.46.203 1 1 8236 20240403112233
+104.28.250.136 1 11 342792 20240401101027
+93.158.90.67 1 1 8230 20240420233025
+190.92.216.104 1 1 6877 20240425221337
+176.9.18.134 1 1 8243 20240409061414
+206.168.34.38 1 2 322309 20240413195557
+35.92.76.120 1 1 8231 20240402045558
+180.97.221.86 2 2 16472 20240430110705
+114.80.36.40 1 1 8231 20240406010245
+93.115.41.37 1 1 6518 20240423225632
+205.210.31.244 1 1 38336 20240416011001
+139.59.5.2 1 1 8247 20240430093900
+54.202.97.251 1 1 8250 20240418050352
+87.120.158.186 1 1 8247 20240429062517
+35.87.125.32 1 1 8245 20240420045633
+52.25.141.250 1 1 8231 20240402045735
+139.59.67.118 1 1 8243 20240410093535
+49.0.231.208 1 1 8234 20240423072302
+159.138.121.137 2 2 13396 20240430200720
+36.99.136.136 1 2 8240 20240402214804
+111.7.100.29 0 3 320073 
+91.92.247.48 1 1 38336 20240403091403
+129.226.158.26 1 1 8230 20240421010208
+172.241.242.127 1 1 8230 20240424014828
+101.44.248.101 1 1 12188 20240406055230
+91.92.242.55 2 2 76672 20240425233729
+35.93.188.59 1 1 8253 20240412045812
+149.56.150.113 1 12 347448 20240404011857
+64.227.68.166 1 1 8245 20240420033906
+64.227.118.33 1 1 8250 20240404102705
+112.215.228.130 1 1 6529 20240406102504
+54.244.36.170 1 1 8250 20240418050149
+154.39.66.38 1 1 8251 20240414084025
+93.159.230.87 1 1 8247 20240430061601
+119.8.164.26 1 1 8612 20240410040341
+54.36.113.142 1 1 8251 20240414020435
+124.243.136.48 1 1 8614 20240415050528
+150.109.13.194 1 1 8237 20240415002743
+188.126.89.92 1 1 38336 20240421164502
+198.235.24.203 1 1 38336 20240412231147
+198.235.24.170 1 1 38336 20240423115404
+123.6.49.6 1 1 8243 20240408151557
+77.74.177.119 1 1 8231 20240402062654
+114.96.103.33 1 1 8225 20240419064238
+169.150.198.86 1 1 8230 20240423192714
+87.236.176.208 0 1 314058 
+205.210.31.192 1 1 38336 20240405071333
+118.69.175.73 1 1 38336 20240412025846
+140.213.38.76 1 11 342792 20240401103137
+43.163.0.99 2 2 16468 20240426140100
+43.135.166.178 1 1 8234 20240423051658
+54.191.197.253 1 1 8245 20240420045635
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240401 25 64 2753650 13
+20240402 14 27 449532 14
+20240403 11 13 431834 10
+20240404 18 50 1506765 12
+20240405 19 52 3011521 12
+20240406 21 42 885951 12
+20240407 10 25 1979758 10
+20240408 10 16 1993484 9
+20240409 25 57 1656604 17
+20240410 41 64 1799288 22
+20240411 7 26 772942 7
+20240412 20 21 321684 18
+20240413 17 55 4794158 13
+20240414 14 33 1383411 13
+20240415 9 12 1008417 8
+20240416 28 49 1022849 13
+20240417 13 34 799963 10
+20240418 20 30 675469 18
+20240419 15 28 1456036 15
+20240420 21 45 1888067 16
+20240421 8 10 724110 7
+20240422 6 20 688127 5
+20240423 11 13 739577 11
+20240424 39 77 1145382 22
+20240425 19 29 2449059 15
+20240426 14 26 474930 13
+20240427 12 25 1187851 9
+20240428 4 4 33002 4
+20240429 15 15 305051 9
+20240430 15 21 1103809 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+5mn-15mn 4
+2mn-5mn 3
+0s-30s 359
+15mn-30mn 1
+30s-2mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 413 4612397 340 323
+/live-draw/ 32 219429 14 18
+/history-result/ 28 423565 15 19
+// 12 460032 0 5
+/wp-json/ 6 4836 0 3
+/wp-json/json 4 708088 0 1
+/wp-json/wp/v2/pages/8 4 5584 0 0
+/wp-content/ 2 1518 2 2
+END_SIDER

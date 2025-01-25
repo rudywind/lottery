@@ -1,0 +1,1328 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202407 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.belarusialottery.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2048                
+POS_TIME 2725                
+POS_VISITOR 33291               
+POS_DAY 44444               
+POS_DOMAIN 3563                
+POS_LOGIN 4227                
+POS_ROBOT 4382                
+POS_WORMS 5256                
+POS_EMAILSENDER 5387                
+POS_EMAILRECEIVER 5530                
+POS_SESSION 45278               
+POS_SIDER 45457               
+POS_FILETYPES 5665                
+POS_DOWNLOADS 5847                
+POS_OS 5895                
+POS_BROWSER 6272                
+POS_SCREENSIZE 8024                
+POS_UNKNOWNREFERER 8098                
+POS_UNKNOWNREFERERBROWSER 9138                
+POS_ORIGIN 9815                
+POS_SEREFERRALS 9955                
+POS_PAGEREFS 10173               
+POS_SEARCHWORDS 10352               
+POS_KEYWORDS 10504               
+POS_MISC 2389                
+POS_ERRORS 10563               
+POS_CLUSTER 4083                
+POS_SIDER_404 10697               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240801004701 24 5186 5516934441431
+FirstTime 20240701004202
+LastTime 20240731193711
+LastUpdate 20240801083626 24 0 23 0 0
+TotalVisits 330                 
+TotalUnique 277                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 287                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 8 696222 35 51 256516
+1 12 13 598332 217 230 370573
+2 20 42 2954476 97 171 1631055
+3 21 47 2550619 13 46 469040
+4 26 142 4580657 32 119 1489221
+5 17 68 2606695 42 66 762405
+6 37 133 3936888 20 77 315028
+7 57 324 12210327 22 204 907097
+8 24 33 3041383 128 143 220260
+9 31 36 2009209 36 60 714005
+10 7 12 1596543 18 24 96082
+11 9 9 47073 323 328 475080
+12 15 16 590461 248 265 411539
+13 13 25 927268 241 262 714704
+14 16 30 1094047 51 72 768816
+15 16 17 460910 21 28 130063
+16 8 8 72130 33 38 447099
+17 11 11 188719 14 26 107513
+18 15 47 1473231 144 150 193824
+19 19 28 1215387 18 35 397555
+20 21 45 556620 61 90 1052808
+21 14 15 585755 17 25 111386
+22 22 25 1129521 40 64 192274
+23 14 15 492678 26 39 215670
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 31
+us 173 340 17929853
+cn 47 96 2716425
+jp 39 39 326634
+id 34 315 11293296
+kh 22 192 6367878
+nl 16 18 738398
+gb 15 15 131732
+ru 13 20 473092
+se 13 18 1680552
+de 11 11 127977
+ca 11 11 338195
+cz 7 7 259505
+ro 7 7 96581
+bg 6 6 20683
+lt 6 6 219453
+in 5 5 169120
+be 4 8 1263160
+tw 3 3 26351
+eu 3 3 28156
+pl 2 2 13936
+eg 2 2 15767
+pa 2 2 17582
+gr 2 3 324644
+ua 1 1 40083
+au 1 2 315779
+vn 1 1 6965
+ir 1 1 10618
+pk 1 12 640032
+fr 1 1 6965
+zz 1 1 8771
+mu 1 1 6968
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 19
+AhrefsBot/ 74 730694 20240731232124 0
+Googlebot/ 67 206802 20240730002303 0
+bot[\s_+:,\.\;\/\\-] 59 3244567 20240727051314 0
+bingbot/ 47 162580 20240729040504 0
+no_user_agent 24 961849 20240729112418 0
+(firefox/)([0-9]\.|[0-1][0]\.) 12 105501 20240731023818 0
+facebookexternalhit/ 11 524473 20240714131110 0
+SemrushBot/ 9 84635 20240727222157 0
+[\s_+:,\.\;\/\\-]bot 7 347516 20240725160811 0
+DotBot/ 4 210364 20240706041608 0
+BLEXBot/ 3 28212 20240713123215 0
+Googlebot\-Image/ 3 921015 20240729021224 0
+Go\-http\-client/ 3 921015 20240719035728 0
+MJ12bot/ 3 21551 20240730171402 0
+survey 2 80152 20240704150631 0
+crawl 2 80157 20240731220237 0
+scrapy 2 8794 20240705184723 0
+Barkrowler 1 8790 20240716092456 0
+curl 1 40081 20240709203838 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+js 30 92308 0 0
+css 247 286997 0 0
+jpg 147 1127027 0 0
+png 274 37961202 0 0
+html 444 5573404 0 0
+Unknown 7 574213 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 22
+Unknown 112 73
+androidics 1 1
+androidoreo 52 4
+linux 44 42
+androidhoneycomb 1 1
+win8.1 2 2
+winlong 1 1
+winxp 1 1
+macosx 3 2
+androidkitkat 1 1
+win7 16 16
+macosx14 2 2
+macosx11 6 4
+winnt 5 4
+ios_iphone 73 73
+linuxubuntu 2 2
+android 28 8
+symbian 1 1
+androidnougat 8 8
+macosx15 65 38
+android10 421 44
+win10 304 123
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 84
+chrome75.0.3770.100 1 1
+chrome19.0.1084.9 1 1
+safari17.3.1 2 2
+chrome76.0.3809.111 1 1
+netscape5.0 6 6
+safari10.0 2 2
+opera62.0.3331.72 1 1
+chrome122.0.0.0 4 4
+chrome100.0.4896.60 12 12
+firefox99.0 2 2
+chrome118.0.0.0 1 1
+opera89.0.4447.51 6 6
+firefox117.0 6 6
+chrome113.0.0.0 3 2
+chrome115.0.0.0 1 1
+chrome49.0.2655.310 1 1
+chrome110.0.0.0 3 3
+chrome126.0.6478.133 1 0
+firefox108.0 3 3
+safari17.2.1 2 2
+chrome114.0.0.0 4 1
+chrome116.0.0.0 8 8
+chrome105.0.0.0 13 8
+chrome103.0.0.0 2 2
+firefox33.0 1 1
+chrome87.0.4280.88 51 3
+chrome72.0.3626.121 1 1
+chrome103.0.5060.114 1 1
+chrome80.0.3987.162 1 1
+safari 1 1
+chrome77.0.3844.0 1 1
+mozilla 65 27
+firefox50.0 5 5
+msie9.0 2 2
+firefox102.0 1 1
+opera102.0.0.0 4 4
+chrome74.0.3729.169 5 5
+chrome62.0.2300 1 1
+chrome54.0.2803 1 1
+chrome127.0.0.0 93 13
+firefox118.0 3 3
+chrome91.0.4472.114 4 4
+chrome58.0.3029.110 4 4
+firefox124.0 2 2
+safari9.0 1 1
+chrome60.0.3112.107 8 8
+chrome78.0.3904.108 9 9
+safari13.0.3 68 68
+chrome112.0.0.0 2 0
+Unknown 43 42
+firefox114.0 13 13
+chrome87.0.4280.141 23 5
+firefox115 1 1
+chrome80.0.2747 1 0
+firefox128.0 35 4
+safari16.6 2 2
+chrome126.0.0.0 353 35
+chrome54.0.2735.278 1 1
+chrome124.0.0.0 60 18
+chrome35.0.0489.278 1 1
+chrome30.0.9855.516 1 1
+chrome125.0.0.0 17 1
+chrome120.0.0.0 8 8
+chrome31.0.8338.928 1 1
+firefox123.0 3 3
+chrome88.0.4324.190 1 1
+chrome127.0.6533.64 44 3
+chrome83.0.4103.97 4 4
+chrome100.0.2289 1 0
+chrome80.0.3987.149 12 12
+firefox63.0 1 1
+chrome60.0.3112.50 1 1
+chrome62.0.2105 1 1
+nokia 1 1
+chrome72.0.3670.88 1 1
+chrome124.0.6367.63 1 1
+chrome117.0.0.0 33 12
+chrome51.0.2704.103 4 4
+chrome79.0.2771.88 1 1
+firefox52.0 6 4
+chrome104.0.5112.79 7 1
+android 4 3
+chrome121.0.0.0 41 21
+chrome102.0.403 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 15
+GlobalWebSearchx 20240724233320
+Mozilla/5.0_(compatible;_ips-agent) 20240711220246
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240730023823
+panscient.com 20240701094959
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240725155612
+Symfony_BrowserKit 20240710083313
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240731095013
+Python/3.11_aiohttp/3.9.5 20240727045651
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240723023027
+WhatsApp/2.23.20.0 20240705065352
+python-requests/2.26.0 20240728084317
+python-requests/2.32.3 20240725164349
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240709200709
+NetAPI_v1 20240724124210
+python-requests/2.27.1 20240724012453
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+Symfony_BrowserKit 20240710083313
+Python/3.11_aiohttp/3.9.5 20240727045651
+WhatsApp/2.23.20.0 20240705065352
+python-requests/2.32.3 20240725164349
+GlobalWebSearchx 20240724233320
+python-requests/2.26.0 20240728084317
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240730023823
+NetAPI_v1 20240724124210
+panscient.com 20240701094959
+python-requests/2.27.1 20240724012453
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 302 342
+From1 7 7
+From2 19 21
+From3 7 7
+From4 116 772
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+yandexru 1 1
+www_google_com 11 13
+duckduckgo 2 2
+baidu 3 3
+google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://onic4dpasaran.site 7 7
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 101 125442
+206 10 957839
+301 10 7950
+404 2136 2669634
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 580
+/sftp-config.json 2 -
+/old 3 -
+/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/radio.php 1 -
+/wp-includes/Requests/Utility/radio.php 1 -
+/wp-includes/blocks/freeform/radio.php 1 -
+/ebs.php7 8 -
+/wp-includes/fonts/radio.php 1 -
+/wp-admin/css/colors/coffee/index.php 1 -
+/wp-includes/blocks/heading/radio.php 1 -
+/wp-includes/blocks/query-pagination-numbers/radio.php 1 -
+/avaa.php 8 -
+/wp-content/install.php 1 -
+/ajax-actions.php 8 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 2 -
+/wp-includes/Text/Diff/Engine/radio.php 1 -
+/app_dev.php/_profiler/phpinfo 1 -
+/wp-content/plugins/pwnd-1/pwnd.php 1 -
+/wp-includes/images/crystal/radio.php 1 -
+/wp-includes/SimplePie/Net/radio.php 1 -
+/wp-admin/network/radio.php 1 -
+/wp-includes/sodium_compat/src/Core32/radio.php 1 -
+/wp-includes/blocks/post-excerpt/radio.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/radio.php 1 -
+/core 3 -
+/wp-includes/js/tinymce/plugins/wordpress/radio.php 1 -
+/theme/assets/fileupload/index.php 1 -
+/AdminBeat/login.asp 1 -
+/wp-content/plugins/seoo/wsoyanz1.php 8 -
+/wp-includes/Requests/Auth/radio.php 1 -
+/wp-includes/blocks/site-tagline/radio.php 1 -
+/wp-includes/blocks/column/radio.php 1 -
+/wp-content/plugins/google-seo-rank/README.txt 2 www.google.com
+/wp-content/plugins/ 1 -
+/wp-admin/admin-ajax.php 2 -
+/wp-includes/js/tinymce/skins/wordpress/radio.php 1 -
+/wp-admin/css/colors/blue/xmrlpc.php 8 -
+/xmrlpc.php 8 -
+/wOfficial 3 https://belarusialottery.com/
+//wp/wp-includes/wlwmanifest.xml 4 -
+/wp-admin/css/colors/cloud.php 8 -
+/wp-content/plugins/WordPressCore/include.php 3 www.google.com
+/wp-admin/js/radio.php 1 -
+/wp-includes/wp-includes/(index) 1 -
+/sitemap_index.xml.gz 1 -
+/wp-includes/rest-api/search/radio.php 1 -
+/wp-content/plugins/wp-time-capsule/wptc-dialog.css 1 -
+/wp-admin/css/colors/radio.php 1 -
+/wp-includes/blocks/group/radio.php 1 -
+/sites/all/libraries/elfinder/connectors/php/connector.php 1 -
+/cloud.php 8 -
+/wp-includes/js/tinymce/plugins/fullscreen/radio.php 1 -
+/wp-includes/blocks/table/radio.php 1 -
+/wp-json/tdw/save_cssss 2 -
+/about.php7 8 -
+/wp-includes/sodium_compat/namespaced/Core/Curve25519/radio.php 1 -
+/wp-admin/css/colors/coffee/cloud.php 8 -
+/wp-sitemap-users-1.xml 1 https://belarusialottery.com
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 2 -
+/wp-includes/blocks/audio/radio.php 1 -
+/admin/plugins/elfinder/php/connector.minimal.php 1 -
+/wp-includes/sodium_compat/src/PHP52/radio.php 2 -
+/wp-includes/js/tinymce/plugins/wpview/radio.php 1 -
+/wp-includes/radio.php 1 -
+/wp-includes/js/tinymce/skins/wordpress/images/radio.php 1 -
+/cgi-bin/xmrlpc.php 9 -
+/temp/ 1 -
+/wp-admin/css/colors/ocean/radio.php 1 -
+/admin-post.php 8 -
+/wp-admin/license.php 1 -
+/admin.php 13 -
+/wp-content/themes/include.php 2 www.google.com
+/wp-admin/user/radio.php 1 -
+/wp-includes/js/tinymce/plugins/wpeditimage/radio.php 1 -
+/content.php 1 www.google.com
+/vendor/ 2 -
+/api/.env 2 -
+/wp-content/themes/seotheme/radio.php 1 -
+/wp-includes/js/imgareaselect/radio.php 1 -
+//cdn.datatables.net/1.10.25/css/dataTables.bootstrap4.min.css 1 -
+/assets/fileupload/index.php 1 -
+/wp-includes/js/tinymce/plugins/wptextpattern/radio.php 1 -
+/cgi-bin/radio.php 1 -
+/wp-p.php7 8 -
+/wp-includes/blocks/query-title/radio.php 1 -
+/wsoyanz.php 8 -
+/wp-includes/blocks/site-title/radio.php 1 -
+/home 3 -
+/wp-includes/sodium_compat/namespaced/Core/Poly1305/radio.php 1 -
+/wp-includes/blocks/cover/radio.php 1 -
+/test/ 1 -
+/wp-content/plugins/ninja-forms/readme.txt 1 -
+/wp-content/languages/about.php 8 -
+/wp-includes/blocks/latest-comments/radio.php 1 -
+/wp-includes/js/tinymce/utils/radio.php 1 -
+//site/wp-includes/wlwmanifest.xml 4 -
+/security.txt 1 http://www.belarusialottery.com/security.txt
+/about.php 11 -
+/wp-includes/blocks/nextpage/radio.php 1 -
+/apple-touch-icon.png 1 -
+/wp-includes/blocks/post-featured-image/radio.php 1 -
+/wp-includes/css/dist/editor/radio.php 1 -
+/ccx/radio.php 1 -
+/wp-includes/css/dist/format-library/radio.php 1 -
+//belarusialottery.com/wp-content/themes/lottery/assets/css/flipclock.css 1 -
+/wp-includes/blocks/site-logo/radio.php 1 -
+/.well-known/acme-challenge/xmrlpc.php 8 -
+/ads.txt 2 http://www.belarusialottery.com/ads.txt
+/wp-content/about.php 8 -
+/test 3 -
+/wp-admin/css/colors/modern/radio.php 1 -
+/wp-includes/Requests/Proxy/radio.php 1 -
+/wp-includes/Requests/Response/radio.php 1 -
+/wp-includes/blocks/preformatted/radio.php 1 -
+/wp-includes/blocks/categories/radio.php 1 -
+/wp-content/radio.php 2 -
+/admin/elfinder/php/connector.php 1 -
+/wp-includes/block-patterns/radio.php 1 -
+/wp-content/themes/wp-content/themes/lottery_belarusia/ 1 -
+/wp-includes/Text/Diff/radio.php 1 -
+/cms/wp-admin/install.php 3 -
+/wp-content/plugins/hellopress/wp_filemanager.php 3 -
+/plugins/ 1 -
+/.git-credentials 2 -
+/wp-content/themes/wp-content/themes/lottery/ 1 -
+/img/about.php 8 -
+//web/wp-includes/wlwmanifest.xml 4 -
+/sites/all/libraries/_elfinder/src/connectors/php/connector.php 1 -
+/inputs.php 2 www.google.com
+/author/admim/ 2 -
+/.wp-cli/cache/radio.php 1 -
+/wwryeryyj 1 -
+/.env.example 1 -
+/author/stender/ 2 -
+/wp-includes/widgets/about.php 8 -
+/wp-admin/js/widgets/radio.php 1 -
+/.well-known/pki-validation/about.php 8 -
+/wp-content/themes/seotheme/db.php 6 -
+/wp-admin/includes/about.php 8 -
+/wp-includes/blocks/media-text/radio.php 1 -
+/wp-includes/js/thickbox/radio.php 1 -
+/wp-includes/js/tinymce/plugins/wpdialogs/radio.php 1 -
+/wp-includes/Text/about.php 8 -
+/wp-includes/js/tinymce/radio.php 1 -
+/admin/elfinder/php/connector.minimal.php 1 -
+/theme/zero/assets/js/scripts.bundle.js 1 http://belarusialottery.com/theme/zero/assets/js/scripts.bundle.js
+/alfanew2.php7 8 -
+/repeater.php 8 -
+/assets/js/elfinder/php/connector.php 1 -
+/new/ 1 -
+/sites/all/modules/elfinder/connectors/php/connector.php 1 -
+/makeasmtp.php 2 -
+/wp-includes/customize/about.php 8 -
+/author/greeceman/ 1 -
+/wp-includes/rest-api/endpoints/radio.php 1 -
+/alfa-rex2.php7 8 -
+/chosen.php 3 www.google.com
+/wp-admin/css/colors/coffee/radio.php 1 -
+/plugins/elfinder/php/connector.minimal.php 1 -
+/wp-includes/blocks/missing/radio.php 1 -
+/wp-includes/random_compat/radio.php 1 -
+/wp-includes/ID3/radio.php 1 -
+/wp-admin/css/radio.php 1 -
+/services 1 -
+/admin/fileupload/index.php 1 -
+//wp-json/wp/v2/users/ 5 -
+/style.php 1 www.google.com
+/wp-includes/sodium_compat/src/radio.php 1 -
+/wp-includes/SimplePie/Cache/radio.php 1 -
+/wp-includes/css/dist/nux/radio.php 1 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/radio.php 1 -
+/wp-includes/customize/radio.php 1 -
+/wp-includes/js/tinymce/themes/inlite/radio.php 1 -
+/admin/assets/plugins/elfinder/php/connector.php 1 -
+/wp-includes/js/plupload/radio.php 1 -
+/wp-admin/includes/radio.php 1 -
+/author/Options/ 1 -
+/wp-includes/css/dist/customize-widgets/radio.php 1 -
+/wp-includes/Requests/radio.php 1 -
+/dist/jquery.min.js 5 -
+/wp-content/upgrade-temp-backup/about.php 8 -
+/newsite 3 -
+/wp-includes/sodium_compat/src/Core32/Poly1305/radio.php 1 -
+/modules/mod_impact/elements/upload_file.php 1 -
+/site/wp-admin/install.php 3 -
+/wp-includes/blocks/list/radio.php 1 -
+/wp-includes/js/jcrop/radio.php 1 -
+/wp-content/themes/Newspaper/404.php/wwryeryyj 1 -
+/wp-includes/js/codemirror/radio.php 1 -
+/wp-content/updates.php 8 -
+//xmlrpc.php 14 -
+/wp-includes/blocks/query-pagination-next/radio.php 1 -
+/alfanew.php 8 -
+/wp-admin/maint/radio.php 1 -
+/wp-includes/blocks/spacer/radio.php 1 -
+/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif 1 http://belarusialottery.com/public/plugins/Ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif
+/edit.php 2 -
+/wp-content/uploads/radio.php 1 -
+/admin/plugins/elfinder/php/connector.php 1 -
+/wp-includes/blocks/image/radio.php 1 -
+/wp-includes/Text/Diff/Renderer/radio.php 1 -
+/images/radio.php 1 -
+/libraries/phpmailer/updates.php 8 -
+/wp-includes/images/radio.php 1 -
+/products 1 -
+/wp-content/plugins/pwnd/pwnd.php 1 -
+/.well-known/traffic-advice 1 -
+/assets/ 1 -
+/.vscode/sftp.json 2 -
+/themes.php 1 -
+/wp-includes/js/tinymce/langs/radio.php 1 -
+/wp-includes/js/dist/vendor/radio.php 1 -
+/app/.env 1 -
+//wp1/wp-includes/wlwmanifest.xml 4 -
+/wp-content/plugins/google-seo-rank/module.php 1 www.google.com
+/admin/plugins/elfinder/connectors/php/connector.php 1 -
+/wp-content/banners/about.php 8 -
+/wp-admin/maint/maint/ajax-actions.php 8 -
+/wp-includes/css/dist/block-directory/radio.php 1 -
+/wp-includes/blocks/post-title/radio.php 1 -
+/wp-includes/assets/radio.php 1 -
+/wp-content/plugins/fix/up.php 1 -
+/index_sso.php 1 -
+/wp-admin/network/cloud.php 8 -
+/author/superadmin/ 1 -
+/wp-includes/css/dist/reusable-blocks/radio.php 1 -
+/wp-includes/SimplePie/Content/Type/radio.php 1 -
+/wp-content/plugins/seoplugins/mar.php 8 -
+/wp-includes/blocks/social-link/radio.php 1 -
+/wp-admin/setup-config.php 5 -
+/wp-includes/blocks/legacy-widget/radio.php 1 -
+/.well-known/acme-challenge/cloud.php 14 -
+/wp-json/wc/store/products/collection-data 2 -
+/wp-admin/images/cloud.php 8 -
+//belarusialottery.com/wp-content/themes/lottery_belarusia/assets/css/lottery.css 1 -
+/test/.env 1 -
+/wp-includes/Requests/Transport/radio.php 1 -
+/public/assets/fileupload/index.php 1 -
+/wp-admin/images/radio.php 1 -
+/wp-includes/rest-api/fields/radio.php 1 -
+/wp-content/themes/index.php 2 -
+/login 1 -
+/wp-head.php 1 -
+/wp-includes/sodium_compat/src/Core/Base64/radio.php 1 -
+/sites/all/libraries/elfinder-1.2/connectors/php/connector.php 1 -
+/wp-content/upgrade/ 1 -
+/wp-includes/blocks/search/radio.php 1 -
+/e/data/images/arrow.gif 2 http://belarusialottery.com/e/data/images/arrow.gif
+/wp-includes/rest-api/about.php 8 -
+/CMSModules/MediaLibrary/CMSPages/MultiFileUploader.ashx 1 -
+/wp-includes/blocks/quote/radio.php 1 -
+/wp-admin/radio.php 1 -
+/wp-content/themes/radio.php 1 -
+/php/thinkphp/aaaffff123.php 1 -
+/wp-includes/sodium_compat/lib/radio.php 1 -
+/new/wp-admin/install.php 3 -
+/wp-includes/blocks/calendar/radio.php 1 -
+/wp-includes/js/tinymce/plugins/wpgallery/radio.php 1 -
+/wp-admin/images/index.php 8 -
+/wp-admin/css/colors/coffee/xmrlpc.php 8 -
+/wp/xmlrpc.php 1 -
+/wp-includes/blocks/query-pagination-previous/radio.php 1 -
+/wp-includes/css/dist/block-editor/radio.php 1 -
+/wp-includes/blocks/query/radio.php 1 -
+/wp-includes/blocks/post-date/radio.php 1 -
+/wp-includes/IXR/about.php 8 -
+/wp-includes/blocks/embed/radio.php 1 -
+/.env 29 -
+/wp-content/updraft/about.php 8 -
+/wp-includes/blocks/gallery/radio.php 1 -
+/dev/.env 1 -
+/wp-content/uploads/ 1 -
+/alfanew.php7 8 -
+/wp-includes/blocks/button/radio.php 1 -
+/docker-compose.yml 2 -
+/wp-content/plugins/include.php 3 www.google.com
+/demo/.env 2 -
+/wp-includes/sodium_compat/namespaced/radio.php 1 -
+/wp-content/gallery/about.php 8 -
+/wp-admin/images/about.php 8 -
+/wp-includes/sitemaps/providers/radio.php 1 -
+/wp-includes/wp-includes/css/ 1 -
+/home/.env 1 -
+/wp-includes/js/crop/radio.php 1 -
+/wp-includes/blocks/page-list/radio.php 1 -
+/wp-admin/xmrlpc.php 8 -
+/.well-known/about.php 8 -
+/wp-configs.php 1 -
+/link.php 2 -
+//feed/ 4 -
+/wp-includes/blocks/tag-cloud/radio.php 1 -
+/wp-includes/blocks/post-terms/radio.php 1 -
+/admin/ 1 http://belarusialottery.com/admin/
+/wp-includes/sodium_compat/src/Core/SecretStream/radio.php 1 -
+/codebuild.yml 2 -
+/alfa-rex.php7 8 -
+/wp-includes/images/smilies/radio.php 1 -
+/author/busywell/ 1 -
+/adminfuns.php7 8 -
+/plugins/html5-file-upload/html5fileupload.form.php 1 -
+/wp-includes/SimplePie/XML/Declaration/radio.php 1 -
+/wp-includes/SimplePie/Decode/HTML/radio.php 1 -
+/wp/ 1 -
+/cache-compat.php 8 -
+/xmlrpc.php 8 -
+/sitemaps.xml 2 -
+/wp-includes/css/dist/edit-widgets/radio.php 1 -
+/wp-admin/user/xmrlpc.php 8 -
+/wp-includes/css/dist/components/radio.php 1 -
+/admin/plugins/elfinder/src/connectors/php/connector.php 1 -
+/images/xmrlpc.php 8 -
+/wp-admin/ 3 -
+/wp-includes/pomo/about.php 8 -
+/wp-includes/js/jquery/radio.php 1 -
+/wp-admin/css/index.php 8 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 1 -
+/wp-includes/SimplePie/about.php 8 -
+/wp-content/themes/lottery_belarusia/assets/images/pattern.png 96 https://belarusialottery.com/wp-content/themes/lottery_belarusia/assets/css/component.css
+/staging/.env 1 -
+/wp-content/wp-content/themes/ 1 -
+/wp-admin/js/widgets/xmrlpc.php 8 -
+/css/radio.php 1 -
+/wp-includes/Requests/Text/admin.php 8 -
+/images/about.php 8 -
+/wp-admin/install.php 8 -
+/dropdown.php 10 -
+/css/all.min.css 1 -
+/admin 1 -
+/wp-includes/images/include.php 2 www.google.com
+/wp-includes/js/jquery/ui/radio.php 1 -
+/wp-includes/js/tinymce/plugins/image/radio.php 1 -
+/wp-aa.php 1 www.google.com
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/blogs.dir/about.php 8 -
+/wp-includes/blocks/shortcode/radio.php 1 -
+/author/%E2%80%9CPluginAuth/ 1 -
+/backend/.env 2 -
+/wp-admin/css/colors/ectoplasm/radio.php 1 -
+/wp-admin/css/colors/blue/radio.php 1 -
+/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif 1 http://belarusialottery.com/public/plugins/Ueditor/dialogs/attachment/images/alignicon.gif
+/wp-includes/blocks/post-template/radio.php 1 -
+/updates.php 8 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 7 -
+/wp-includes/blocks/separator/radio.php 1 -
+/wp-content/languages/radio.php 1 -
+/wp-includes/css/dist/list-reusable-blocks/radio.php 1 -
+/wp-includes/blocks/loginout/radio.php 1 -
+/wordpress/wp-admin/install.php 3 -
+/new 3 -
+/sitemap 1 -
+/wp-includes/Requests/Exception/radio.php 1 -
+/wp-admin/js/widgets/about.php7 8 -
+/wp-includes/blocks/verse/radio.php 1 -
+/wp-includes/widgets/radio.php 1 -
+/yanz.php 8 -
+/wp-includes/blocks/video/radio.php 1 -
+/sitemap_index.xml 5 -
+/www/.env 1 -
+/wp-includes/css/radio.php 1 -
+/wp-includes/blocks/archives/radio.php 1 -
+/sitemap.txt 5 -
+/wp-includes/css/dist/block-library/radio.php 1 -
+/wp-includes.bak/html-api/about.php 8 -
+/img/xmrlpc.php 8 -
+/wp-includes/css/dist/edit-post/radio.php 1 -
+/wp-admin/images/xmrlpc.php 8 -
+/admin/.env 2 -
+/wp-includes/sodium_compat/src/Core32/ChaCha20/radio.php 1 -
+/wp-json/wp/v2/users/4 1 https://belarusialottery.com/
+/wp-content/plugins/index.php 3 -
+/wp-includes/blocks/file/radio.php 1 -
+/wp-includes/js/radio.php 1 -
+//wordpress/wp-includes/wlwmanifest.xml 4 -
+/libraries/legacy/updates.php 8 -
+/robots.txt 171 -
+/wp-includes/js/tinymce/plugins/wpemoji/radio.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/img/radio.php 1 -
+/wp-content/plugins/Cache/Cache.php 8 -
+/wp-admin/maint/index.php 3 -
+//cdn.js 7 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 7 -
+/cgi-bin/cloud.php 8 -
+/wp-includes/certificates/radio.php 1 -
+/wp-checkbex.php 1 -
+/wp-includes/js/tinymce/plugins/link/radio.php 1 -
+/wp-content/plugins/seoplugins/db.php 6 -
+/author/license_admin2/ 1 -
+/wp-includes/style-engine/about.php 8 -
+/phpmyadmin/index.php 1 -
+/author/expander/ 1 -
+/public/plugins/ckeditor/images/spacer.gif 1 http://belarusialottery.com/public/plugins/ckeditor/images/spacer.gif
+/backup/wp-admin/install.php 3 -
+/css/xmrlpc.php 8 -
+/wp-content/plugins/erin/randkeyword.php.bak 1 -
+/wp-json/litespeed/v1/cdn_status 6 http://belarusialottery.com/wp-json/litespeed/v1/cdn_status
+/wp-content/themes/seotheme/mar.php 8 -
+/sitemap.ashx 1 -
+/images/ 1 -
+/jqueryupload/server/php/index.php 1 -
+/wp-includes/js/tinymce/plugins/wpautoresize/radio.php 1 -
+/blog/ 1 -
+/css/dist/block-library/style.min.css 1 -
+/wp-includes/PHPMailer/radio.php 1 -
+/wOfficial%20lottery%20websitep-includes/css/dist/block-library/style.min.css 106 https://belarusialottery.com/
+/wp-includes/js/swfupload/radio.php 1 -
+/wp-admin/js/widgets/cloud.php 8 -
+/contact 1 -
+/wp-admin/user/cloud.php 8 -
+/old/wp-admin/install.php 3 -
+/admin/elfinder/connectors/php/connector.php 1 -
+/modules/simpleimportproduct/views/js/error.js 1 -
+/wp-admin/cloud.php 8 -
+/cgi-bin/about.php 8 -
+/wp-includes/IXR/radio.php 1 -
+/backup/ 1 -
+/wp-includes/js/tinymce/plugins/wplink/radio.php 1 -
+/assets/elfinder/connectors/php/connector.php 1 -
+/wp-content/plugins/seoo/wsoyanz.php 8 -
+/wp-includes/about.php 8 -
+/wp-includes/repeater.php 8 -
+/wp-includes/sodium_compat/src/Core/ChaCha20/radio.php 1 -
+/laravel/.env 2 -
+//blog/wp-includes/wlwmanifest.xml 4 -
+/wp/wp-admin/install.php 3 -
+/blog 3 -
+/wp-includes/js/dist/radio.php 1 -
+/wp-includes/sodium_compat/src/Core32/SecretStream/radio.php 1 -
+/wp-content/plugins/wp-time-capsule/readme.txt 1 -
+/radio.php 1 www.google.com
+/assets/elfinder/php/connector.php 1 -
+/wp-admin/css/colors/index.php 9 -
+/admin/assets/elfinder/php/connector.php 1 -
+/dist/js/bootstrap.bundle.min.js 5 -
+/wp-includes/SimplePie/Parse/radio.php 1 -
+/author/wpadminne/ 2 -
+/wp-includes/sodium_compat/src/Core/radio.php 1 -
+/wp-includes/Requests/about.php 8 -
+/wp-admin/dropdown.php 8 -
+//2021/wp-includes/wlwmanifest.xml 4 -
+/wp-includes/js/tinymce/themes/modern/radio.php 1 -
+//cms/wp-includes/wlwmanifest.xml 4 -
+/wordpress/ 1 -
+/wp-consar.php 8 -
+//belarusia.com/wp-content/themes/lottery/assets/js/flipclock.js 7 -
+/wp-includes/blocks/rss/radio.php 1 -
+/wp-admin/js/about.php 14 -
+/wp-includes/js/mediaelement/renderers/radio.php 1 -
+/wp-includes/blocks/pullquote/radio.php 1 -
+/archivarix.cms.php 1 https://belarusialottery.com/archivarix.cms.php
+/wp-admin/css/colors/blue/cloud.php 8 -
+/oldsite/wp-admin/install.php 3 -
+/wp-includes/js/tinymce/plugins/media/radio.php 1 -
+/wp-includes/ID3/about.php 8 -
+/admin/index.php 1 -
+/.wp-cli/radio.php 1 -
+/wp-admin/ajax-actions.php 8 -
+/wp-includes/blocks/social-links/radio.php 1 -
+/ws.php7 8 -
+/wp-content/plugins/wp-catcher/index.php 1 www.google.com
+/wp-content/themes/Newspaper/404.php 1 -
+/wp-admin/network/index.php 2 -
+/wp-content/upgrade/radio.php 1 -
+/sitemap.xml 14 -
+/wp-admin/css/colors/xmrlpc.php 8 -
+/wp-admin/network/xmrlpc.php 8 -
+/wp-includes/sodium_compat/src/Core/Poly1305/radio.php 1 -
+/.well-known/pki-validation/cloud.php 8 -
+/wp-includes/blocks/buttons/radio.php 1 -
+/wp-includes/js/tinymce/plugins/tabfocus/radio.php 1 -
+/sites/all/libraries/elfinder/elfinder.html 1 -
+/wp-includes/blocks/query-pagination/radio.php 1 -
+/wp-includes/images/media/radio.php 1 -
+/blog/wp-admin/install.php 3 -
+/wp-content/plugins/wp-theme-editor/include.php 1 www.google.com
+/wp-includes/SimplePie/radio.php 1 -
+/wp-includes/images/about.php 8 -
+/wp-includes/js/tinymce/plugins/compat3x/radio.php 1 -
+/test/wp-admin/install.php 3 -
+/wp-content/repeater.php 8 -
+/wp-includes/Requests/Exception/HTTP/radio.php 1 -
+//2020/wp-includes/wlwmanifest.xml 4 -
+//2019/wp-includes/wlwmanifest.xml 4 -
+/author/wpadminns/ 1 -
+/web/.env 2 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 13 www.google.com
+/wp-content/themes/Newspaper/404.php/wp-content/themes/Newspaper/404.php 1 -
+/wp-includes/blocks/columns/radio.php 1 -
+/mah.php 3 -
+/img/cloud.php 8 -
+/wp-includes/block-patterns/about.php 8 -
+/wp-includes/blocks/latest-posts/radio.php 1 -
+/sites/all/modules/elfinder/src/connectors/php/connector.php 2 -
+/wp-includes/css/dist/widgets/radio.php 1 -
+/wp-includes/blocks/radio.php 1 -
+/wp-includes/blocks/about.php 8 -
+/wp-includes/images/wlw/radio.php 1 -
+/wp-includes/sodium_compat/radio.php 1 -
+//wp-includes/ID3/license.txt 4 -
+/dist/css/bootstrap.min.css 1 -
+/text.php 2 -
+/wp-content/plugins/ccx/radio.php 1 -
+/old/ 1 -
+/wp-includes/sodium_compat/namespaced/Core/radio.php 1 -
+/sitemap.xml.gz 3 -
+/images/cloud.php 8 -
+/wp-admin/includes/cloud.php 8 -
+/wp-includes/SimplePie/HTTP/radio.php 1 -
+/wp-includes/block-supports/radio.php 1 -
+/classwithtostring.php 2 -
+/wp-includes/rest-api/radio.php 1 -
+/wp-includes/js/tinymce/plugins/textcolor/radio.php 1 -
+/wp-admin/css/colors/midnight/radio.php 1 -
+/wp-includes/js/tinymce/plugins/charmap/radio.php 1 -
+/wordpress 4 -
+/wp-includes/js/tinymce/plugins/colorpicker/radio.php 1 -
+/.well-known/security.txt 1 http://www.belarusialottery.com/.well-known/security.txt
+/wp-content/themes/about.php 8 -
+/wp-includes/js/tinymce/skins/lightgray/fonts/radio.php 1 -
+/ss.php 4 -
+/wp-includes/js/tinymce/plugins/hr/radio.php 1 -
+/wp-includes/blocks/block/radio.php 1 -
+/admin/assets/fileupload/index.php 1 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/radio.php 1 -
+/wp-includes/blocks/more/radio.php 1 -
+/wp-login.php 26 -
+/wp-includes/Requests/Cookie/radio.php 1 -
+/sites/all/libraries/elfinder/src/connectors/php/connector.php 3 -
+/wp-includes/blocks/code/radio.php 1 -
+/wp-admin/css/about.php 8 -
+/wp-includes/js/mediaelement/radio.php 1 -
+/wp-includes/js/tinymce/plugins/lists/radio.php 1 -
+/wp-includes/js/tinymce/plugins/directionality/radio.php 1 -
+/wp-content/plugins/WordPressCore-1/include.php 2 www.google.com
+/wp-includes/blocks/html/radio.php 1 -
+/wp-content/plugins/core-plugin/include.php 1 www.google.com
+/.well-known/pki-validation/xmrlpc.php 8 -
+/wp-includes/wp-includes/js/ 1 -
+/wp-includes/Requests/Exception/Transport/radio.php 1 -
+/css/cloud.php 8 -
+/wp-includes/pomo/radio.php 1 -
+/humans.txt 1 http://www.belarusialottery.com/humans.txt
+/wp-includes/sodium_compat/namespaced/Core/ChaCha20/radio.php 1 -
+//belarusia.com/wp-content/themes/lottery_belarusia/assets/js/lottery.js 6 -
+/%5C/belarusialottery.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 2 -
+/wp-content/themes/pridmag/db.php 6 -
+/belarusia-lottery.png 57 https://belarusialottery.com/live-draw/
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/radio.php 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/radio.php 1 -
+/404.php 1 -
+/assets/plugins/elfinder/php/connector.php 1 -
+/.DS_Store 3 -
+//shop/wp-includes/wlwmanifest.xml 4 -
+/wp-includes/blocks/text-columns/radio.php 1 -
+/testing 3 -
+/wp-content/plugins/linkpreview/db.php 6 -
+/wp-add.php 2 www.google.com
+/wp-admin/includes/xmrlpc.php 8 -
+/simple.php 5 -
+/sites/all/modules/elfinder/elfinder.html 2 -
+/wp-includes/sodium_compat/src/Core/Curve25519/radio.php 1 -
+/wp-includes/js/tinymce/plugins/paste/radio.php 1 -
+/wp-emoji-release.min.js 5 -
+/libraries/vendor/updates.php 8 -
+/wp-admin/repeater.php 8 -
+//wp-includes/wlwmanifest.xml 5 -
+/plugins/elfinder/php/connector.php 1 -
+/wp-includes/blocks/post-content/radio.php 1 -
+/wp 4 -
+/wp-includes/blocks/paragraph/radio.php 1 -
+/author/crander/ 2 -
+/wp-includes/widgets/include.php 1 www.google.com
+//test/wp-includes/wlwmanifest.xml 4 -
+//wp-json/oembed/1.0/embed 5 -
+/index.php 10 -
+/wp-admin/xmlrpc.php 1 -
+/wp-includes/Text/radio.php 1 -
+/web/wp-admin/install.php 3 -
+/author/w-padmine/ 2 -
+/js/ 1 -
+/wp-includes/theme-compat/radio.php 1 -
+/wp-includes/sitemaps/radio.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 287
+124.248.183.41 22 192 6367878 20240731071437
+202.254.234.98 11 11 80553 20240729222037
+139.162.157.114 9 9 62920 20240722154219
+45.77.174.96 9 9 63011 20240727141316
+54.88.179.33 8 8 320598 20240731035450
+143.198.96.6 8 8 320620 20240714123850
+144.217.135.175 6 6 290535 20240709200534
+84.239.43.183 6 6 56505 20240701094959
+84.32.41.136 6 6 219453 20240717135722
+104.168.135.106 6 6 219455 20240715095524
+87.249.134.24 6 6 219424 20240721212302
+44.201.163.34 5 5 45888 20240712180425
+137.226.113.44 5 5 43995 20240731095013
+123.187.240.242 4 4 35158 20240720074417
+91.92.242.218 4 4 3167 20240715111215
+182.1.134.194 4 41 1724092 20240705070011
+104.28.218.136 4 47 1965149 20240730070956
+143.110.186.159 4 4 160304 20240708050511
+35.205.33.234 4 6 26388 20240706062455
+104.28.218.135 4 22 704134 20240723071226
+35.171.144.152 4 4 160308 20240718043459
+146.190.97.1 4 4 160320 20240727023923
+159.223.57.105 4 4 160304 20240714065701
+146.190.246.147 3 3 26317 20240725164349
+43.133.77.230 3 3 26432 20240731193711
+87.236.176.121 0 1 307005 
+206.168.34.205 1 2 315810 20240718072925
+165.22.212.101 1 2 315773 20240714091443
+103.127.199.162 2 2 80162 20240704020754
+87.236.176.29 1 1 8794 20240705211010
+206.168.34.38 1 2 315814 20240703002419
+60.188.57.0 1 1 8774 20240729070058
+64.23.226.127 1 2 315807 20240710100052
+125.164.24.163 2 9 64099 20240703070024
+42.83.147.53 1 1 8771 20240730195905
+139.59.8.222 1 2 315779 20240728101325
+206.189.109.55 1 1 8801 20240718062808
+87.236.176.216 0 1 307005 
+5.133.192.200 1 1 8774 20240728233527
+150.109.16.20 1 1 8781 20240701004202
+43.163.8.36 1 1 8804 20240713083204
+192.36.109.83 1 1 8801 20240717190516
+135.148.195.12 1 1 8784 20240709192710
+192.36.109.78 1 1 8806 20240706095308
+195.154.200.196 1 1 6965 20240727183552
+35.82.29.69 1 1 40081 20240711033019
+93.159.230.87 1 1 8794 20240705192928
+217.76.48.181 1 1 8763 20240721232621
+129.226.146.179 1 1 8809 20240703024921
+159.65.54.145 1 2 315811 20240706084304
+14.215.163.132 1 1 8806 20240706174819
+178.254.29.124 1 1 8757 20240721042308
+104.248.118.220 1 2 315761 20240726084045
+135.148.195.1 1 2 315762 20240719140858
+206.168.34.211 1 2 315761 20240725155611
+146.190.38.124 1 2 315785 20240724084833
+72.13.62.26 3 3 26417 20240711220246
+117.33.163.216 2 2 17599 20240725034932
+206.168.34.63 1 2 315811 20240708014655
+167.99.184.41 1 2 315762 20240720091738
+45.87.104.242 1 1 40076 20240707085504
+128.90.170.18 1 1 8784 20240709113103
+203.33.203.148 1 1 8805 20240718222433
+195.88.252.196 1 1 8780 20240725024016
+54.183.198.243 1 1 8757 20240719131623
+104.192.108.9 1 1 8803 20240715132334
+114.10.125.184 1 22 723251 20240731031645
+206.168.34.50 1 2 315789 20240710063851
+185.190.42.200 1 1 40083 20240731085643
+63.246.157.176 1 1 6968 20240723210605
+103.24.107.26 1 1 6965 20240719083711
+5.35.32.125 1 1 40081 20240710013556
+198.235.24.156 1 1 40074 20240729170703
+35.164.45.196 1 1 8820 20240701074237
+182.42.110.255 2 2 17553 20240721200841
+42.83.147.55 1 1 8801 20240708074017
+94.156.65.181 1 1 8758 20240723183157
+213.255.246.44 1 1 8801 20240709030142
+194.55.186.252 1 1 8805 20240719041127
+178.254.38.45 1 1 8804 20240713231635
+182.42.105.85 1 1 8758 20240723184639
+129.226.158.26 1 1 8758 20240722173356
+43.153.108.102 1 1 8763 20240721112750
+188.126.94.110 1 1 40074 20240723173752
+46.4.33.48 1 1 40074 20240731044256
+178.254.12.183 1 1 8771 20240728062239
+4.185.17.29 1 1 8816 20240704064356
+114.44.155.86 1 1 8790 20240716091735
+74.241.248.136 1 1 8806 20240707162313
+52.81.60.5 1 2 315810 20240719035725
+51.178.112.46 1 1 8758 20240722220235
+13.200.229.223 1 1 8820 20240701203908
+93.174.93.127 2 2 17527 20240728052355
+51.195.195.100 3 3 26332 20240722173826
+167.99.43.123 1 2 315795 20240716091833
+43.135.181.13 2 2 17527 20240729192710
+124.226.222.66 1 1 8804 20240713201650
+36.229.89.161 1 1 8756 20240726210415
+147.185.132.120 1 1 40074 20240723225311
+34.1.14.54 2 2 14580 20240717122613
+128.14.193.240 1 12 640044 20240707050230
+93.158.91.254 1 1 8758 20240723093810
+43.163.6.124 1 1 8806 20240707125010
+154.28.229.64 1 1 6966 20240729174420
+223.113.128.132 1 2 315773 20240714192349
+15.236.42.130 3 3 26448 20240704031710
+194.26.192.182 1 1 8803 20240716073109
+70.36.111.45 1 1 8806 20240707235704
+167.71.235.209 1 2 315810 20240718085225
+43.163.0.99 1 1 8806 20240707174543
+5.133.192.197 1 1 8819 20240713031209
+67.205.181.116 1 2 315806 20240708080733
+27.115.124.38 1 17 663783 20240722023906
+188.166.35.51 1 2 315810 20240718102538
+49.51.179.103 1 1 8758 20240723043800
+87.236.176.202 1 1 8794 20240706023818
+27.115.124.45 1 17 663804 20240709181823
+144.217.135.187 1 7 11062 20240709200611
+93.158.90.68 1 1 8806 20240707124409
+43.130.32.224 1 1 8780 20240724170030
+125.164.22.133 2 2 0 20240703070009
+167.94.138.40 1 2 315763 20240723104227
+45.151.136.52 2 2 80157 20240712065424
+104.28.250.135 1 22 192297 20240709070547
+43.130.39.101 1 1 8763 20240722065100
+182.44.67.97 1 1 8801 20240709064201
+182.42.104.32 2 2 17594 20240728082653
+205.210.31.53 1 1 40074 20240724042826
+165.22.229.157 1 1 8805 20240718230610
+128.90.157.11 1 1 8771 20240729080439
+94.156.66.91 1 1 8758 20240724012453
+104.28.250.136 1 3 627690 20240704071544
+41.33.229.157 1 1 6973 20240716122228
+213.159.215.129 1 1 6978 20240712131926
+64.226.101.246 1 2 315809 20240714025111
+43.159.128.68 1 1 8794 20240706050720
+128.14.196.15 1 12 640035 20240725140000
+23.129.64.174 1 1 8771 20240730014418
+135.148.195.10 1 1 8771 20240729223428
+143.198.67.71 1 2 315776 20240730082855
+1.162.68.224 1 1 8805 20240704214535
+114.10.100.80 2 28 727894 20240731045816
+36.92.173.242 1 1 6966 20240729152719
+161.35.137.116 1 2 315811 20240708003623
+185.236.232.21 1 1 8819 20240712195554
+114.10.28.188 1 22 723251 20240730063104
+144.202.83.251 3 3 10430 20240704051926
+51.161.107.21 2 2 17602 20240709061328
+43.131.243.208 1 1 8796 20240731112621
+170.106.159.160 1 1 8802 20240710193417
+198.235.24.115 1 1 40081 20240703074130
+43.153.38.226 1 1 8758 20240722083535
+128.90.170.12 1 1 8774 20240728225824
+114.5.219.184 2 20 704141 20240714070906
+43.204.148.159 1 1 8820 20240701175637
+42.83.147.56 2 2 17640 20240702034249
+43.128.100.220 2 2 17527 20240729144118
+114.10.156.133 1 29 1371663 20240704045341
+125.164.20.163 2 2 0 20240703065933
+5.133.192.88 1 2 315806 20240718025951
+5.133.192.135 2 4 631539 20240730033115
+125.94.144.102 2 2 17528 20240730062117
+135.148.138.183 1 1 40081 20240704025626
+5.78.110.201 1 1 10618 20240719044603
+93.170.204.215 1 1 40081 20240710094934
+43.134.66.205 1 1 8771 20240727125555
+156.236.20.93 1 1 8794 20240706072343
+46.101.4.89 1 2 315810 20240718101723
+45.94.31.237 1 1 8790 20240717060222
+43.130.7.211 1 1 8805 20240705042715
+110.166.71.39 1 1 8771 20240727105051
+170.106.101.31 1 1 8757 20240719085215
+147.45.114.227 2 2 17591 20240727091750
+43.159.63.75 1 1 8819 20240712090924
+193.186.4.145 1 1 6968 20240726042731
+182.42.111.156 2 2 17612 20240715075634
+88.99.90.100 1 1 8802 20240710083313
+49.51.206.130 3 3 26364 20240726124349
+202.75.29.78 1 1 6975 20240716070517
+135.148.195.3 0 1 307005 
+185.230.199.5 0 1 313710 
+182.3.44.20 3 44 1441143 20240730045421
+104.248.80.127 1 2 315814 20240702081628
+205.210.31.209 1 1 40074 20240730023823
+123.6.49.50 1 17 663804 20240709181814
+150.109.253.34 1 1 8809 20240702124333
+68.183.87.111 1 2 315763 20240722090912
+42.83.147.54 1 1 8805 20240718184009
+178.62.74.6 3 3 28156 20240729160924
+125.164.19.238 1 12 640044 20240703065609
+205.210.31.181 1 1 40080 20240725234037
+103.54.80.193 1 12 640032 20240721050622
+193.186.4.147 1 1 6968 20240726042545
+45.94.31.141 1 1 8803 20240715102033
+114.96.103.33 2 2 17573 20240714195116
+164.92.140.140 1 2 315810 20240704085209
+138.197.170.20 1 1 8804 20240714070533
+104.41.24.177 1 1 8805 20240704165821
+51.89.204.10 2 2 17578 20240728084317
+135.148.195.16 0 1 0 
+87.236.176.77 1 1 8758 20240723023026
+149.56.150.33 1 7 11062 20240709200554
+64.92.5.255 1 1 6975 20240714043519
+35.92.86.173 1 1 8820 20240701074239
+142.214.185.14 1 1 8774 20240728184006
+135.148.195.4 0 2 307005 
+125.164.215.20 3 24 737829 20240726042657
+43.130.31.48 1 1 8803 20240715194735
+206.168.34.199 1 2 315814 20240702235823
+43.135.166.178 1 1 8806 20240707052349
+192.42.116.210 1 1 8771 20240730014440
+50.18.36.209 1 1 8819 20240712155251
+205.210.31.149 1 1 40080 20240719000046
+128.199.128.212 1 1 8781 20240701041141
+35.222.91.153 1 1 6978 20240710134326
+119.249.165.75 1 1 40080 20240726011700
+162.55.132.97 1 1 40083 20240724124210
+125.164.23.13 1 4 26095 20240703065844
+198.235.24.204 1 1 40076 20240715170250
+51.81.105.239 1 1 8757 20240720043606
+179.43.191.18 2 2 17582 20240724233320
+140.213.15.168 1 17 645916 20240716072413
+140.213.18.234 1 22 723251 20240731055827
+147.185.132.63 1 1 40080 20240718191902
+182.44.10.67 1 1 8758 20240724063439
+84.239.54.49 1 1 40076 20240704205447
+113.219.218.197 1 1 8774 20240728203525
+171.229.165.183 1 1 6965 20240722010619
+54.153.92.248 1 1 8794 20240705184555
+43.134.170.46 1 1 8771 20240730141555
+105.22.37.250 1 1 6968 20240727062433
+87.236.176.135 0 1 307005 
+5.101.157.79 1 1 6978 20240712001007
+149.56.160.248 1 7 11062 20240709200640
+185.26.122.73 1 1 0 20240703063505
+89.110.88.203 1 1 40083 20240731143946
+36.134.147.75 1 1 8784 20240710064410
+45.148.10.59 1 1 8801 20240709063007
+87.236.176.87 0 1 307005 
+222.79.103.59 2 2 17607 20240717085012
+87.236.176.171 1 1 8794 20240706020120
+192.42.116.178 1 1 8757 20240719081738
+52.90.212.51 1 1 8757 20240721060634
+74.85.212.116 1 1 6974 20240723212837
+199.244.88.220 1 1 8784 20240710060907
+43.155.152.154 1 1 8801 20240708175628
+36.111.67.189 1 1 8802 20240711201455
+167.94.138.119 1 2 315810 20240718124537
+123.60.68.42 2 2 17614 20240718184332
+152.42.134.47 1 2 315776 20240728070301
+198.235.24.234 1 1 40076 20240708155652
+51.20.84.234 1 1 8794 20240705131012
+93.159.230.89 1 1 8757 20240719202149
+90.156.231.117 1 7 11053 20240705194623
+34.233.119.95 1 1 8802 20240712032322
+5.133.192.99 1 2 315799 20240706031237
+43.128.100.206 1 1 8796 20240731151838
+164.90.235.71 1 2 315768 20240721221923
+52.81.33.66 1 2 315810 20240704143347
+199.244.88.230 1 1 8771 20240728071215
+213.202.233.34 1 1 8771 20240727225105
+182.1.135.40 2 4 634663 20240706070645
+106.227.49.113 1 1 8796 20240731091210
+93.158.91.10 1 2 315807 20240712025853
+209.97.167.77 1 1 40076 20240707024906
+180.248.10.209 0 8 371104 
+206.168.34.201 1 2 315811 20240708032459
+205.210.31.23 1 1 0 20240713032149
+157.245.57.30 1 1 8788 20240719020652
+144.217.135.162 1 7 11062 20240709200708
+135.148.195.8 0 1 307005 
+178.128.229.77 1 2 315824 20240712092635
+15.204.182.106 2 2 17610 20240718231541
+182.1.135.214 2 2 13954 20240706073513
+199.45.154.156 1 2 315789 20240710072333
+178.128.80.202 1 1 8820 20240701222155
+18.236.222.21 2 2 17516 20240722093720
+43.130.62.164 1 1 8763 20240721082212
+51.15.184.67 2 2 17527 20240729125032
+162.55.36.198 1 1 8763 20240722050338
+43.134.37.211 1 1 8768 20240714075641
+69.10.48.138 1 1 40081 20240703234419
+158.69.25.39 1 1 8806 20240706231140
+43.155.183.138 1 1 8802 20240711080421
+182.44.12.37 1 1 8771 20240731010036
+45.94.31.211 1 1 8774 20240729051848
+185.202.168.140 1 1 1468 20240723215131
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240701 17 42 935294 11
+20240702 9 11 693335 8
+20240703 15 37 1152655 12
+20240704 20 52 2881033 15
+20240705 10 54 2086131 7
+20240706 17 25 1982219 12
+20240707 9 28 1144136 9
+20240708 12 16 1490027 9
+20240709 22 98 3050903 17
+20240710 12 15 1087301 12
+20240711 10 10 244426 5
+20240712 15 17 775634 11
+20240713 6 6 44035 6
+20240714 17 38 2005411 10
+20240715 17 29 965398 9
+20240716 11 28 1131076 9
+20240717 15 34 986816 8
+20240718 23 59 3474425 18
+20240719 13 30 523402 13
+20240720 3 4 333276 3
+20240721 15 46 1936572 10
+20240722 23 58 1839365 14
+20240723 15 17 770874 13
+20240724 10 31 1464347 10
+20240725 7 38 1730977 7
+20240726 13 35 1151386 11
+20240727 21 21 288069 10
+20240728 16 37 1426260 12
+20240729 25 46 1546911 13
+20240730 16 102 3998877 12
+20240731 17 85 2474580 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 5
+5mn-15mn 3
+0s-30s 318
+2mn-5mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/ 387 4749849 313 306
+/live-draw/ 20 176695 9 11
+/history-result/ 14 196387 1 4
+// 11 440850 1 6
+/wp-json/ 8 6456 4 1
+/wp-json/json 3 568371 0 0
+/wp-json/wp/v2/pages/163 3 4374 0 0
+/.well-known/ 1 770 0 0
+/wp-content/themes/ 1 794 0 1
+/wp-content/ 1 758 0 0
+/wp-json/wp/v2/pages/166 1 1468 1 1
+/wp-includes/ 1 845 1 0
+END_SIDER

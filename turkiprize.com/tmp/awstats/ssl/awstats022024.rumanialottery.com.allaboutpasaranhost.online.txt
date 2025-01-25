@@ -1,0 +1,990 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202402 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.rumanialottery.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2046                
+POS_TIME 2724                
+POS_VISITOR 23536               
+POS_DAY 32411               
+POS_DOMAIN 3499                
+POS_LOGIN 4085                
+POS_ROBOT 4240                
+POS_WORMS 4945                
+POS_EMAILSENDER 5076                
+POS_EMAILRECEIVER 5219                
+POS_SESSION 33151               
+POS_SIDER 33343               
+POS_FILETYPES 5354                
+POS_DOWNLOADS 5439                
+POS_OS 5487                
+POS_BROWSER 5829                
+POS_SCREENSIZE 7734                
+POS_UNKNOWNREFERER 7808                
+POS_UNKNOWNREFERERBROWSER 8574                
+POS_ORIGIN 9051                
+POS_SEREFERRALS 9189                
+POS_PAGEREFS 9362                
+POS_SEARCHWORDS 9698                
+POS_KEYWORDS 9850                
+POS_MISC 2388                
+POS_ERRORS 9909                
+POS_CLUSTER 3941                
+POS_SIDER_404 10012               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240301013137 32 5530 13924410636158
+FirstTime 20240201020038
+LastTime 20240229205642
+LastUpdate 20240301071803 32 0 31 0 0
+TotalVisits 282                 
+TotalUnique 228                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 228                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 17 17 207727 9 12 20067
+1 38 38 278167 52 58 117036
+2 36 36 230283 12 44 102860
+3 10 10 116110 8 16 40287
+4 14 14 205062 69 75 177810
+5 19 19 223312 16 23 86962
+6 13 13 126841 15 22 209869
+7 14 14 152125 26 28 70867
+8 5 5 27426 20 24 65844
+9 23 23 1370797 21 31 55696
+10 12 12 258759 53 71 165219
+11 14 14 266351 11 20 44419
+12 8 8 159801 31 35 61865
+13 7 7 60393 6 9 26781
+14 44 44 784884 10 21 70771
+15 12 12 92262 15 19 93796
+16 12 12 195940 3 7 8317
+17 16 16 293245 12 17 30277
+18 16 16 404751 24 27 36507
+19 17 17 168281 23 28 76359
+20 20 20 195975 15 40 95895
+21 13 13 173313 50 53 116055
+22 6 6 106735 13 19 99671
+23 9 9 89815 19 22 69212
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 27
+us 162 162 3505560
+cn 52 52 541473
+kh 32 32 186764
+ca 20 20 360785
+ru 18 18 500553
+jp 16 16 138093
+gb 13 13 99490
+id 12 12 78251
+se 11 11 94943
+fr 10 10 243155
+de 9 9 97537
+nl 8 8 61104
+in 8 8 51844
+sc 4 4 34551
+bg 3 3 10084
+jo 3 3 25297
+pk 2 2 17236
+au 2 2 38849
+gr 2 2 17288
+be 1 1 8608
+lb 1 1 6931
+pl 1 1 6919
+ro 1 1 8628
+it 1 1 30231
+tr 1 1 8613
+ir 1 1 8647
+vn 1 1 6921
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+AhrefsBot/ 32 245791 20240229220609 0
+no_user_agent 14 560182 20240224195349 0
+Googlebot/ 6 41536 20240223155557 0
+crawl 6 95011 20240224040531 0
+link 3 47466 20240221064017 0
+Apache\-HttpClient/ 3 25871 20240219064023 0
+Go\-http\-client/ 2 17290 20240219112819 0
+bot[\s_+:,\.\;\/\\-] 2 15551 20240229100626 0
+TelegramBot 2 13844 20240208021721 0
+survey 2 80026 20240205024425 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 8606 20240220052926 0
+bingbot/ 1 8623 20240214055445 0
+SemrushBot/ 1 8627 20240229102611 0
+SafeDNSBot 1 8627 20240229124010 0
+MJ12bot/ 1 11455 20240229035319 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 395 6188355 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+androidlollipop 1 1
+ios_iphone 66 66
+win7 8 8
+macosx15 42 42
+macosx14 1 1
+androidnougat 4 4
+macosx7 1 1
+android 3 3
+androidoreo 3 3
+linuxubuntu 1 1
+macosx6 1 1
+macosx 8 8
+linux 48 48
+win10 146 146
+Unknown 35 35
+winnt 3 3
+androidkitkat 2 2
+macosx9 1 1
+android10 20 20
+win8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 90
+firefox97.0 2 2
+safari17.0 1 1
+edge17 1 1
+chrome122.0.0.0 4 4
+chrome93.0.47 1 1
+chrome76.0.1476.88 1 1
+safari5.0 1 1
+chrome100.0.4896.60 27 27
+chrome83.0.4103.106 1 1
+chrome91.0.4472.114 8 8
+chrome75.0.3346.88 1 1
+chrome103.0.0.0 1 1
+safari15.6 1 1
+chrome112.0.0.0 2 2
+mozilla 17 17
+chrome100.0.4895.86 1 1
+chrome104.0.5112.79 1 1
+chrome74.0.3729.169 3 3
+chrome17.0.963.56 1 1
+chrome103.0.5060.71 1 1
+chrome109.0.0.0 2 2
+chrome90.0.4430.85 2 2
+chrome89.0.4389.128 1 1
+chrome87.0.4280.66 1 1
+chrome78.0.3904.108 4 4
+chrome108.0.0.0 20 20
+safari13.0.3 51 51
+chrome120.0.0.0 11 11
+safari17.1.2 2 2
+firefox86.0 1 1
+chrome66.0.3359.126 1 1
+chrome114.0.5814.214 1 1
+android 2 2
+firefox35.0 1 1
+chrome80.0.3987.132 1 1
+chrome42.0.2312.90 1 1
+chrome80.0.3987.162 1 1
+safari17.1.1 2 2
+safari3.1.1 1 1
+chrome119.0.0.0 6 6
+chrome121.0.0.0 35 35
+safari13.0.4 1 1
+chrome86.0.4240.110 1 1
+firefox117.0 10 10
+chrome113.0.0.0 2 2
+opera84.0.4316.14 1 1
+chrome118.0.0.0 5 5
+chrome88.0.4324.150 2 2
+chrome81.0.4044.138 1 1
+Unknown 15 15
+iphone 5 5
+msie7.0 1 1
+firefox119.0 1 1
+firefox39.0 1 1
+chrome103.0.5060.114 4 4
+firefox108.0 2 2
+chrome95.0.4638.54 2 2
+chrome104.0.0.0 3 3
+chrome81.0.4044.145 1 1
+firefox33.0 1 1
+chrome117.0.0.0 24 24
+chrome80.0.3987.149 1 1
+chrome60.0.3112.107 3 3
+opera102.0.0.0 4 4
+chrome73.0.3683.90 1 1
+chrome87.0.4280.144 2 2
+chrome101.0.4951.54 1 1
+firefox118.0 3 3
+chrome69.0.3497.128 1 1
+chrome46.0.2490.86 1 1
+chrome89.0.4389.114 10 10
+chrome76.0.3809.100 1 1
+chrome96.0.4664.110 1 1
+chrome87.0.4280.88 4 4
+chrome83.0.4103.97 2 2
+chrome114.0.0.0 19 19
+chrome70.0.1369.88 1 1
+chrome89.0.4389.82 4 4
+netscape5.0 4 4
+chrome70.0.3538.77 1 1
+safari16.1 2 2
+safari15.5 1 1
+chrome100.0.4896.75 1 1
+chrome102.0.283 1 1
+chrome84.0.311 1 1
+chrome51.0.2704.103 4 4
+chrome116.0.0.0 5 5
+chrome97.0.4280.67 2 2
+chrome92.0.4515.107 1 1
+chrome105.0.0.0 7 7
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+python-requests/2.22.0 20240229090646
+python-requests/2.31.0 20240226143404
+Mozilla/5.0 20240215231901
+WhatsApp/2.23.20.0 20240229014807
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240229135752
+Mozilla/5.0_(compatible;_ips-agent) 20240219203251
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240215091629
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240227184320
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240226081446
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+python-requests/2.31.0 20240226143404
+python-requests/2.22.0 20240229090646
+WhatsApp/2.23.20.0 20240229014807
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240227184320
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 275 275
+From1 4 4
+From2 5 5
+From3 9 9
+From4 102 102
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 2 2
+baidu 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 6
+https://mogasayang.site 4 4
+https://mogaseru.site 1 1
+https://jpmanis.site 1 1
+https://secure.livechatinc.com 1 1
+https://onic4dpasaran.site 1 1
+https://xn--82cag1dd7b5b5dcco5rlce.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 618 743374
+403 9 10562
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 330
+/plugins/orakuploader/orakuploader.php 1 rumanialottery.com
+/.DS_Store 3 -
+/cgi-bin/samll.php 1 rumanialottery.com
+/elp.php 1 -
+/%5C/chonburiprize.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 2 -
+/general.php 1 www.google.com
+/wp-includes/blocks/query-pagination-numbers/index.php 1 rumanialottery.com
+/wp-admin/network/index.php 1 rumanialottery.com
+/defaul1.php 1 -
+/wp-admin/css/ 2 binance.com
+/core/start.php 1 http://www.rumanialottery.com/core/start.php
+/wp-includes/SimplePie/plugins.php 1 rumanialottery.com
+/ftp-sync.json 1 -
+/wp-content/themes/bricks/assets/js/feedback.min.js 1 -
+/wp-admin/user/index.php 1 rumanialottery.com
+/.well-known/security.txt 1 http://www.rumanialottery.com/.well-known/security.txt
+/about.php7 1 -
+//s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js 5 -
+/wp-includes/admin.php 1 rumanialottery.com
+/wp-admin/repeater.php 1 -
+/wp-admin/js/about.php 1 -
+/wp-includes/images/plugins.php 1 rumanialottery.com
+/administrator/index.php 2 -
+/webroot/filemanager/dialog.php 1 -
+/defaul1.php%7CUEjlZcWL 2 www.google.com
+/wp-content/themes/pridmag/db.php 1 -
+/admin/server/php/ 1 -
+/dist/js/bootstrap.bundle.min.js 4 -
+/wp_cron.php 1 rumanialottery.com
+/admin/users/login_do/ 1 -
+/sites/all/libraries/elfinder-1.2/src/connectors/php/connector.php 1 -
+/.well-known/acme-challenge/samll.php 1 rumanialottery.com
+/admin.php 8 -
+/wp-content/db-cache.php 2 -
+/wp-content/plugins/woocommerce/includes/shortcodes/ 1 -
+/wp-includes/js/jquery/jquery.js 4 www.google.com
+/img/cloud.php 1 -
+/wp-content/plugins/essential-blocks/assets/css/react-select.min.css 1 -
+/wp-content/plugins/seoo/wsoyanz.php 1 -
+/wso.php 1 -
+/wp-content/plugins/linkpreview/db.php 1 -
+/wp-content/themes/gaukingo/db.php 1 -
+/.sftp-config.json 1 -
+/wp-content/plugins/seoplugins/db.php 1 -
+/images/ 3 -
+/wp-content/inputs.php 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 3 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 6 -
+/wp-content/themes/seotheme/db.php 1 -
+/wp-includes/images/smilies/index.php 1 rumanialottery.com
+/wp-content/plugins/ 1 -
+/wp-content/index.php 1 rumanialottery.com
+/wp-includes/css/plugins.php 1 rumanialottery.com
+/complete-order/ 2 -
+/media/filemanager/dialog.php 1 -
+/wp-includes/blocks/site-tagline/index.php 1 rumanialottery.com
+/system/admin.php 1 rumanialottery.com
+/wp-content/themes/admin.php 1 rumanialottery.com
+/filemanager/dialog.php 1 -
+/content/admin.php 1 rumanialottery.com
+/.env 5 -
+/admin/index.php 1 -
+/.well-known/pki-validation/samll.php 1 rumanialottery.com
+/wp-head.php 2 -
+/wp-content/plugins/moveto/assets/js/common-front.js 2 -
+/wp-includes/Requests/Exception/HTTP/HTTP.php 1 -
+/wp-content/plugins/wp-post-author/readme.txt 1 -
+/wp-admin/includes/cloud.php 1 -
+/img/admin.php 1 rumanialottery.com
+/wp-includes/inputs.php 1 -
+//chonburiprize.com/wp-content/themes/lottery/assets/js/flipclock.js 6 -
+/sites/all/libraries/elfinder/elfinder-1.2/connectors/php/connector.php 1 -
+/wp-content/uploads/ 3 -
+/.well-known/pki-validation/2index.php 1 rumanialottery.com
+/sites/default/files/ 2 binance.com
+/about.php 10 rumanialottery.com
+/admin/ 1 -
+/wp-content/plugins/ninja-forms/readme.txt 1 -
+/view-source: 2 -
+/.well-known/pki-validation/index.php 1 rumanialottery.com
+/wp-content/style.php 1 -
+/wp-content/themes/travel/issue.php 1 www.google.com
+/sites/all/libraries/elfinder/elfinder.html 1 -
+/wp-includes/block-patterns/plugins.php 1 rumanialottery.com
+/wp-includes/Requests/Exception/HTTP/RxRjXuWlvG.php 1 -
+/wp-admin/network/cloud.php 1 -
+/humans.txt 7 http://rumanialottery.com/humans.txt
+/.ftpconfig 1 -
+/wp-content/languages/plugins.php 1 rumanialottery.com
+/.vscode/ftp-sync.json 1 -
+/simple.php 8 -
+/sites/all/modules/elfinder/elfinder.html 1 -
+/ads.txt 8 http://rumanialottery.com/ads.txt
+/wp.php 1 -
+/.well-knownold/ 1 -
+/wp-includes/php-compat/plugins.php 1 rumanialottery.com
+//chonburiprize.com/wp-content/themes/lottery_chonburi_prize/assets/js/lottery.js 6 -
+/cache-compat.php 1 -
+/wp-includes/block-supports/plugins.php 1 rumanialottery.com
+/wp-admin/user/plugins.php 1 rumanialottery.com
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 2 -
+/wp-admin/css/colors/blue/RxRxiLsbdj.php 1 -
+/wp-includes/js/tinymce/plugins/fullscreen/defaul1.php%7CUEjlZcWL 1 www.google.com
+/sitemap.xml 13 -
+/wp-includes/wso.php 2 -
+/icon/admin.php 1 rumanialottery.com
+/wp-content/uploads/inputs.php 1 -
+/wp-content/plugins/seoo/wsoyanz1.php 1 -
+/wp-content/ll.php 1 -
+/wp-admin/js/plugins.php 1 rumanialottery.com
+/wp-content/admin.php 3 -
+/index_sso.php 3 -
+/wp-includes/blocks/html/index.php 1 rumanialottery.com
+/wp-content/plugins/wso.php 1 -
+/wp-includes/wlwmanifest.xml 2 -
+/wp-content/themes/index.php 1 rumanialottery.com
+/wp-admin/css/index.php 1 -
+/wp-includes/js/tinymce/plugins/wordpress/defaul1.php%7CUEjlZcWL 2 www.google.com
+/wp-content/lol.php 1 -
+/css/admin.php 1 rumanialottery.com
+/wp-json/litespeed/v1/cdn_status 3 -
+//wp-login.php 1 -
+/assets/filemanager/dialog.php 1 -
+/wp-content/plugins/ultimate-member/assets/css/common.css 1 rumanialottery.com
+/wp-admin/ 1 -
+/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/RxRtJfeVwd.php 1 -
+/wp-json/wp/v2/users/1 1 https://rumanialottery.com/
+/wp-admin/css/colors/coffee/cloud.php 1 -
+/admin-post.php 1 -
+/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js 1 -
+/wp-admin/maint/maint/ajax-actions.php 1 -
+//wp-includes/wlwmanifest.xml 4 -
+/wp-admin/js/widgets/cloud.php 1 -
+/wp-includes/js/jquery/jquery.min.js 1 www.google.com
+/wp-content/plugins/fix/up.php 1 www.google.com
+/user/ 1 -
+/cgi-bin/radio.php 1 rumanialottery.com
+/sites/all/libraries/elfinder-1.2/connectors/php/connector.php 1 -
+/wp-admin/style.php 1 -
+/wp-json 11 -
+/assets/jquery-file-upload/server/php/ 1 -
+/chosen.php 4 -
+/wp-content/themes/lottery/readme.txt 1 -
+/user/login/ 1 -
+/administrator/ 1 -
+/fileupload/server/php/ 1 -
+/wp-content/themes/seotheme/mar.php 1 www.google.com
+/robots.txt 65 -
+/.vscode/sftp.json 1 -
+/elfinder/elfinder.html 1 -
+/sites/all/libraries/elfinder-1.1/connectors/php/connector.php 1 -
+/wp-admin/css/plugins.php 1 rumanialottery.com
+/wp-includes/html-api/plugins.php 1 rumanialottery.com
+/alfanew.php 1 -
+//wp-json/oembed/1.0/embed 2 -
+/wp-json/wp/v2/users/4 1 https://rumanialottery.com/
+/cloud.php 1 -
+/wp-content/repeater.php 1 -
+/wp-content/plugins/wpgateway/css/style.css 1 -
+/wp-admin/wso.php 1 -
+/server/php/ 1 -
+/.sts.php 1 -
+/wp-admin/install.php 2 -
+/css/cloud.php 1 -
+/wp-includes/ 3 -
+/php/thinkphp/aaaffff123.php 3 -
+/wp-content/themes/bricks/style.css 5 rumanialottery.com
+/wp-consar.php 1 -
+/wp-content/uploads/plugins.php 1 rumanialottery.com
+/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/rules.key 1 rumanialottery.com
+/wp-json/wp/v2/users/3 2 https://rumanialottery.com/
+/wp-content/uploads/wso.php 1 -
+/elfinder/php/connector.php 1 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-content/themes/travelscape/json.php 2 www.google.com
+/wp-content/plugins/royal-elementor-addons/readme.txt 2 -
+/libraries/legacy/updates.php 1 -
+/wp-content/plugins/wordpress-seo/src/ 1 -
+/nf_tracking.php 3 www.google.com
+/wp-content/plugins/about.php 1 -
+/wp-includes/widgets/plugins.php 1 rumanialottery.com
+/libraries/phpmailer/updates.php 1 -
+/wp-includes/style-engine/plugins.php 1 rumanialottery.com
+/wp-content/themes/intense/block-css.php 1 -
+/geju.php 1 -
+/wp-json/wpgmza/v1/markers 3 -
+/wp-content/plugins/Cache/Cache.php 1 -
+/wp-includes/assets/plugins.php 1 rumanialottery.com
+/wp-content/themes/inputs.php 1 -
+/inputs.php 8 www.google.com
+/dropdown.php 1 -
+/sites/default/admin.php 1 rumanialottery.com
+/wp-login.php 14 -
+/wp-json/ 15 http://rumanialottery.com/wp-json/
+/xmlrpc.php 2 -
+/sites/all/libraries/elfinder/src/connectors/php/connector.php 1 -
+/elfinder/php/connector.minimal.php 1 -
+/wp-emoji-release.min.js 4 -
+/yanz.php 1 -
+/enhancecp 2 -
+/wp-content/themes/lottery_chonburi_prize/readme.txt 1 -
+/ll.php 1 -
+/wp-includes/js/dist/vendor/index.php 1 rumanialottery.com
+/wp-content/plugins/index.php 1 rumanialottery.com
+/wp-includes/customize/smooth_wp.php%7CF5d4JH6m1 2 www.google.com
+/upload/server/php/ 1 -
+/wp-content/themes/include.php 1 -
+/wp-content/upgrade/plugins.php 1 rumanialottery.com
+/index.php 9 -
+/wp-includes/js/tinymce/plugins/media/defaul1.php%7CUEjlZcWL 2 www.google.com
+/https://adsensetalk.online/ 1 -
+/wp-content/plugins/mstore-api/readme.txt 1 -
+/wp-content/plugins/WordPressCore/include.php 1 -
+/wp-content/pm.php 1 rumanialottery.com
+/libraries/vendor/updates.php 1 -
+/.ftp-sync.json 1 -
+/editor/plugins/filemanager/dialog.php 1 -
+/style.php 5 www.google.com
+/assets/admin/js/filemanager/dialog.php 1 -
+/manager/ 1 -
+/wp-content/style-css.php 1 rumanialottery.com
+/wp-admin/images/plugins.php 1 rumanialottery.com
+//xmlrpc.php 2 -
+/jp/admin.php 1 rumanialottery.com
+//cdn.js 6 -
+//wp-apxupx.php 1 -
+/wp-includes/js/tinymce/plugins/wordpress/index.php 1 rumanialottery.com
+/wp-includes/sodium_compat/plugins.php 1 rumanialottery.com
+/wp-content/defaul1.php%7CUEjlZcWL 2 www.google.com
+/wp-content/plugins/admin.php 2 -
+/lol.php 2 www.google.com
+/wp-includes/style.php 1 -
+/wp-content/uploads/style.php 1 -
+/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/smoothness.php 1 -
+/.ftpsync.setting 1 -
+/wp-includes/blocks/plugins.php 1 rumanialottery.com
+/wp-content/plugins/woocommerce-payments/readme.txt 2 -
+/wp-content/plugins/userpro/changelog.txt 1 -
+/wp-admin/js/widgets/about.php7 1 -
+/security.txt 1 http://www.rumanialottery.com/security.txt
+/repeater.php 1 -
+/wp-includes/widgets/include.php 1 -
+/wp-admin/js/widgets/samll.php 1 rumanialottery.com
+/wp-includes/css/buttons.css 1 http://rumanialottery.com//wp-includes/css/buttons.css
+/updates.php 1 -
+/alfa-rex.php7 1 -
+/wp-includes/sitemaps/providers/index.php 1 rumanialottery.com
+/wp-admin/cloud.php 1 -
+/live-draw/rumanialottery.com/live-draw/ 2 -
+/wp-content/plugins/include.php 1 -
+/blog/wp-login.php 1 -
+/.well-known/pki-validation/admin.php 1 rumanialottery.com
+/input.php 3 www.google.com
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/cgi-bin/cloud.php 1 -
+/phpmyadmin/index.php 3 -
+/sites/all/libraries/elfinder/connectors/php/connector.php 1 -
+/scripts/admin.php 1 rumanialottery.com
+/wp-admin/css/colors/blue/cloud.php 1 -
+/wp-includes/PHPMailer/plugins.php 1 rumanialottery.com
+/.well-known/acme-challenge/cloud.php 1 -
+/wp-content/plugins/wp-apxupx.php 1 www.google.com
+/wp-content/plugins/seoplugins/mar.php 1 www.google.com
+/wp-admin/css/colors/cloud.php 1 -
+/wp-includes/repeater.php 1 -
+/wp-admin/user/cloud.php 1 -
+/ftpsync.setting 1 -
+/wp-admin/inputs.php 1 -
+/wp-content/plugins/ht-mega-for-elementor/readme.txt 1 -
+/images/cloud.php 1 -
+/wp-content/plugins/wp_cache/radio.php 1 rumanialottery.com
+/wp-admin/dropdown.php 1 -
+//wp-json/wp/v2/users/ 2 -
+/wp-content/themes/defaul1.php%7CUEjlZcWL 2 www.google.com
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/sites/all/libraries/elfinder-1.1/src/connectors/php/connector.php 1 -
+/cgi-bin/2index.php 1 rumanialottery.com
+/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/wp-content/themes/ 1 -
+/wsoyanz.php 1 -
+/install.php 1 rumanialottery.com
+/dist/jquery.min.js 4 -
+/files/ 2 binance.com
+/checkbex.php 1 rumanialottery.com
+/wp-admin/setup-config.php 2 -
+/wp-includes/customize/plugins.php 1 rumanialottery.com
+/wp-content/plugins.php 1 rumanialottery.com
+/cgi-bin/admin.php 1 rumanialottery.com
+/wp-content/updates.php 1 -
+/ajax-actions.php 1 -
+/blog/ 1 -
+/wp-admin/ajax-actions.php 1 -
+/misc/ajax.js 2 -
+/wp-includes/index.php 1 rumanialottery.com
+/wp-content/themes/astra/assets/js/minified/ 1 -
+/wp-includes/fonts/plugins.php 1 rumanialottery.com
+/wp-content/themes/themes.php 1 rumanialottery.com
+/.well-known/pki-validation/cloud.php 1 -
+/wp-content/plugins/inputs.php 1 -
+/ayk.php 1 -
+/admin/controller/extension/extension/ 2 binance.com
+/.well-known/acme-challenge/index.php 1 rumanialottery.com
+/wp-content/themes/aahana/json.php 1 www.google.com
+/assets/plugins/filemanager/dialog.php 1 -
+/wp-includes/sitemaps/plugins.php 1 rumanialottery.com
+/wp-admin/admin.php 1 rumanialottery.com
+/wp-includes/certificates/plugins.php 1 rumanialottery.com
+/assets/plugins/jquery-file-upload/server/php/ 1 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 6 -
+/wp-includes/blocks/index.php 1 rumanialottery.com
+/wp-includes/images/include.php 1 -
+/orakuploader/orakuploader.php 1 rumanialottery.com
+/feed/atom/ 1 -
+/sftp-config.json 1 -
+/about/admin.php 1 rumanialottery.com
+/uploads/ 2 binance.com
+/wp-admin/css/colors/blue/blue.php 1 -
+/wp-content/wso.php 1 -
+/wp-includes/Requests/Text/admin.php 1 -
+/rumanialottery.com/ 2 -
+/wp-content/plugins/ultimate-member/readme.txt 1 -
+/wp-admin/images/cloud.php 1 -
+/wp-content/uploads/2022/content.php 1 rumanialottery.com
+/wp-p.php7 1 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 2 -
+/public/admin.php 1 rumanialottery.com
+/cgi-bin/plugins.php 1 rumanialottery.com
+/wp-includes/blocks/defaul1.php%7CUEjlZcWL 2 www.google.com
+/wp-content/plugins/wp-simple-firewall/assets/dist/shield-blockpage.bundle.css 1 rumanialottery.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 228
+124.248.183.41 32 32 186764 20240229015519
+35.171.144.152 15 15 600195 20240227140404
+54.88.179.33 12 12 480156 20240227142428
+192.95.30.15 9 9 77589 20240225071953
+63.33.230.128 8 8 69016 20240212050513
+146.70.108.169 7 7 49464 20240211144854
+144.217.135.154 6 6 1072304 20240215091254
+114.122.203.232 6 6 32194 20240227022008
+168.119.38.238 5 5 43205 20240208012115
+13.58.49.78 5 5 41398 20240213213021
+194.33.191.139 5 5 200065 20240209090327
+163.5.210.83 5 5 200065 20240222103723
+144.91.106.14 4 4 34452 20240204045648
+52.225.128.217 4 4 34472 20240215140933
+173.236.213.148 4 4 34492 20240215002004
+43.155.166.202 4 4 34495 20240222123012
+51.254.199.11 4 4 34472 20240226013055
+31.222.239.207 3 3 25297 20240205143144
+72.13.46.6 3 3 25918 20240219203251
+43.128.110.17 3 3 25886 20240213175649
+114.122.69.139 3 3 25295 20240209020022
+185.174.159.122 3 3 25881 20240229090646
+103.105.33.115 3 3 13828 20240229015826
+123.60.68.42 3 3 25891 20240226132401
+52.80.18.29 2 2 17233 20240223080107
+209.170.91.201 1 1 6920 20240207015407
+45.194.17.18 1 1 8636 20240222153930
+91.220.229.235 1 1 6923 20240214115447
+43.128.100.206 1 1 8608 20240206224951
+194.61.77.110 1 1 6919 20240218010601
+198.147.22.229 1 1 8628 20240211144827
+34.212.122.123 1 1 6919 20240217055816
+51.20.188.226 1 1 8618 20240201020725
+185.197.74.148 1 1 40013 20240212070233
+199.45.154.19 1 1 812 20240226081446
+104.28.218.135 1 1 6920 20240201020038
+205.210.31.37 1 1 40013 20240227184320
+159.203.1.153 1 1 8618 20240215202726
+142.93.226.138 1 1 8648 20240203210107
+36.110.211.2 1 1 8613 20240204060419
+149.56.160.242 1 1 6923 20240215091629
+137.184.132.8 1 1 8641 20240207195951
+199.45.155.48 1 1 8606 20240220202457
+111.172.249.49 1 1 8655 20240226031114
+198.235.24.192 1 1 40013 20240206043334
+121.229.185.160 1 1 8615 20240224014350
+101.44.249.179 1 1 8641 20240228191325
+68.183.245.101 1 1 30231 20240211144834
+93.158.91.25 1 1 8647 20240227183545
+199.45.154.50 1 1 812 20240209185629
+106.119.167.146 1 1 30231 20240203231239
+223.244.35.77 2 2 17273 20240226230922
+199.244.88.219 1 1 8618 20240213162951
+94.247.172.129 1 1 8613 20240217201549
+98.159.37.170 1 1 40013 20240219005054
+152.32.218.201 2 2 17298 20240208140601
+54.201.68.195 1 1 8655 20240226035552
+3.135.86.180 1 1 6923 20240215120756
+43.163.6.124 1 1 8601 20240219000644
+67.205.161.34 1 1 8615 20240223204040
+143.110.190.33 2 2 80026 20240203222131
+3.75.85.133 1 1 8628 20240211144825
+114.122.114.29 1 1 6919 20240221031903
+128.90.144.150 1 1 8618 20240209040842
+106.3.132.183 1 1 40013 20240213055949
+89.248.174.34 2 2 17230 20240223082117
+67.220.86.160 1 1 8655 20240226024015
+205.210.31.76 1 1 40013 20240208185638
+199.45.154.17 1 1 812 20240220221853
+140.213.103.63 1 1 6924 20240208021724
+154.28.229.172 1 1 6923 20240203151926
+77.246.105.178 2 2 80026 20240204030957
+43.159.128.172 1 1 8648 20240203211248
+185.56.83.83 2 2 17214 20240222015155
+156.146.63.131 2 2 17240 20240211143556
+167.172.57.232 1 1 8618 20240201205653
+142.93.149.75 1 1 8621 20240225203943
+18.216.139.75 1 1 6912 20240219022207
+42.83.147.56 1 1 8606 20240220133001
+205.210.31.146 1 1 40013 20240214051622
+18.197.97.14 1 1 8618 20240201184357
+101.44.248.246 1 1 8641 20240207030559
+91.92.252.167 1 1 8620 20240211065540
+43.163.1.85 2 2 17298 20240224110313
+159.203.94.241 1 1 8628 20240229112616
+43.131.243.208 1 1 8628 20240204015834
+35.182.219.161 1 1 8618 20240213230738
+154.28.229.234 1 1 6923 20240203143820
+150.109.253.34 1 1 8648 20240203043500
+104.248.75.7 1 1 8627 20240212053624
+167.86.91.103 2 2 17282 20240228164731
+5.133.192.140 1 1 8613 20240204154514
+182.42.104.32 2 2 17221 20240218132019
+86.170.139.206 1 1 8628 20240211144825
+199.45.155.49 2 2 17239 20240225070157
+162.43.237.221 1 1 6923 20240203095259
+182.42.105.144 1 1 8618 20240202013821
+36.99.136.136 1 1 8618 20240201045649
+182.44.67.97 2 2 17292 20240227190747
+110.166.71.39 1 1 8648 20240203220911
+157.230.119.124 1 1 8618 20240205210737
+64.227.16.36 1 1 8618 20240213093532
+123.6.49.10 1 1 8613 20240204060525
+46.228.199.158 1 1 8627 20240212093134
+68.183.24.230 1 1 40013 20240219172154
+104.28.220.181 1 1 8641 20240229014807
+146.190.226.112 1 1 8647 20240227191701
+52.53.232.209 1 1 8620 20240202155444
+137.184.154.55 1 1 8627 20240229205642
+93.174.93.127 2 2 17310 20240226143404
+54.172.237.43 1 1 6920 20240221062925
+104.28.250.136 1 1 6924 20240209171354
+58.49.233.126 1 1 8627 20240229015755
+77.246.102.95 2 2 80026 20240204000936
+46.8.17.9 1 1 8620 20240202163906
+192.71.12.140 1 1 8636 20240222025546
+54.208.44.132 1 1 8618 20240215203125
+122.177.97.180 1 1 8620 20240203015954
+45.147.255.250 1 1 6923 20240205143141
+144.126.209.76 1 1 30231 20240229113941
+106.55.200.45 1 1 6922 20240201165638
+101.91.148.219 2 2 17252 20240221054212
+37.27.6.193 1 1 8647 20240227170955
+185.6.10.201 1 1 8655 20240226050420
+135.148.195.15 2 2 17341 20240224232641
+205.185.125.109 1 1 8655 20240227001749
+139.59.27.69 1 1 8618 20240213041540
+57.128.80.78 1 1 8608 20240206060310
+205.210.31.232 1 1 40013 20240226205539
+159.89.92.153 1 1 8618 20240213203625
+101.44.250.94 1 1 8628 20240206174236
+84.17.42.22 1 1 30231 20240211144824
+23.111.114.116 1 1 8641 20240207093820
+206.189.88.62 1 1 8627 20240229100319
+139.190.224.98 2 2 17236 20240202002906
+178.254.38.45 2 2 17256 20240222193812
+45.83.31.224 1 1 769 20240229082839
+159.89.177.97 1 1 8618 20240209193653
+182.3.105.116 1 1 6919 20240219152603
+93.100.129.90 1 1 40013 20240219174749
+112.65.211.124 1 1 8613 20240204201212
+128.90.135.40 1 1 8613 20240204190904
+182.42.111.213 2 2 17261 20240226124732
+124.225.164.130 1 1 8647 20240227090638
+18.144.162.222 1 1 8618 20240209160144
+124.156.193.7 1 1 8618 20240209195442
+43.134.190.89 1 1 8627 20240212182413
+164.90.241.135 1 1 30231 20240211144825
+42.83.147.53 2 2 17350 20240224113631
+159.65.32.93 1 1 8620 20240211193427
+94.156.68.85 1 1 695 20240216200925
+45.134.140.164 1 1 8627 20240229152502
+117.2.59.185 1 1 6921 20240208105339
+199.45.155.35 1 1 812 20240205232426
+182.42.110.255 2 2 17222 20240223052347
+3.81.158.125 1 1 8620 20240211025419
+37.120.149.58 1 1 8628 20240211144825
+202.43.6.30 1 1 30231 20240211144824
+199.244.88.224 1 1 8641 20240228031802
+54.196.211.86 1 1 6920 20240206145703
+194.26.192.228 1 1 695 20240216181422
+113.219.218.197 1 1 8621 20240225071101
+223.15.245.170 1 1 8601 20240218025107
+135.148.195.5 1 1 8618 20240209095517
+45.146.24.158 1 1 6923 20240215231643
+143.110.152.139 1 1 8655 20240226052948
+170.64.152.67 2 2 80026 20240220210730
+35.80.12.90 1 1 8675 20240224074635
+113.141.91.58 2 2 17234 20240220174520
+142.93.240.187 1 1 8613 20240217200443
+43.159.63.75 1 1 8636 20240222030446
+154.91.64.33 1 1 8645 20240219192943
+217.138.194.126 2 2 17240 20240211143556
+5.188.62.26 1 1 8615 20240223184322
+185.220.101.144 1 1 8647 20240228001017
+185.220.101.87 1 1 8647 20240228001000
+123.6.49.18 1 1 8613 20240204060621
+45.156.148.94 1 1 6923 20240215001315
+101.44.250.220 1 1 30231 20240206192615
+120.71.59.24 1 1 8621 20240225165006
+123.187.240.242 1 1 8641 20240228052656
+206.189.6.33 1 1 8655 20240226214422
+52.32.213.220 1 1 8655 20240226035550
+146.190.197.169 1 1 30231 20240211144825
+43.155.138.79 1 1 8666 20240217012336
+137.184.84.215 1 1 8606 20240220044712
+149.113.178.33 2 2 13841 20240212065207
+124.70.70.4 1 1 8608 20240207002338
+134.122.97.36 1 1 8607 20240221193540
+222.79.104.23 2 2 17302 20240229124859
+51.79.147.164 1 1 6922 20240205012104
+157.245.134.118 2 2 17282 20240228022252
+143.110.226.219 1 1 8627 20240229091432
+198.235.24.186 1 1 40013 20240215185434
+129.226.147.7 2 2 17290 20240208202612
+78.162.43.208 1 1 8613 20240218000522
+93.158.90.35 1 1 8613 20240204164307
+125.75.66.97 1 1 8641 20240228151849
+144.76.157.102 1 1 8627 20240212041237
+159.223.72.237 2 2 17254 20240229115723
+106.55.202.186 1 1 6921 20240208124231
+74.85.214.131 1 1 6923 20240203095133
+36.99.136.137 1 1 8618 20240201045651
+111.7.100.26 1 1 8648 20240203192831
+52.80.162.245 1 1 8620 20240210050010
+199.244.88.221 1 1 8618 20240201103820
+188.166.44.21 1 1 8655 20240226232313
+93.158.90.135 1 1 8613 20240217191025
+54.219.135.98 1 1 8615 20240223153037
+92.118.39.249 2 2 17288 20240228023906
+5.133.192.146 1 1 8620 20240210203722
+137.226.113.44 2 2 17245 20240229135752
+199.45.154.67 1 1 8627 20240212175410
+54.219.82.104 1 1 8666 20240216154029
+123.6.49.41 1 1 8613 20240204060710
+114.96.103.33 1 1 30231 20240204044755
+150.109.16.20 2 2 17238 20240211185702
+130.255.166.115 1 1 8618 20240213105055
+87.98.186.183 1 1 8618 20240215231901
+5.9.158.184 2 2 38859 20240212062258
+93.158.70.111 1 1 8649 20240209015236
+5.133.192.168 1 1 8666 20240217005852
+34.217.213.109 1 1 40013 20240211040243
+38.46.14.179 1 1 8675 20240224032732
+213.175.187.202 1 1 6931 20240216054358
+94.156.69.118 1 1 769 20240222154022
+165.227.40.213 1 1 8645 20240219212121
+154.91.83.168 2 2 17270 20240226204721
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20240201 10 10 82786 10
+20240202 8 8 68952 7
+20240203 17 17 287111 16
+20240204 18 18 239482 14
+20240205 8 8 57190 6
+20240206 12 12 343086 8
+20240207 6 6 50092 6
+20240208 12 12 129931 7
+20240209 17 17 293453 11
+20240210 5 5 41403 5
+20240211 25 25 344104 17
+20240212 18 18 204864 9
+20240213 21 21 399051 14
+20240214 3 3 55559 3
+20240215 26 26 1265909 14
+20240216 10 10 159546 8
+20240217 9 9 63940 7
+20240218 7 7 55180 6
+20240219 18 18 336834 14
+20240220 10 10 137686 8
+20240221 8 8 53486 6
+20240222 18 18 395096 10
+20240223 10 10 75838 8
+20240224 10 10 83182 8
+20240225 15 15 118997 6
+20240226 19 19 184449 17
+20240227 22 22 379733 12
+20240228 12 12 101972 10
+20240229 21 21 179443 15
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+15mn-30mn 2
+2mn-5mn 2
+30s-2mn 10
+0s-30s 260
+5mn-15mn 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 349 4534707 257 250
+/live-draw/ 21 190353 12 14
+/history-result/ 15 1220289 9 12
+// 6 240078 0 2
+/.well-known/ 4 2928 4 4
+END_SIDER

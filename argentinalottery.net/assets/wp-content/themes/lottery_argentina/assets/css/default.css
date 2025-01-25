@@ -1,0 +1,145 @@
+/**** begin countdown colors ****/
+.flip-clock-wrapper ul,
+.flip-clock-wrapper ul li a div div.inn,
+.flip-clock-divider .flip-clock-dot {
+	background-color: var(--flipclock-bg-color);
+}
+.flip-clock-wrapper ul li a div div.inn {
+	color: var(--flipclock-color);
+}
+/**** endof countdown colors ****/
+
+/**** begin custom style ****/
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-8);
+    font-family: 'Rajdhani', sans-serif;
+}
+
+header {
+    display: block;
+    position: relative;
+}
+header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    background-image: url(../images/pattern.png);
+    background-position: bottom left;
+    background-repeat: repeat-x;
+    background-size: 100px;
+    opacity: .3;
+}
+header .logo-container {
+    display: block;
+    position: relative;
+}
+header .logo-container .logo-wrapper {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 250px;
+}
+header .logo-container .logo-wrapper .web-logo {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+header .time-wrapper {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    padding: 6px;
+    max-width: 220px;
+    border-radius: 12px;
+}
+header .time-wrapper .countdown {
+    display: block;
+    position: relative;
+    padding: 6px;
+    border-radius: 10px;
+}
+
+section {
+    display: block;
+    position: relative;
+}
+section .navbar-main .navbar-nav > .nav-item {
+    margin-right: 10px;
+}
+section .navbar-main .navbar-nav > .nav-item:last-child {
+    margin-right: 0;
+}
+section .navbar-main .navbar-nav > .nav-item > .nav-link {
+    position: relative;
+    padding: 0 10px 0 20px;
+    color: var(--color-8);
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+section .navbar-main .navbar-nav > .nav-item.active > .nav-link,
+section .navbar-main .navbar-nav > .nav-item:hover > .nav-link {
+    padding-left: 20px;
+    color: var(--color-7);
+}
+section .navbar-main .navbar-nav > .nav-item > .nav-link::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: calc(50% - 3px);
+    left: 0;
+    width: 6px;
+    height: 6px;
+    background-color: var(--color-8);
+    border-radius: 50px;
+}
+section .navbar-main .navbar-nav > .nav-item.active > .nav-link::before,
+section .navbar-main .navbar-nav > .nav-item:hover > .nav-link::before {
+    background-color: var(--color-7);
+}
+
+footer {
+    display: block;
+    position: relative;
+}
+footer .footer-separator {
+    display: block;
+    position: relative;
+    width: auto;
+    height: 1px;
+    background-image: linear-gradient(to right, transparent, rgba(255, 255, 255, 0.5), transparent);
+}
+footer .navbar.navbar-footer .navbar-nav > .nav-item {
+    margin-right: 15px;
+}
+footer .navbar.navbar-footer .navbar-nav > .nav-item:last-child {
+    margin-right: 0;
+}
+footer .navbar.navbar-footer .navbar-nav > .nav-item > .nav-link {
+    color: var(--white);
+    font-weight: 700;
+}
+
+.pagination .paginate_button a {
+    background-color: var(--color-6) !important;
+    border-color: var(--color-6) !important;
+    box-shadow: none !important;
+    color: var(--white) !important;
+    outline: none !important;
+}
+.pagination .paginate_button.active a {
+    background-color: var(--color-7) !important;
+    border-color: var(--color-7) !important;
+    box-shadow: none !important;
+    color: var(--color-8) !important;
+    font-weight: 700;
+    outline: none !important;
+}
+/**** endof custom style ****/

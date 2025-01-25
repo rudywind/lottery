@@ -1,0 +1,163 @@
+/**** begin countdown colors ****/
+.flip-clock-wrapper ul,
+.flip-clock-wrapper ul li a div div.inn,
+.flip-clock-divider .flip-clock-dot {
+	background-color: var(--flipclock-bg-color);
+}
+.flip-clock-wrapper ul li a div div.inn {
+	color: var(--flipclock-color);
+}
+/**** endof countdown colors ****/
+
+/**** begin custom style ****/
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-1);
+    font-family: 'Asap Condensed', sans-serif;
+}
+
+header {
+    display: block;
+    position: relative;
+    z-index: 1;
+}
+header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    background-image: url(https://myanmarprize.com/wp-content/themes/myanmar_prize/assets/image/header-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.3;
+    z-index: -1;
+}
+header .logo-wrapper {
+    position: relative;
+    max-width: 200px;
+}
+header .logo-wrapper .web-logo {
+    width: 100%;
+}
+header .header-welcome {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    max-width: 900px;
+}
+header .navbar.navbar-main .navbar-nav > .nav-item {
+    margin-right: 5px;
+}
+header .navbar.navbar-main .navbar-nav > .nav-item:last-child {
+    margin-right: 0;
+}
+header .navbar.navbar-main .navbar-nav > .nav-item > .nav-link {
+    position: relative;
+    min-width: 97px;
+    padding: 0 10px;
+    background-color: var(--color-6);
+    border: 3px solid transparent;
+    border-bottom: 0;
+    border-radius: 12px 12px 0 0;
+    color: var(--color-9) !important;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 40px;
+    text-transform: uppercase;
+}
+header .navbar.navbar-main .navbar-nav > .nav-item > .nav-link::before {
+    content: "";
+    position: absolute;
+    bottom: -3px;
+    left: -3px;
+    right: -3px;
+    width: auto;
+    height: 3px;
+    background-color: transparent;
+    border-left: 3px solid transparent;
+    border-right: 3px solid transparent;
+}
+header .navbar.navbar-main .navbar-nav > .nav-item.active > .nav-link {
+    background-color: var(--color-1);
+    border-color: var(--color-7);
+}
+header .navbar.navbar-main .navbar-nav > .nav-item.active > .nav-link::before {
+    background-color: var(--color-1);
+    border-left: 3px solid var(--color-7);
+    border-right: 3px solid var(--color-7);
+}
+
+section {
+    display: block;
+    position: relative;
+}
+section.widget-wrapper {
+    border-top: 3px solid var(--color-7);
+    border-bottom: 3px solid var(--color-7);
+}
+section .logo-wrapper {
+    position: relative;
+    margin: 0 auto;
+    max-width: 200px;
+}
+section .logo-wrapper .web-logo {
+    width: 100%;
+}
+section .card.card-banner,
+section .card.card-banner .card-body {
+    border-radius: 8px;
+}
+section .card.card-banner .card-body .banner-img {
+    position: relative;
+    padding: 6px;
+    border-radius: 50px;
+    max-width: 50px;
+    margin-top: -40px;
+}
+section .card.card-banner .card-body .banner-img img {
+    border-radius: 50px;
+}
+section .card.card-banner .card-body .banner-txt h5 {
+    font-size: 16px;
+}
+section .card.card-banner .card-body .banner-txt p {
+    line-height: 1 !important;
+}
+
+footer {
+    display: block;
+    position: relative;
+}
+footer .logo-wrapper {
+    position: relative;
+    margin: 0 auto;
+    max-width: 250px;
+}
+footer .logo-wrapper .web-logo {
+    width: 100%;
+    filter: brightness(0) invert(1);
+}
+
+.pagination .paginate_button a {
+    background-color: var(--color-2) !important;
+    border-color: var(--color-2) !important;
+    box-shadow: none !important;
+    color: var(--color-8) !important;
+    outline: none !important;
+}
+.pagination .paginate_button.active a {
+    background-color: var(--color-4) !important;
+    border-color: var(--color-4) !important;
+    color: var(--color-9) !important;
+}
+
+.text-underline {
+    text-decoration: underline;
+}
+/**** endof custom style ****/

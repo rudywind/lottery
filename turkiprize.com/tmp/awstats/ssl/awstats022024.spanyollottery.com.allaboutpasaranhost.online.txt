@@ -1,0 +1,973 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202402 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.spanyollottery.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2046                
+POS_TIME 2723                
+POS_VISITOR 22394               
+POS_DAY 31438               
+POS_DOMAIN 3511                
+POS_LOGIN 4024                
+POS_ROBOT 4179                
+POS_WORMS 4937                
+POS_EMAILSENDER 5068                
+POS_EMAILRECEIVER 5211                
+POS_SESSION 32177               
+POS_SIDER 32368               
+POS_FILETYPES 5346                
+POS_DOWNLOADS 5431                
+POS_OS 5479                
+POS_BROWSER 5891                
+POS_SCREENSIZE 7763                
+POS_UNKNOWNREFERER 7837                
+POS_UNKNOWNREFERERBROWSER 8631                
+POS_ORIGIN 9186                
+POS_SEREFERRALS 9324                
+POS_PAGEREFS 9519                
+POS_SEARCHWORDS 9809                
+POS_KEYWORDS 9961                
+POS_MISC 2387                
+POS_ERRORS 10020               
+POS_CLUSTER 3880                
+POS_SIDER_404 10124               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240301000222 23 4455 8518075553463
+FirstTime 20240201020207
+LastTime 20240229235208
+LastUpdate 20240301071805 23 0 22 0 0
+TotalVisits 285                 
+TotalUnique 234                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 234                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 18 18 353112 31 36 188913
+1 23 23 232205 22 33 1791297
+2 21 21 172153 10 31 81513
+3 15 15 254328 26 30 66994
+4 10 10 116096 81 91 251058
+5 25 25 271220 26 43 96664
+6 6 6 42244 23 35 195724
+7 10 10 112520 8 15 46671
+8 9 9 80243 15 20 77197
+9 16 16 292994 22 27 29339
+10 24 24 2205190 16 30 201954
+11 25 25 290966 68 79 201281
+12 24 24 188715 33 38 50460
+13 14 14 351739 6 8 59331
+14 11 11 85575 11 20 172176
+15 21 21 256768 32 39 72081
+16 13 13 276731 16 22 112650
+17 14 14 182517 32 35 153445
+18 12 12 129054 17 19 28541
+19 17 17 243033 14 24 168559
+20 12 12 93404 11 41 157201
+21 11 11 120457 22 30 172497
+22 9 9 131384 12 21 189308
+23 9 9 65650 20 23 74262
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 21
+us 153 153 3736869
+cn 41 41 470715
+kh 38 38 227645
+ru 24 24 604209
+jp 21 21 179952
+fr 15 15 357158
+se 12 12 137037
+ca 11 11 292523
+de 11 11 191632
+br 8 8 69264
+in 6 6 42879
+nl 5 5 35334
+gb 5 5 41464
+id 4 4 50243
+sc 3 3 25980
+bg 3 3 17978
+hn 3 3 17330
+au 2 2 17295
+kz 2 2 15490
+md 1 1 8648
+ua 1 1 8653
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+AhrefsBot/ 43 408612 20240229015650 0
+bingbot/ 30 259486 20240224011843 0
+Googlebot/ 16 109518 20240229220651 0
+MJ12bot/ 10 274106 20240226223502 0
+no_user_agent 9 376635 20240226082506 0
+crawl 8 195560 20240224062933 0
+DotBot/ 5 1840942 20240211011634 0
+link 4 97788 20240224105832 0
+nbot 3 89115 20240208223712 0
+Apache\-HttpClient/ 3 25989 20240227054247 0
+survey 2 83690 20240205020813 0
+Go\-http\-client/ 2 17314 20240219112819 0
+bot[\s_+:,\.\;\/\\-] 1 6840 20240226065420 0
+facebookexternalhit/ 1 41849 20240229141935 0
+YandexBot/ 1 8661 20240229104837 0
+Applebot/ 1 8647 20240223064324 0
+curl 1 41845 20240212201423 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 369 6548298 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 26
+macosx 4 4
+macosx7 2 2
+macosx9 1 1
+ios_iphone 62 62
+winlong 1 1
+linux 37 37
+androidmarshmallow 1 1
+android10 5 5
+macosx6 1 1
+macosx15 26 26
+androidpie 1 1
+linuxubuntu 3 3
+win8 1 1
+androidnougat 1 1
+Unknown 45 45
+ios_ipad 1 1
+win7 8 8
+win10 149 149
+winxp 1 1
+macosx11 6 6
+win8.1 1 1
+winnt 1 1
+android 6 6
+macosx14 2 2
+macosx12 1 1
+androidoreo 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 89
+firefox118.0 5 5
+chrome110.0.5481.100 1 1
+chrome70.0.3538.67 1 1
+chrome113.0.0.0 2 2
+minefield 1 1
+msie6.0 1 1
+Unknown 20 20
+safari10.0 1 1
+firefox122.0 1 1
+chrome103.0.5060.114 1 1
+firefox63.0 1 1
+chrome70.0.3538.110 1 1
+chrome102.0.49 1 1
+chrome118.0.0.0 1 1
+firefox103.0 2 2
+opera102.0.0.0 2 2
+chrome116.0.0.0 2 2
+chrome88.0.4324.150 2 2
+safari16.6 3 3
+chrome81.0.4044.138 2 2
+safari13.0.4 1 1
+chrome87.0.4280.88 1 1
+chrome80.0.3987.132 1 1
+chrome60.0.3112.107 1 1
+chrome86.0.4240.183 1 1
+firefox49.0 1 1
+chrome90.0.4430.85 1 1
+chrome122.0.0.0 1 1
+chrome76.0.3809.111 1 1
+chrome83.0.4103.97 8 8
+chrome104.0.0.0 5 5
+safari9.0 1 1
+chrome69.0.3497.100 1 1
+chrome97.0.4280.67 2 2
+chrome102.0.0.0 5 5
+chrome101.0.4951.54 1 1
+chrome90.0.470 1 1
+chrome110.0.0.0 3 3
+chrome80.0.3987.162 1 1
+chrome122.0.6261.71 1 1
+chrome117.0.0.0 16 16
+chrome115.0.0.0 2 2
+chrome121.0.0.0 34 34
+chrome103.0.5060.66 1 1
+chrome42.0.2311.90 1 1
+safari13.0.3 57 57
+chrome92.0.4515.107 5 5
+firefox33.0 1 1
+chrome42.0.2312.90 1 1
+chrome108.0.0.0 19 19
+firefox108.0 3 3
+chrome78.0.3904.108 4 4
+firefox114.0 2 2
+firefox73.0 2 2
+chrome120.0.6099.283 1 1
+chrome79.0.3945.147 1 1
+chrome103.0.0.0 3 3
+chrome51.0.2704.103 4 4
+chrome89.0.4389.114 10 10
+firefox119.0 1 1
+safari17.0 1 1
+mozilla 22 22
+firefox97.0 1 1
+chrome91.0.4472.114 3 3
+chrome100.0.4896.127 1 1
+chrome103.0.5060.71 2 2
+chrome104.0.5112.79 1 1
+firefox44.0 1 1
+safari15.5 1 1
+opera89.0.4447.51 1 1
+firefox117.0 9 9
+chrome74.0.3729.169 3 3
+chrome112.0.0.0 1 1
+netscape5.0 4 4
+chrome96.0.4664.110 1 1
+safari16.1 2 2
+firefox41.0 1 1
+chrome87.0.4280.66 1 1
+chrome105.0.0.0 4 4
+chrome107.0.0.0 3 3
+chrome114.0.0.0 10 10
+chrome95.0.4638.54 1 1
+chrome100.0.4896.60 15 15
+chrome120.0.0.0 12 12
+chrome103.0.5060.53 1 1
+chrome111.0.0.0 1 1
+chrome106.0.1609 1 1
+chrome17.0.963.56 2 2
+firefox52.0 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+python-requests/2.31.0 20240226234628
+python-requests/2.22.0 20240201020207
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240229164117
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240224025745
+WhatsApp/2.23.20.0 20240213004022
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240215103912
+Python/3.8_aiohttp/3.9.1 20240220152143
+Mozilla/5.0 20240216074723
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240221074927
+python-requests/2.25.1 20240210113339
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+python-requests/2.25.1 20240210113339
+WhatsApp/2.23.20.0 20240213004022
+python-requests/2.31.0 20240226234628
+python-requests/2.22.0 20240201020207
+Python/3.8_aiohttp/3.9.1 20240220152143
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240221074927
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 256 256
+From1 2 2
+From2 5 5
+From3 10 10
+From4 96 96
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com_hk 1 1
+baidu 1 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 5
+https://mogasayang.site 5 5
+https://onic4dpasaran.site 2 2
+https://marwahmantap.site 1 1
+https://jpmanis.site 1 1
+https://jitusekali.site 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 10 11804
+404 617 740715
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 303
+/wp-includes/blocks/html/index.php 1 spanyollottery.com
+/wp-content/plugins/woocommerce/includes/shortcodes/ 1 -
+//cdn.js 5 -
+/wp-content/plugins/linkpreview/db.php 2 www.google.com
+/wp-content/plugins/about.php 2 -
+/.ftp-sync.json 1 -
+/wp-includes/Requests/Text/admin.php 1 -
+/system/admin.php 1 spanyollottery.com
+/sites/all/libraries/elfinder-1.1/src/connectors/php/connector.php 1 -
+/nf_tracking.php 2 www.google.com
+/wp-content/themes/seotheme/db.php 1 -
+/wp-content/hsduih.php 1 spanyollottery.com
+/wp-admin/ajax-actions.php 1 -
+/wp-includes/css/plugins.php 1 spanyollottery.com
+/wp-admin/user/cloud.php 1 -
+/cgi-bin/samll.php 1 spanyollottery.com
+/wp-includes/Requests/Exception/HTTP/RxRCLaTQTc.php 1 -
+/util/login.aspx 1 -
+/install.php 2 spanyollottery.com
+/wp-content/themes/astra/assets/js/minified/ 1 -
+/plugins/orakuploader/orakuploader.php 1 spanyollottery.com
+/wp-includes/css/buttons.css 1 http://spanyollottery.com//wp-includes/css/buttons.css
+/wp-content/themes/intense/block-css.php 1 -
+/wp-includes/js/dist/vendor/index.php 1 spanyollottery.com
+/alfa-rex.php7 1 -
+/wp-content/plugins/userpro/changelog.txt 1 -
+/wp-admin/ 1 -
+/wp-includes/js/tinymce/plugins/fullscreen/defaul1.php%7CUEjlZcWL 2 www.google.com
+/wp-includes/images/plugins.php 1 spanyollottery.com
+/yanz.php 1 -
+/images/cloud.php 1 -
+/wp-includes/PHPMailer/plugins.php 1 spanyollottery.com
+/wp-json/wp/v2/users/5 1 https://spanyollottery.com/
+/wp-json 10 -
+/css.php 2 -
+/wp-content/db-cache.php 3 -
+/wp-content/plugins/mstore-api/readme.txt 1 -
+/admin-post.php 1 -
+/admin/users/login_do/ 1 -
+/.well-knownold/ 1 -
+/administrator/ 1 -
+/wp-admin/css/colors/cloud.php 1 -
+/inputs.php 4 www.google.com
+/wp-content/plugins/ht-mega-for-elementor/readme.txt 1 -
+/wp-admin/js/widgets/cloud.php 1 -
+/dist/js/bootstrap.bundle.min.js 4 -
+/admin/controller/extension/extension/ 1 binance.com
+/sitemap.xml 12 -
+/mail.php 1 -
+/wp-content/themes/aahana/json.php 1 www.google.com
+/updates.php 1 -
+/wp-json/wp/v2/users/2 2 https://spanyollottery.com/
+/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/RxRlRtVvyN.php 1 -
+/sites/all/libraries/elfinder-1.2/connectors/php/connector.php 1 -
+/humans.txt 7 http://spanyollottery.com/humans.txt
+/cloud.php 1 -
+/wp-json/wpgmza/v1/markers 2 -
+/wp-content/themes/digital-download/new.php 1 www.google.com
+/manager/ 1 -
+/application/admin.php 1 spanyollottery.com
+/phpmyadmin/index.php 3 -
+/wp-content/plugins/wp-simple-firewall/assets/dist/shield-blockpage.bundle.css 1 spanyollottery.com
+/sites/all/libraries/elfinder/elfinder.html 1 -
+/content.php 1 -
+/wp-content/plugins/seoo/wsoyanz.php 1 -
+/defaul1.php%7CUEjlZcWL 2 www.google.com
+/robots.txt 93 -
+/wp-includes/admin.php 1 spanyollottery.com
+/wp-content/plugins/include.php 2 -
+/wp-admin/cloud.php 1 -
+/sites/all/libraries/elfinder/src/connectors/php/connector.php 1 -
+/wp-p.php7 1 -
+/wp-includes/certificates/plugins.php 1 spanyollottery.com
+/wp-admin/install.php 2 -
+/core/start.php 1 http://www.spanyollottery.com/core/start.php
+/elfinder/connectors/php/connector.php 1 -
+/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/rules.key 1 spanyollottery.com
+/wp-2019.php 1 -
+/libraries/phpmailer/updates.php 1 -
+/wp-login.php 12 -
+/blog/wp-login.php 1 -
+/sitemap.txt 2 -
+/wp-content/themes/sienna/hsduih.php 1 spanyollottery.com
+/wp-content/themes/travel/issue.php 2 www.google.com
+//germanylotterie.com/wp-content/themes/lottery/assets/js/flipclock.js 5 -
+/uploads/ 1 binance.com
+/complete-order/ 2 -
+/wp-content/defaul1.php%7CUEjlZcWL 2 www.google.com
+/security.txt 1 http://www.spanyollottery.com/security.txt
+/wp-content/plugins/ultimate-member/readme.txt 1 -
+/wp-includes/assets/plugins.php 1 spanyollottery.com
+/.well-known/pki-validation/samll.php 1 spanyollottery.com
+/wp-admin/includes/cloud.php 1 -
+/cong.php 1 -
+/simple.php 11 www.google.com
+/ftp-sync.json 1 -
+/wp-content/uploads/ 1 -
+/wp-json/ 24 http://spanyollottery.com/wp-json/
+/libraries/vendor/updates.php 1 -
+/wp-content/plugins/fix/up.php 1 www.google.com
+/doc.php 1 -
+/wp-admin/images/cloud.php 1 -
+/cgi-bin/plugins.php 1 spanyollottery.com
+//wp-apxupx.php 1 -
+/images/images/images/hsduih.php 1 spanyollottery.com
+/content/admin.php 1 spanyollottery.com
+/wp-content/style-css.php 1 spanyollottery.com
+/img/cloud.php 1 -
+/files/ 1 binance.com
+/wp-includes/customize/smooth_wp.php%7CF5d4JH6m1 2 www.google.com
+/style.php 5 www.google.com
+/wp-includes/widgets/plugins.php 1 spanyollottery.com
+/wp-content/plugins/admin.php 2 -
+/resources/admin.php 1 spanyollottery.com
+/geju.php 2 -
+/wp-content/repeater.php 1 -
+/.well-known/acme-challenge/2index.php 1 spanyollottery.com
+/wp-includes/js/tinymce/plugins/wordpress/defaul1.php%7CUEjlZcWL 2 www.google.com
+/ckeditor/admin.php 1 spanyollottery.com
+/wp-content/themes/ 1 -
+/.well-known/pki-validation/admin.php 1 spanyollottery.com
+/.env 5 http://spanyollottery.com/.env
+/.well-known/acme-challenge/cloud.php 1 -
+/wp-includes/wlwmanifest.xml 2 -
+/sites/all/libraries/elfinder-1.2/src/connectors/php/connector.php 1 -
+/wp-content/themes/bricks/style.css 4 spanyollottery.com
+/wp-content/plugins/royal-elementor-addons/readme.txt 2 -
+/wp-content/ll.php 1 -
+/libraries/legacy/updates.php 1 -
+/images/ 2 -
+/atomlib.php 1 -
+/wp-content/themes/lottery_germany/readme.txt 1 -
+/js/index.php 1 spanyollottery.com
+/.well-known/pki-validation/cloud.php 1 -
+/wp-content/plugins/wp-post-author/readme.txt 1 -
+/wp-includes/widgets/include.php 2 -
+/wp-content/plugins/qhzpkrb/hsduih.php 1 spanyollottery.com
+/wp-content/plugins/ninja-forms/readme.txt 1 -
+/sftp-config.json 1 -
+/wp-content/themes/defaul1.php%7CUEjlZcWL 2 www.google.com
+/wp-content/admin.php 3 -
+/wp-json/litespeed/v1/cdn_status 3 -
+/includes/config.example.php 1 spanyollottery.com
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/admin/ 1 -
+/ajax-actions.php 1 -
+/ftpsync.setting 1 -
+/.vscode/ftp-sync.json 1 -
+/wp-content/plugins/wpgateway/css/style.css 1 -
+//wp-json/oembed/1.0/embed 3 -
+/wp-head.php 2 -
+/sites/default/admin.php 1 spanyollottery.com
+/wp-content/plugins/ 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 5 -
+/wp-admin/setup-config.php 2 -
+//s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js 5 -
+/wp-consar.php 1 -
+/cache-compat.php 1 -
+/wp-includes/js/jquery/jquery.min.js 1 www.google.com
+/wp-admin/js/about.php 1 -
+/wp-content/plugins/menu-image/readme.txt 1 -
+/cloud.php/wso.php 1 -
+/cgi-bin/cloud.php 1 -
+/wp-admin/css/hsduih.php 1 spanyollottery.com
+/about.php7 1 -
+/index_sso.php 3 -
+/wp-content/themes/pridmag/db.php 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/wp-content/pm.php 1 spanyollottery.com
+/sites/all/libraries/elfinder-1.1/connectors/php/connector.php 1 -
+/php/thinkphp/aaaffff123.php 3 -
+/wordpress 1 -
+/.DS_Store 2 -
+/wp-includes/blocks/defaul1.php%7CUEjlZcWL 2 www.google.com
+/wp-emoji-release.min.js 4 -
+/wp-includes/blocks/site-tagline/index.php 1 spanyollottery.com
+/.well-known/pki-validation/Newsupway.php 1 www.google.com
+/wp-includes/js/jquery/jquery.js 4 www.google.com
+/wp-includes/js/tinymce/plugins/wordpress/index.php 1 spanyollottery.com
+/wp 1 -
+/sites/all/libraries/elfinder/elfinder-1.2/connectors/php/connector.php 1 -
+/wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/smoothness.php 1 -
+/admin.php 9 -
+/wp-content/plugins/seoplugins/mar.php 1 www.google.com
+/view-source: 2 -
+/.ftpsync.setting 1 -
+/html/admin.php 1 spanyollottery.com
+/%5C/germanylotterie.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 1 -
+/wp-includes/ 2 -
+/wp-json/wp/v2/users/4 1 https://spanyollottery.com/
+/about/admin.php 1 spanyollottery.com
+/dropzone/dropzone-amd-module.min.js 1 -
+/ads.txt 8 http://spanyollottery.com/ads.txt
+/alfanew.php 1 -
+/dist/jquery.min.js 4 -
+/wp-admin/css/colors/blue/RxRHydQwam.php 1 -
+/wp-content/plugins/fix/hsduih.php 1 spanyollottery.com
+/administrator/index.php 2 -
+/wp-content/updates.php 1 -
+/dropdown.php 1 -
+/icon/admin.php 1 spanyollottery.com
+/.well-known/security.txt 3 -
+/misc/ajax.js 2 -
+/.vscode/sftp.json 1 -
+//germanylotterie.com/wp-content/themes/lottery_germany/assets/js/lottery.js 5 -
+/ext/index.php 1 spanyollottery.com
+/wp-includes/sitemaps/plugins.php 1 spanyollottery.com
+/wp-content/plugins/seoplugins/db.php 1 -
+/wp-content/lol.php 1 -
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 1 -
+/elfinder/elfinder.html 1 -
+/wp_cron.php 1 spanyollottery.com
+/wp-admin/css/ 1 binance.com
+/elfinder/php/connector.minimal.php 1 -
+/wp-content/uploads/plugins.php 1 spanyollottery.com
+/wp-admin/css/colors/blue/cloud.php 1 -
+/wp-includes/repeater.php 1 -
+/wsoyanz.php 1 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 1 -
+/user/ 1 -
+/wp-content/plugins/ultimate-member/assets/css/common.css 1 spanyollottery.com
+/wp-content/plugins/wordpress-seo/src/ 1 -
+/wp-content/themes/gaukingo/db.php 1 -
+/wp-includes/images/include.php 2 -
+/wp-includes/images/smilies/index.php 1 spanyollottery.com
+/htdocs/wp-admin/hsduih.php 1 spanyollottery.com
+/.well-known/acme-challenge/samll.php 1 spanyollottery.com
+/wp-content/plugins/WordPressCore/include.php 2 -
+/wp-content/themes/lottery/readme.txt 1 -
+/wp-content/plugins/Cache/Cache.php 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 3 -
+/sites/all/libraries/elfinder/php/connector.php 1 -
+/cgi-bin/radio.php 1 spanyollottery.com
+/index.php 6 -
+/bak.php 1 -
+/wp-includes/Requests/Exception/HTTP/HTTP.php 1 -
+/wp-includes/sodium_compat/plugins.php 1 spanyollottery.com
+//wp-includes/wlwmanifest.xml 3 -
+/wp-includes/blocks/query-pagination-numbers/index.php 1 spanyollottery.com
+/hsduih.php 1 spanyollottery.com
+/wp-includes/sitemaps/providers/index.php 1 spanyollottery.com
+/ayk.php 2 -
+/ll.php 1 -
+/user/login/ 1 -
+/.ftpconfig 1 -
+/wp-content/plugins/wp_cache/radio.php 1 spanyollottery.com
+/about.php 11 spanyollottery.com
+/elfinder/php/connector.php 1 -
+/cgi-bin/wp-login.php 1 spanyollottery.com
+/css/cloud.php 1 -
+/admin/admin.php 1 spanyollottery.com
+/input.php 2 www.google.com
+/sites/admin.php 1 spanyollottery.com
+/.well-known/pki-validation/2index.php 1 spanyollottery.com
+/log.php 1 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 5 -
+/old/admin.php 1 spanyollottery.com
+/wp.php 3 -
+/cgi-bin/2index.php 1 spanyollottery.com
+/wp-admin/network/cloud.php 1 -
+/wp-content/uploads/hsduih.php 1 spanyollottery.com
+/public/admin.php 1 spanyollottery.com
+/orakuploader/orakuploader.php 1 spanyollottery.com
+/wp-content/themes/themes.php 1 spanyollottery.com
+/wp-content/themes/travelscape/json.php 2 www.google.com
+/.well-known/acme-challenge/radio.php 1 spanyollottery.com
+/wp-content/themes/seotheme/mar.php 1 www.google.com
+/history-result/%20%20%20%20%20%20%20%20 1 -
+/repeater.php 2 -
+/wp-admin/hsduih.php 1 spanyollottery.com
+//wp-json/wp/v2/users/ 3 -
+/wp-content/themes/include.php 2 -
+/wp-admin/repeater.php 1 -
+/wp-includes/fonts/plugins.php 1 spanyollottery.com
+/sites/all/libraries/elfinder/connectors/php/connector.php 1 -
+/enhancecp 2 -
+/wp-admin/js/widgets/about.php7 1 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-admin/css/colors/blue/blue.php 1 -
+/wp-admin/css/index.php 1 -
+/lol.php 2 www.google.com
+/wp-admin/dropdown.php 1 -
+/chosen.php 5 www.google.com
+/upfile.php 1 -
+/wp-content/plugins/seoo/wsoyanz1.php 1 -
+/sites/all/modules/elfinder/elfinder.html 1 -
+/blog/ 1 -
+/wp-admin/css/colors/coffee/cloud.php 1 -
+/wp-admin/admin.php 1 spanyollottery.com
+/admin/index.php 1 -
+/wp-content/themes/travel/hsduih.php 1 spanyollottery.com
+/lufix.php 1 -
+//xmlrpc.php 1 -
+/wp-admin/user/plugins.php 1 spanyollottery.com
+/sites/default/files/ 1 binance.com
+/wp-includes/js/tinymce/plugins/media/defaul1.php%7CUEjlZcWL 2 www.google.com
+/magento_version 1 -
+/.sftp-config.json 1 -
+/wp-admin/maint/maint/ajax-actions.php 1 -
+/wp-content/plugins/moveto/assets/js/common-front.js 2 -
+/wp-admin/js/widgets/samll.php 1 spanyollottery.com
+/wp-content/plugins/woocommerce-payments/readme.txt 2 -
+/scripts/admin.php 1 spanyollottery.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 234
+124.248.183.41 36 36 213957 20240229115354
+130.211.98.244 9 9 60557 20240220152143
+35.171.144.152 9 9 376621 20240222133455
+177.10.89.81 8 8 69264 20240215143747
+165.232.62.51 8 8 69208 20240212055604
+149.56.150.223 7 7 1924656 20240215103847
+54.88.179.33 6 6 251072 20240219130951
+194.33.191.139 5 5 209255 20240209090324
+163.5.210.83 5 5 209255 20240222103722
+193.248.60.48 5 5 104629 20240223175809
+173.236.213.148 5 5 43305 20240208020604
+51.254.199.11 4 4 34611 20240226013130
+165.22.60.212 4 4 167380 20240227000902
+45.80.122.16 4 4 50251 20240218082027
+66.102.8.97 3 3 20526 20240223221304
+114.122.201.143 3 3 43401 20240227122320
+5.9.158.7 3 3 89125 20240212033418
+129.226.147.7 3 3 25967 20240220072854
+128.90.135.40 2 2 17302 20240204223108
+182.42.111.156 2 2 17300 20240221054406
+43.134.190.89 2 2 17295 20240209195554
+113.219.218.197 2 2 17324 20240228052903
+118.26.105.116 2 2 17322 20240208010941
+77.246.105.178 2 2 83698 20240204040248
+178.254.12.183 2 2 17306 20240225165908
+142.93.6.137 1 1 8651 20240212030648
+154.28.229.234 1 1 6843 20240203143821
+60.188.57.0 1 1 8647 20240222122908
+101.91.148.219 1 1 8662 20240222030339
+205.210.31.71 1 1 41849 20240215165809
+139.59.78.186 1 1 8653 20240204142219
+154.91.64.33 1 1 8664 20240219192943
+45.154.163.66 1 1 6844 20240214151928
+199.45.154.16 1 1 812 20240224025745
+134.209.21.44 1 1 8648 20240206015206
+191.102.162.137 1 1 8658 20240225234625
+18.197.97.14 1 1 8653 20240204202957
+159.65.151.220 1 1 8659 20240227041857
+192.71.12.112 1 1 8662 20240221201116
+143.244.178.221 1 1 8645 20240214012559
+198.235.24.90 1 1 41845 20240209151829
+54.218.94.17 1 1 6844 20240214154817
+222.79.104.23 1 1 8657 20240218024633
+125.94.144.102 1 1 8657 20240224014440
+199.45.154.50 1 1 812 20240220223135
+117.33.163.216 1 1 8652 20240227190720
+185.220.101.63 1 1 8653 20240205014435
+35.89.11.250 1 1 8641 20240209051332
+43.163.6.124 1 1 8642 20240210193607
+103.149.26.230 1 1 8663 20240216040552
+43.163.0.99 1 1 8657 20240219101353
+152.42.142.186 1 1 8658 20240226030501
+38.46.14.179 2 2 17321 20240224032733
+135.148.195.4 1 1 8649 20240201185555
+157.245.77.161 1 1 8664 20240220015034
+77.246.102.95 2 2 83698 20240204004819
+158.69.129.105 1 1 8642 20240203014245
+5.133.192.87 1 1 8659 20240227092834
+54.173.203.59 1 1 8658 20240225210129
+142.93.50.1 1 1 8661 20240208025936
+192.71.3.222 1 1 8652 20240204095700
+54.200.132.219 1 1 8659 20240227051459
+91.92.252.167 1 1 8642 20240211064726
+36.41.75.167 1 1 8660 20240229235208
+149.56.150.253 1 1 6844 20240215103912
+134.122.28.160 1 1 8662 20240222024542
+43.163.3.58 1 1 8653 20240214174410
+45.139.55.97 1 1 6840 20240213000535
+111.7.100.24 2 2 6846 20240207201306
+111.172.249.49 1 1 8647 20240223052258
+23.88.50.214 1 1 8661 20240229033835
+190.123.209.245 1 1 0 20240224233723
+162.243.4.24 1 1 8657 20240223172610
+185.220.101.44 1 1 8642 20240203014238
+43.155.166.202 1 1 8698 20240204133952
+182.42.105.85 1 1 8652 20240203175050
+49.7.227.204 1 1 8642 20240202133947
+51.20.188.226 1 1 8653 20240201020207
+217.35.144.53 2 2 17304 20240228024735
+43.134.170.46 1 1 8659 20240226231017
+94.247.172.129 1 1 8657 20240217211115
+35.89.200.114 1 1 8653 20240205051709
+222.79.103.59 1 1 8660 20240229124817
+199.244.60.57 1 1 6841 20240206090833
+199.45.155.35 1 1 812 20240221095955
+199.45.154.64 1 1 8663 20240215132720
+43.128.100.220 1 1 8663 20240215191311
+5.42.80.232 1 1 8653 20240205014441
+93.158.91.249 1 1 8658 20240225223914
+45.144.37.182 1 1 6843 20240216044651
+176.123.7.11 1 1 8648 20240206054557
+88.210.12.47 1 1 8657 20240218212516
+182.42.110.255 2 2 17322 20240229020022
+143.198.55.236 1 1 8663 20240216024331
+203.189.136.18 1 1 6844 20240208235649
+45.12.145.76 1 1 6848 20240228190041
+194.35.117.167 1 1 6846 20240208050223
+67.220.86.160 1 1 8658 20240226025015
+46.246.8.9 1 1 41849 20240204005941
+170.106.101.31 1 1 8649 20240201200432
+43.131.249.153 2 2 17286 20240213180158
+154.28.229.172 1 1 6843 20240203151927
+199.45.155.33 1 1 812 20240215085739
+18.144.83.231 1 1 8642 20240202194330
+93.159.230.90 1 1 8642 20240210120122
+199.45.154.49 2 2 1624 20240218105515
+135.148.195.12 1 1 8655 20240216212602
+185.197.74.148 1 1 41849 20240219011159
+182.44.2.148 1 1 8657 20240224110448
+54.212.127.251 1 1 8653 20240205051947
+54.208.44.132 1 1 8663 20240215203126
+188.130.137.6 1 1 8652 20240203141611
+43.163.8.36 1 1 8642 20240206224930
+78.138.99.187 1 1 41845 20240216161401
+43.134.89.111 1 1 8649 20240201140055
+45.61.188.92 1 1 8660 20240229131607
+106.119.167.146 1 1 8642 20240203043854
+95.32.48.120 1 1 6848 20240229104841
+52.80.18.29 1 1 8648 20240213060804
+170.233.98.37 1 1 6848 20240201103855
+104.154.100.254 1 1 8659 20240226234628
+175.6.217.4 1 1 8698 20240203224237
+5.133.192.167 1 1 8652 20240204061120
+194.26.192.228 1 1 694 20240216184113
+77.74.177.119 1 1 8648 20240213001606
+185.223.152.199 1 1 41847 20240220185115
+34.134.246.11 1 1 8648 20240212130354
+135.148.195.13 1 1 8662 20240221155150
+93.158.70.111 1 1 8641 20240208191112
+180.102.134.69 2 2 17316 20240219204832
+91.121.62.58 1 1 8663 20240216074723
+5.133.192.171 1 1 8655 20240216153246
+13.57.181.69 1 1 8657 20240223185252
+43.134.66.205 1 1 8652 20240204003848
+167.248.133.35 1 1 813 20240215050441
+43.130.39.101 1 1 8649 20240202103802
+34.214.152.148 1 1 8642 20240211045834
+199.45.155.17 1 1 811 20240215122530
+43.163.8.148 1 1 8698 20240204031855
+137.184.226.51 2 2 17320 20240229123005
+135.148.195.9 1 1 8659 20240226201406
+14.215.163.132 1 1 8659 20240227090804
+52.81.236.145 1 1 8647 20240223080336
+111.7.100.23 1 1 8652 20240203192832
+68.183.150.16 1 1 8652 20240228021605
+182.44.12.37 1 1 8672 20240224211353
+165.232.123.28 1 1 8657 20240224021102
+199.45.154.51 1 1 812 20240215064121
+54.200.161.175 1 1 8653 20240205051842
+111.7.100.27 1 1 8661 20240207201145
+138.122.193.187 1 1 8672 20240224233724
+93.174.93.127 2 2 17316 20240226093914
+150.109.253.34 1 1 8661 20240207215936
+205.237.95.238 1 1 6841 20240206091211
+156.146.62.52 1 1 8642 20240210144749
+43.163.1.85 2 2 17309 20240226031426
+93.158.98.56 1 1 8648 20240213041017
+146.56.139.52 1 1 6841 20240216162405
+34.28.134.206 1 1 8653 20240204232954
+168.119.163.100 2 2 17322 20240228171539
+34.221.141.222 1 1 8641 20240209051332
+13.52.250.252 1 1 8647 20240209200103
+95.59.26.111 1 1 6848 20240229104906
+45.128.230.164 1 1 6845 20240218082023
+182.44.10.67 1 1 8657 20240223150444
+87.246.8.208 1 1 8642 20240202181154
+95.216.145.1 1 1 8653 20240205014438
+143.110.243.138 1 1 8657 20240218091124
+64.233.172.134 1 1 6842 20240211104342
+65.21.22.133 1 1 8651 20240212013812
+89.248.174.34 2 2 17324 20240222020706
+103.80.54.2 1 1 6844 20240227084322
+107.175.80.181 1 1 8642 20240202193050
+137.184.84.215 1 1 8664 20240220044712
+185.220.100.244 1 1 8653 20240205014446
+167.94.138.35 1 1 812 20240218102405
+43.155.160.173 1 1 8657 20240219000950
+199.45.155.48 1 1 8653 20240215072736
+165.22.237.176 1 1 8648 20240213062727
+110.137.38.237 1 1 6842 20240223024303
+43.159.128.68 1 1 8653 20240201103919
+205.210.31.203 1 1 41847 20240214052424
+18.236.36.227 1 1 6844 20240215071240
+202.93.153.69 1 1 6844 20240215115036
+205.185.125.109 1 1 8652 20240227122301
+121.91.225.56 1 1 8642 20240202181155
+3.237.255.25 1 1 6844 20240209082334
+185.106.94.195 1 1 8653 20240205014436
+142.93.130.142 1 1 8647 20240210015202
+51.89.227.251 1 1 8661 20240208001609
+203.33.203.148 1 1 8653 20240201103200
+130.255.166.120 1 1 8657 20240217124031
+93.100.145.57 1 1 41849 20240211114640
+124.71.235.245 1 1 8653 20240204192106
+27.115.124.109 1 1 8653 20240204124210
+93.159.230.87 1 1 8659 20240227002155
+54.214.98.146 1 1 41849 20240211051525
+42.83.147.53 2 2 17316 20240225183353
+128.90.144.150 1 1 8641 20240209074525
+89.185.85.140 1 1 8653 20240205014433
+94.156.68.85 1 1 694 20240214210803
+34.41.175.190 1 1 8657 20240218213711
+205.210.31.134 1 1 41847 20240206132030
+154.91.83.168 2 2 17316 20240226204721
+64.227.113.8 1 1 8657 20240218011941
+150.109.16.20 1 1 8662 20240221160640
+129.226.158.26 1 1 8652 20240203220153
+137.226.113.44 2 2 17323 20240229164117
+135.148.195.6 1 1 8651 20240211185952
+45.85.66.84 1 1 6845 20240217232457
+198.235.24.229 1 1 41845 20240202214214
+85.25.93.236 2 2 17370 20240224163206
+199.45.154.65 1 1 8653 20240215091540
+46.228.199.158 1 1 8663 20240215180935
+125.75.66.97 1 1 8652 20240203224213
+66.29.152.203 1 1 8647 20240210113339
+135.148.195.7 1 1 8642 20240210173027
+167.248.133.53 1 1 813 20240208103632
+205.185.125.169 1 1 8672 20240224144435
+95.56.50.88 1 1 8642 20240203031926
+42.83.147.56 1 1 8664 20240220115516
+124.225.164.130 2 2 80433 20240218131721
+161.35.130.240 1 1 8652 20240204012759
+54.193.48.215 1 1 8655 20240216190514
+3.81.158.125 1 1 8642 20240211025138
+205.210.31.128 1 1 41847 20240221074927
+52.80.162.245 1 1 8647 20240210050020
+43.133.66.151 1 1 8649 20240201215734
+216.251.130.74 1 1 6842 20240210130322
+167.71.93.34 1 1 8649 20240202030519
+93.158.91.25 1 1 8647 20240210110303
+199.45.155.49 1 1 8663 20240215163052
+36.111.67.189 2 2 80427 20240220174808
+54.149.109.197 1 1 8642 20240211045836
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20240201 9 9 74251 9
+20240202 11 11 128300 11
+20240203 16 16 264338 16
+20240204 17 17 308085 17
+20240205 11 11 95173 11
+20240206 9 9 207002 7
+20240207 4 4 24168 3
+20240208 15 15 116580 10
+20240209 12 12 301161 8
+20240210 12 12 98329 12
+20240211 9 9 142410 9
+20240212 16 16 199771 7
+20240213 10 10 184266 9
+20240214 6 6 73527 6
+20240215 36 36 2157020 23
+20240216 17 17 247396 12
+20240217 6 6 46500 5
+20240218 16 16 133009 13
+20240219 10 10 215716 8
+20240220 20 20 175723 11
+20240221 8 8 90985 7
+20240222 15 15 384939 7
+20240223 15 15 183917 10
+20240224 13 13 92510 11
+20240225 9 9 67460 7
+20240226 11 11 93428 10
+20240227 15 15 278224 10
+20240228 8 8 67439 6
+20240229 13 13 96671 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+0s-30s 272
+30s-2mn 5
+2mn-5mn 2
+15mn-30mn 2
+5mn-15mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 341 4084299 278 271
+/live-draw/ 10 107797 3 5
+/history-result/ 8 2020018 2 4
+// 8 334796 0 3
+/.well-known/ 2 1388 2 2
+END_SIDER

@@ -1,0 +1,1565 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202408 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.belarusialottery.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2048                
+POS_TIME 2726                
+POS_VISITOR 40078               
+POS_DAY 52662               
+POS_DOMAIN 3587                
+POS_LOGIN 4247                
+POS_ROBOT 4402                
+POS_WORMS 5382                
+POS_EMAILSENDER 5513                
+POS_EMAILRECEIVER 5656                
+POS_SESSION 53493               
+POS_SIDER 53683               
+POS_FILETYPES 5791                
+POS_DOWNLOADS 5953                
+POS_OS 6001                
+POS_BROWSER 6350                
+POS_SCREENSIZE 8457                
+POS_UNKNOWNREFERER 8531                
+POS_UNKNOWNREFERERBROWSER 9522                
+POS_ORIGIN 10092               
+POS_SEREFERRALS 10234               
+POS_PAGEREFS 10463               
+POS_SEARCHWORDS 10719               
+POS_KEYWORDS 10871               
+POS_MISC 2390                
+POS_ERRORS 10930               
+POS_CLUSTER 4103                
+POS_SIDER_404 11060               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240901001653 32 7714 10599244825692
+FirstTime 20240801004701
+LastTime 20240831233514
+LastUpdate 20240901083321 32 0 31 0 0
+TotalVisits 343                 
+TotalUnique 295                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 331                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 34 2630952 42 63 148071
+1 9 52 2116866 25 50 316167
+2 22 37 2174223 484 500 683440
+3 11 16 1629895 41 55 281703
+4 51 481 21054906 28 136 595966
+5 29 192 6762001 61 136 1587077
+6 20 115 4274967 67 138 1514833
+7 32 190 5817221 31 99 676173
+8 10 19 1342651 62 68 167661
+9 18 25 2399133 150 172 1023067
+10 15 41 2378345 250 273 735116
+11 13 40 1427106 264 278 547471
+12 20 45 760894 137 176 1643125
+13 9 24 2304514 25 45 59506
+14 16 52 1774891 259 289 494800
+15 12 16 1332891 359 375 620060
+16 23 26 1169871 279 293 833791
+17 8 10 68575 23 41 184160
+18 5 16 675216 225 243 1057535
+19 12 22 785959 206 222 824669
+20 6 19 1659327 63 79 217922
+21 24 57 1135228 467 515 924374
+22 10 11 457559 19 30 466705
+23 13 32 1105023 99 112 190640
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 31
+us 129 427 22588335
+id 49 652 27701894
+cn 49 51 1043177
+jp 33 33 290295
+ca 24 25 775769
+kh 22 153 3348363
+se 12 18 1947562
+in 10 120 4528598
+ru 10 10 141733
+de 9 9 79152
+pl 9 9 47907
+nl 8 9 345433
+gb 6 6 113540
+gr 4 6 649215
+be 4 8 1263202
+vn 3 3 20892
+it 2 3 324581
+es 2 2 1540
+fr 2 2 13928
+bg 2 2 17582
+eu 2 4 631595
+ro 2 5 324634
+ch 1 1 40083
+kr 1 1 8795
+cl 1 1 8788
+hn 0 2 316146
+ua 0 5 326955
+ma 1 1 6964
+pe 1 1 6972
+dk 1 2 315793
+pa 1 1 8791
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 22
+Googlebot/ 107 302114 20240831204954 0
+AhrefsBot/ 64 390376 20240831200607 0
+bot[\s_+:,\.\;\/\\-] 52 2315575 20240821044154 0
+bingbot/ 37 721734 20240831050813 0
+no_user_agent 26 1002080 20240831184407 0
+facebookexternalhit/ 22 972782 20240829211521 0
+(firefox/)([0-9]\.|[0-1][0]\.) 20 198500 20240829010211 0
+crawl 17 787031 20240829225431 0
+nbot 13 678048 20240820183038 0
+Go\-http\-client/ 12 1596573 20240825192130 0
+SemrushBot/ 9 84644 20240827112105 0
+SeznamBot/ 5 43968 20240830051832 0
+YandexBot/ 4 35203 20240827093825 0
+Googlebot\-Image/ 4 1228020 20240823051534 0
+DotBot/ 3 170201 20240814212817 0
+survey 3 120248 20240808192039 0
+link 3 28207 20240806110809 0
+Apache\-HttpClient/ 3 26407 20240818055108 0
+curl 2 17586 20240805224002 0
+yandex 2 11684 20240827093858 0
+Applebot/ 1 10618 20240814234318 0
+MJ12bot/ 1 6969 20240826222903 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+jpg 206 1479618 0 0
+js 45 145728 0 0
+css 458 644410 0 0
+html 400 4873616 0 0
+png 463 60094842 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 19
+android10 739 62
+linuxubuntu 2 2
+macosx9 2 2
+macosx15 35 19
+macosx 5 2
+linux 23 16
+android 93 9
+winvista 1 1
+androidoreo 1 1
+Unknown 121 58
+androidnougat 3 3
+win10 307 112
+androidmarshmallow 31 2
+ios_iphone 122 84
+androidpie 33 2
+win7 11 11
+winnt 6 4
+androidlollipop 31 4
+win8.1 6 6
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 102
+firefox125.0 1 1
+chrome101.0.191 1 0
+chrome0.4.154.25 1 1
+chrome98.0.2103 1 0
+safari13.0.3 73 73
+safari15.4 1 1
+safari7.0.6 1 1
+chrome76.0.3809.89 1 1
+mozilla 95 32
+chrome87.0.4280.141 23 1
+chrome91.0.4472.114 6 6
+chrome76.0.460 1 1
+chrome79.0 4 4
+safari 40 6
+chrome41.0.2228.0 1 1
+firefox78.0 1 1
+chrome122.0.6261.57 3 1
+chrome72.0.3164.88 1 1
+firefox32.0 1 1
+chrome124.0.6367.61 1 1
+firefox114.0 3 2
+chrome100.0.4896.58 12 1
+firefox33.0 1 1
+safari17.2.1 1 1
+chrome118.0.5993.70 1 1
+opera107.0.0.0 2 2
+Unknown 25 25
+chrome124.0.0.0 24 3
+chrome109.0.0.0 1 0
+chrome129.0.0.0 12 1
+chrome120.0.0.0 12 9
+chrome104.0.0.0 1 1
+chrome51.0.2704.103 4 4
+chrome76.0.3956.88 1 1
+firefox86.0 1 1
+chrome50.0.62 1 1
+chrome60.0.3112.107 3 3
+chrome110.0.0.0 3 3
+chrome119.0.0.0 14 2
+chrome73.0.1160 1 1
+firefox128.0 17 1
+firefox98.0 1 1
+firefox115 1 1
+chrome90.0.4430.85 2 2
+chrome116.0.0.0 8 8
+chrome123.0.0.0 1 1
+firefox118.0 3 3
+opera100.0.0.0 2 0
+opera102.0.0.0 1 1
+safari17.1.2 1 1
+opera83.0.0.0 19 1
+chrome117.0.0.0 5 5
+opera81.0.2254.72209 19 1
+firefox63.0 3 3
+safari14.0.1 1 1
+chrome100.0.4896.60 10 10
+chrome107.0.0.0 3 0
+chrome57.0.2987.108 11 1
+chrome51.0.350 1 0
+chrome92.0.1088 1 0
+opera83.1.2254.73239 65 3
+chrome127.0.0.0 732 71
+safari17.2 6 3
+opera82.0.2254.72589 22 1
+chrome126.0.0.0 99 23
+chrome113.0.0.0 1 0
+chrome106.0.0.0 8 1
+chrome79.0.2231 1 0
+opera80.4.4244.7786 1 1
+chrome58.0.3029.110 2 2
+chrome124.0.6367.93 1 1
+chrome124.0.6367.92 1 1
+chrome108.0.0.0 15 0
+chrome112.0.0.0 1 0
+chrome128.0.0.0 19 1
+chrome80.0.3987.149 4 4
+chrome75.0.3770.80 1 1
+chrome105.0.0.0 14 8
+netscape5.0 2 2
+chrome127.0.6533.103 12 1
+chrome80.0.1864 1 1
+firefox81.0 1 1
+firefox108.0 1 1
+chrome89.0.4389.90 1 1
+chrome113.0.5672.93 1 1
+firefox126.0 1 1
+chrome50.0.2661.89 24 3
+chrome77.0.3865.10 1 1
+firefox102.0 1 1
+firefox99.0 1 1
+safari16.6 4 4
+chrome95.0.4638.74 7 1
+chrome74.0.3729.169 5 5
+chrome122.0.0.0 4 4
+chrome80.0.3987.162 2 2
+firefox117.0 3 3
+chrome62.0.1700 1 1
+safari16.3 9 0
+safari17.3.1 3 2
+chrome86.0.4240.183 1 1
+firefox123.0 1 1
+chrome92.0.4515.131 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240830015353
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240815120507
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240824003156
+got_(https://github.com/sindresorhus/got) 20240827230121
+python-requests/2.32.3 20240823093606
+python-requests/2.26.0 20240818043944
+Mozilla/5.0_(compatible;_heritrix/3.3.0-SNAPSHOT-20160721-2308__https://www.domaincodex.com) 20240809021549
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240807100423
+python-requests/2.28.1 20240801015505
+GlobalWebSearchx 20240810025222
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240829151000
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+GlobalWebSearchx 20240810025222
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240830015353
+got_(https://github.com/sindresorhus/got) 20240827230121
+python-requests/2.28.1 20240801015505
+python-requests/2.26.0 20240818043944
+python-requests/2.32.3 20240823093606
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 217 331
+From1 6 6
+From2 69 69
+From3 0 15
+From4 108 1151
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+www_google_com_au 1 1
+www_google_com 66 66
+search_yahoo_com 1 1
+www_google_co_id 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://belarusialottery-com.translate.goog 0 3
+https://belarusialottery-com.translate.goog/live-draw/ 0 12
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 62 77004
+404 3882 4853880
+301 7 5565
+206 2 109015
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 768
+/admin/uploadify/uploadify.css 1 -
+/author/stender/ 1 -
+/wp-admin/user/index.php 1 -
+/about.php 31 -
+/sftp-config.json 3 -
+/cgi-bin/xmrlpc.php 21 -
+/misc/ajax.js 3 -
+/.well-known/content.php 1 -
+/wp-admin/images/about.php 24 -
+/wp-includes/style-engine/about.php 22 -
+/wp-includes/js/jquery/content.php 1 -
+/wp-content/themes/inputs.php 1 -
+/images/ 2 binance.com
+/wp-includes/blocks/cover/content.php 1 -
+/wp-includes/blocks/group/content.php 1 -
+/wp-includes/blocks/query-pagination-numbers/content.php 1 -
+/wp-admin/includes/xmrlpc.php 21 -
+/wp-content/plugins/give/readme.txt 1 www.google.com
+/wp-includes/sodium_compat/namespaced/Core/Poly1305/content.php 1 -
+/wp-includes/Requests/Exception/Transport/content.php 1 -
+/0z.php 1 -
+/wp-content/uploads/index.php 1 -
+/post.php 1 -
+/yanz.php 22 -
+/wp-admin/user/sx.php 1 -
+/php_info.php 1 -
+/.well-known/pki-validation/about.php 22 -
+//shop/wp-includes/wlwmanifest.xml 1 -
+/images/inputs.php 1 -
+/wp-includes/js/imgareaselect/content.php 1 -
+/wp-content/upgrade-temp-backup/about.php 22 -
+/wp-includes/js/tinymce/plugins/wpeditimage/content.php 1 -
+/wp-content/plugins/grapefile/grapeupload2.php 1 -
+/wp-admin/admin.php 1 -
+/wp-includes/fonts/about.php 2 -
+/wp-includes/css/dist/block-directory/content.php 1 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 2 -
+/belarusialottery 1 www.google.com
+/wp-content/themes/about.php 22 -
+/wp-content/plugins/contact-form-7/admin/content.php 1 -
+/file-uploader/server/php/index.php 1 -
+/wp-admin/includes/index.php 3 -
+/wp-includes/js/tinymce/plugins/wpemoji/content.php 1 -
+/alfa-ioxi1.PHP 1 -
+/wp-content/uploads/inputs.php 1 -
+/wp-content/plugins/WordPressCore/smaxx.php 1 -
+/2013/installer.php 1 www.google.com
+/media.php 1 -
+/,https://loteriaportugal.com,,FALSE 1 -
+/wp-includes/blocks/verse/content.php 1 -
+/wp-includes.bak/html-api/about.php 22 -
+/cgi-bin/file.php 1 -
+/wp-content/themes/seotheme/db.php 21 -
+/WP/installer.php 1 www.google.com
+/wp-includes/js/mediaelement/content.php 1 -
+/wp-includes/IXR/index.php 1 -
+/plugin.php 1 -
+/DEMO/installer.php 1 www.google.com
+/demo/installer.php 1 www.google.com
+/wp-includes/css/dist/customize-widgets/content.php 1 -
+/wp-includes/PHPMailer/content.php 1 -
+/wp-includes/css/dist/edit-post/content.php 1 -
+/2020/installer.php 1 www.google.com
+/wp-mail.php 1 -
+/wp-includes/images/media/content.php 1 -
+/atomlib.php 2 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 2 -
+/test/installer.php 1 www.google.com
+/.well-known/acme-challenge/xmrlpc.php 22 -
+/wp-includes/plugins.php 1 -
+/.well-known/pki-validation/content.php 1 -
+/sites/all/libraries/elfinder-1.1/src/connectors/php/connector.php 1 -
+/wp-content/themes/deeds/framework/helpers/fontupload.php 1 -
+/wp-includes/css/dist/list-reusable-blocks/content.php 1 -
+/sites/all/libraries/elfinder-1.1/connectors/php/connector.php 1 -
+/wp-admin/maint/content.php 1 -
+/installer.php 1 www.google.com
+/adminfuns.php7 21 -
+/wp-includes/blocks/post-content/content.php 1 -
+/goat22.PhP7 1 -
+/wp-admin/dropdown.php 21 -
+/img/cloud.php 22 -
+/wp-includes/blocks/post-featured-image/content.php 1 -
+/dropzone/dropzone-amd-module.min.js 1 -
+/SHOP/installer.php 1 www.google.com
+/wp-content/themes/twentyfive/smaxx.php 1 -
+/wp-includes/Requests/Auth/content.php 1 -
+/wp-includes/blocks/rss/content.php 1 -
+/alfanew.php 22 -
+/product.php 1 -
+/chosen 1 -
+/admin/controller/extension/extension/ 2 binance.com
+/.well-known/security.txt 3 -
+/wp-admin/setup-config.php 5 -
+/wp/installer.php 1 www.google.com
+/alfa-rex2.php7 21 -
+/bless.php 1 -
+/wp-includes/blocks/site-title/content.php 1 -
+/fileupload/server/php/ 1 -
+/css/content.php 1 -
+/admin.php 27 -
+/Blog/installer.php 1 www.google.com
+/wp-includes/blocks/post-template/content.php 1 -
+/wp-includes/widgets/include.php 1 www.google.com
+/cms/wp-admin/install.php 2 -
+/wp-includes/js/tinymce/plugins/wordpress/content.php 1 -
+/wp-includes/id3/license.txt/2021/wp-includes/wlwmanifest.xml 1 -
+/author/wpadminne/ 1 -
+/wp-content/themes/index.php 2 -
+/css/index.php 1 -
+/wp-includes/sodium_compat/content.php 1 -
+/about/function.php 2 -
+/wp-admin/network/index.php 2 -
+/wp-includes/id3/license.txt/web/wp-includes/wlwmanifest.xml 1 -
+/defaults.php 1 -
+/wp-includes/js/plupload/content.php 1 -
+/wp-includes/js/tinymce/skins/wordpress/images/content.php 1 -
+/wp-includes/SimplePie/Decode/HTML/content.php 1 -
+/ss.php 1 -
+/new/ 3 -
+/wp-content/blogs.dir/about.php 22 -
+/wp-admin/css/colors/coffee/cloud.php 22 -
+/wp-admin/ajax-actions.php 21 -
+/css/cloud.php 22 -
+/media/system/js/core.js 6 http://belarusialottery.com/media/system/js/core.js
+/images/xmrlpc.php 21 -
+/images/content.php 1 -
+/wp-content/plugins/litespeed-cache/readme.txt 1 -
+/administrator/components/com_simplephotogallery/lib/uploadFile.php 1 -
+//wp-includes/ID3/license.txt 1 -
+/wp-admin/content.php 1 -
+/wp-includes/widgets/index.php 1 -
+/wp/ 3 -
+/wp-admin/classwithtostring.php 2 -
+/backup/wp-admin/install.php 2 -
+//test/wp-includes/wlwmanifest.xml 1 -
+/upload/server/php/ 1 -
+/plugins/file-uploader/server/php/index.php 1 -
+/wp-content/plugins/fix/sx.php 1 -
+/wp-includes/ID3/sx.php 1 -
+/.well-known/pki-validation/blurbs.php 1 -
+/security.txt 3 -
+/wp-includes/blocks/video/content.php 1 -
+/wp-admin/admin-ajax.php 5 -
+/wp-includes/Requests/Text/admin.php 22 -
+/wp-includes/js/tinymce/skins/lightgray/fonts/sx.php 1 -
+/wp-content/themes/sketch/404.php 1 -
+/images/about.php 22 -
+/privet-mir/ 1 -
+/wp-admin/network/cloud.php 22 -
+/wp-includes/repeater.php 22 -
+/wp-includes/Requests/about.php 24 -
+/wp-includes/blocks/latest-comments/content.php 1 -
+/wp-includes/ID3/about.php 22 -
+/wp-content/plugins/contact-form-7/radio.php 1 -
+/wp-admin/js/widgets/content.php 1 -
+/lock360.php 1 -
+/temp/ 3 -
+/wp-includes/js/dist/content.php 1 -
+/wp-content/plugins/contact-form-7/includes/radio.php 1 -
+/plugins/tinymce/plugins/ajaxfilemanager/ajax_create_folder.php 1 -
+/wp-includes/js/tinymce/plugins/compat3x/content.php 1 -
+/wp-sitemap-users-1.xml 1 https://belarusialottery.com
+/js/elfinder/php/connector.php 1 -
+/wp-content/plugins/keydatas/readme.txt 1 -
+/wp-includes/blocks/separator/content.php 1 -
+/wp-content/languages/about.php 22 -
+/wordpress/wp-admin/install.php 2 -
+/php_info 1 -
+/wp-includes/Requests/index.php 1 -
+/wp-admin/includes/sx.php 1 -
+/wp-content/plugins/about.php 1 -
+/elfinder/php/connector.minimal.php 2 -
+/BLOG/installer.php 1 www.google.com
+/wp-includes/blocks/columns/content.php 1 -
+/humans.txt 2 http://www.belarusialottery.com/humans.txt
+/FORUM/installer.php 1 www.google.com
+/masfix.php 1 -
+/admin-post.php 21 -
+/wp-content/upgrade/content.php 1 -
+/mah.php 9 -
+/wp-includes/sx.php 1 -
+/wp-includes/js/index.php 1 -
+/wp-includes/blocks/block/content.php 1 -
+/wp-content/plugins/wp-catcher/index.php 3 www.google.com
+/wp-includes/blocks/social-links/content.php 1 -
+/ebs.php7 21 -
+/wp-includes/blocks/site-logo/content.php 1 -
+/test 4 -
+/wp-content/plugins/social-networking-e-commerce-1/classes/views/social-photo/upload_photo1.php 1 -
+/wp-admin/js/about.php 43 -
+/wp-content/plugins/seoo/wsoyanz.php 22 -
+/wp-includes/IXR/sx.php 1 -
+/wp-includes/blocks/image/content.php 1 -
+/wp-includes/Requests/Utility/content.php 1 -
+/ajax-actions.php 22 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/wp-aa.php 4 www.google.com
+/cache-compat.php 22 -
+/.well-known/acme-challenge/cloud.php 42 -
+/wp-includes/Text/index.php 1 -
+/elfinder/elfinder.html 2 -
+/admin/plugins/uploadify/uploadify.css 1 -
+/wp-includes/css/dist/components/content.php 1 -
+/wp-includes/images/about.php 22 -
+/shop/installer.php 1 www.google.com
+/wp-admin/js/widgets/about.php7 22 -
+/wp-includes/js/tinymce/plugins/wptextpattern/content.php 1 -
+/dist/js/bootstrap.bundle.min.js 2 -
+/wp-includes/block-patterns/about.php 22 -
+/wp-includes/css/dist/block-library/content.php 1 -
+/wp-admin/css/colors/modern/content.php 1 -
+/new/wp-admin/install.php 2 -
+/wp-content/themes/travel/issue.php 1 www.google.com
+/wp-content/themes/Newspaper/404.php/wp-content/themes/Newspaper/404.php 1 -
+/wp-includes/blocks/media-text/content.php 1 -
+/cgi-bin/sx.php 1 -
+/privacy.php 1 -
+/wp-json/wp/v2/users/ 11 -
+/wp-includes/Requests/Exception/HTTP/content.php 1 -
+/web/wp-admin/install.php 2 -
+/wp-content/plugins/linkpreview/db.php 21 -
+/wp-includes/blocks/paragraph/content.php 1 -
+/classwithtostring.php 4 -
+/wp-includes/blocks/file/content.php 1 -
+/wp-content/plugins/seoplugins/mar.php 22 -
+/wp-admin/css/colors/blue/content.php 1 -
+/wp-includes/css/dist/nux/content.php 1 -
+/sites/all/libraries/elfinder-1.2/src/connectors/php/connector.php 2 -
+/info 1 -
+/.well-known/pki-validation/moon.php 1 -
+/templates/default/js/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php 1 -
+/sites/all/libraries/elfinder/php/connector.minimal.php 1 -
+/wp-json/wp/v2/users 2 -
+/2010/installer.php 1 www.google.com
+/testing 4 -
+/wp-admin/css/colors/cloud.php 22 -
+/xt/smaxx.php 1 -
+/edit.php 4 -
+/css/xmrlpc.php 21 -
+//2020/wp-includes/wlwmanifest.xml 1 -
+/x/index.php 1 -
+/sitemap.xml.gz 2 -
+/wp-includes/IXR/network.php 1 -
+/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/wp-admin/cloud.php 22 -
+/wp-admin/network/content.php 1 -
+/wp-includes/pomo/about.php 22 -
+/files/ 2 binance.com
+/libraries/phpmailer/updates.php 22 -
+/cloud.php 23 -
+/ws.php7 21 -
+/test/wp-admin/install.php 2 -
+/wp-includes/id3/license.txt/xmlrpc.php 1 -
+/.tmb/webdb.php 1 -
+/wp-includes/SimplePie/Parse/content.php 1 -
+/wp-includes/blocks/spacer/content.php 1 -
+//2019/wp-includes/wlwmanifest.xml 1 -
+/administrator/index.php 3 -
+/.well-known/about.php 22 -
+/wormioxi.php 1 -
+/wp-includes/Text/Diff/Engine/content.php 1 -
+/wp-admin/css/colors/blue/xmrlpc.php 21 -
+/alfa-ioxi.php 1 -
+/wp-includes/blocks/query-pagination-next/content.php 1 -
+//belarusia.com/wp-content/themes/lottery_belarusia/assets/js/lottery.js 3 -
+/smaxx.php 1 -
+/old/installer.php 1 www.google.com
+/wp-includes/blocks/gallery/content.php 1 -
+/xmrlpc.php 21 -
+/goat.php 1 -
+/files/index.php 1 -
+/thoms.php 2 -
+/wp-content/plugins/elementor/sx.php 1 -
+/hehehehe.php 1 -
+/wp-includes/js/jcrop/content.php 1 -
+/wp/wp-admin/install.php 2 -
+/wp-includes/js/jcrop/sx.php 1 -
+/options.sql 1 -
+/wp-includes/js/crop/content.php 1 -
+/wp-includes/js/tinymce/plugins/charmap/content.php 1 -
+/wp-includes/sitemaps/content.php 1 -
+/admin/upload.php 1 -
+/wp-includes/certificates/content.php 1 -
+/wp-includes/blocks/missing/content.php 1 -
+/.well-known/pki-validation/install_php2.php 1 -
+/style.php 2 -
+/wp-includes/customize/about.php 22 -
+/wp-includes/Requests/Response/content.php 1 -
+/wp-admin/network/xmrlpc.php 21 -
+/wp-includes/Text/about.php 22 -
+/.well-known/acme-challenge/sx.php 1 -
+/assets/js/dropzone/dropzone-amd-module.min.js 1 -
+/.vscode/sftp.json 3 -
+/.well-known/pki-validation/sx.php 1 -
+/wp-includes/blocks/quote/content.php 1 -
+/wp-includes/Text/Diff/content.php 1 -
+/wp-content/plugins/pwnd-1/pwnd.php 2 -
+/wp-content/content.php 2 -
+/wp-includes/id3/license.txt/2020/wp-includes/wlwmanifest.xml 1 -
+/.tmb/admin.php 1 -
+/wp-content/ai1wm-backups/index.php 1 -
+/wp 4 -
+/%5C/s.w.org%5C/images%5C/core%5C/emoji%5C/14.0.0%5C/72x72%5C/%22,%22ext%22:%22.png%22,%22svgUrl%22:%22https:%5C/%5C/s.w.org%5C/images%5C/core%5C/emoji%5C/14.0.0%5C/svg%5C/%22,%22svgExt%22:%22.svg%22,%22source%22:%7B%22concatemoji%22:%22https:%5C/%5C/belar 2 -
+/wp-includes/blocks/freeform/content.php 1 -
+/wp-includes/js/tinymce/plugins/wpdialogs/content.php 1 -
+/.aws/credentials 1 -
+/assets/js/uploadify/uploadify.css 1 -
+/link.php 4 -
+/updates.php 22 -
+/wp-content/plugins/hellopress/wp_filemanager.php 11 -
+/wp-includes/js/dist/vendor/content.php 1 -
+/wp-includes/blocks/post-date/content.php 1 -
+/blog 4 -
+/sad/about.php 1 -
+/wp-links.php 1 -
+/wp-content/plugins/shell/about.php 1 www.google.com
+/uploads/ 2 binance.com
+/Belarusialottery 1 www.google.com
+//xmlrpc.php 4 -
+/.well-known/pki-validation/file.php 1 -
+/wp-content/themes/.index.php 1 -
+/inputs.php 4 -
+/wp-includes/blocks/site-tagline/content.php 1 -
+/wp-content/plugins/core-plugin/include.php 2 www.google.com
+/wp-includes/blocks/button/content.php 1 -
+/wp-admin/css/colors/coffee/content.php 1 -
+/wp-includes/blocks/categories/content.php 1 -
+/_profiler/phpinfo 3 -
+/wp-includes/blocks/table/content.php 1 -
+/.well-known/acme-challenge/about.php 1 -
+/wp-admin/images/sx.php 1 -
+/.aws/credentials.gpg 2 -
+/admin/server/php/ 1 -
+/wp-admin/css/sx.php 1 -
+/wp-includes/blocks/list/content.php 1 -
+/wp-includes/blocks/post-excerpt/content.php 1 -
+/wp-options.sql 1 -
+/wp-includes/block-patterns/content.php 1 -
+/wp-includes/blocks/calendar/content.php 1 -
+/wp-includes/css/dist/editor/content.php 1 -
+/wp-content/themes/include.php 2 -
+/wp-content/plugins/moveto/assets/lib/loader_ajax.php 1 -
+/wp-includes/js/tinymce/plugins/lists/content.php 1 -
+//blog/wp-includes/wlwmanifest.xml 1 -
+/wp-content/index.php 3 -
+/wp-content/themes/teamwork/upload/upload.php 1 -
+/author/expander/ 1 -
+/jscripts/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php 1 -
+/New/installer.php 1 www.google.com
+/wp-admin/meta/index.php 1 -
+/newsite 4 -
+/old/wp-admin/install.php 2 -
+//cdn.js 3 -
+/wp-includes/Text/content.php 1 -
+/wp-includes/Requests/Exception/content.php 1 -
+/cache/content.php 1 -
+/simple.php 7 -
+/inlislite3/keanggotaan/site/login 1 -
+/wp-content/plugins/core-plugin/smaxx.php 1 -
+/wp-includes/SimplePie/HTTP/content.php 1 -
+/2018/installer.php 1 www.google.com
+/wp-content/plugins/pwnd/pwnd.php 3 -
+/img/about.php 22 -
+/xmlrpc.php 15 -
+/cgi-bin/cloud.php 22 -
+/wp-content/smaxx.php 1 -
+/wp-content/plugins/fix/up.php 4 -
+/wp-includes/css/dist/block-editor/content.php 1 -
+/blog/installer.php 1 www.google.com
+/wp-includes/blocks/buttons/content.php 1 -
+/.wp-cli/content.php 1 -
+/wp-admin/smaxx.php 1 -
+/wp-content/plugins/seoplugins/db.php 21 -
+/wp-admin/js/content.php 1 -
+/admin/php/index.php 1 -
+/wp-includes/js/swfupload/content.php 1 -
+/gel4y.php 1 -
+/2009/installer.php 1 www.google.com
+/wp-includes/js/tinymce/plugins/fullscreen/content.php 1 -
+/author/w-padmine/ 1 -
+/wp-includes/blocks/heading/content.php 1 -
+/new 4 -
+/profile.php 1 -
+/wp-includes/IXR/about.php 22 -
+/wp-admin/css/colors/index.php 21 -
+/wp-admin/includes/about.php 22 -
+/repeater.php 21 -
+/cgi-bin/content.php 1 -
+/libraries/legacy/updates.php 22 -
+/wp-includes/css/dist/widgets/content.php 1 -
+/2012/installer.php 1 www.google.com
+/wp-admin/repeater.php 22 -
+/wp-includes/blocks/audio/content.php 1 -
+/cgi-bin/inputs.php 1 -
+/wp-add.php 3 http://www.google.com
+/modules/simpleimportproduct/index.php 1 -
+/fileupload/index.php 1 -
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 2 -
+/wp-content/languages/content.php 1 -
+/site/wp-admin/install.php 2 -
+/sitemap.txt 4 -
+/wp-includes/js/jquery/ui/content.php 1 -
+/wp-includes/SimplePie/XML/Declaration/content.php 1 -
+/img/xmrlpc.php 21 -
+/item.php 1 -
+/2019/installer.php 1 www.google.com
+/wp-includes/css/buttons.css 5 http://belarusialottery.com/wp-includes/css/buttons.css
+/wp-includes/id3/license.txt/2019/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 5 www.google.com
+/wp-includes/SimplePie/about.php 22 -
+/wp-consar.php 21 -
+//cms/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/blocks/tag-cloud/content.php 1 -
+/wp-includes/js/tinymce/plugins/link/content.php 1 -
+/images/cloud.php 22 -
+/wp-includes/js/tinymce/content.php 1 -
+/wp-includes/blocks/page-list/content.php 1 -
+//wp-includes/wlwmanifest.xml 2 -
+/assets/images/1p.php 1 -
+/admin-ajax.php 1 -
+/wp-content/inputs.php 2 -
+/wp-includes/smaxx.php 1 -
+/wp-content/plugins/admin.php 3 -
+/wp-content/repeater.php 22 -
+/js/uploadify/uploadify.css 1 -
+/wp-includes/sitemaps/providers/content.php 1 -
+/wp-includes/id3/license.txt/wordpress/wp-includes/wlwmanifest.xml 1 -
+/pages.php 1 -
+/assets/plugins/jquery-file-upload/server/php/ 1 -
+/wp-includes/id3/license.txt/shop/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/Requests/content.php 1 -
+/wp-content/plugins/inputs.php 1 -
+/wp-includes/js/tinymce/langs/content.php 1 -
+/public/assets/file-uploader/server/php/index.php 1 -
+/shop.php 1 -
+/alfanew.php7 21 -
+/wp-includes/js/tinymce/plugins/textcolor/content.php 1 -
+/wp-content/themes/content.php 1 -
+/wp-configs.php 1 -
+/wp-content/plugins/ph-file-manager/wp-file.php 1 www.google.com
+/wp-includes/js/tinymce/plugins/paste/content.php 1 -
+/wp-admin/css/index.php 24 -
+/wp-includes/widgets/about.php 22 -
+//wp/wp-includes/wlwmanifest.xml 1 -
+/plugins/uploadify/uploadify.css 1 -
+/wp-includes/blocks/nextpage/content.php 1 -
+//feed/ 1 -
+/wp-admin/css/colors/xmrlpc.php 21 -
+/.well-known/traffic-advice 7 -
+/blog/ 3 -
+/wp-admin/index.php 1 -
+/wp-includes/js/tinymce/plugins/wplink/content.php 1 -
+/wp-includes/id3/license.txt/blog/wp-includes/wlwmanifest.xml 1 -
+/backup/ 3 -
+/old/ 3 -
+/wp-includes/blocks/more/content.php 1 -
+/wp-includes/blocks/legacy-widget/content.php 1 -
+/.tmb/install.php 1 -
+/wp-content/plugins/index.php 4 -
+/phpinfo.php 1 -
+/wp-admin/install.php 7 -
+/wp-content/plugins/plugins.php 3 -
+/wp-includes/css/dist/reusable-blocks/content.php 1 -
+/.tmb/iR7SzrsOUEP.php 1 -
+/db.sql 1 -
+/wp-content/themes/seotheme/mar.php 22 -
+/sample.php 2 www.google.com
+/wp-includes/blocks/code/content.php 1 -
+/wwryeryyj 1 -
+/home 4 -
+/wp-content/plugins/wp-theme-editor/include.php 1 www.google.com
+/wp-includes/js/codemirror/content.php 1 -
+/sx.php 1 -
+/wp-includes/random_compat/content.php 1 -
+/wp-includes/rest-api/search/content.php 1 -
+/wp-content/plugins/smaxx.php 1 -
+//web/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/inputs.php 2 -
+/.well-known/pki-validation/file1.php 1 -
+/wp-includes/js/tinymce/themes/inlite/content.php 1 -
+/wp-includes/id3/license.txt/test/wp-includes/wlwmanifest.xml 1 -
+/sites/default/files/ 2 binance.com
+/wp-includes/sodium_compat/lib/content.php 1 -
+/wp-22.php 1 -
+/wp-includes/css/content.php 1 -
+/wp-content/admin.php 1 -
+/wp-includes/images/include.php 2 www.google.com
+/wp-includes/customize/radio.php 1 -
+/wp-content/debug.log 1 -
+/admin/assets/uploadify/uploadify.css 1 -
+/wp-includes/sodium_compat/src/content.php 1 -
+/wp-includes/blocks/preformatted/content.php 1 -
+/wp-content/backups-dup-lite/index.php 1 -
+/wp-includes/js/tinymce/skins/wordpress/content.php 1 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 2 -
+/ioxi-rex.php 1 -
+/wp-includes/about.php 22 -
+/dump.sql 1 -
+/wp-p.php7 22 -
+/wp-admin/css/colors/blue/cloud.php 22 -
+/assets/uploadify/uploadify.css 1 -
+/wp-includes/js/content.php 1 -
+/comfunctions.php 1 -
+/autoload_classmap.php 1 -
+/wp-includes/blocks/latest-posts/content.php 1 -
+/wp-includes/assets/content.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/content.php 1 -
+/assets/index.php 1 -
+/wp-admin/xmrlpc.php 21 -
+/wp-includes/js/tinymce/plugins/image/content.php 1 -
+/uploadify/uploadify.css 1 -
+/.well-known/acme-challenge/inputs.php 1 -
+/ads.txt 3 http://www.belarusialottery.com/ads.txt
+/wp-includes/theme-compat/content.php 1 -
+/wp-includes/images/wlw/content.php 1 -
+/wp-includes/Text/Diff/Renderer/content.php 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 3 -
+/database.sql 1 -
+/wp-includes/block-supports/content.php 1 -
+/belarusia-lottery.png 39 https://belarusialottery.com/live-draw/
+/chosen.php 10 -
+/.well-known/pki-validation/xmrlpc.php 21 -
+/wordpress/installer.php 1 www.google.com
+/NEW/installer.php 1 www.google.com
+/wordpress/ 3 -
+/cong.php 4 -
+/wp-content/plugins/contact-form-7/content.php 1 -
+/wp-admin/css/ 2 binance.com
+/robots.txt 186 -
+/ccx/content.php 1 -
+/wp-content/plugins/Cache/Cache.php 22 -
+/wp-content/themes/Newspaper/404.php 1 -
+/wp-content/plugins/ccx/content.php 1 -
+//site/wp-includes/wlwmanifest.xml 1 -
+/2015/installer.php 1 www.google.com
+/assets/js/file-uploader/server/php/index.php 1 -
+/wp-content/themes/Newspaper/404.php/wwryeryyj 1 -
+/wp-atom.php 2 -
+/wp-includes/blocks/query-pagination-previous/content.php 1 -
+/wp-includes/SimplePie/Net/content.php 1 -
+/wp-admin/wp-add.php 1 http://www.google.com
+/wp-includes/ID3/ 1 -
+//belarusia.com/wp-content/themes/lottery/assets/js/flipclock.js 3 -
+/wp-includes/id3/license.txt/wp1/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/customize/content.php 1 -
+/wp-includes/blocks/sx.php 1 -
+/wp-admin/js/widgets/xmrlpc.php 21 -
+/assets/file-uploader/server/php/index.php 1 -
+/wp-includes/pomo/content.php 1 -
+/wp-content/banners/about.php 22 -
+/.env 20 -
+/wp-admin/maint/maint/ajax-actions.php 21 -
+/wp-includes/id3/license.txt/cms/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/images/content.php 1 -
+/avaa.php 22 -
+/wp-admin/inputs.php 2 -
+/wp-includes/js/tinymce/utils/content.php 1 -
+/wp-content/plugins/contact-form-7/includes/content.php 1 -
+/wp-content/themes/lottery_belarusia/assets/images/pattern.png 77 https://belarusialottery.com/wp-content/themes/lottery_belarusia/assets/css/component.css
+/wp-content/plugins/include.php 2 -
+/wp-includes/Requests/Cookie/content.php 1 -
+/about.php7 21 -
+/store/installer.php 1 www.google.com
+/alfa-rex.php7 22 -
+/wp-includes/css/dist/edit-widgets/content.php 1 -
+/assets/jquery-file-upload/server/php/ 1 -
+/wp-admin/css/colors/content.php 1 -
+/ll.php 1 -
+/wp-admin/images/xmrlpc.php 21 -
+/core 4 -
+/wp-includes/blocks/about.php 22 -
+/codeindexlztes.php 1 -
+/.DS_Store 3 -
+/elfinder/src/connectors/php/connector.php 2 -
+/WordPress/installer.php 1 www.google.com
+/wp-content/mah.php 1 -
+/wp-includes/js/thickbox/content.php 1 -
+/home/installer.php 1 www.google.com
+/elfinder/php/connector.php 1 -
+/wp-includes/blocks/post-terms/content.php 1 -
+/wp-admin/css/colors/blue/blue.php 1 -
+/wp-includes/blocks/search/content.php 1 -
+/wp-includes/js/tinymce/plugins/colorpicker/content.php 1 -
+/wp-includes/js/tinymce/plugins/wpview/content.php 1 -
+/wp-includes/js/tinymce/plugins/wpautoresize/content.php 1 -
+/backup/installer.php 1 www.google.com
+/wp-admin/includes/cloud.php 22 -
+//wp-json/wp/v2/users/ 2 -
+/.wp-cli/cache/content.php 1 -
+/wp-includes/blocks/embed/content.php 1 -
+/wp-admin/css/colors/coffee/xmrlpc.php 21 -
+/2014/installer.php 1 www.google.com
+/ioxiworm.php 1 -
+/wp-content/plugins/seoo/wsoyanz1.php 22 -
+/wp-includes/id3/license.txt/feed/ 1 -
+/wp-includes/Requests/Transport/content.php 1 -
+/Demo 1 www.google.com
+/assets/plugins/file-uploader/server/php/index.php 1 -
+/keanggotaan/site/login 1 -
+/wp-content/updates.php 22 -
+/wp-ldd.php 1 http://www.google.com
+/install.php 1 -
+/wp-content/plugins/give/assets/dist/images/visa.svg 1 -
+/wp-includes/blocks/text-columns/content.php 1 -
+/_profiler/phpinfo.php 1 -
+/wp-includes/js/tinymce/plugins/directionality/content.php 1 -
+/ioxi2.php 1 -
+/server/php/ 1 -
+/wp-admin/includes/content.php 1 -
+/wp-includes/SimplePie/Cache/content.php 1 -
+/wp-content/plugins/advert-manager-plugin/upload-file.php 1 -
+/elfinder/connectors/php/connector.php 1 -
+/wp-includes/js/tinymce/plugins/hr/content.php 1 -
+/wp-includes/id3/license.txt/wp/wp-includes/wlwmanifest.xml 1 -
+/wp-content/themes/sahifa/index.php 1 -
+/lock.php 1 -
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/index.php 1 -
+/wp-admin/user/cloud.php 22 -
+/wp-admin/sx.php 1 -
+/wp-content/uploads/about.php 1 -
+/wp-includes/blocks/column/content.php 1 -
+/wp-includes/images/smilies/content.php 1 -
+/.tmb/xmrlpc.php 1 -
+/wp-content/gallery/about.php 22 -
+/sites/all/libraries/elfinder/php/connector.php 1 -
+/wp-includes/blocks/social-link/content.php 1 -
+/hello-world/ 1 -
+/wp-content/plugins/wp-help/mini.php 1 www.google.com
+/libraries/vendor/updates.php 22 -
+/wp-content/plugins/wpe-indoshipping/admin/upload-file.php 1 -
+/readme.html 1 -
+/index.php 12 -
+/wp-includes/Requests/Proxy/content.php 1 -
+/wp-content/themes/wp-classic/inc/index.php 1 -
+/phpinfo 1 -
+/wp-content/plugins/WordPressCore/include.php 3 www.google.com
+/lv.php 3 -
+/wp-content/plugins/contact-form-7/languages/content.php 1 -
+/wp-includes/ID3/index.php 2 -
+/themes.php 1 -
+/oldsite/wp-admin/install.php 2 -
+/wp-includes/images/smaxx.php 1 -
+//wp-json/oembed/1.0/embed 2 -
+/wp-includes/blocks/post-title/content.php 1 -
+/wp-admin/css/colors/ectoplasm/content.php 1 -
+/wp-includes/js/mediaelement/renderers/content.php 1 -
+/wp-includes/js/tinymce/plugins/media/content.php 1 -
+/site/installer.php 1 www.google.com
+/wp-content/x/index.php 1 -
+/Backup/installer.php 1 www.google.com
+/wp-content/plugins/wp-ecommerce-cvs-importer/upload/upload-file.php 1 -
+/view-source: 3 -
+/wp-content/plugins/root-file-manager/wp-file.php 1 www.google.com
+/wp-content/themes/pridmag/db.php 21 -
+/%5C/belarusialottery.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 2 -
+/BACKUP/installer.php 1 www.google.com
+/wp-content/upgrade/sx.php 1 -
+/wp-includes/blocks/shortcode/content.php 1 -
+/wp-includes/widgets/content.php 1 -
+/wp-includes/content.php 1 -
+/wp-login.php 6 -
+/blog/wp-admin/install.php 2 -
+/wp-includes/ID3/content.php 1 -
+/cgi-bin/about.php 22 -
+/goat11.PhP7 1 -
+/wp-includes/blocks/query-pagination/content.php 1 -
+/old 4 -
+/README.md 1 http://belarusialottery.com/README.md
+/wp-includes/js/tinymce/themes/modern/content.php 1 -
+/wp-includes/js/quicktags.js 2 -
+/wp-includes/css/index.php 2 -
+/wp-includes/css/dist/format-library/content.php 1 -
+/wp-includes/blocks/archives/content.php 1 -
+/wp-includes/block-supports/sx.php 1 -
+/class.api.php 1 -
+/author/superadmin/ 1 -
+/author/crander/ 1 -
+/wp-content/about.php 24 -
+/wp-content/plugins/contact-form-7/languages/radio.php 1 -
+/wp-admin/user/content.php 1 -
+/wp-admin/css/about.php 22 -
+/wp-content/themes/seotheme/content.php 1 -
+/info.php 1 -
+/wp-includes/IXR/content.php 1 -
+//2021/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/rest-api/endpoints/content.php 1 -
+/sitemaps.xml 2 -
+/wp-includes/PHPMailer/admin.php 1 -
+/wsoyanz.php 22 -
+/wp-content/plugins/background-image-cropper/ups.php 4 www.google.com
+/xxc.php 1 www.google.com
+/wp-admin/maint/index.php 3 -
+/author/admim/ 1 -
+/wp-includes/wlwmanifest.xml 3 -
+/wp-includes/js/tinymce/skins/lightgray/img/content.php 1 -
+/wp-content/plugins/wp-automatic/css/style.css 1 -
+/wp-includes/blocks/query/content.php 1 -
+/wp-includes/blocks/content.php 1 -
+/wOfficial%20lottery%20websitep-includes/css/dist/block-library/style.min.css 143 https://belarusialottery.com/
+/wp-includes/images/crystal/content.php 1 -
+/wp-admin/user/xmrlpc.php 21 -
+/.well-known/pki-validation/mariju.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/fonts/content.php 1 -
+/wp.php 2 -
+/.well-known/sx.php 1 -
+/wp-includes/blocks/html/content.php 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/content.php 1 -
+/admin/public/js/uploadify/uploadify.css 1 -
+/wp-admin/images/index.php 22 -
+/apps/admin/view/default/layui/images/face/11.gif 1 http://belarusialottery.com/apps/admin/view/default/layui/images/face/11.gif
+/backup.sql 1 -
+/wp-includes/rest-api/fields/content.php 1 -
+/test/ 3 -
+/wordpress 4 -
+/wp-content/themes/jaida/lang.php 1 www.google.com
+/wp-includes/blocks/loginout/content.php 1 -
+/forum/installer.php 1 www.google.com
+/wp-includes/js/tinymce/plugins/wpgallery/content.php 1 -
+/wp-emoji-release.min.js 5 -
+/dropdown.php 25 -
+/.wp-cli/cache/web.php 1 -
+/index/function.php 1 -
+/goat1.php 1 -
+/wp-admin/css/content.php 1 -
+/wp-content/plugins/easy2map-photos/includes/MapPinIconSave.php 1 -
+/wp-admin/css/colors/midnight/content.php 1 -
+/.well-known/pki-validation/cloud.php 22 -
+/alfanew2.php7 21 -
+/wp-includes/rest-api/sx.php 1 -
+/wp-content/backups-dup-pro/index.php 1 -
+/wp-includes/blocks/query-title/content.php 1 -
+/wp-json/bricks/v1/render_element 1 -
+/sitemap.xml 12 -
+/wp-admin/css/colors/ocean/content.php 1 -
+/users.php 1 -
+/admin/assets/file-uploader/server/php/index.php 1 -
+/input.php 1 -
+/wp-content/plugins/contact-form-7/admin/radio.php 1 -
+/wp-content/sx.php 1 -
+/wp-includes/customize/index.php 1 -
+/.well-known/pki-validation/bless.php 1 -
+/wp-content/updraft/about.php 22 -
+/wp-json/litespeed/v1/cdn_status 1 http://belarusialottery.com/wp-json/litespeed/v1/cdn_status
+/wp-admin/images/cloud.php 22 -
+/2016/installer.php 1 www.google.com
+/wp-includes/fonts/content.php 1 -
+/wp-includes/js/tinymce/plugins/tabfocus/content.php 1 -
+/wp-admin/js/widgets/cloud.php 22 -
+/wp-admin/network/sx.php 1 -
+/wp-includes/rest-api/content.php 1 -
+/js/elfinder/php/connector.minimal.php 2 -
+/js/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php 1 -
+/new/installer.php 1 www.google.com
+/STORE/installer.php 1 www.google.com
+/2017/installer.php 1 www.google.com
+/wp-admin/images/content.php 1 -
+/wp-includes/id3/license.txt/site/wp-includes/wlwmanifest.xml 1 -
+/.well-known/pki-validation/webdb.php 1 -
+/wp-includes/rest-api/about.php 22 -
+/wp-content/plugins/pwnd-2/pwnd.php 1 -
+/WORDPRESS/installer.php 1 www.google.com
+/wp-content/uploads/content.php 1 -
+/wp-includes/SimplePie/Content/Type/content.php 1 -
+/wp-content/plugins/hb-audio-gallery/lib/upload_picture.php 1 -
+/wp-includes/blocks/pullquote/content.php 1 -
+/wp-includes/SimplePie/content.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 331
+124.248.183.41 22 153 3348363 20240822070525
+192.95.31.35 12 12 89574 20240801164212
+149.56.160.228 6 6 290471 20240815120325
+139.162.69.122 6 6 20822 20240829152559
+149.56.160.129 6 6 290441 20240810213936
+94.152.206.79 5 5 20015 20240823193531
+64.23.164.131 4 4 160320 20240809144931
+4.213.102.97 4 4 160332 20240809065733
+49.51.204.74 4 4 35159 20240813084057
+42.83.147.34 4 4 35186 20240827231031
+54.88.179.33 4 4 160329 20240820140449
+72.14.201.146 3 3 20906 20240817061307
+140.213.250.91 3 24 737810 20240815103024
+49.51.243.156 3 3 26411 20240823072137
+140.213.126.142 3 24 737825 20240807063042
+43.135.129.233 2 2 17583 20240823055914
+88.198.45.216 2 2 17576 20240804110755
+58.49.150.210 2 2 17579 20240809112223
+123.60.68.42 2 2 17586 20240830200624
+54.159.150.21 2 2 80166 20240806094356
+92.118.39.244 2 2 17611 20240827015451
+114.10.143.5 2 19 974858 20240815054543
+143.198.54.253 2 2 17596 20240818043944
+114.4.214.2 2 23 723253 20240809070533
+193.186.4.147 2 2 13948 20240806045347
+114.10.25.86 1 3 627690 20240803063113
+51.15.183.136 1 1 6972 20240813031742
+182.1.132.45 1 12 640031 20240816182754
+180.110.203.108 1 1 8803 20240825145554
+95.164.158.83 0 2 316500 
+94.156.65.181 1 1 8791 20240809140253
+104.28.218.135 1 12 640034 20240829110752
+140.213.78.44 1 22 723258 20240805045309
+114.10.148.80 0 18 697166 
+87.236.176.210 1 1 8795 20240814003151
+205.210.31.164 1 1 40080 20240803022650
+137.226.113.44 1 1 8786 20240807100423
+87.236.176.223 1 1 8795 20240813105255
+104.28.218.136 1 12 640029 20240819071224
+141.138.208.43 1 1 8797 20240822214922
+43.159.128.237 1 1 8791 20240830120921
+64.233.173.98 1 1 6973 20240806041717
+135.148.195.16 1 1 8801 20240809024619
+61.79.198.46 1 1 8795 20240813093336
+52.53.223.122 1 1 8784 20240802181229
+191.102.170.72 0 1 313710 
+168.235.203.243 1 12 642967 20240823044736
+205.210.31.173 1 1 40086 20240823124226
+36.80.129.55 1 12 640033 20240810015749
+179.43.191.18 1 1 8791 20240810025222
+130.255.166.24 1 1 8791 20240809091748
+104.131.181.4 1 2 315793 20240805024515
+54.151.64.117 1 1 8791 20240830165157
+67.205.150.106 1 2 315804 20240819002640
+114.10.127.83 1 22 723256 20240801063100
+114.124.176.186 1 12 640034 20240830045320
+152.89.198.220 1 1 40083 20240820164546
+52.81.254.49 1 2 315793 20240803163706
+64.227.162.79 1 2 315804 20240815102931
+93.158.91.25 1 2 315804 20240819004351
+93.158.91.10 1 2 315793 20240805041416
+209.127.108.172 0 1 3635 
+18.183.180.35 1 1 8784 20240803042551
+195.90.221.76 1 1 8788 20240803164408
+158.140.170.87 1 23 727904 20240809044332
+114.5.217.8 1 11 694237 20240831130200
+42.83.147.56 1 1 8799 20240819124253
+178.62.7.24 1 2 315802 20240829093338
+199.45.154.130 1 2 315805 20240814121750
+195.154.184.193 1 1 6968 20240810113534
+114.10.79.86 1 13 653633 20240814045400
+87.236.176.14 0 1 307005 
+45.64.98.116 1 12 640031 20240806070623
+114.10.82.114 0 2 620715 
+144.217.135.206 1 7 11047 20240810214043
+223.96.243.10 1 1 6969 20240807135740
+103.153.246.10 1 13 653639 20240813041751
+44.201.42.95 1 1 6967 20240827230121
+180.243.111.36 1 13 653635 20240811044404
+43.130.31.48 1 1 8791 20240830104135
+34.132.5.254 0 3 9756 
+43.159.143.187 1 1 8803 20240826014032
+43.159.63.75 1 1 8790 20240806235448
+93.159.230.88 1 1 8791 20240831041627
+182.4.69.179 1 14 656089 20240815045032
+43.130.7.211 1 1 8797 20240829080655
+43.163.3.58 1 1 8800 20240814081127
+173.249.27.178 1 1 8784 20240802100955
+87.236.176.23 0 1 307005 
+43.128.100.206 1 1 8800 20240822061631
+188.143.169.41 1 1 40079 20240830220120
+43.131.248.209 1 1 8796 20240801063253
+34.173.98.145 0 1 3047 
+87.236.176.101 0 1 307005 
+185.107.56.137 1 1 8788 20240803212014
+5.133.192.166 1 2 315795 20240817062931
+209.127.107.124 0 1 2790 
+45.139.64.225 0 1 3635 
+117.72.64.189 1 1 8796 20240820181131
+51.77.200.55 1 1 8796 20240801161027
+188.120.226.195 1 1 0 20240825092256
+43.155.136.16 1 1 8778 20240811074059
+114.80.36.40 1 1 8791 20240809215503
+103.187.165.42 1 19 704132 20240809142507
+31.220.76.145 1 1 770 20240808195149
+191.102.170.96 0 1 2436 
+49.51.47.100 1 1 8775 20240824163023
+190.119.72.10 1 1 6972 20240813062355
+178.128.41.75 1 2 315805 20240821094725
+205.210.31.185 1 1 40083 20240809004032
+135.148.195.11 0 2 614010 
+149.56.160.213 1 7 11047 20240810213959
+13.38.107.172 1 1 8790 20240817035024
+147.185.132.198 1 1 40086 20240830015353
+114.10.148.5 1 7 11048 20240818050117
+158.140.170.122 1 1 7608 20240809044541
+72.14.201.145 1 1 6968 20240822045548
+141.0.11.13 1 19 707077 20240826140837
+135.148.195.8 2 2 17604 20240828235956
+191.96.150.187 1 1 8788 20240805022534
+52.53.241.90 1 1 8797 20240823175955
+170.106.171.77 1 1 8778 20240811194916
+199.244.88.228 1 1 8805 20240828191525
+106.227.49.113 2 2 17572 20240824155509
+147.185.132.115 1 1 40080 20240810021803
+209.127.105.165 0 1 4954 
+43.134.66.205 1 1 8790 20240817024717
+104.28.245.130 1 17 660885 20240811045225
+199.244.88.224 1 1 8800 20240814215743
+175.6.217.4 1 1 8795 20240813092040
+58.49.233.126 2 2 17584 20240804122109
+193.186.4.144 1 1 6980 20240802050522
+38.242.247.242 2 2 15767 20240801015505
+114.10.152.69 1 19 704133 20240829044805
+117.33.163.216 2 2 17585 20240813224928
+27.65.113.234 1 1 6968 20240822050451
+223.15.245.170 1 1 8800 20240814103831
+212.42.49.168 2 2 17592 20240801095911
+118.99.72.250 1 1 8784 20240803000431
+143.198.84.137 1 1 8797 20240823093606
+77.74.177.119 1 1 8784 20240802225151
+193.186.4.146 1 1 6964 20240819020453
+194.33.37.170 1 1 40089 20240814215558
+112.215.140.119 1 22 723253 20240809045151
+69.10.48.174 1 1 40083 20240809021549
+167.94.138.40 1 2 315789 20240802201112
+138.68.139.28 1 2 315815 20240831082529
+144.217.135.174 1 7 11042 20240815120409
+134.122.99.144 1 2 315793 20240803082347
+43.163.8.148 1 1 8808 20240826145847
+43.135.166.178 1 1 8810 20240831132420
+182.42.111.213 2 2 17607 20240810202334
+128.90.170.16 1 1 8801 20240808224430
+14.240.127.28 1 1 6964 20240816234633
+138.199.39.10 1 2 315793 20240805040629
+106.75.20.144 1 2 315795 20240816075554
+95.164.156.231 0 1 3047 
+141.0.8.125 1 19 707057 20240805043413
+165.22.211.34 1 2 315802 20240823100754
+125.160.234.191 1 12 640034 20240827074151
+45.139.66.229 0 1 313710 
+93.158.91.13 1 2 315814 20240811041651
+5.133.192.187 1 1 8805 20240828215641
+150.109.13.194 1 1 8796 20240820174148
+120.188.92.70 1 12 640039 20240813045309
+114.79.0.177 1 17 660883 20240814004008
+147.182.248.80 1 2 315814 20240810233131
+43.152.72.247 1 1 8801 20240809054656
+34.201.250.118 0 1 307005 
+104.247.184.207 1 1 8775 20240824215324
+114.5.249.75 1 14 637581 20240823042239
+43.130.16.212 1 1 8794 20240827130205
+141.0.8.237 0 21 723681 
+182.44.9.147 1 1 8784 20240803023251
+167.94.138.35 1 2 315789 20240802214434
+185.190.42.200 1 1 40089 20240829041419
+103.47.132.36 1 9 631761 20240829044540
+43.133.59.183 1 1 8788 20240805035455
+149.56.150.200 1 7 11042 20240815120436
+150.109.16.20 2 2 17574 20240825043824
+51.158.180.78 1 1 8800 20240822053159
+162.142.125.200 1 2 315808 20240825160103
+44.198.56.91 1 1 40086 20240815223911
+199.45.155.84 1 2 315805 20240815033645
+178.254.29.124 1 1 8797 20240822165026
+198.235.24.232 1 1 40083 20240814021931
+147.45.114.227 1 1 8809 20240810222225
+34.133.96.219 0 1 313710 
+43.133.72.69 2 2 17593 20240816020439
+84.17.42.13 1 2 315793 20240805040626
+158.69.25.39 1 1 8798 20240806021213
+43.131.48.214 1 1 8798 20240806005207
+44.195.0.247 1 1 8797 20240830003115
+114.5.110.182 1 19 704131 20240822233117
+141.0.9.159 1 22 732466 20240805050137
+149.56.150.61 1 7 11047 20240810214016
+198.235.24.186 1 1 40083 20240827142819
+43.159.128.172 1 1 8794 20240828063053
+198.54.134.134 1 1 8797 20240823121540
+46.228.199.158 2 2 17596 20240828212453
+159.203.5.89 1 2 315783 20240811094801
+104.244.209.46 1 2 315793 20240805040627
+141.0.9.239 1 19 707065 20240821042920
+94.156.66.116 1 1 8791 20240830134039
+45.142.179.50 2 2 17588 20240828021050
+93.158.91.12 1 2 315796 20240831053707
+43.135.181.13 1 1 8805 20240828185633
+202.67.44.11 1 22 723256 20240802050436
+147.185.132.34 1 1 40080 20240805192514
+44.201.237.6 0 1 307005 
+45.84.176.27 1 1 40082 20240804192745
+222.79.103.59 1 1 8784 20240802162632
+13.52.242.40 1 1 8790 20240816153420
+199.45.155.92 1 2 315805 20240814102213
+121.229.185.160 1 1 8791 20240809090200
+159.203.25.92 1 2 315791 20240807092120
+199.45.155.82 1 2 315808 20240825153223
+36.74.44.151 1 8 24642 20240817051111
+106.75.100.92 1 2 315823 20240818053930
+93.159.230.89 1 1 8790 20240817041215
+114.10.82.7 1 12 640032 20240826040604
+180.254.58.246 1 19 704133 20240830050908
+35.171.144.152 2 2 80160 20240820070047
+46.250.232.130 1 1 40086 20240824150045
+120.188.95.214 1 20 684541 20240809063106
+142.93.221.248 1 2 315808 20240825090538
+43.134.190.89 1 1 8796 20240821055710
+180.102.134.69 2 2 17608 20240817124828
+137.184.14.133 1 2 315804 20240819081919
+64.233.173.97 0 1 307005 
+87.236.176.200 1 1 8797 20240824003154
+35.91.242.90 1 1 40080 20240811010927
+154.38.175.68 2 2 17598 20240819062758
+43.159.128.149 1 1 8800 20240815020241
+182.2.85.192 1 22 723256 20240802050622
+164.92.214.147 1 2 315780 20240825020132
+54.234.210.224 0 1 307005 
+34.72.104.207 0 2 7744 
+93.158.91.235 1 1 8799 20240819061452
+222.79.104.23 1 1 8799 20240818110630
+167.94.138.45 1 2 315802 20240829133622
+84.247.105.152 1 3 8841 20240831174052
+198.235.24.64 1 1 40080 20240805203639
+95.164.157.93 0 1 4954 
+138.197.170.20 1 1 8795 20240814041941
+45.139.36.178 0 1 6140 
+217.160.202.182 1 1 8799 20240816025738
+192.36.109.120 1 1 8788 20240803193759
+54.237.235.120 1 1 40082 20240804163953
+114.10.103.233 1 12 640036 20240827045908
+115.76.199.146 1 1 6960 20240825041240
+114.5.110.165 1 12 640031 20240819020043
+84.17.50.208 1 1 8788 20240805035537
+198.235.24.99 1 1 40086 20240823202405
+93.158.91.243 1 1 8800 20240815005729
+165.22.31.161 1 1 8818 20240817140834
+36.41.75.167 1 1 8797 20240829214640
+36.85.2.120 1 23 727907 20240801052122
+94.231.110.192 1 2 315793 20240805035537
+35.180.255.13 1 1 8778 20240811122812
+195.154.184.25 1 1 6960 20240824175721
+170.106.82.193 1 1 8788 20240805020604
+43.130.39.101 1 1 8796 20240801172204
+135.148.195.10 0 2 614010 
+43.159.140.236 2 2 17594 20240827120415
+49.51.183.220 1 1 8810 20240831233514
+124.225.164.130 1 1 8794 20240812080609
+103.150.218.251 1 22 723258 20240805045022
+95.164.156.164 0 1 2454 
+198.244.154.200 1 1 8799 20240815130548
+34.28.140.64 1 1 6965 20240830143320
+43.131.62.4 1 1 8801 20240808094033
+148.251.250.51 1 1 8810 20240831220457
+135.148.195.14 0 1 307005 
+94.247.172.129 1 1 8797 20240823031926
+110.166.71.39 1 1 8803 20240826042234
+52.81.60.5 1 2 315808 20240825192126
+36.71.82.207 1 12 640030 20240816014727
+45.94.31.211 1 1 8788 20240803083654
+43.131.249.153 1 1 8797 20240824052012
+114.124.205.157 1 2 313973 20240811045552
+209.127.107.61 0 1 6140 
+45.228.12.136 1 1 6964 20240819044715
+43.153.110.177 1 1 8808 20240827044302
+178.128.229.185 1 2 315799 20240827102049
+104.129.56.60 1 2 315793 20240805035537
+146.190.246.147 1 1 8798 20240805230251
+31.220.76.144 1 1 770 20240814231611
+103.108.33.125 1 22 723258 20240805045349
+87.236.176.36 1 1 8795 20240813162057
+35.239.117.40 0 1 6140 
+34.45.126.157 0 1 2436 
+45.61.60.18 1 1 845 20240815141112
+37.120.233.46 1 2 315793 20240805040630
+52.81.78.71 1 2 315800 20240813225347
+54.146.54.90 1 1 40083 20240806094351
+182.1.132.223 1 12 640033 20240810054339
+43.153.84.135 1 1 8800 20240814183426
+72.14.201.144 2 2 13932 20240822045629
+45.154.98.44 1 1 8796 20240801084301
+141.0.8.153 1 23 738314 20240803044157
+114.10.82.85 1 22 723249 20240806045323
+203.2.64.59 1 1 8818 20240818025459
+43.130.3.122 1 1 8805 20240829020537
+205.210.31.92 1 1 40083 20240827111842
+205.210.31.214 1 1 40080 20240803051249
+140.213.47.27 1 13 653634 20240812050627
+168.235.203.221 1 11 642281 20240829045734
+114.10.153.38 1 22 723256 20240801012941
+144.217.135.172 2 14 22089 20240815120352
+68.183.245.101 1 2 315793 20240805035538
+114.79.3.61 2 7 67984 20240814052854
+125.160.162.105 0 12 646667 
+45.139.65.216 0 1 2454 
+103.189.207.244 2 20 711098 20240829044454
+149.56.150.228 1 7 11042 20240815120506
+49.51.72.76 1 1 8786 20240807085125
+114.5.249.102 1 12 640033 20240814042001
+135.148.195.3 0 1 307005 
+188.166.45.37 1 2 315823 20240817090849
+87.236.176.167 0 1 307005 
+5.133.192.135 1 2 315780 20240825030606
+43.163.6.124 1 1 8788 20240803131304
+103.171.154.129 1 17 660890 20240803110519
+36.111.67.189 1 1 8799 20240820054110
+167.94.145.104 1 4 929812 20240829150953
+15.204.182.106 2 2 17606 20240825214400
+72.14.201.147 1 1 6975 20240803043441
+14.215.163.132 2 2 17601 20240821173851
+185.196.10.112 1 1 8799 20240820051519
+182.42.111.156 1 1 8788 20240803214222
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240801 23 87 2332536 11
+20240802 12 58 2147061 11
+20240803 22 66 2865500 21
+20240804 6 6 115316 5
+20240805 26 153 6607071 24
+20240806 11 73 2632087 10
+20240807 9 50 1795729 7
+20240808 5 5 34137 5
+20240809 25 147 5355859 18
+20240810 21 87 2994320 16
+20240811 12 45 2971742 12
+20240812 4 16 678194 4
+20240813 13 39 2305963 13
+20240814 18 65 3110648 17
+20240815 26 103 3425065 18
+20240816 8 43 3211889 8
+20240817 11 50 1369683 11
+20240818 7 22 1316762 7
+20240819 15 40 2308120 14
+20240820 12 12 324558 9
+20240821 5 43 1749251 5
+20240822 10 64 1867969 10
+20240823 16 41 1749319 12
+20240824 7 8 397970 7
+20240825 13 19 1945739 12
+20240826 5 34 1373523 5
+20240827 13 36 1744588 12
+20240828 7 7 61613 7
+20240829 19 91 5592043 13
+20240830 11 40 1484049 11
+20240831 8 22 1369910 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+2mn-5mn 2
+30s-2mn 5
+30mn-1h 1
+15mn-30mn 1
+0s-30s 334
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 7
+/ 332 4109522 295 297
+/live-draw/ 46 383606 41 39
+/wp-json/ 9 7263 3 0
+/history-result/ 6 210514 1 2
+// 4 160326 0 2
+/.well-known/ 2 1540 2 2
+/wp-includes/ 1 845 1 1
+END_SIDER

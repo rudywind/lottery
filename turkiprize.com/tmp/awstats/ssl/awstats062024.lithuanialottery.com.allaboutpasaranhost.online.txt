@@ -1,0 +1,1438 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202406 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.lithuanialottery.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2048                
+POS_TIME 2726                
+POS_VISITOR 36896               
+POS_DAY 48967               
+POS_DOMAIN 3541                
+POS_LOGIN 4239                
+POS_ROBOT 4394                
+POS_WORMS 5114                
+POS_EMAILSENDER 5245                
+POS_EMAILRECEIVER 5388                
+POS_SESSION 49765               
+POS_SIDER 49944               
+POS_FILETYPES 5523                
+POS_DOWNLOADS 5609                
+POS_OS 5657                
+POS_BROWSER 6040                
+POS_SCREENSIZE 8069                
+POS_UNKNOWNREFERER 8143                
+POS_UNKNOWNREFERERBROWSER 9215                
+POS_ORIGIN 9865                
+POS_SEREFERRALS 10005               
+POS_PAGEREFS 10195               
+POS_SEARCHWORDS 10369               
+POS_KEYWORDS 10521               
+POS_MISC 2390                
+POS_ERRORS 10580               
+POS_CLUSTER 4095                
+POS_SIDER_404 10686               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240701004426 19 3349 15023591518471
+FirstTime 20240601024537
+LastTime 20240630235253
+LastUpdate 20240701083948 19 0 18 0 0
+TotalVisits 387                 
+TotalUnique 306                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 306                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 23 23 549698 43 56 183034
+1 12 12 250319 70 80 130165
+2 13 13 271480 30 44 115449
+3 18 18 515319 36 44 150850
+4 23 23 5623430 47 63 295381
+5 28 28 644991 31 39 123941
+6 30 30 1097520 38 40 162482
+7 28 28 979000 33 54 94640
+8 24 24 615605 274 288 535587
+9 18 18 337834 32 39 142207
+10 12 12 394691 13 28 96648
+11 29 29 1045739 31 34 118941
+12 13 13 357938 59 64 320388
+13 18 18 662321 33 39 173319
+14 10 10 172448 35 48 299534
+15 31 31 427909 29 31 105159
+16 55 55 423061 24 30 57875
+17 28 28 576297 53 57 365539
+18 18 18 5207322 24 31 163608
+19 17 17 565527 12 14 94985
+20 22 22 361984 23 31 73699
+21 17 17 453220 24 29 50812
+22 27 27 821481 226 232 300034
+23 21 21 545251 75 79 160688
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 34
+us 178 178 8863398
+cn 71 71 683323
+jp 58 58 3937906
+nl 29 29 423871
+au 24 24 744120
+id 18 18 134794
+kh 17 17 121339
+ca 16 16 675016
+gb 15 15 154288
+de 14 14 367886
+se 11 11 113165
+bg 11 11 545269
+ru 9 9 92611
+cz 9 9 184467
+lb 8 8 396556
+in 6 6 4908828
+ar 6 6 92959
+gr 6 6 61764
+ua 3 3 65532
+nc 3 3 26311
+lt 3 3 46448
+be 3 3 30873
+fr 3 3 30909
+pl 2 2 16062
+ph 2 2 20566
+vn 1 1 49470
+mn 1 1 30403
+ro 1 1 10267
+it 1 1 10273
+pa 2 2 20571
+zz 1 1 10279
+hk 1 1 10279
+fi 1 1 10309
+sa 1 1 10273
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+no_user_agent 26 1239042 20240630175124 0
+AhrefsBot/ 21 280568 20240630200026 0
+Googlebot/ 18 144567 20240630173825 0
+(firefox/)([0-9]\.|[0-1][0]\.) 17 164529 20240630214236 0
+MJ12bot/ 14 112452 20240630052429 0
+bot[\s_+:,\.\;\/\\-] 6 61769 20240624090053 0
+Applebot/ 4 174841 20240619202612 0
+SemrushBot/ 3 164507 20240623014455 0
+survey 2 99138 20240604174123 0
+Go\-http\-client/ 2 20572 20240624011151 0
+facebookexternalhit/ 2 98940 20240626121545 0
+bingbot/ 2 38425 20240619021405 0
+Firefox/1\.5 1 10309 20240621064927 0
+crawl 1 10305 20240614084638 0
+baidu 1 10273 20240603081518 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 535 22900385 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 23
+ios_iphone 55 55
+macosx15 74 74
+androidnougat 3 3
+win8.1 3 3
+macosx11 1 1
+ios_ipad 1 1
+winnt 3 3
+win10 191 191
+androidoreo 2 2
+winvista 1 1
+macosx14 1 1
+macosx12 2 2
+linux 25 25
+macosx 11 11
+win8 2 2
+macosx13 2 2
+android 10 10
+win7 18 18
+linuxubuntu 6 6
+winxp 2 2
+android10 52 52
+Unknown 69 69
+androidmarshmallow 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 96
+chrome81.0.4044.129 1 1
+chrome125.0.6422.53 1 1
+chrome115.0.0.0 2 2
+chrome101.0.4951.64 8 8
+chrome71.0.3578.98 1 1
+chrome114.0.0.0 5 5
+firefox115.0 1 1
+firefox120.0 4 4
+chrome114.0.5735.289 1 1
+chrome74.0.3729.169 6 6
+chrome113.0.0.0 3 3
+chrome87.0.4280.88 2 2
+chrome76.0.3809.100 2 2
+chrome101.0.4951.67 5 5
+safari17.0 3 3
+chrome102.0.0.0 3 3
+safari9.0 1 1
+mozilla 17 17
+chrome116.0.0.0 8 8
+chrome79.0.3945.130 2 2
+safari17.1.2 1 1
+chrome68.0.3440.91 1 1
+chrome98.0.339 1 1
+chrome86.0.4240.111 1 1
+opera20.0.1387.91 1 1
+chrome79.0.3945.147 1 1
+firefox114.0 4 4
+chrome112.0.5615.136 1 1
+chrome101.0.4951.54 1 1
+chrome71.0.2542.88 1 1
+firefox99.0 1 1
+chrome121.0.0.0 35 35
+chrome64.0.3465.10 1 1
+chrome78.0.3904.108 23 23
+firefox117.0 11 11
+chrome119.0.0.0 1 1
+chrome93.0.4577.63 2 2
+firefox124.0 3 3
+chrome96.0.4664.110 3 3
+chrome58.0.1 1 1
+chrome100.0.4896.60 20 20
+chrome117.0.0.0 9 9
+chrome41.0.2228.0 1 1
+safari12.1.1 1 1
+chrome122.0.0.0 14 14
+chrome76.0.1527 1 1
+chrome94.0.2621 1 1
+firefox118.0 8 8
+Unknown 50 50
+chrome126.0.6478.71 1 1
+firefox67.8 1 1
+chrome45.0.2454.85 6 6
+chrome106.0.0.0 1 1
+chrome90.0.4430.85 3 3
+chrome102.0.2617 1 1
+chrome51.0.2704.103 3 3
+chrome105.0.0.0 10 10
+chrome76.0.3988.88 1 1
+chrome98.0.4758.102 2 2
+chrome88.0.4324.192 30 30
+edge8 1 1
+chrome76.0.3809.80 1 1
+chrome104.0.0.0 6 6
+chrome58.0.3029.110 2 2
+chrome60.0.3112.113 1 1
+chrome80.0.3987.162 1 1
+msie11.0 2 2
+chrome84.0.4147.89 2 2
+chrome89.0.4389.114 10 10
+firefox122.0 2 2
+chrome83.0.4103.97 6 6
+chrome60.0.3112.107 1 1
+chrome91.0.4472.114 3 3
+netscape5.0 3 3
+firefox108.0 4 4
+epiphany 1 1
+safari13.0.3 50 50
+firefox115 2 2
+chrome107.0.0.0 2 2
+safari15.4 4 4
+chrome126.0.0.0 22 22
+opera102.0.0.0 2 2
+chrome42.0.2311.90 1 1
+chrome59.0.3071.125 2 2
+chrome124.0.0.0 2 2
+msie7.0 2 2
+firefox52.0 1 1
+firefox73.0 1 1
+chrome55.0.2284 1 1
+chrome125.0.0.0 31 31
+chrome88.0.4324.190 1 1
+chrome110.0.0.0 9 9
+chrome88.0.4240.193 15 15
+firefox43.0 1 1
+chrome78.0.3904.70 1 1
+chrome123.0.0.0 5 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+req/v3_(https://github.com/imroc/req) 20240624181812
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240620040100
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240629041600
+python-requests/2.26.0 20240627085439
+Mozilla/5.0_(compatible;_Example3/1.0;__https://www.example3.com/domain/lithuanialottery.com) 20240623222437
+Python/3.9_aiohttp/3.8.3 20240608005826
+got_(https://github.com/sindresorhus/got) 20240616114004
+NetAPI_v1 20240619131434
+python-requests/2.32.3 20240628083910
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240627103104
+GlobalWebSearchx 20240628190740
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240607235404
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240611045046
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+GlobalWebSearchx 20240628190740
+NetAPI_v1 20240619131434
+got_(https://github.com/sindresorhus/got) 20240616114004
+python-requests/2.32.3 20240628083910
+Python/3.9_aiohttp/3.8.3 20240608005826
+python-requests/2.26.0 20240627085439
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240629041600
+req/v3_(https://github.com/imroc/req) 20240624181812
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 377 377
+From1 4 4
+From2 16 16
+From3 1 1
+From4 137 137
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+baidu 1 1
+www_google_com 14 14
+google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://mogahoki.site 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 41 50922
+404 1307 1633806
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 680
+/author/administratoirr/ 1 -
+/wp-comments.php 2 -
+//wp-includes/rest-api/about.php 1 -
+/wp-includes/SimplePie/Content/Type/radio.php 1 -
+/wp-admin/dropdown.php 2 -
+/wp-includes/blocks/about.php 2 -
+/plugins/content/apismtp/apismtp.php.suspected 1 -
+/wp-includes/js/mediaelement/renderers/radio.php 1 -
+/theme/v2board/assets/umi.css 3 http://lithuanialottery.com/theme/v2board/assets/umi.css
+/wp-admin/js/widgets/xmrlpc.php 2 -
+/wp-includes/customize/radio.php 1 -
+/wp-admin/css/colors/coffee/index.php 1 -
+/wp/xmlrpc.php 1 -
+/wp-content/plugins/edwiser-bridge/readme.txt 1 -
+//wp-admin/js/about.php 1 -
+/wp-includes/block-supports/radio.php 1 -
+/wp-admin.php 1 -
+/wp-includes/block-patterns/radio.php 1 -
+/wp-includes/blocks/radio.php 1 -
+/.well-known/traffic-advice 2 -
+/wp-includes/IXR/about.php 2 -
+/wp-includes/images/wlw/radio.php 1 -
+//2019/wp-includes/wlwmanifest.xml 1 -
+/mments-post.php 2 -
+/wp-admin/css/colors/cloud.php 2 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/radio.php 1 -
+/hoot.php 1 -
+//cms/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/user/radio.php 1 -
+/yanz.php 2 -
+/wp-includes/images/about.php 2 -
+/wp-admin/css/colors/blue/index.php 1 -
+/libraries/vendor/updates.php 2 -
+/shop 1 -
+/wp-admin/js/widgets/cloud.php 2 -
+/img/cloud.php 2 -
+/wp-includes/js/tinymce/plugins/wptextpattern/radio.php 1 -
+/wp-content/plugins/admin.php 1 -
+/cloud.php 2 -
+/wp-includes/sodium_compat/src/Core/Curve25519/radio.php 1 -
+/wp-includes/pomo/radio.php 1 -
+/login.php 1 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 2 -
+/wp-includes/random_compat/radio.php 1 -
+/wp-admin/css/about.php 2 -
+/author/admim 1 -
+/wp-content/plugins/woocommerce-simple-registration/readme.txt 1 -
+/wp-includes/js/tinymce/plugins/colorpicker/radio.php 1 -
+/wp-includes/ID3/about.php 2 -
+/wp-includes/blocks/legacy-widget/radio.php 1 -
+/wp-includes/blocks/html/radio.php 1 -
+/libraries/legacy/updates.php 2 -
+/wp-includes/images/radio.php 1 -
+/wp-includes/theme-compat/radio.php 1 -
+/wp-includes/widgets/include.php 3 -
+/cgi-bin/index.php 1 -
+/wp-admin/css/colors/blue/xmrlpc.php 2 -
+//wp-admin/dropdown.php 1 -
+/wp-includes/blocks/page-list/radio.php 1 -
+//xmlrpc.php 23 -
+/avaa.php 2 -
+/wp-includes/blocks/tag-cloud/radio.php 1 -
+/author/administratoir/ 1 -
+/wp-includes/blocks/preformatted/radio.php 1 -
+/wp-includes/js/swfupload/radio.php 1 -
+/wp-content/plugins/include.php 9 -
+/wp-includes/blocks/button/radio.php 1 -
+/wp-content/uploads/inputs.php 1 -
+/wp-admin/repeater.php 2 -
+/wp/wp-admin/install.php 2 -
+/wp-content/plugins/wp-help/admin/wp-fclass.php 2 -
+//install.php 1 -
+/options.php 1 -
+/wordpress/xmlrpc.php 1 -
+/wp-includes/Requests/Response/radio.php 1 -
+/theme/zero/assets/js/scripts.bundle.js 1 http://lithuanialottery.com/theme/zero/assets/js/scripts.bundle.js
+/bypass.php 1 http://lithuanialottery.com/bypass.php
+/wp-admin/css/colors/ocean/radio.php 1 -
+/wp-content/plugins/ccx/radio.php 1 -
+/js/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-includes/blocks/query-title/radio.php 1 -
+/wp-admin/network/cloud.php 2 -
+/wp-loader.php 2 -
+/wp-content/updates.php 2 -
+//wp-includes/Text/about.php 1 -
+/wp-includes/Requests/Exception/HTTP/radio.php 1 -
+/wp-includes/js/tinymce/plugins/directionality/radio.php 1 -
+/wp-on.php 2 -
+/wp-includes/fonts/radio.php 1 -
+//wp-content/themes/twenty/twenty.php 1 -
+/wp-includes/blocks/heading/radio.php 1 -
+/wp-content/plugins/fix/up.php 3 http://lithuanialottery.com/wp-content/plugins/fix/up.php
+/wp-includes/blocks/gallery/radio.php 1 -
+/images/cloud.php 2 -
+/.well-known/acme-challenge/xmrlpc.php 2 -
+/wp-checkbex.php 3 -
+/assets/js/fuck.js 1 http://lithuanialottery.com/assets/js/fuck.js
+/wp-includes/js/tinymce/plugins/wpautoresize/radio.php 1 -
+/wp-includes/blocks/archives/radio.php 1 -
+/ws.php 1 http://lithuanialottery.com/ws.php
+/blog/wp-admin/install.php 2 -
+/wp-includes/css/dist/reusable-blocks/radio.php 1 -
+/wp-admin/css/colors/ectoplasm/radio.php 1 -
+/comments.php 2 -
+/wp-content/admin.php 1 -
+/api.php 1 -
+/wsoyanz.php 2 -
+/wp-content/radio.php 2 -
+/wp-admin/images/radio.php 1 -
+/files/ 3 binance.com
+/wp-includes/js/tinymce/utils/radio.php 1 -
+/new/wp-admin/install.php 2 -
+/author/stender/ 3 -
+/wp-admin 1 -
+/assets/plugins/elfinder/connectors/php/connector.php 1 -
+/wp-content/themes/about.php 2 -
+/wp-admin/images/about.php 2 -
+/wp-content/plugins/wp-mlm/readme.txt 1 -
+//wp-admin/admin-ajax.php 1 -
+/wp-includes/sodium_compat/src/Core32/radio.php 1 -
+/about.php 5 -
+/wp-includes/Text/Diff/Renderer/radio.php 1 -
+/static/sspanel/css/sspanel.css 1 http://lithuanialottery.com/static/sspanel/css/sspanel.css
+/wp-admin/css/colors/coffee/radio.php 1 -
+/wp-content/plugins/inputs.php 1 -
+/wp-includes/SimplePie/Net/radio.php 1 -
+/wp-includes/blocks/query/radio.php 1 -
+/moon.php 1 http://lithuanialottery.com/moon.php
+//wp-content/patior/ 1 -
+/wp-content/themes/include.php 2 www.google.com
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/radio.php 1 -
+/wp-includes/rest-api/endpoints/radio.php 1 -
+/wp-includes/sodium_compat/src/Core/Base64/radio.php 1 -
+//wp-content/install.php 1 -
+/wp-includes/blocks/query-pagination-next/radio.php 1 -
+//wp-content/plugins/ 1 -
+//wp-admin/install.php 1 -
+/wp-includes/sodium_compat/src/Core/radio.php 1 -
+/test 5 -
+/wp-includes/js/tinymce/plugins/wpeditimage/radio.php 1 -
+/wp-includes/sodium_compat/namespaced/Core/ChaCha20/radio.php 1 -
+/author/w-padmine/ 1 -
+/alfanew.php 3 -
+/wp-p.php7 2 -
+/wp-includes/IXR/radio.php 1 -
+/wp-includes/inputs.php 1 -
+/wp-includes.bak/html-api/about.php 2 -
+/xmlrpc.php 3 -
+/author/crander/ 3 -
+/admin/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/alfacgiapi/perl.alfa 2 www.google.com
+/repeater.php 2 -
+/wp-content/themes/seotheme/db.php 6 www.google.com
+/ads.txt 3 -
+/wp-includes/style-engine/about.php 2 -
+/content.php 1 http://lithuanialottery.com/content.php
+/administrator/index.php 1 -
+/wp-includes/js/plupload/radio.php 1 -
+/wp-includes/Requests/Text/admin.php 2 -
+/wp-includes/js/tinymce/plugins/wplink/radio.php 1 -
+//test/wp-includes/wlwmanifest.xml 1 -
+/wp-content/upgrade/radio.php 1 -
+/wp-json/wc/store/products/collection-data 2 -
+/wp-content/plugins/phppoet-checkout-fields/readme.txt 1 -
+/wp-content/languages/about.php 2 -
+/admin/ 1 -
+/wp-includes/css/dist/block-directory/radio.php 1 -
+/wp-content/plugins/userpro/changelog.txt 1 -
+/wp-admin/images/index.php 2 -
+/current.php 2 -
+/wp-includes/Text/about.php 2 -
+/filemanager.php 1 -
+/ccx/index.php 1 -
+/wp-admin/css/colors/modern/index.php 1 -
+/wp-includes/css/dist/customize-widgets/radio.php 1 -
+/wp-includes/blocks/social-links/radio.php 1 -
+/author/wpadminne/ 1 -
+/b8f8f8b9e8c0.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/img/radio.php 1 -
+/wp-includes/blocks/latest-comments/radio.php 1 -
+/wp-includes/customize/about.php 2 -
+/wp-login.php 19 -
+/wp-includes/sodium_compat/src/Core32/Poly1305/radio.php 1 -
+/images/about.php 2 -
+/404.php 1 http://lithuanialottery.com/404.php
+/backup/wp-admin/install.php 2 -
+/wp-includes/sodium_compat/src/PHP52/radio.php 2 -
+/xmrlpc.php 3 -
+/images/inputs.php 1 -
+/wp-admin/wp-ldd.php 2 -
+/wp-includes/images/media/radio.php 1 -
+/.well-known/pki-validation/xmrlpc.php 2 -
+/wordpress-wp.php 4 http://lithuanialottery.com
+/wp-content/inputs.php 2 -
+/wp-json/wp/v2/users 4 -
+/images/ 3 binance.com
+/wp-includes/js/tinymce/themes/inlite/radio.php 1 -
+/assets/images/b8f8f8b9e8c0.php 1 -
+/wp-json 11 -
+/wp-content/plugins/loader.php 1 -
+/wp-content/plugins/miniorange-2-factor-authentication/readme.txt 1 -
+/misc/ajax.js 1 -
+//wp-admin/maint/moon.php 1 -
+/simple.php 3 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/js/tinymce/plugins/link/radio.php 1 -
+/wp-includes/blocks/nextpage/radio.php 1 -
+/wp-limit-login.php 2 -
+/wp-ver.php 4 lithuanialottery.com
+/wp-admin/index.php 1 -
+/site/wp-admin/install.php 1 -
+/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-admin/network/radio.php 1 -
+/wp-content/plugins/miniorange-malware-protection/readme.txt 1 -
+/wp-json/wp/v2/users/2 1 https://lithuanialottery.com/
+/cache-compat.php 2 -
+/wp-includes/css/dist/edit-widgets/radio.php 1 -
+/wp-content/themes/intense/block-css.php 2 -
+/assets/admin/plugins/elfinder/connectors/php/connector.php 1 -
+/wp-atom.php 2 -
+/css/xmrlpc.php 2 -
+/wp-admin/ajax-actions.php 2 -
+//wp-content/plugins/install.php 1 -
+/.vscode/sftp.json 2 -
+/wp-includes/Requests/Cookie/radio.php 1 -
+/alfa-rex.php7 2 -
+/luzrgbva.php 1 www.google.com
+//wp-content/dropdown.php 1 -
+/wp-content/plugins/google-seo-rank/module.php 5 www.google.com
+/cgi-bin/cloud.php 2 -
+/wp-includes/sitemaps/radio.php 1 -
+/wp-includes/blocks/post-terms/radio.php 1 -
+/ccx/radio.php 1 -
+/wp-includes/blocks/list/radio.php 1 -
+/wp-includes/PHPMailer/radio.php 1 -
+/wp-content/themes/radio.php 1 -
+/wp-includes/blocks/column/radio.php 1 -
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/sodium_compat/src/Core32/SecretStream/radio.php 1 -
+/chosen.php 8 -
+/wp-includes/blocks/loginout/radio.php 1 -
+/wp-content/plugins/seoo/wsoyanz1.php 2 -
+/wp-admin/maint/radio.php 1 -
+/wp-includes/js/tinymce/plugins/wpemoji/radio.php 1 -
+/wp-includes/sodium_compat/namespaced/Core/radio.php 1 -
+/wp-admin/wp-add.php 2 -
+/robots.txt 108 -
+/.env 33 -
+/wp-includes/sodium_compat/namespaced/Core/Curve25519/radio.php 1 -
+/wp-includes/blocks/file/radio.php 1 -
+/wp-admin/maint/maint/ajax-actions.php 2 -
+/wp-includes/sodium_compat/radio.php 1 -
+/wp-includes/sodium_compat/src/radio.php 1 -
+/wp-includes/js/jcrop/radio.php 1 -
+/wp-admin/maint/index.php 1 -
+/wp-head.php 3 -
+/wp-includes/sodium_compat/src/Core/SecretStream/radio.php 1 -
+/ments-post.php 2 -
+/wp-consar.php 2 -
+/ayk.php 1 -
+/assets/filemanager/dialog.php 1 -
+/ws.php7 2 -
+/wordpress/wp-admin/install.php 1 -
+/wp 5 -
+/sitemap.xml 15 -
+/wp-json/wp/v2/users/4 1 https://lithuanialottery.com/
+/wp-content/plugins/wp-automatic/changelog 5 -
+/wp-includes/css/dist/nux/radio.php 1 -
+/wp-includes/sodium_compat/src/Core/Poly1305/radio.php 1 -
+/wp-includes/SimplePie/about.php 2 -
+/assets/plugins/summernote/upload.php 1 -
+/wp-includes/blocks/block/radio.php 1 -
+/wp-add.php 6 -
+/wp-includes/js/tinymce/plugins/lists/radio.php 1 -
+/filemanager/dialog.php 1 -
+//wp-includes/js/tinymce/plugins/compat3x/css/index.php 1 -
+/sellers.json 1 -
+/wp-includes/sitemaps/providers/radio.php 1 -
+/wp-content/themes/index.php 1 -
+/wp-content/plugins/wp-help/index.php 2 -
+/as.php 1 http://lithuanialottery.com/as.php
+/index_sso.php 3 -
+/wp-includes/blocks/query-pagination-previous/radio.php 1 -
+/wp-admin/css/colors/midnight/index.php 1 -
+/author/wwwadmin/ 1 -
+/sites/all/libraries/openwysiwyg/addons/imagelibrary/insert_image.php 1 -
+/wp-includes/css/dist/format-library/radio.php 1 -
+/wp-includes/blocks/query-pagination/radio.php 1 -
+/wp-includes/blocks/quote/radio.php 1 -
+/wp-content/plugins/wp-catcher/index.php 3 www.google.com
+/images/index.php 1 -
+/libraries/phpmailer/updates.php 2 -
+/wp-admin/css/colors/ectoplasm/index.php 1 -
+/wp-includes/rest-api/about.php 2 -
+/wp-includes/Requests/about.php 2 -
+/wp-content/plugins/Cache/Cache.php 4 -
+/admin/plugins/plupload/examples/upload.php 1 -
+/wp-admin/css/colors/blue/cloud.php 2 -
+/wp-includes/blocks/table/radio.php 1 -
+/wp-includes/SimplePie/HTTP/radio.php 1 -
+/mayicms 2 -
+/adminfuns.php7 2 -
+/wp-includes/js/tinymce/skins/lightgray/radio.php 1 -
+/wp-includes/widgets/about.php 2 -
+/phpinfo.php 2 -
+/geju.php 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/wp-includes/css/dist/components/radio.php 1 -
+/wp-admin/install.php 8 -
+/assets/global/plugins/plupload/examples/upload.php 1 -
+/wp-includes/Text/radio.php 1 -
+/wp-includes/Requests/Utility/radio.php 1 -
+/oldsite/wp-admin/install.php 2 -
+//wp-content/plugins/Cache/dropdown.php 1 -
+/wp-includes/SimplePie/Cache/radio.php 1 -
+/wp-content/plugins/about.php 1 -
+//chonburipoolsnight.com/wp-content/themes/lottery_chonburi_pools_night/assets/js/lottery.js 2 -
+/goods.php 1 -
+/admin/jQuery-File-Upload/server/php/index.php 1 -
+/cgi-bin/about.php 2 -
+/wp-content/uploads/radio.php 1 -
+/wp-content/index.php 1 -
+/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/wp-includes/js/dist/radio.php 1 -
+/wp-includes/sodium_compat/lib/radio.php 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 2 -
+/wp-admin/js/widgets/radio.php 1 -
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 2 -
+/wp-conflg.php 1 http://lithuanialottery.com/wp-conflg.php
+/theme/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/author/wp-import-user/ 1 -
+/assets/js/jquery-file-upload/server/php/index.php 1 -
+/wp-includes/blocks/search/radio.php 1 -
+//site/wp-includes/wlwmanifest.xml 1 -
+/blog.php 1 http://lithuanialottery.com/blog.php
+/.well-known/pki-validation/cloud.php 2 -
+/old 5 -
+/wp-admin/js/about.php 4 -
+/wp-includes/rest-api/radio.php 1 -
+/assets/jQuery-File-Upload/server/php/index.php 1 -
+/wp-includes/blocks/group/radio.php 1 -
+/wp-includes/sodium_compat/src/Core32/ChaCha20/radio.php 1 -
+/.wp-cli/radio.php 1 -
+/wp-content/plugins/activedemand/readme.txt 1 -
+/wp-includes/js/tinymce/plugins/wordpress/radio.php 1 -
+//wp-includes/install.php 1 -
+/_profiler/phpinfo 2 -
+/images/xmrlpc.php 2 -
+/wp-includes/js/tinymce/plugins/media/radio.php 1 -
+/wp-admin/includes/about.php 2 -
+/uninstall.php 2 -
+/about.php7 2 -
+/wp-includes/blocks/paragraph/radio.php 1 -
+/wp-content/themes/travel/issue.php 2 -
+/class.api.php 2 http://lithuanialottery.com/class.api.php
+/cfide/scripts/ajax/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/public/assets/plugins/plupload/examples/upload.php 1 -
+/wp-includes/js/tinymce/plugins/image/radio.php 1 -
+/php-cgi/php-cgi.exe 1 -
+/.well-known/index.php 1 -
+/admin/login.php 1 -
+/img/about.php 2 -
+/wp-pluploads.php 2 -
+/theme/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/user.php 1 -
+/wp-includes/js/crop/radio.php 1 -
+/wp-content/plugins/canto/Gruntfile.js 1 -
+/wp-includes/Requests/Proxy/radio.php 1 -
+/wp-includes/blocks/buttons/radio.php 1 -
+/wp-includes/js/dist/vendor/radio.php 1 -
+/ss.php 2 www.google.com
+/wp-content/plugins/ccx/index.php 1 -
+/updates.php 3 -
+/wp-includes/certificates/radio.php 1 -
+/test/wp-admin/install.php 2 -
+/wp-includes/blocks/post-date/radio.php 1 -
+/wp-includes/js/imgareaselect/radio.php 1 -
+/wordpress-wo.php 2 http://lithuanialottery.com
+/wp-ldd.php 2 -
+/wp-includes/pomo/about.php 2 -
+/wp-admin/css/colors/coffee/xmrlpc.php 2 -
+/wp-content/themes/admin.php 1 -
+/admin/server/php/index.php 1 -
+/cgi-bin/inputs.php 1 -
+//inputs.php 1 lithuanialottery.com
+/wp-includes/js/tinymce/plugins/hr/radio.php 1 -
+/view-source: 1 -
+//shop/wp-includes/wlwmanifest.xml 1 -
+/.well-known/acme-challenge/inputs.php 1 -
+/fm.php 1 -
+/_fragment 2 -
+/wp-includes/css/radio.php 1 -
+/wp-includes/Text/Diff/Engine/radio.php 1 -
+/ajax-actions.php 2 -
+/zb_system/login.php 1 -
+/wp-includes/blocks/latest-posts/radio.php 1 -
+/wp-content/updraft/themes.php 2 -
+/wp-json/wp/v2/users/1 1 https://lithuanialottery.com/
+/assets/plugins/plupload/examples/upload.php 1 -
+/plugins.php 1 http://lithuanialottery.com/plugins.php
+//wp/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/blocks/post-featured-image/radio.php 1 -
+/wp-includes/blocks/audio/radio.php 1 -
+/wp-includes/blocks/text-columns/radio.php 1 -
+/old/wp-admin/install.php 2 -
+/wp-includes/wlwmanifest.xml 1 -
+/php/thinkphp/aaaffff123.php 3 -
+/upfile.php 1 http://lithuanialottery.com/upfile.php
+/wp-includes/blocks/post-title/radio.php 1 -
+//2021/wp-includes/wlwmanifest.xml 1 -
+/wp-content/repeater.php 2 -
+/wp-includes/css/dist/block-editor/radio.php 1 -
+//ee.php 1 -
+/wp-admin/css/radio.php 1 -
+/wp-admin/css/colors/radio.php 1 -
+/plugins/plupload/examples/upload.php 1 -
+/wp-includes/js/tinymce/plugins/wpview/radio.php 1 -
+/wp-content/themes/hideo/network.php 2 -
+/wp-links-way.php 2 -
+/wp-content/plugins/linkpreview/db.php 2 -
+/.wp-cli/cache/radio.php 1 -
+/wp-includes/js/tinymce/radio.php 1 -
+/assets/server/php/index.php 1 -
+/wp-admin/js/widgets/about.php7 2 -
+/locoy.php 2 -
+/wp-includes/css/dist/list-reusable-blocks/radio.php 1 -
+/wp-includes/blocks/site-title/radio.php 1 -
+/wp-json/litespeed/v1/cdn_status 8 -
+/wp-includes/js/tinymce/plugins/fullscreen/radio.php 1 -
+/images/radio.php 1 -
+/wp-admin/xmrlpc.php 2 -
+/wp-includes/js/tinymce/skins/wordpress/radio.php 1 -
+/testing 4 -
+/wp-admin/images/xmrlpc.php 2 -
+/public/plugins/plupload/examples/upload.php 1 -
+/wp-includes/blocks/video/radio.php 1 -
+/wp-includes/blocks/pullquote/radio.php 1 -
+/wp-includes/SimplePie/radio.php 1 -
+//s3.tradingview.com/tv.js 2 -
+/cms/wp-admin/install.php 2 -
+/wp-includes/Requests/Exception/Transport/radio.php 1 -
+/wp-includes/js/tinymce/plugins/wpgallery/radio.php 1 -
+/cxwlcms.php 1 -
+/author/AdminZaxHH34/ 1 -
+/wp-json/wp/v2/posts 1 https://www.google.com/
+/core 4 -
+/admin 1 -
+/wp-admin/user/news.php 2 -
+/wp-includes/radio.php 1 -
+/wp-content/plugins/seoplugins/mar.php 2 -
+/wp-includes/blocks/more/radio.php 1 -
+/wp-includes/images/smilies/radio.php 1 -
+/img/xmrlpc.php 2 -
+//wp-content/uploads/ 1 -
+/wp-content/languages/radio.php 1 -
+/wp-content/plugins/apikey/apikey.php.suspected 1 -
+//.well-known/acme-challenge/install.php 1 -
+/wp-includes/blocks/post-excerpt/radio.php 1 -
+/wp-admin/cloud.php 2 -
+/.well-known/pki-validation/index.php 1 -
+/alfa-rex2.php7 2 -
+/wp-json/wp/v2/users/3 1 https://lithuanialottery.com/
+/wp-includes/blocks/query-pagination-numbers/radio.php 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 2 www.google.com
+/wp-content/plugins/core-plugin/include.php 2 -
+/plugins/elfinder/connectors/php/connector.php 1 -
+/wp-wordpress.php 2 http://lithuanialottery.com
+/uploads/ 3 binance.com
+/wp-admin/includes/cloud.php 2 -
+/wp-includes/js/tinymce/plugins/compat3x/radio.php 1 -
+/license.php 2 -
+/wp-admin/css/colors/blue/radio.php 1 -
+/fw.php 1 http://lithuanialottery.com/fw.php
+/wp-admin/inputs.php 2 -
+/home 4 -
+/wp-includes/js/tinymce/langs/radio.php 1 -
+/newsite 4 -
+/wp-admin/user/cloud.php 2 -
+/wo-wordpress.php 2 https://lithuanialottery.com
+//wp-admin/js/about.php7 1 -
+/wp-includes/widgets/radio.php 1 -
+/wp-includes/js/thickbox/radio.php 1 -
+/wp-plain.php 2 www.google.com
+/ebs.php7 2 -
+/admin/assets/global/plugins/plupload/examples/upload.php 1 -
+/wp-content/plugins/masterstudy-lms-learning-management-system/readme.txt 1 -
+/wp-includes/blocks/shortcode/radio.php 1 -
+/wp-includes/Requests/Exception/radio.php 1 -
+/.well-known/about.php 2 -
+/app-ads.txt 1 -
+/wp-content/plugins/chatbot-chatgpt/readme.txt 1 -
+/wp-includes/SimplePie/XML/Declaration/radio.php 1 -
+/wp-includes/js/tinymce/plugins/textcolor/radio.php 1 -
+/wp-includes/sodium_compat/namespaced/Core/Poly1305/radio.php 1 -
+/wp-admin/css/colors/modern/radio.php 1 -
+/wp-admin/includes/xmrlpc.php 2 -
+/favicon.png 3 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/radio.php 1 -
+/wp-includes/blocks/calendar/radio.php 1 -
+/shell.php 1 http://lithuanialottery.com/shell.php
+/wp-includes/js/tinymce/skins/lightgray/fonts/radio.php 1 -
+/wp-includes/js/codemirror/radio.php 1 -
+/wp-content/plugins/google-seo-rank/README.txt 2 www.google.com
+/wp-includes/blocks/post-template/radio.php 1 -
+/wp-includes/js/tinymce/plugins/charmap/radio.php 1 -
+//web/wp-includes/wlwmanifest.xml 1 -
+/alfanew.php7 2 -
+/wp-includes/sodium_compat/src/Core/ChaCha20/radio.php 1 -
+/wp-content/about.php 2 -
+/plupload/examples/upload.php 1 -
+/sites/default/files/ 3 binance.com
+/page.php 1 -
+/wp-includes/assets/radio.php 1 -
+/wp-includes/blocks/missing/radio.php 1 -
+/wp-content/updraft/about.php 2 -
+//blog/wp-includes/wlwmanifest.xml 1 -
+/author/Sendsdesr/ 1 -
+/admin/assets/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/plugins/content/apismtp/apismtp.php 1 -
+/wp-includes/ID3/radio.php 1 -
+/wp-includes/js/jquery/radio.php 1 -
+/.well-known/security.txt 1 http://www.lithuanialottery.com/.well-known/security.txt
+/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/radio.php 1 -
+/wp-includes/SimplePie/Decode/HTML/radio.php 1 -
+/security.txt 1 http://www.lithuanialottery.com/security.txt
+/assets/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/admin/jquery_uploader/server/php/index.php 1 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 2 -
+/install.php 1 http://lithuanialottery.com/install.php
+/css/index.php 1 -
+/wp-admin/js/radio.php 1 -
+//css/install.php 1 -
+//feed/ 1 -
+/wp-admin/css/colors/coffee/cloud.php 2 -
+/wp-includes/js/tinymce/themes/modern/radio.php 1 -
+//wp-json/oembed/1.0/embed 11 -
+/wp-includes/blocks/code/radio.php 1 -
+/wp-includes/js/jquery/ui/radio.php 1 -
+/wp-includes/css/dist/widgets/radio.php 1 -
+/wp-content/plugins/seoo/wsoyanz.php 2 -
+/assets/admin/plugins/plupload/examples/upload.php 1 -
+/wp-includes/blocks/separator/radio.php 1 -
+/new 5 -
+/wp-content/plugins/instawp-connect/readme.txt 1 -
+/style.php 1 http://lithuanialottery.com/style.php
+/wp-admin/wp-wordpress.php 2 http://lithuanialottery.com
+//dropdown.php 1 -
+//cdn.js 2 -
+/tinyfilemanager/tinyfilemanager.php 1 -
+/wp-admin/css/index.php 3 -
+/wp-includes/blocks/columns/radio.php 1 -
+/wp-admin/user/xmrlpc.php 2 -
+/wp-includes/blocks/social-link/radio.php 1 -
+//contact 1 -
+/wp-includes/sodium_compat/namespaced/radio.php 1 -
+/wp-admin/css/colors/xmrlpc.php 2 -
+/wp-links-on.php 2 -
+//cgi-bin/cgi-bin/about.php 1 -
+/wp-includes/js/tinymce/plugins/tabfocus/radio.php 1 -
+/wp-admin/setup-config.php 7 -
+/wp-includes/css/dist/block-library/radio.php 1 -
+/wp-content/db-cache.php 1 -
+/wp-includes/blocks/verse/radio.php 1 -
+//cgi-bin/cgi-bin/about.php7 1 -
+/admin-post.php 2 -
+/wp-includes/js/tinymce/plugins/wpdialogs/radio.php 1 -
+/wp-admin/css/colors/ocean/index.php 1 -
+/author/wpadminns/ 1 -
+//cgi-bin/install.php 1 -
+/wp-includes/js/tinymce/plugins/paste/radio.php 1 -
+/admin/elfinder/src/connectors/php/connector.php 1 -
+/wp-admin/images/cloud.php 2 -
+/wp-includes/blocks/image/radio.php 1 -
+/wp-includes/blocks/site-tagline/radio.php 1 -
+/.well-known/pki-validation/radio.php 1 -
+/cgi-bin/radio.php 1 -
+/cgi-bin/xmrlpc.php 2 -
+/wp-content/gallery/about.php 2 -
+/tinyfilemanager.php 1 -
+/.well-known/acme-challenge/cloud.php 4 -
+//wp-admin/images/install.php 1 -
+/%5C/chonburipoolsnight.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 2 -
+/wp-includes/Requests/Auth/radio.php 1 -
+/wp-includes/SimplePie/Parse/radio.php 1 -
+/wp-content/plugins/WordPressCore/include.php 10 -
+/loader.php 1 -
+/wp-includes/blocks/categories/radio.php 1 -
+/wp-includes/blocks/freeform/radio.php 1 -
+/wp-admin/css/colors/midnight/radio.php 1 -
+/wp-content/blogs.dir/about.php 2 -
+/blog 5 -
+/themes.php 1 http://lithuanialottery.com/themes.php
+/wp-includes/blocks/media-text/radio.php 1 -
+/accesson.php 1 -
+//2020/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/Requests/Transport/radio.php 1 -
+/wp-admin/network/xmrlpc.php 2 -
+/ini.php 1 http://lithuanialottery.com/ini.php
+/radio.php 2 http://lithuanialottery.com/radio.php
+/wp-activate.php 1 http://lithuanialottery.com/wp-activate.php
+/wp-content/plugins/wp-photo-album-plus/changelog.txt 3 -
+/alfanew2.php7 2 -
+/wp-admin/admin-ajax.php 11 -
+/wp-includes/blocks/rss/radio.php 1 -
+//wp-includes/wlwmanifest.xml 11 -
+/wp-includes/block-patterns/about.php 2 -
+//wp-ver.php 1 lithuanialottery.com
+/css/radio.php 1 -
+/file.php 1 -
+/sftp-config.json 2 -
+/inputs.php 6 -
+/wp-content/themes/inputs.php 1 -
+/omments-post.php 2 -
+/wp-includes/about.php 2 -
+/assets/backend/plugins/jquery-file-upload/server/php/index.php 1 -
+/wp-includes/blocks/site-logo/radio.php 1 -
+/wp-content/plugins/seoplugins/db.php 2 -
+/wp.php 2 -
+/wp-aa.php 2 -
+/server/php/index.php 1 -
+//wp-json/wp/v2/users/ 11 -
+/wp-includes/js/mediaelement/radio.php 1 -
+/viewtopic.php 1 -
+/wp-content/themes/seotheme/radio.php 1 -
+/wp-content/plugins/wp-photo-album-plus/wppa-admin-styles.css 2 -
+/wp-includes/js/jquery/jquery.min.js 1 http://lithuanialottery.com/wp-includes/js/jquery/jquery.min.js
+/wp-content/plugins/woozone/lib/frontend/js/frontend.js 1 -
+/admin.php 5 -
+/wp-content/upgrade-temp-backup/about.php 2 -
+/admin/assets/plugins/plupload/examples/upload.php 1 -
+/author/wp-demouser-44/ 1 -
+/wp-includes/blocks/embed/radio.php 1 -
+//chonburipoolsnight.com/wp-content/themes/lottery/assets/js/flipclock.js 2 -
+/admin/controller/extension/extension/ 3 binance.com
+/wp-includes/Text/Diff/radio.php 1 -
+/wp-content/themes/pridmag/db.php 2 -
+/wp-includes/blocks/cover/radio.php 1 -
+/wp-includes/js/tinymce/skins/wordpress/images/radio.php 1 -
+/wp-admin/css/ 3 binance.com
+/wp-admin/wordpress.php 2 http://lithuanialottery.com
+/wp-json/tdw/save_cssss 1 -
+/wp-includes/rest-api/search/radio.php 1 -
+/wp-includes/Requests/radio.php 1 -
+/dropdown.php 3 -
+/wp-includes/repeater.php 2 -
+/wp-includes/blocks/spacer/radio.php 1 -
+/author/admim/ 2 -
+/wp-content/plugins/salon-booking-system/css/cancel-booking-rtl.css 1 -
+/wp-content/plugins/learning-management-system/readme.txt 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/radio.php 1 -
+/wp-includes/js/radio.php 1 -
+/jvezdvav.php 1 www.google.com
+//wp-includes/ID3/license.txt 1 -
+/wp-admin/includes/radio.php 1 -
+/.well-known/radio.php 1 -
+/wp-admin/radio.php 1 -
+/wp-includes/images/crystal/radio.php 1 -
+/humans.txt 1 http://www.lithuanialottery.com/humans.txt
+/.well-known/pki-validation/about.php 2 -
+/cgi-bin/php-cgi.exe 1 -
+/wordpress 5 -
+/index.php 16 -
+/contact 1 https://lithuanialottery.com/contact
+/wp-admin/css/colors/index.php 3 -
+/archivarix.cms.php 2 https://lithuanialottery.com/archivarix.cms.php
+/wp-content/banners/about.php 2 -
+/wp-content/themes/seotheme/mar.php 2 -
+/wp-includes/rest-api/fields/radio.php 1 -
+/.DS_Store 6 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 5 -
+/phpmyadmin/index.php 3 -
+/wp-includes/css/dist/editor/radio.php 1 -
+/wp-includes/css/dist/edit-post/radio.php 1 -
+/assets/images/accesson.php 1 -
+/wp-includes/blocks/post-content/radio.php 1 -
+/web/wp-admin/install.php 2 -
+/wp-includes/images/include.php 3 -
+/wp-content/plugins/startklar-elmentor-forms-extwidgets/readme.txt 1 -
+/css/cloud.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 306
+116.206.14.22 23 23 62522 20240601163402
+124.248.183.41 17 17 121339 20240630154754
+135.148.6.76 11 11 113003 20240602171632
+54.88.179.33 10 10 495698 20240622052351
+139.59.82.254 10 10 495200 20240626062631
+160.238.36.81 9 9 92745 20240614111844
+35.171.144.152 8 8 396555 20240622035542
+89.248.172.92 8 8 64199 20240611161044
+54.234.24.43 7 7 72128 20240628201643
+149.56.150.96 6 6 5026645 20240611045026
+194.55.186.251 6 6 297318 20240625134749
+65.21.104.151 6 6 61638 20240610153023
+91.92.245.134 5 5 247850 20240610225353
+114.125.170.56 5 5 16066 20240613160401
+91.92.247.141 5 5 247850 20240611063353
+64.227.148.79 5 5 247845 20240601075212
+146.190.100.223 4 4 197880 20240626075525
+212.30.36.215 4 4 198276 20240607194155
+89.187.168.5 4 4 54485 20240614074711
+85.203.34.83 4 4 198276 20240601112314
+50.114.45.81 4 4 197880 20240627112146
+212.30.36.81 4 4 198280 20240613092144
+43.133.59.21 4 4 575724 20240624075633
+157.254.221.165 4 4 54495 20240621230520
+107.172.44.173 4 4 54489 20240618221927
+188.69.47.95 2 2 38423 20240614162629
+185.220.101.53 1 1 10309 20240621064938
+223.255.229.26 2 2 38445 20240629150918
+123.187.240.242 1 1 10273 20240602194541
+205.210.31.227 2 2 99139 20240611173458
+123.160.221.133 1 1 10289 20240611150225
+119.13.103.45 1 1 8042 20240622123400
+51.89.205.173 2 2 20591 20240627085439
+43.163.1.85 2 2 20550 20240615050759
+104.223.161.204 1 1 10267 20240623003542
+23.94.126.36 1 1 10303 20240625034619
+43.134.34.133 3 3 431793 20240623232916
+1.73.136.216 1 1 10267 20240623010534
+49.51.206.130 2 2 20573 20240619193007
+124.243.133.165 1 1 8042 20240607125657
+182.42.111.213 2 2 20597 20240620083314
+110.238.104.205 1 1 8023 20240609043436
+193.186.4.146 1 1 8031 20240608085618
+37.156.216.140 3 3 26311 20240623005411
+43.128.100.206 2 2 20584 20240627130459
+117.62.235.53 1 1 10296 20240621221745
+190.92.216.141 1 1 30403 20240615204942
+113.141.91.58 1 1 10305 20240613170223
+43.159.141.180 1 1 10304 20240629000027
+87.236.176.52 1 1 10303 20240605220813
+205.210.31.209 1 1 49470 20240629041600
+190.92.209.117 1 1 8042 20240628091726
+3.239.248.63 1 1 8024 20240616114004
+85.209.133.112 1 1 10273 20240603113429
+185.56.83.83 1 1 10309 20240621064945
+64.227.141.21 1 1 10275 20240617203644
+62.146.177.39 1 1 769 20240624224453
+43.155.152.154 1 1 10266 20240604235931
+51.75.141.254 1 1 10267 20240623004332
+192.36.109.73 1 1 10305 20240614033858
+152.42.193.121 3 3 148410 20240626102605
+45.61.88.0 1 1 10309 20240627170652
+43.163.0.99 1 1 10297 20240601200600
+147.185.132.9 1 1 49470 20240625175311
+44.197.123.78 2 2 98940 20240629200241
+54.254.224.161 1 1 10304 20240608051156
+158.69.25.39 1 1 10303 20240617162008
+135.148.195.7 1 1 10304 20240628173147
+182.43.70.143 1 1 10267 20240624072804
+206.168.34.182 1 1 10275 20240617214206
+209.38.246.167 1 1 10267 20240622225610
+178.128.203.193 1 1 10303 20240624203929
+110.238.107.187 1 1 30403 20240613045234
+190.92.221.220 1 1 30403 20240622183812
+43.134.175.104 2 2 154210 20240623222915
+43.155.166.202 1 1 10273 20240603074056
+141.140.10.19 1 1 10305 20240614064647
+113.61.53.11 2 2 20566 20240605025942
+120.71.59.24 1 1 10305 20240614035635
+205.234.181.108 2 2 20574 20240625185030
+93.174.93.114 3 3 26314 20240623114222
+43.134.89.111 1 1 10287 20240601075927
+43.134.79.102 1 1 143931 20240617133320
+52.81.68.62 1 1 10305 20240614143403
+14.215.163.132 1 1 10297 20240602074450
+43.134.89.30 3 3 298135 20240624060257
+15.237.209.32 1 1 49470 20240624170806
+135.148.195.11 1 1 10275 20240618211218
+43.133.39.74 1 1 143931 20240624050408
+54.67.111.43 1 1 10304 20240629000043
+45.15.17.3 1 1 10289 20240611150224
+104.28.250.133 2 2 8019 20240601162756
+42.83.147.53 2 2 20568 20240611094754
+43.157.197.122 3 3 431793 20240619153441
+42.83.147.54 1 1 10303 20240617045705
+172.210.17.24 1 1 10303 20240625072622
+3.112.28.90 2 2 20608 20240616194456
+103.208.86.5 1 1 10279 20240609094615
+93.170.204.202 1 1 49570 20240619183202
+185.220.101.36 1 1 10273 20240603113411
+130.255.166.79 1 1 10279 20240630235253
+223.113.128.137 1 1 10287 20240601024743
+128.90.170.25 1 1 10296 20240622030708
+190.92.211.113 1 1 8027 20240611172345
+64.233.173.194 1 1 8044 20240626145318
+89.248.174.11 1 1 10273 20240610052006
+114.122.7.206 1 1 8024 20240613160016
+114.80.36.40 1 1 10267 20240623200422
+198.235.24.45 1 1 49470 20240626165434
+128.90.170.5 1 1 10310 20240616013348
+223.113.128.139 1 1 10287 20240601030330
+64.233.173.193 1 1 8044 20240626145318
+130.255.166.115 1 1 10273 20240603023001
+42.83.147.34 2 2 20606 20240605172508
+93.174.93.127 1 1 10300 20240603223805
+199.244.88.218 1 1 10287 20240626035959
+45.55.73.122 1 1 10298 20240619214314
+119.13.110.133 1 1 30403 20240628162858
+111.172.249.49 2 2 20576 20240625084418
+35.175.240.240 1 1 10303 20240606051724
+188.241.80.62 1 1 10267 20240622170414
+35.207.5.150 2 2 38433 20240605212404
+34.219.248.242 1 1 10300 20240604051944
+43.134.240.57 3 3 431793 20240624002819
+178.254.12.183 1 1 10266 20240605102805
+178.128.227.228 1 1 10267 20240623222142
+89.187.187.114 1 1 10267 20240623004332
+51.81.97.226 1 1 10289 20240611052509
+51.178.112.57 3 3 30911 20240616053250
+43.157.66.187 1 1 10303 20240612164320
+34.210.74.180 1 1 49570 20240611074549
+69.160.160.51 3 3 162260 20240614084646
+43.156.42.104 1 1 143931 20240623212935
+147.185.132.37 1 1 49570 20240614191150
+94.74.92.43 1 1 8042 20240622004121
+43.134.170.46 1 1 10276 20240611163432
+223.113.128.132 1 1 10298 20240620004823
+119.8.175.217 1 1 8042 20240626194533
+110.139.95.200 1 1 8025 20240620232820
+103.251.167.20 1 1 10279 20240609094628
+123.60.68.42 2 2 20550 20240630214942
+124.243.145.104 1 1 8025 20240610055140
+198.235.24.228 1 1 49570 20240611084657
+205.210.31.226 1 1 49570 20240620235131
+154.47.30.39 1 1 10267 20240623053749
+179.43.191.18 2 2 20571 20240628190740
+104.166.80.62 2 2 18324 20240620123339
+43.159.128.172 1 1 10276 20240612035208
+62.212.205.93 1 1 8025 20240622093741
+116.206.14.28 1 1 8056 20240629150759
+137.226.113.44 3 3 30904 20240620040100
+89.236.112.100 1 1 10309 20240621064931
+51.79.137.191 1 1 10279 20240628140243
+144.126.202.194 1 1 10288 20240626211107
+54.153.124.78 1 1 10296 20240621200142
+79.166.181.29 1 1 10304 20240608005826
+137.184.87.130 1 1 10276 20240611210357
+206.189.131.135 1 1 10305 20240613225456
+114.119.172.73 1 1 8042 20240619082747
+36.134.147.75 2 2 20571 20240622211101
+72.14.201.147 1 1 8031 20240608070646
+170.106.171.77 2 2 20564 20240617235701
+192.42.116.215 1 1 10309 20240621064924
+180.102.134.69 1 1 10303 20240606022814
+35.167.183.154 1 1 10267 20240624053645
+159.65.87.55 1 1 10273 20240609221517
+45.61.48.223 1 1 49569 20240609002615
+52.81.17.164 1 1 10303 20240606094436
+173.244.35.124 1 1 143931 20240627170650
+104.166.80.207 1 1 10298 20240620093004
+205.210.31.184 1 1 49470 20240628224443
+69.10.48.160 1 1 49470 20240629022306
+35.90.56.151 1 1 10267 20240624053647
+51.178.112.60 3 3 30826 20240610005320
+180.244.134.56 1 1 8020 20240613220630
+49.7.227.204 1 1 10288 20240627110154
+68.178.246.5 2 2 99138 20240603043227
+35.165.38.29 2 2 0 20240608120513
+190.92.206.129 1 1 8042 20240611215715
+157.230.24.99 1 1 10273 20240610013638
+151.80.223.233 1 1 10273 20240609185558
+91.240.118.139 1 1 10297 20240601163647
+43.131.243.208 2 2 20588 20240627234615
+89.110.72.212 1 1 49470 20240626023116
+93.158.91.19 1 1 10267 20240624103150
+52.32.68.78 1 1 10310 20240616055138
+110.137.80.53 1 1 8031 20240608063508
+194.55.186.252 1 1 10304 20240629131455
+54.185.162.252 1 1 8031 20240608084602
+159.138.98.152 1 1 30403 20240625085859
+185.240.33.85 1 1 10275 20240618011417
+149.56.150.207 1 1 8024 20240611045046
+206.168.34.122 1 1 10288 20240627101055
+23.165.104.119 1 1 10279 20240609094617
+43.155.183.138 1 1 10303 20240616185204
+46.101.195.198 1 1 10303 20240605224638
+87.236.176.159 1 1 10304 20240607235404
+36.111.67.189 1 1 10303 20240606151104
+4.227.86.130 1 1 769 20240614235637
+43.130.47.136 2 2 20577 20240623082151
+190.92.212.116 1 1 8042 20240604181332
+178.254.29.124 1 1 10303 20240613062900
+1.55.142.5 1 1 49470 20240626232349
+145.220.91.19 2 2 20589 20240630054402
+124.226.222.66 1 1 10279 20240608223855
+194.169.175.56 1 1 10271 20240615020700
+45.151.136.85 3 3 4877935 20240613183450
+193.186.4.138 1 1 8031 20240608085409
+117.33.163.216 1 1 10273 20240610155136
+43.155.136.16 1 1 10271 20240615150059
+93.158.91.29 1 1 10275 20240618130225
+198.235.24.39 1 1 49570 20240616160340
+205.210.31.198 1 1 49570 20240621035459
+37.187.76.167 2 2 20606 20240617061638
+43.134.190.89 1 1 10300 20240603200132
+81.95.5.36 1 1 8022 20240623003345
+3.27.192.154 1 1 10310 20240615184349
+162.55.132.97 1 1 49570 20240619131434
+199.45.154.17 1 1 10300 20240604013849
+104.152.223.170 1 1 10276 20240612153440
+93.158.127.79 1 1 10303 20240625070209
+173.244.35.49 1 1 10288 20240627154812
+119.13.106.164 1 1 30403 20240612054359
+5.133.192.187 1 1 10304 20240608135940
+89.248.174.182 3 3 26357 20240608210500
+139.59.228.49 1 1 10279 20240628083910
+182.138.158.212 1 1 10287 20240601050116
+198.235.24.209 1 1 49569 20240604123301
+212.47.242.64 1 1 10303 20240624184217
+198.235.24.222 1 1 49569 20240603180519
+159.65.153.82 1 1 10296 20240621213517
+159.89.35.121 1 1 10297 20240601205538
+18.144.8.78 1 1 10305 20240614133327
+119.13.100.156 1 1 30403 20240606074419
+140.213.141.201 1 1 8044 20240626145317
+124.243.132.95 1 1 30403 20240624000403
+93.159.230.89 1 1 10303 20240613070827
+205.210.31.173 1 1 49570 20240619144414
+110.166.71.39 1 1 10266 20240605134451
+18.237.40.138 1 1 10310 20240616055138
+182.42.105.144 1 1 10288 20240626232251
+192.53.165.202 1 1 49570 20240623222437
+87.236.176.201 1 1 10266 20240605103608
+222.79.104.23 3 3 30860 20240630123737
+182.44.2.148 1 1 10309 20240621085257
+104.244.79.50 1 1 10279 20240609094619
+43.131.249.153 1 1 10303 20240613035608
+101.32.245.91 1 1 143931 20240622223601
+209.38.37.173 1 1 10287 20240625223121
+180.242.213.213 1 1 8020 20240613231548
+124.243.132.203 1 1 8024 20240611040709
+35.205.121.143 1 1 10303 20240624172013
+94.74.95.139 1 1 8020 20240616213445
+162.142.125.203 1 1 10304 20240608020843
+94.102.63.27 3 3 26345 20240624015049
+199.45.155.38 1 1 10304 20240608014333
+129.226.158.26 1 1 10275 20240618133323
+49.0.206.9 1 1 30403 20240626024908
+119.13.100.41 1 1 30403 20240618105319
+36.99.136.129 1 1 10303 20240613140126
+43.134.44.82 3 3 298171 20240621133918
+36.99.136.136 1 1 10289 20240611014432
+178.128.80.202 3 3 30890 20240619182912
+104.219.239.61 1 1 10305 20240614064724
+157.245.86.54 1 1 10303 20240606000944
+42.83.147.56 1 1 10267 20240624141703
+93.170.204.95 1 1 49569 20240605111422
+91.92.241.27 1 1 49569 20240601030853
+206.168.34.35 1 1 10288 20240627103104
+128.90.170.12 1 1 10300 20240603162035
+110.238.109.69 1 1 8025 20240618113501
+52.81.87.90 1 1 10267 20240623135940
+79.110.62.2 2 2 20576 20240624181812
+36.84.236.46 1 1 8028 20240607154919
+129.226.196.244 1 1 10300 20240604131627
+36.74.43.249 3 3 16071 20240602160748
+4.185.17.29 2 2 20554 20240626005206
+142.93.255.118 1 1 10310 20240615204609
+161.35.173.63 1 1 10267 20240623224859
+43.157.40.137 2 2 287862 20240624012455
+93.159.230.87 1 1 10288 20240627071929
+68.183.137.87 1 1 10286 20240629215512
+43.153.89.59 2 2 287862 20240623065610
+5.133.192.108 3 3 30861 20240630085642
+45.148.10.59 2 2 20614 20240621081927
+147.185.132.22 1 1 49569 20240607120604
+94.232.247.193 2 2 20590 20240625173931
+35.86.159.56 1 1 10300 20240604051945
+176.96.138.61 2 2 20573 20240604070613
+104.166.80.83 1 1 10309 20240621093236
+60.188.57.0 1 1 10304 20240629115703
+144.172.118.76 1 1 10309 20240621064929
+128.199.128.212 3 3 30854 20240618002848
+135.148.195.10 1 1 10303 20240605202009
+192.36.24.172 1 1 10298 20240619165632
+128.90.157.31 1 1 10267 20240622235339
+27.115.124.6 1 1 10300 20240603175856
+124.243.137.36 1 1 8042 20240616054550
+34.223.224.143 2 2 20546 20240610054830
+45.92.1.17 1 1 10310 20240616091358
+152.42.138.11 1 1 10300 20240603212355
+164.92.114.85 1 1 10304 20240607222317
+52.140.98.217 1 1 769 20240609082737
+144.126.234.193 1 1 10298 20240620004812
+123.249.90.104 1 1 10296 20240622035427
+182.253.218.156 1 1 8020 20240614003655
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240601 43 43 648557 13
+20240602 17 17 159941 5
+20240603 13 13 251572 12
+20240604 11 11 145721 11
+20240605 17 17 347577 13
+20240606 12 12 219991 11
+20240607 15 15 503402 11
+20240608 19 19 193935 18
+20240609 15 15 260273 15
+20240610 20 20 399697 10
+20240611 30 30 5574254 21
+20240612 8 8 275311 8
+20240613 30 30 5526598 17
+20240614 34 34 736528 17
+20240615 8 8 236038 8
+20240616 13 13 166425 13
+20240617 11 11 380505 10
+20240618 11 11 144292 8
+20240619 10 10 352150 10
+20240620 13 13 569511 12
+20240621 19 19 649218 16
+20240622 19 19 536570 16
+20240623 28 28 1516290 26
+20240624 31 31 1004122 22
+20240625 13 13 232309 12
+20240626 25 25 853831 16
+20240627 14 14 434415 11
+20240628 14 14 201209 8
+20240629 16 16 320680 11
+20240630 6 6 59463 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 381
+2mn-5mn 1
+30s-2mn 1
+5mn-15mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 429 7156197 332 313
+/history-result/ 48 14104117 37 42
+// 31 1378633 2 13
+/live-draw/ 24 259131 13 16
+/.well-known/ 3 2307 3 3
+END_SIDER

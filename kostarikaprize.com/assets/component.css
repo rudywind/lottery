@@ -1,0 +1,201 @@
+/**** begin card style ****/
+.card.card-result {
+    position: relative;
+    margin: 0 auto;
+    border-radius: 12px;
+    max-width: 400px;
+    overflow: hidden;
+    background: var(--color-3);
+    z-index: 999;
+}
+.card.card-result .pattern-circles {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.card.card-result .pattern-circles div {
+    position: absolute;
+    border-radius: 50%;
+    background-color: var(--color-1);
+    opacity: .1;
+}
+.card.card-result .pattern-circles .circle1 {
+    width: 55px;
+    height: 55px;
+    top: 25%;
+    right: 3%;
+}
+.card.card-result .pattern-circles .circle2 {
+    width: 109px;
+    height: 109px;
+    top: 0;
+    right: 0;
+    transform: translate(16%,-30%);
+}
+.card.card-result .pattern-circles .circle3 {
+    width: 144px;
+    height: 144px;
+    right: 0;
+    bottom: 50%;
+    transform: translate(-50%,67%);
+}
+.card.card-result .pattern-circles .circle4 {
+    width: 288px;
+    height: 288px;
+    bottom: 0;
+    left: 0;
+    top: 100%;
+    transform: translate(-50%,-52%);
+}
+.card.card-result .pattern-circles .circle5 {
+    top: 0;
+    left: 5%;
+    transform: translateY(-54%);
+    width: 88px;
+    height: 88px;
+}
+.card.card-result .card-header,
+.card.card-result .card-header .card-title {
+    position: relative;
+}
+.card.card-result .card-body,
+.card.card-result .card-body .result-title,
+.card.card-result .card-body .prize-wrapper {
+    position: relative;
+    z-index: 999;
+}
+.card.card-result .card-footer {
+    border-radius: 0 0 12px 12px;
+}
+.card.card-result .card-footer .icon-container {
+	position: relative;
+    margin: 0 auto;
+    margin-top: -60px;
+	width: 64px;
+	height: 64px;
+	padding: 5px;
+	z-index: 999;
+}
+.card.card-result .card-footer .icon-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: auto;
+    height: auto;
+    background-color: var(--color-9);
+    border-radius: 8px;
+    transform: rotate(45deg);
+    z-index: -1;
+}
+.card.card-result .card-footer .icon-container .web-icon {
+	padding: 3px;
+	width: 100%;
+    height: 100%;
+}
+.card .card-body .prize-wrapper .prize-block.winner .prize-digit,
+.card .card-body .prize-wrapper .prize-block.secondary .prize-digit {
+    position: relative;
+    width: 45px;
+    height: 45px;
+    line-height: 44px;
+    border-radius: 50px;
+    font-size: 24px;
+    font-weight: 700;
+	margin: 0 2.5px;
+    background: radial-gradient(circle at center, var(--color-6), var(--color-7));
+    border: 1px solid var(--color-6);
+    color: var(--color-2);
+}
+.card .card-body .prize-wrapper .prize-block.winner .prize-digit::before,
+.card .card-body .prize-wrapper .prize-block.secondary .prize-digit::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: auto;
+	height: auto;
+	border-radius: 50%;
+	background: radial-gradient(circle at 25% 0px, #ffffff, rgba(255, 255, 255, 0) 58%);
+	z-index: 0;
+}
+.card .card-body .prize-wrapper .prize-block.winner .prize-digit::after,
+.card .card-body .prize-wrapper .prize-block.secondary .prize-digit::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: -10px;
+	width: auto;
+	height: 10px;
+	border-radius: 50%;
+	background: rgba(0, 0, 0, 0.6);
+	filter: blur(5px);
+	z-index: 0;
+}
+.card .card-body .prize-wrapper .prize-block.secondary .prize-digit,
+.list-group-item .prize-wrapper .prize-block.mini .prize-digit {
+    width: 30px;
+    height: 30px;
+    line-height: 26px;
+    border-radius: 50px;
+    font-size: 14px;
+    font-weight: 500;
+	margin: 0 1.5px;
+    background: radial-gradient(circle at center, var(--color-4), var(--color-5));
+    border: 1px solid var(--color-4);
+    color: var(--color-8);
+}
+.list-group-item .prize-wrapper .prize-block.winner.mini .prize-digit {
+    width: 30px;
+    height: 30px;
+    line-height: 26px;
+    border-radius: 50px;
+    font-size: 14px;
+    font-weight: 700;
+	margin: 0 1.5px;
+    background: radial-gradient(circle at center, var(--color-6), var(--color-7));
+    border: 1px solid var(--color-4);
+    color: var(--color-4);
+}
+.card.card-result-bottom {
+    position: relative;
+    border-radius: 0 0 8px 8px;
+}
+.card.card-result.history .card-footer .icon-container {
+	position: relative;
+    margin: 0 auto;
+    margin-top: -72px;
+	width: 48px;
+	height: 48px;
+	padding: 5px;
+	z-index: 999;
+}
+/**** endof card style ****/
+/*
+     FILE ARCHIVED ON 17:01:09 Dec 31, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:47:28 Jan 01, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.415
+  exclusion.robots: 0.021
+  exclusion.robots.policy: 0.014
+  esindex: 0.008
+  cdx.remote: 5.188
+  LoadShardBlock: 582.953 (3)
+  PetaboxLoader3.datanode: 111.368 (4)
+  PetaboxLoader3.resolve: 575.263 (2)
+  load_resource: 189.063
+*/

@@ -1,0 +1,55 @@
+.flip-clock-wrapper ul,.flip-clock-wrapper ul li a div div.inn,.flip-clock-divider .flip-clock-dot {
+    background-color: var(--flipclock-bg-color)
+}
+
+.flip-clock-wrapper ul li a div div.inn {
+    color: var(--flipclock-color)
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-2)
+}
+
+button {
+    outline: none!important
+}
+
+hr {
+    border-width: 5px;
+    border-style: dotted;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0
+}
+
+header {
+    display: block;
+    position: relative
+}
+
+header .logo-wrapper .web-logo {
+    margin: 0 auto;
+    width: 100%
+}
+
+header .navbar .navbar-nav .nav-item .nav-link {
+    text-transform: uppercase;
+    font-weight: 500;
+    color: var(--white)!important
+}
+
+header .navbar .navbar-nav .nav-item.active .nav-link {
+    color: var(--color-7)!important
+}
+
+section {
+    display: block;
+    position: relative
+}
+
+footer {
+    display: block;
+    position: relative
+}

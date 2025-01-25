@@ -1,0 +1,999 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.italiaprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2043                
+POS_TIME 2722                
+POS_VISITOR 22355               
+POS_DAY 32214               
+POS_DOMAIN 3513                
+POS_LOGIN 4108                
+POS_ROBOT 4263                
+POS_WORMS 4923                
+POS_EMAILSENDER 5054                
+POS_EMAILRECEIVER 5197                
+POS_SESSION 32977               
+POS_SIDER 33156               
+POS_FILETYPES 5332                
+POS_DOWNLOADS 5417                
+POS_OS 5465                
+POS_BROWSER 5881                
+POS_SCREENSIZE 7686                
+POS_UNKNOWNREFERER 7760                
+POS_UNKNOWNREFERERBROWSER 8601                
+POS_ORIGIN 9124                
+POS_SEREFERRALS 9262                
+POS_PAGEREFS 9425                
+POS_SEARCHWORDS 9597                
+POS_KEYWORDS 9749                
+POS_MISC 2386                
+POS_ERRORS 9808                
+POS_CLUSTER 3964                
+POS_SIDER_404 9912                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501025232 50 10368 25038318557586
+FirstTime 20240401050709
+LastTime 20240430225234
+LastUpdate 20240501081727 50 0 49 0 0
+TotalVisits 301                 
+TotalUnique 251                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 251                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 34 34 766022 39 46 194889
+1 9 9 231352 16 23 118285
+2 13 13 237736 19 27 223565
+3 19 19 227793 33 45 139487
+4 6 6 131105 16 18 128055
+5 9 9 127220 21 29 63365
+6 8 8 71932 15 23 57025
+7 27 27 312166 33 49 228783
+8 14 14 168298 14 15 147269
+9 16 16 476908 19 21 33140
+10 27 27 414149 13 18 160253
+11 9 9 90331 14 24 138927
+12 13 13 178427 240 247 369628
+13 22 22 440052 19 44 153614
+14 14 14 380465 32 38 47538
+15 10 10 172178 24 35 172500
+16 9 9 90360 12 18 2177935
+17 3 3 65555 11 17 41129
+18 15 15 217864 12 24 64818
+19 10 10 102731 25 27 65782
+20 100 100 324898 7 11 27514
+21 11 11 152632 14 19 113302
+22 13 13 204127 17 23 108734
+23 24 24 446363 17 27 109545
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 27
+us 166 166 2980069
+cn 79 79 425126
+jp 34 34 349403
+au 27 27 34651
+ru 18 18 423697
+id 16 16 65041
+ca 16 16 546325
+nl 13 13 133581
+se 12 12 158032
+de 10 10 137457
+br 7 7 71960
+ge 5 5 65804
+kh 5 5 47094
+eu 4 4 111661
+lb 4 4 179984
+lt 4 4 46769
+be 3 3 30841
+in 2 2 53121
+at 2 2 20544
+ua 1 1 44996
+il 1 1 10277
+pa 1 1 10274
+hr 1 1 10271
+vn 1 1 44996
+gr 1 1 10282
+bg 1 1 8129
+ve 1 1 10279
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+no_user_agent 19 854924 20240430152924 0
+AhrefsBot/ 13 206324 20240428213154 0
+MJ12bot/ 12 349016 20240430075619 0
+Googlebot/ 10 95518 20240430205944 0
+bot[\s_+:,\.\;\/\\-] 6 61646 20240414072747 0
+Go\-http\-client/ 5 51393 20240425053922 0
+(firefox/)([0-9]\.|[0-1][0]\.) 4 30823 20240430165646 0
+crawl 4 111261 20240427024519 0
+DotBot/ 4 2068751 20240404163756 0
+SemrushBot/ 3 101392 20240421073620 0
+link 3 100978 20240407032046 0
+survey 2 89992 20240403160311 0
+curl 1 8127 20240421012245 0
+bingbot/ 1 8128 20240422011318 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 435 6030664 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 26
+androidmarshmallow 1 1
+unix 1 1
+linuxubuntu 6 6
+androidnougat 1 1
+linux 32 32
+win8 1 1
+androidoreo 1 1
+win8.1 2 2
+Unknown 39 39
+macosx15 43 43
+win7 13 13
+ios_iphone 64 64
+androidpie 1 1
+android 1 1
+android10 82 82
+winlong 3 3
+winnt 4 4
+ios_ipad 1 1
+win10 123 123
+macosx 4 4
+macosx7 2 2
+macosx12 1 1
+linuxdebian 1 1
+macosx14 4 4
+macosx9 1 1
+winxp 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 87
+safari12.1 1 1
+chrome104.0.5112.79 1 1
+opera53.0.2907.110 1 1
+firefox123 1 1
+safari17.0 2 2
+chrome114.0.0.0 5 5
+Unknown 17 17
+chrome101.0.4951.67 1 1
+firefox21.0 2 2
+chrome105.0.0.0 6 6
+firefox118.0 2 2
+chrome103.0.0.0 1 1
+chrome116.0.0.0 3 3
+chrome6.0.472.33 1 1
+firefox115.0 2 2
+opera89.0.4447.51 4 4
+firefox99.0 1 1
+chrome83.0.4103.97 17 17
+chrome80.0.3987.132 1 1
+chrome103.0.5060.134 1 1
+safari16.6 2 2
+chrome53.0.1424 1 1
+chrome121.0.0.0 22 22
+chrome106.0.0.0 3 3
+chrome113.0.0.0 1 1
+chrome91.0.4472.101 1 1
+chrome100.0.4896.60 20 20
+chrome114.0.5735.289 1 1
+chrome110.0.0.0 2 2
+chrome51.0.2704.103 3 3
+msie6.0 1 1
+chrome91.0.4472.114 4 4
+chrome91.0.2660 1 1
+chrome66.0.3359.181 15 15
+mozilla 14 14
+chrome122.0.0.0 4 4
+chrome109.0.0.0 10 10
+chrome97.0.1640 1 1
+chrome88.0.4324.192 1 1
+safari17.3.1 1 1
+chrome122.0.6261.94 1 1
+chrome60.0.3112.107 1 1
+firefox40.0 2 2
+chrome117.0.0.0 13 13
+firefox35.0 1 1
+chrome74.0.3729.169 7 7
+chrome100.0.4896.127 4 4
+chrome123.0.0.0 50 50
+firefox33.0 4 4
+chrome13.0.782.41 1 1
+chrome57.0.2987.133 1 1
+chrome79.0.3945.130 3 3
+chrome87.0.4280.88 3 3
+chrome120.0.0.0 7 7
+netscape 1 1
+edge18 1 1
+chrome19.0.1084.9 1 1
+safari13.0.3 60 60
+opera108.0.0. 2 2
+chrome112.0.0.0 1 1
+chrome94.0.4606.61 1 1
+chrome81.0.4044.138 4 4
+firefox117.0 2 2
+netscape5.0 5 5
+chrome77.0.2634.88 1 1
+chrome97.0.4280.67 2 2
+edge14 1 1
+chrome61.0.1775 1 1
+iceweasel 1 1
+firefox66.0.5 1 1
+chrome34.0.1847.116 3 3
+firefox108.0 3 3
+firefox106.0 1 1
+chrome124.0.0.0 35 35
+firefox114.0 4 4
+chrome56.0.2924.122 1 1
+chrome88.0.4240.193 5 5
+chrome58.0.3029.110 1 1
+chrome96.0.4664.110 3 3
+chrome81.0.4044.122 1 1
+chrome88.0.4324.150 2 2
+chrome78.0.3904.108 9 9
+chrome71.0.3578.99 1 1
+chrome17.0.963.56 2 2
+safari 1 1
+firefox76.0 1 1
+firefox115 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240427030930
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240427021544
+python-requests/2.31.0 20240414034001
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240425004243
+WhatsApp/2.23.20.0 20240407232058
+Mozilla/5.0_Firefox/33.0 20240416235116
+Mozilla 20240415231900
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240427114900
+got_(https://github.com/sindresorhus/got) 20240420142123
+Searcherweb 20240425090723
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240427021544
+python-requests/2.31.0 20240414034001
+got_(https://github.com/sindresorhus/got) 20240420142123
+Searcherweb 20240425090723
+WhatsApp/2.23.20.0 20240407232058
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 314 314
+From1 3 3
+From2 2 2
+From3 1 1
+From4 115 115
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://onic-4d.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 22 27324
+404 735 919485
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 319
+/cloud.php 2 -
+/author/stender/ 1 -
+/wp-admin/.wp-admin.php 1 italiaprize.com
+/wp-admin/dropdown.php 2 -
+/wp-json/wp/v2/users/5 2 https://italiaprize.com/
+/dropdown.php 2 -
+/sitemap.xml.gz 1 -
+/wp-includes/customize/about.php 2 -
+/wp-admin/images/cloud.php 2 -
+/author/crander/ 1 -
+/wp-admin/css/colors/ectoplasm/about.php 1 -
+/wp-admin/images/xmrlpc.php 2 -
+/wp-includes/.wp-includes.php 1 italiaprize.com
+/adminfuns.php7 2 -
+/wp-admin/about.php 1 -
+/wp-includes/id3/license.txt/feed/ 1 -
+/wp-content/updates.php 2 -
+//wp-json/oembed/1.0/embed 3 -
+/PHPMailer/web_config.php 1 italiaprize.com
+/wp-content/themes/torofilm/changelog.txt 2 -
+/wp-admin/css/colors/blue/index.php 1 italiaprize.com
+/.well-known/pki-validation/cloud.php 2 -
+/wp-content/plugins/backup-backup/includes/M 1 -
+/wp-admin/js/widgets/about.php7 2 -
+/wp-admin/css/colors/about.php 1 -
+/music/bak_config.php 1 italiaprize.com
+/wp-admin/edit-forms.php 1 italiaprize.com
+//wp-json/wp/v2/users/ 3 -
+/ads.txt 3 http://italiaprize.com/ads.txt
+/wp-includes/ID3/about.php 2 -
+/wp-content/themes/qoe/vendor/ernilambar/wp-admin-notice/src/Start-home.php 1 italiaprize.com
+/wp-includes/about.php 2 -
+/wp-includes/id3/license.txt/2021/wp-includes/wlwmanifest.xml 1 -
+/author/wpadminne/ 1 -
+/sites/all/modules/contrib/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/wp-content/plugins/wp-meta-seo/readme.txt 2 -
+/alfa-rex2.php7 2 -
+/wp-includes/widgets/about.php 2 -
+/wp-admin/css/colors/light/index.php 1 italiaprize.com
+/libraries/vendor/updates.php 2 -
+/wp-includes/ 1 -
+/wp-woulds.php 1 italiaprize.com
+/robots.txt 90 -
+/wp-json/wp/v2/users 1 -
+/wp-content/plugins/linkpreview/db.php 2 -
+/wp-content/themes/wp-admin/css/index.php 1 italiaprize.com
+/.well-known/acme-challenge/xmrlpc.php 2 -
+/wp-json/wp/v2/users/4 3 https://italiaprize.com/
+/wp-admin/css/about.php 3 -
+/wp-content/gallery/about.php 2 -
+/wp-json/litespeed/v1/cdn_status 13 -
+/chosen.php 9 -
+/wsoyanz.php 2 -
+/wp-admin/repeater.php 2 -
+/wp-admin/includes/users.php 1 italiaprize.com
+/.well-known/security.txt 3 -
+/wp-content/themes/lottery/readme.txt 4 -
+/wp-includes/block-patterns/about.php 2 -
+/sitemapindex.xml 1 -
+/wp-content/about.php 3 -
+/wp-content/languages/about.php 2 -
+/wp-includes/inputs.php 1 www.google.com
+/wp-admin/includes/upfile.php 1 italiaprize.com
+/ftp-sync.json 2 -
+/wp-admin/setup-config.php 1 -
+/wp-content/themes/bute/lang.php 1 www.google.com
+/about.php 7 italiaprize.com
+/wp-content/plugins/LayerSlider/static/js/builder.js 1 italiaprize.com
+/wp-includes/IXR/about.php 2 -
+/wp-content/themes/seotheme/db.php 2 -
+/wp-admin/css/index.php 3 -
+/dist/jquery.min.js 2 -
+/wp-content/plugins/master/mode/table.php 1 italiaprize.com
+/sites/all/libraries/plupload/examples/upload.php 1 -
+/blog 1 -
+/wp-includes/css/buttons.css 1 http://italiaprize.com/wp-includes/css/buttons.css
+/wp-includes/id3/license.txt/shop/wp-includes/wlwmanifest.xml 1 -
+/.vscode/sftp.json 2 -
+/wp-content/plugins/forminator/readme.txt 2 -
+/wp-content/plugins/civicrm/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/img/xmrlpc.php 2 -
+/wp-admin/network/xmrlpc.php 2 -
+/wp-includes/blocks/about.php 2 -
+/.env.example 1 -
+/wp-admin/css/colors/blue/xmrlpc.php 2 -
+/images/xmrlpc.php 2 -
+/wp-content/plugins/seo-watcher/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/wp-content/themes/twentytwentytwo/inputs.php 1 italiaprize.com
+/atomlib.php 1 italiaprize.com
+/wp-content/plugins/backup-backup/modules/gdrivebanner/assets/css/styles.css 3 -
+/radio.txt 1 italiaprize.com
+/wp-json/instawp-connect/v1/config 2 https://italiaprize.com
+/wp-json/wpgmza/v1/markers 1 -
+/wp-content/inputs.php 2 www.google.com
+/wp-admin/link-forms.php 1 italiaprize.com
+/.vscode/.sftp.json 1 -
+/wp-admin/includes/.includes.php 1 italiaprize.com
+/wp-admin/js/.js.php 1 italiaprize.com
+/.well-known/acme-challenge/upfile.php 2 italiaprize.com
+/components/com_jvideodirect/tools/uploader/php/upload.php 1 -
+/wp-includes/id3/license.txt/wordpress/wp-includes/wlwmanifest.xml 1 -
+/wp-blog.php 1 italiaprize.com
+/wp-content/plugins/whatsmyrank-devenc/php-ofc-library/ofc_upload_image.php 1 -
+/sample.php 3 http://italiaprize.com//sample.php
+/wp-admin/css/colors/cloud.php 2 -
+/xmlrpc.php 2 -
+/wp-roto/wp-admin/css/index.php 1 italiaprize.com
+/author/admim/ 1 -
+/wp-json/wp/v2/users/3 2 https://italiaprize.com/
+/author/superadmin/ 1 -
+/libraries/legacy/updates.php 2 -
+/wp-includes/Requests/about.php 2 -
+/wp-includes/rest-api/about.php 2 -
+/wp-admin/a2.php 1 italiaprize.com
+/wp-admin/css/colors/coffee/xmrlpc.php 2 -
+/wp-includes/id3/license.txt/wp/wp-includes/wlwmanifest.xml 1 -
+/admin.php 15 http://italiaprize.com//admin.php
+/.sftp-config.json 2 -
+/wp-content/plugins/fix/up.php 1 www.google.com
+/wp-includes/js/jquery/jquery.min.js 2 www.google.com
+/wp-admin/admin-ajax.php 13 -
+/wp-checkbex.php 2 -
+/wp-includes.bak/html-api/about.php 2 -
+/wp-admin/user/cloud.php 2 -
+/sitemap.txt 1 -
+/wp-content/plugins/seoplugins/mar.php 2 -
+/wp-content/plugins/Cache/Cache.php 2 -
+/alfanew.php7 2 -
+/about.php7 2 -
+/wp-includes/id3/license.txt/xmlrpc.php 1 -
+/css/cloud.php 2 -
+/sitemap.xml 15 -
+/wp-includes/id3/license.txt/2019/wp-includes/wlwmanifest.xml 1 -
+/wp-content/themes/pridmag/db.php 2 -
+/sitemap.php 1 -
+/index_sso.php 4 -
+/wp-22.php 3 http://italiaprize.com//wp-22.php
+/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 1 -
+/wp-cron.php 2 italiaprize.com
+/jp.php 1 italiaprize.com
+/wp-content/plugins/backup-backup/includes/P 1 -
+/sitemap/sitemap.xml 1 -
+/images/about.php 3 -
+/.DS_Store 5 -
+/wp-p.php7 2 -
+/sitemap-index.xml 1 -
+/wp-content/plugins/forminator/assets/fonts/wpmudev-plugin-icons.svg 1 -
+/wp-includes/id3/license.txt/site/wp-includes/wlwmanifest.xml 1 -
+/.well-known/acme-challenge/cloud.php 4 -
+/img/about.php 2 -
+/wp-includes/js/wp-emoji-release.min.js 1 www.google.com
+/wp-content/plugins/work-list/lang.php 1 www.google.com
+/upfile.php 1 italiaprize.com
+/wp-admin/includes/xmrlpc.php 2 -
+/cache-compat.php 2 -
+/wp-content/.wp-content.php 1 italiaprize.com
+/administrator/components/com_acymailing/inc/openflash/php-ofc-library/ofc_upload_image.php 1 -
+/license.txt 2 -
+/wp-content/themes/seotheme/mar.php 2 -
+/avaa.php 2 -
+/author/w-padmine/ 1 -
+/wp-includes/style-engine/about.php 2 -
+/ebs.php7 2 -
+/wp-content/plugins/spamtask/chart/php-ofc-library/ofc_upload_image.php 1 -
+/.well-known/pki-validation/xmrlpc.php 2 -
+/wp-head.php 2 -
+/wp-includes/Text/about.php 2 -
+/wp-admin/ajax-actions.php 2 -
+/css/about.php 1 -
+/sitemap/index.xml 1 -
+/wp-admin/includes/about.php 2 -
+/sites/all/modules/plupload/plupload/examples/upload.php 1 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 2 -
+/xmrlpc.php 2 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 3 -
+/author/wpservices/ 1 -
+/wp-admin/xmrlpc.php 2 -
+/ajax-actions.php 2 -
+/old 1 -
+/wp-emoji-release.min.js 2 -
+/wp-content/plugins/wp-automatic/inputs.php 1 italiaprize.com
+/wp-admin/widgets-blocks.php 1 italiaprize.com
+/wp-admin/mb.php 1 italiaprize.com
+/wp-json 8 -
+/radio.php 2 italiaprize.com
+/wp-includes/id3/license.txt/2020/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/privacy-guides.php 1 italiaprize.com
+/wordpress 2 -
+/wp-admin/css/colors/blue/about.php 1 -
+/ws.php7 2 -
+/wp-content/upgrade-temp-backup/about.php 2 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 2 -
+/yanz.php 2 -
+/inputs.php 4 www.google.com
+/sitemap_index.xml 1 -
+/wp-admin/js/index.php 1 italiaprize.com
+/repeater.php 2 -
+/wp-content/plugins/wp-automatic/inc/csv.php 1 -
+/wp-includes/Requests/Text/index.php 1 italiaprize.com
+/img/cloud.php 2 -
+/cgi-bin/cloud.php 2 -
+/wp-admin/user/xmrlpc.php 2 -
+/wp-content/blogs.dir/about.php 2 -
+/.well-known/about.php 3 -
+/wp-content/plugins/seoo/wsoyanz1.php 2 -
+/php/thinkphp/aaaffff123.php 4 -
+/simple.php 6 www.google.com
+/sites/all/libraries/elfinder/connectors/php/connector.php 1 -
+/wp-content/uploads/sites/8/upfile.php 1 italiaprize.com
+/wp-admin/images/.images.php 1 italiaprize.com
+/wp-admin/network/licenses.php 1 italiaprize.com
+/wp-includes/pomo/about.php 2 -
+/wp 2 -
+/wp-admin/inputs.php 2 www.google.com
+/wp-consar.php 2 -
+/alfanew2.php7 2 -
+/.well-known/assetlinks.json 1 -
+/wp-content/plugins/genesis-simple-share/includes/class-genesis-simple-share-view.php 1 italiaprize.com
+/wp-content/updraft/about.php 2 -
+/wp-content/themes/about.php 3 -
+/wp-includes/id3/license.txt/test/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/moveto/assets/lib/loader_ajax.php 2 https://italiaprize.com
+/wp-content/mu-plugins/about.php 1 -
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/wp-content/plugins/seoplugins/db.php 2 -
+/wp-content/banners/about.php 2 -
+/wp-includes/SimplePie/about.php 2 -
+/admin-post.php 2 -
+/author/wpsecuritypatch/ 1 -
+/wp-admin/includes/cloud.php 2 -
+/wp-admin/css/colors/xmrlpc.php 2 -
+/wp-includes/id3/license.txt/cms/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/js/widgets/xmrlpc.php 2 -
+/wp-admin/images/upfile.php 1 italiaprize.com
+//xmlrpc.php 6 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 2 -
+/cgi-bin/upfile.php 3 italiaprize.com
+/new 1 -
+/updates.php 2 -
+/wp-includes/id3/license.txt/wp1/wp-includes/wlwmanifest.xml 1 -
+/.wp-cli/cache/about.php 1 -
+/joobi/inc/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/cgi-bin/.cgi-bin.php 1 italiaprize.com
+/humans.txt 3 http://italiaprize.com/humans.txt
+/alfanew.php 2 -
+/wp-includes/images/about.php 2 -
+/.well-known/pki-validation/upfile.php 2 italiaprize.com
+/sites/all/libraries/elfinder/src/connectors/php/connector.php 1 -
+/wp-includes/js/jquery/jquery.js 2 www.google.com
+/cgi-bin/xmrlpc.php 3 -
+/archivarix.cms.php 1 -
+/wp-includes/Requests/Text/admin.php 2 -
+/wp-admin/user/upfile.php 1 italiaprize.com
+/css/xmrlpc.php 2 -
+/a2.php 1 italiaprize.com
+/wp-content/plugins/gotmls/readme.txt 2 -
+/wp-admin/maint/.maint.php 1 italiaprize.com
+/wp-boards.php 1 italiaprize.com
+/wp-admin/css/colors/index.php 4 -
+/wp-admin/network/cloud.php 2 -
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+//swedenlotteri.com/wp-content/themes/lottery_sweden/assets/js/lottery.js 2 -
+/wp-content/plugins/chauffeur-booking-system/script/jquery.chauffeurBookingFormAdmin.js 1 italiaprize.com
+/author/greeceman/ 1 -
+/wp-includes/repeater.php 2 -
+/wp-content/plugins/wp-statistics/readme.txt 2 -
+/style.php 6 www.google.com
+/test 1 -
+/.well-known/pki-validation/about.php 3 -
+/wp-privacys.php 1 italiaprize.com
+/wp-admin/js/widgets/cloud.php 2 -
+/licenses.php 1 italiaprize.com
+/.ftp-sync.json 3 -
+/alfa-rex.php7 2 -
+/index.php 6 italiaprize.com
+/wp-admin/cloud.php 2 -
+/wp-atom.php 1 italiaprize.com
+/shop 1 -
+/general.php 3 http://italiaprize.com//general.php
+//swedenlotteri.com/wp-content/themes/lottery/assets/js/flipclock.js 2 -
+/.wp-cli/about.php 1 -
+/wp-admin/css/colors/blue/cloud.php 2 -
+/wp-admin/images/index.php 2 -
+/wp-admin/maint/maint/ajax-actions.php 2 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/images/cloud.php 2 -
+/wp-admin/js/about.php 4 -
+/da1.php 1 italiaprize.com
+//cdn.js 2 -
+/wp-content/plugins/ai-engine/readme.txt 2 -
+/wp-includes/id3/license.txt/web/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/images/smilies/upfile.php 1 italiaprize.com
+/wp-content/themes/soledad/style.css 2 -
+/wp-admin/css/colors/coffee/cloud.php 2 -
+/wp-content/repeater.php 2 -
+/dist/js/bootstrap.bundle.min.js 2 -
+/wp-content/ 4 -
+/wp-content/plugins/seoo/wsoyanz.php 2 -
+/phpmyadmin/index.php 4 -
+/.vscode/ftp-sync.json 2 -
+/wp-admin/css/.css.php 1 italiaprize.com
+/.env 12 -
+//wp-includes/wlwmanifest.xml 3 -
+/wp-admin/install.php 1 -
+/libraries/phpmailer/updates.php 2 -
+/wp-includes/id3/license.txt/blog/wp-includes/wlwmanifest.xml 1 -
+//s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js 2 -
+/wp-admin/images/about.php 2 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 2 -
+/sftp-config.json 2 -
+/wp-login.php 5 http://www.italiaprize.com/wp-login.php
+/cgi-bin/about.php 3 -
+/media/system/js/core.js 3 -
+/.tmb/about.php 1 -
+/sitemap 1 -
+/sitemap1.xml 1 -
+/wp-admin/css/colors/coffee/about.php 1 -
+/wp-content/themes/theme_log.php 1 italiaprize.com
+/wp-content/themes/lottery_sweden/readme.txt 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 251
+116.206.15.10 39 39 16254 20240418204930
+114.142.172.35 24 24 16255 20240427205722
+54.88.179.33 10 10 449960 20240425001942
+35.171.144.152 10 10 449960 20240425233925
+36.74.44.155 8 8 24382 20240429205052
+177.10.89.81 7 7 71960 20240403000547
+168.119.38.238 7 7 71918 20240405193121
+34.139.88.191 5 5 224980 20240416133723
+140.213.98.209 5 5 16272 20240418204513
+128.1.43.230 4 4 75818 20240425034003
+159.223.55.19 4 4 179984 20240412003526
+212.30.36.146 4 4 179984 20240412095550
+152.32.153.67 4 4 75818 20240425073955
+137.226.113.44 4 4 41085 20240425004243
+84.32.41.136 4 4 46769 20240406135032
+42.83.147.34 3 3 30838 20240419072953
+44.242.175.188 3 3 24378 20240405120948
+223.244.35.77 3 3 30834 20240427121615
+34.211.216.133 3 3 24387 20240413202751
+89.248.174.182 3 3 30819 20240410133642
+35.85.37.229 3 3 24381 20240411235333
+43.135.129.233 3 3 30829 20240412021044
+58.49.233.126 3 3 30833 20240419162922
+178.62.74.6 3 3 101390 20240403222632
+89.248.172.115 3 3 30836 20240414034001
+169.150.198.86 1 1 10272 20240423205438
+198.235.24.26 1 1 44996 20240417144052
+36.74.40.178 1 1 8129 20240422205558
+43.155.136.16 1 1 10279 20240422164917
+43.163.8.36 2 2 20558 20240426005831
+204.48.18.64 1 1 10269 20240411203659
+157.245.220.129 1 1 10284 20240409202804
+93.158.90.34 1 1 10275 20240426155613
+148.251.70.154 1 1 10277 20240417002912
+167.99.241.249 1 1 10277 20240419210249
+35.91.161.243 2 2 20552 20240414110747
+43.155.169.133 1 1 10269 20240411053526
+43.131.248.209 1 1 10279 20240415184126
+89.248.174.42 1 1 10283 20240408074829
+35.92.73.88 1 1 10279 20240422094150
+154.29.100.216 1 1 8125 20240418124829
+87.236.176.92 1 1 10277 20240427114900
+54.188.196.17 1 1 10273 20240418080556
+167.94.145.102 1 1 10283 20240423150404
+43.159.129.209 1 1 10274 20240425025720
+54.202.170.196 1 1 10275 20240426074641
+135.148.195.15 1 1 10283 20240408143024
+38.122.112.147 1 1 10271 20240428114843
+199.45.154.56 1 1 10277 20240427030930
+192.36.109.84 1 1 10269 20240410153113
+34.221.73.193 1 1 10279 20240402100948
+43.130.39.101 2 2 20555 20240421102130
+111.7.100.29 1 1 10276 20240414160323
+158.69.247.77 2 2 20542 20240407221638
+135.148.195.11 1 1 10282 20240415212526
+66.249.79.71 1 1 33274 20240406212929
+94.247.172.129 1 1 10279 20240415092935
+93.158.90.36 1 1 10282 20240416051828
+43.130.37.62 2 2 20554 20240417135914
+91.103.253.141 1 1 10272 20240424035243
+34.211.146.47 2 2 20554 20240420104021
+52.42.231.83 1 1 10277 20240420073946
+168.119.89.246 2 2 20564 20240416092647
+223.113.128.132 1 1 10269 20240410124549
+5.133.164.42 1 1 8147 20240418124834
+54.149.24.59 1 1 10271 20240428072754
+140.213.104.120 1 1 8129 20240419204534
+120.71.59.24 1 1 10276 20240430072307
+119.96.24.54 1 1 10274 20240405051014
+205.210.31.14 1 1 44996 20240420145858
+95.182.125.123 1 1 8129 20240413114421
+178.18.15.20 1 1 44996 20240419094537
+222.79.104.23 1 1 10268 20240429081037
+5.188.62.76 1 1 10279 20240422062725
+123.160.221.133 1 1 10276 20240430014002
+159.89.92.187 1 1 10280 20240401204714
+8.41.221.57 2 2 55273 20240416235000
+45.154.35.141 1 1 44996 20240407001451
+91.92.242.243 1 1 8129 20240409030221
+185.56.83.83 1 1 10272 20240424035224
+46.246.122.90 1 1 44996 20240417125022
+205.209.106.139 1 1 44996 20240420020421
+159.203.41.121 1 1 10274 20240425010547
+185.220.101.2 1 1 10269 20240411104937
+118.69.175.73 1 1 44996 20240411234959
+154.29.100.220 1 1 33274 20240418212258
+124.156.193.7 1 1 10280 20240419055819
+35.91.159.100 1 1 10269 20240410080650
+159.223.226.17 1 1 10269 20240403202412
+107.178.207.21 1 1 10274 20240425101526
+65.154.226.166 1 1 10280 20240403085948
+199.45.154.64 1 1 10283 20240423184558
+43.131.243.208 1 1 10277 20240420034225
+103.189.123.8 1 1 8125 20240418204538
+43.153.93.68 2 2 20545 20240414131958
+87.236.176.166 1 1 10282 20240416180721
+129.226.147.7 2 2 20547 20240429195355
+34.219.165.87 1 1 10273 20240418080559
+54.151.60.82 1 1 10274 20240405180412
+43.133.77.208 1 1 10279 20240402090049
+162.142.125.223 1 1 10275 20240406061750
+205.210.31.166 1 1 44996 20240423054735
+93.158.91.253 1 1 10274 20240405002347
+212.24.120.33 1 1 10272 20240424075936
+205.210.31.103 1 1 44996 20240408200352
+182.42.111.213 2 2 20540 20240411155509
+89.248.172.92 1 1 10269 20240410005318
+199.45.155.52 1 1 10275 20240406032721
+77.246.105.178 2 2 89992 20240404140949
+60.188.57.0 2 2 20555 20240424151748
+192.42.116.211 1 1 10279 20240414235401
+178.254.12.183 2 2 20546 20240427024333
+65.154.226.170 2 2 20557 20240420182503
+111.7.100.28 1 1 10276 20240414160321
+178.254.24.91 2 2 20553 20240418014549
+5.133.192.94 1 1 10282 20240415210410
+198.235.24.31 1 1 44996 20240409005208
+43.134.142.8 1 1 10273 20240418102637
+167.94.138.125 1 1 10275 20240406065951
+154.28.229.185 1 1 8129 20240402140618
+185.220.101.62 1 1 10269 20240411104920
+185.220.101.56 1 1 10272 20240424035241
+43.159.63.75 1 1 10277 20240417035643
+36.85.38.80 1 1 8129 20240423203314
+54.215.63.51 1 1 10271 20240412183234
+43.163.8.148 1 1 10280 20240401050709
+154.39.66.38 1 1 10276 20240414084026
+159.65.94.8 1 1 10277 20240413203556
+5.133.192.146 1 1 10280 20240421165104
+54.186.241.28 1 1 10269 20240410080645
+38.89.70.199 1 1 10279 20240415024935
+192.42.116.177 1 1 10279 20240414235412
+193.198.221.42 1 1 10271 20240428020536
+198.235.24.255 1 1 44996 20240427021544
+212.8.51.116 1 1 44996 20240415231900
+188.166.99.65 1 1 10275 20240425231722
+161.35.181.228 1 1 10276 20240429224809
+104.131.18.62 1 1 10272 20240423205607
+49.51.179.103 2 2 20552 20240410001848
+43.155.166.202 2 2 20557 20240427003101
+52.81.208.114 1 1 10279 20240422034307
+5.133.167.14 1 1 33274 20240418124833
+175.100.113.235 1 1 10283 20240407232058
+64.233.172.138 1 1 8129 20240406101756
+35.91.236.163 1 1 10271 20240428072800
+203.2.64.59 2 2 20562 20240421201545
+199.45.155.21 1 1 10271 20240406205702
+34.220.179.83 1 1 10271 20240412073119
+205.210.31.81 1 1 44996 20240416085816
+8.41.221.60 2 2 55273 20240416235116
+5.133.162.130 1 1 8129 20240418212254
+5.133.192.108 1 1 10269 20240410015505
+43.135.149.154 1 1 10271 20240428100641
+43.130.32.224 2 2 20547 20240430193817
+154.29.103.76 1 1 8147 20240418212258
+38.150.5.90 1 1 10276 20240430003953
+158.69.25.39 1 1 10276 20240429230543
+5.133.162.82 1 1 8125 20240418124833
+5.133.192.171 1 1 10277 20240427122934
+52.12.2.160 2 2 20544 20240424100127
+143.198.35.246 1 1 10279 20240421224845
+49.7.227.204 1 1 10272 20240424035226
+180.97.221.86 1 1 10276 20240430110707
+43.128.110.17 1 1 10275 20240426131008
+124.248.183.41 2 2 16258 20240412204909
+15.204.182.106 2 2 20554 20240417212718
+45.15.17.3 1 1 10276 20240430014003
+77.238.237.38 2 2 89992 20240404144750
+154.28.229.54 1 1 8129 20240402165123
+43.130.7.211 1 1 10274 20240425134958
+35.90.145.149 1 1 10277 20240420073933
+52.34.119.52 1 1 10276 20240430105430
+18.236.111.55 2 2 20542 20240428103902
+182.42.105.85 1 1 10269 20240404184927
+2.58.56.191 1 1 10277 20240427025135
+182.44.2.148 1 1 10271 20240407040022
+165.22.209.100 1 1 10271 20240427222503
+43.153.89.59 1 1 10276 20240430070226
+205.210.31.69 1 1 44996 20240406175242
+91.244.198.181 1 1 10272 20240424075935
+178.128.228.49 1 1 10282 20240415205621
+38.154.124.62 1 1 10271 20240411223908
+198.235.24.91 1 1 44996 20240412002727
+46.166.139.111 1 1 10269 20240411104918
+3.234.242.49 1 1 8129 20240420142123
+43.163.0.99 1 1 10275 20240406181851
+43.134.89.111 1 1 10283 20240423042324
+34.220.22.167 1 1 10282 20240416075200
+128.90.170.38 2 2 20553 20240417054138
+179.43.191.18 1 1 10274 20240425090723
+170.106.82.193 1 1 10279 20240402183430
+161.35.222.250 1 1 10274 20240425202954
+52.81.87.90 1 1 10277 20240427143727
+81.200.156.80 1 1 8129 20240423183928
+123.60.68.42 1 1 10277 20240417145201
+154.28.229.148 1 1 8129 20240402140617
+42.83.147.56 3 3 30849 20240423073506
+116.206.15.54 1 1 8127 20240401182140
+206.168.34.34 1 1 10275 20240406062626
+46.4.33.48 1 1 44996 20240427021900
+93.158.90.32 1 1 10280 20240421175809
+142.132.185.129 1 1 10271 20240427234803
+135.148.195.14 1 1 10276 20240430112624
+87.236.176.221 1 1 10282 20240416105418
+54.183.222.59 1 1 10275 20240426165350
+134.209.187.100 1 1 10271 20240407221522
+67.220.86.160 1 1 10279 20240422081340
+206.168.34.53 1 1 10275 20240406072042
+178.62.218.34 1 1 10271 20240412074628
+42.83.147.53 1 1 10268 20240429133129
+128.90.141.40 1 1 10271 20240406224547
+192.3.255.242 2 2 10282 20240416060709
+69.160.160.54 3 3 98836 20240417184450
+77.246.102.95 2 2 89992 20240404132028
+111.7.96.174 2 2 20538 20240411153540
+54.202.97.251 1 1 10273 20240418080555
+166.1.135.185 1 1 0 20240424085515
+34.217.11.238 2 2 20546 20240418105734
+38.45.127.226 1 1 10277 20240430225234
+205.210.31.199 1 1 44996 20240402004850
+110.166.71.39 1 1 10269 20240410192218
+147.45.50.16 1 1 10283 20240408122756
+185.215.167.78 2 2 20544 20240424034959
+125.94.144.102 1 1 10271 20240412110814
+205.210.31.39 1 1 44996 20240412015952
+199.45.155.60 1 1 10277 20240427030506
+158.160.85.227 1 1 10279 20240422071842
+43.159.141.180 1 1 10283 20240423164255
+139.59.189.55 1 1 10269 20240411141010
+54.214.130.172 1 1 10271 20240412073120
+54.214.126.124 1 1 44996 20240411004935
+54.176.91.0 1 1 10283 20240408132847
+18.232.115.116 1 1 10280 20240403025147
+165.22.0.244 1 1 10275 20240405220848
+5.133.192.99 1 1 10269 20240404060418
+34.221.148.122 1 1 10275 20240426074727
+147.182.214.110 1 1 10277 20240417204838
+103.20.82.155 2 2 20553 20240414121903
+34.215.165.157 1 1 10279 20240422071112
+135.148.195.10 1 1 10279 20240422171157
+52.80.18.29 1 1 10280 20240419155832
+43.135.166.178 1 1 10279 20240414234435
+114.142.173.8 2 2 8127 20240430205541
+34.212.178.217 1 1 10279 20240422071113
+54.191.159.78 2 2 20542 20240412102850
+5.133.164.30 1 1 8129 20240418212250
+185.220.101.63 1 1 10279 20240414235413
+35.91.58.16 1 1 10282 20240416075219
+199.244.88.227 1 1 10277 20240417001857
+43.133.38.182 2 2 20555 20240418020045
+49.51.206.130 1 1 10276 20240414034917
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240401 6 6 59527 6
+20240402 8 8 110499 8
+20240403 14 14 214448 6
+20240404 10 10 311052 10
+20240405 21 21 382922 11
+20240406 17 17 235910 14
+20240407 9 9 125046 9
+20240408 10 10 137544 9
+20240409 5 5 83977 5
+20240410 10 10 102690 10
+20240411 16 16 227334 13
+20240412 23 23 685522 15
+20240413 9 9 153339 6
+20240414 16 16 164431 15
+20240415 8 8 116958 8
+20240416 21 21 483342 13
+20240417 14 14 281321 11
+20240418 67 67 473438 23
+20240419 7 7 104522 7
+20240420 9 9 159783 8
+20240421 6 6 61679 6
+20240422 10 10 100640 10
+20240423 10 10 133213 10
+20240424 12 12 112992 10
+20240425 21 21 458809 12
+20240426 6 6 61650 6
+20240427 43 43 237680 16
+20240428 9 9 80025 7
+20240429 6 6 59483 6
+20240430 12 12 110888 11
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 1
+2mn-5mn 3
+5mn-15mn 6
+0s-30s 291
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 416 5379090 296 290
+// 7 314972 0 3
+/history-result/ 6 283388 3 5
+/live-draw/ 6 53214 2 3
+END_SIDER

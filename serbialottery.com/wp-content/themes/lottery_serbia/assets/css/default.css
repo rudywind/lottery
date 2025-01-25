@@ -1,0 +1,102 @@
+/**** begin countdown colors ****/
+.flip-clock-wrapper ul,
+.flip-clock-wrapper ul li a div div.inn,
+.flip-clock-divider .flip-clock-dot {
+	background-color: var(--flipclock-bg-color);
+}
+.flip-clock-wrapper ul li a div div.inn {
+	color: var(--flipclock-color);
+}
+/**** endof countdown colors ****/
+
+/**** begin custom style ****/
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-1);
+}
+
+header {
+    display: block;
+    position: relative;
+}
+header .logo-wrapper {
+    position: relative;
+    margin: 0 auto;
+    max-width: 250px;
+    z-index: 2;
+}
+header .logo-wrapper .web-logo {
+    width: 100%;
+}
+header .navbar .navbar-nav .nav-item {
+    margin-right: 10px;
+}
+header .navbar .navbar-nav .nav-item:last-child {
+    margin-right: 0;
+}
+header .navbar .navbar-nav .nav-item .nav-link {
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: var(--color-9);
+}
+
+section {
+    display: block;
+    position: relative;
+}
+
+footer {
+    display: block;
+    position: relative;
+}
+footer hr {
+    display: block;
+    position: relative;
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    max-width: 50px;
+}
+footer .logo-wrapper {
+    position: relative;
+    max-width: 100%;
+}
+footer .logo-wrapper .web-logo {
+    width: 100%;
+}
+footer .navbar .navbar-nav .nav-item {
+    margin-right: 10px;
+}
+footer .navbar .navbar-nav .nav-item:last-child {
+    margin-right: 0;
+}
+footer .navbar .navbar-nav .nav-item .nav-link {
+    padding: 0;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-align: left;
+    color: var(--color-9);
+}
+
+.pagination .paginate_button a {
+    outline: none !important;
+    background-color: var(--color-2) !important;
+    border-color: var(--color-2) !important;
+    color: var(--white) !important;
+    box-shadow: none !important;
+}
+.pagination .paginate_button.active a {
+    outline: none !important;
+    background-color: var(--color-4) !important;
+    border-color: var(--color-4) !important;
+    box-shadow: none !important;
+    color: var(--color-9) !important;
+}
+
+.line-height-1 {
+    line-height: 1.15 !important;
+}
+/**** endof custom style ****/

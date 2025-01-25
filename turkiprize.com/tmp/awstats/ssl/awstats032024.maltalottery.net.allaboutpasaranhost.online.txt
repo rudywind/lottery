@@ -1,0 +1,1942 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202403 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.maltalottery.net.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2044                
+POS_TIME 2722                
+POS_VISITOR 57153               
+POS_DAY 75664               
+POS_DOMAIN 3584                
+POS_LOGIN 4289                
+POS_ROBOT 4444                
+POS_WORMS 5191                
+POS_EMAILSENDER 5322                
+POS_EMAILRECEIVER 5465                
+POS_SESSION 76496               
+POS_SIDER 76687               
+POS_FILETYPES 5600                
+POS_DOWNLOADS 5686                
+POS_OS 5734                
+POS_BROWSER 6227                
+POS_SCREENSIZE 9000                
+POS_UNKNOWNREFERER 9074                
+POS_UNKNOWNREFERERBROWSER 10070               
+POS_ORIGIN 10754               
+POS_SEREFERRALS 10896               
+POS_PAGEREFS 11084               
+POS_SEARCHWORDS 11486               
+POS_KEYWORDS 11638               
+POS_MISC 2386                
+POS_ERRORS 11697               
+POS_CLUSTER 4145                
+POS_SIDER_404 11805               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240401002452 28 6276 13707627940532
+FirstTime 20240301001547
+LastTime 20240331235509
+LastUpdate 20240401081340 28 0 27 0 0
+TotalVisits 737                 
+TotalUnique 475                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 475                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 42 42 318052 93 109 232234
+1 47 47 346256 325 345 546629
+2 36 36 256507 462 481 647491
+3 57 57 422429 345 359 541319
+4 58 58 436340 514 521 703833
+5 62 62 464865 126 146 200512
+6 34 34 251004 71 83 137608
+7 53 53 390252 187 204 343736
+8 38 38 278487 116 131 192988
+9 39 39 285810 519 533 687321
+10 39 39 285786 82 91 145176
+11 77 77 549603 337 370 507549
+12 43 43 307818 905 928 1206754
+13 39 39 285804 494 508 669475
+14 49 49 373206 453 468 626580
+15 60 60 441285 364 375 491351
+16 39 39 281197 588 606 807664
+17 35 35 241834 1589 1594 2015904
+18 29 29 217246 527 541 750792
+19 28 28 205205 1434 1462 1867721
+20 47 47 334507 445 476 603155
+21 69 69 481079 186 197 263949
+22 74 74 543319 88 119 202020
+23 50 50 363787 314 327 435706
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 34
+us 431 431 3109676
+jp 132 132 996455
+cn 105 105 789663
+gb 90 90 652231
+ca 60 60 445220
+bg 56 56 410375
+cz 35 35 256430
+ip 24 24 175869
+ru 22 22 146573
+eu 20 20 146570
+it 20 20 146575
+nl 18 18 131915
+in 17 17 124592
+fr 15 15 109928
+se 12 12 87933
+kh 11 11 59225
+de 10 10 67799
+il 9 9 70684
+ro 8 8 63348
+be 7 7 51301
+ua 6 6 48691
+au 6 6 43962
+az 5 5 41359
+gr 4 4 29316
+sc 4 4 29318
+ir 1 1 12037
+pl 1 1 7326
+pt 1 1 7329
+lt 2 2 14650
+kw 3 3 26693
+sg 1 1 7330
+ch 3 3 21984
+hk 1 1 7327
+id 4 4 21994
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+no_user_agent 54 395739 20240331211819 0
+Go\-http\-client/ 51 373729 20240330111927 0
+Googlebot/ 22 143940 20240330163911 0
+MJ12bot/ 20 146568 20240330073422 0
+AhrefsBot/ 20 170143 20240330221546 0
+bot[\s_+:,\.\;\/\\-] 15 114639 20240330201144 0
+Dalvik/ 5 36640 20240314060758 0
+SemrushBot/ 4 34031 20240320111657 0
+Applebot/ 3 21984 20240319113331 0
+YandexBot/ 3 26694 20240302072116 0
+nbot 3 26700 20240307221520 0
+survey 2 14658 20240305174736 0
+curl 2 14664 20240304015633 0
+Konqueror/ 1 7329 20240306032706 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 7329 20240312154854 0
+facebookexternalhit/ 1 7330 20240326160604 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 1144 8361678 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 31
+macosx14 1 1
+android10 17 17
+Unknown 96 96
+ios_iphone 238 238
+macosx7 2 2
+androidkitkat 4 4
+ios_ipad 1 1
+macosx6 5 5
+winlong 1 1
+linuxubuntu 5 5
+macosx15 46 46
+linux 52 52
+win2000 1 1
+winnt 4 4
+androidmarshmallow 7 7
+win7 14 14
+win8 1 1
+win10 582 582
+android 11 11
+win8.1 2 2
+macosx10 2 2
+macosx11 4 4
+macosx 12 12
+winvista 2 2
+macosx12 1 1
+winxp 6 6
+androidpie 8 8
+macosx13 2 2
+macosx9 1 1
+androidoreo 5 5
+androidnougat 11 11
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 130
+chrome65.0.583 1 1
+chrome79.0.3945.93 1 1
+firefox33.0 1 1
+chrome52.0.2743.98 2 2
+chrome104.0.0.0 4 4
+chrome91.0.4472.114 3 3
+chrome114.0.0.0 10 10
+firefox97.0 1 1
+opera9.01 1 1
+chrome86.0.4240.185 1 1
+chrome87.0.4280.88 11 11
+chrome76.0.3809.100 2 2
+opera89.0.4447.51 5 5
+chrome80.0.3987.99 2 2
+chrome83.0.1280 1 1
+chrome79.0.3945.79 2 2
+chrome100.0.4896.60 12 12
+chrome89.0.4389.114 33 33
+chrome17.0.963.56 1 1
+chrome97.0.4280.67 12 12
+chrome116.0.0.0 9 9
+chrome51.0.2704.103 3 3
+firefox57.0 1 1
+chrome79.0.3945.130 1 1
+chrome106.0.0.0 10 10
+chrome94.0.4606.61 3 3
+chrome62.0.3202.94 1 1
+chrome72.0.3626.96 1 1
+opera10.00 1 1
+chrome76.0.3490.88 1 1
+mozilla 40 40
+chrome63.0.3239.132 1 1
+chrome81.0.4044.138 5 5
+opera11.50 2 2
+chrome100.0.4895.86 1 1
+firefox114.0 5 5
+chrome56.0.1939 1 1
+safari11.1.2 1 1
+chrome88.0.4324.150 4 4
+safari13.0.3 233 233
+chrome79.0.3945.136 1 1
+chrome96.0.4664.110 3 3
+chrome83.0.4103.61 2 2
+firefox108.0 4 4
+chrome76.0.3809.111 2 2
+safari16.6 1 1
+chrome83.0.4103.116 1 1
+chrome47.0.2526.106 4 4
+chrome120.0.6099.71 1 1
+android 4 4
+chrome121.0.0.0 22 22
+chrome88.0.4240.193 176 176
+chrome111.0.0.0 1 1
+firefox41.0 1 1
+firefox63.0 2 2
+chrome108.0.0.0 8 8
+chrome52.0.3161.98 1 1
+chrome119.0.0.0 3 3
+chrome76.0.2952 1 1
+chrome86.0.4240.75 2 2
+chrome84.0.4147.105 1 1
+chrome109.0.0.0 6 6
+chrome118.0.0.0 8 8
+chrome92.0.4515.159 1 1
+chrome102.0.1851 1 1
+safari5.0 1 1
+chrome80.0.3987.162 1 1
+chrome80.0.2730 1 1
+chrome72.0.3626.121 1 1
+firefox36.0 2 2
+chrome83.0.2493 1 1
+chrome76.0.1281.88 1 1
+firefox122.0 2 2
+chrome121.0.6167.160 1 1
+chrome100.0.4896.127 4 4
+Unknown 48 48
+chrome83.0.4103.97 20 20
+chrome58.0.3029.110 1 1
+firefox104.0 1 1
+chrome80.0.3987.149 48 48
+chrome74.0.3729.169 12 12
+chrome31.0.1650.63 1 1
+chrome11.0.696.71 2 2
+chrome112.0.0.0 1 1
+safari 2 2
+chrome122.0.0.0 23 23
+chrome103.0.5060.66 2 2
+chrome72.0.2227.88 1 1
+chrome51.0.2704.106 31 31
+chrome83.0.4103.106 2 2
+chrome110.0.0.0 1 1
+chrome117.0.0.0 11 11
+chrome87.0.4280.141 10 10
+chrome50.0.401 1 1
+chrome120.0.0.0 4 4
+firefox123.0 2 2
+chrome91.0.4472.106 3 3
+chrome95.0.4638.69 13 13
+chrome65.0.3325.146 1 1
+netscape5.0 9 9
+chrome123.0.0.0 4 4
+chrome117.0.5938.132 2 2
+chrome115.0.0.0 1 1
+msie9.0 1 1
+firefox91.0 1 1
+chrome101.0.4951.64 1 1
+msie6.0 1 1
+chrome74.0.2788.88 1 1
+opera6.02 1 1
+chrome105.0.0.0 7 7
+chrome76.0.354 1 1
+safari14.1.1 1 1
+chrome86.0.4240.99 1 1
+chrome39.0.2171.95 1 1
+chrome37.0.2062.124 1 1
+firefox123 1 1
+chrome60.0.3112.107 10 10
+chrome57.0.2987.108 1 1
+firefox59.0 1 1
+chrome58.0.621 1 1
+iphone 2 2
+chrome95.0.4638.54 2 2
+firefox58.0 1 1
+safari6.1.1 1 1
+opera99.0.0.0 1 1
+chrome104.0.285 1 1
+chrome85.0.4183.127 1 1
+chrome66.0.3359.158 1 1
+chrome78.0.3904.108 142 142
+chrome75.0.1646.88 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+python-requests/2.24.0 20240305224658
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240303050551
+GuzzleHttp/7 20240307194821
+panscient.com 20240315003147
+python-requests/2.31.0 20240331061258
+python-requests/2.23.0 20240305010236
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240323222718
+python-requests/2.26.0 20240328140252
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240328130427
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240329190310
+Python/3.11_aiohttp/3.9.3 20240325090615
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240329050929
+Chrome 20240322191036
+Roku/DVP-4.1_(024.01E01250A) 20240306113603
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 10
+python-requests/2.26.0 20240328140252
+python-requests/2.24.0 20240305224658
+python-requests/2.23.0 20240305010236
+python-requests/2.31.0 20240331061258
+Chrome 20240322191036
+Python/3.11_aiohttp/3.9.3 20240325090615
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240329190310
+panscient.com 20240315003147
+Roku/DVP-4.1_(024.01E01250A) 20240306113603
+GuzzleHttp/7 20240307194821
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 846 846
+From1 5 5
+From2 13 13
+From3 12 12
+From4 268 268
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com 8 8
+baidu 3 3
+google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+https://onic-4d.com 2 2
+http://maltalottery.net:2082 2 2
+http://maltalottery.net:2095 2 2
+http://maltalottery.net:8080 2 2
+http://www.jearyblog.online 1 1
+http://maltalottery.net:8880 1 1
+http://maltalottery.net:2086 1 1
+http://maltalottery.net:2052 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 30 37260
+404 10662 13248090
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 961
+//wp-content/uploads/wp-apxupx.php 1 http://maltalottery.net//wp-content/uploads/wp-apxupx.php
+//wp-admin/images/wp-login.php 5 http://maltalottery.net//wp-admin/images/wp-login.php
+/cgi-bin/install.php 1 -
+/blog.php 2 -
+/cgi-bin/upfile.php 1 -
+/updates.php 43 -
+/wp-includes/themes.php 16 -
+//wp-admin/js/widgets/class.api.php 1 http://maltalottery.net//wp-admin/js/widgets/class.api.php
+/about 1 -
+/wp-includes/SimplePie/about.php 43 -
+/wp-includes/ 2 -
+/wp-includes/js/dist/vendor/vcard.php 20 -
+/r3x.php 20 -
+//ee.php 11 http://maltalottery.net//ee.php
+/assets/filemanager/dialog.php 4 -
+/wp-head.php 17 -
+//wp-content/admin.php 1 http://maltalottery.net//wp-content/admin.php
+/portal 1 -
+/wp-content/themes/twentyseventeen/page/index.php 1 www.google.com
+//wp-content/themes/twentytwentytwo/assets/fonts/ 1 http://maltalottery.net//wp-content/themes/twentytwentytwo/assets/fonts/
+/wp-content/themes/bricks/assets/js/feedback.min.js 3 -
+/lol.php 1 www.google.com
+//wp-content/plugins/wp-help/index.php 1 http://maltalottery.net//wp-content/plugins/wp-help/index.php
+/wp-includes/css/dist/index.php 1 maltalottery.net
+//wp-includes/Requests/Exception/HTTP/HTTP.php 5 -
+//assets/class_api.php 1 http://maltalottery.net//assets/class_api.php
+/cgi-bin/wp-hudbud.php 1 -
+//xleet-shell.php 1 http://maltalottery.net//xleet-shell.php
+//wp-content/plugins/linkpreview/db.php 3 -
+/wp-admin/js/widgets/xmrlpc.php 42 -
+//wp-blog.php 1 http://maltalottery.net//wp-blog.php
+/wp-content/plugins/WordPressCore/include.php 16 -
+/blog/ 2 -
+//wp-admin/includes/cloud.php 2 -
+/dist/jquery.min.js 8 -
+/cgi-bin/wp-login.php 1 -
+/wp-content/wp-apxupx.php 1 -
+/thoms.php 16 -
+/wp-content/themes/alera/alpha.php 20 -
+//radio.php 1 http://maltalottery.net//radio.php
+//alfanew.php 2 -
+/wp-content/plugins/wp-automatic/js/main-front.js 2 -
+/wp-includes/blocks/comment-edit-link/index.php 1 maltalottery.net
+//wp-admin/js/widgets/users.php 2 http://maltalottery.net//wp-admin/js/widgets/users.php
+/mah.php 36 -
+//themes.php 2 http://maltalottery.net//themes.php
+/wp-mail.php 16 -
+//wp-admin/images/plugins.php 2 http://maltalottery.net//wp-admin/images/plugins.php
+//wp-includes/images/about.php 2 -
+/ccx/index.php 16 -
+/alfanew.php7 42 -
+/img/cloud.php 43 -
+/wp-content/uploads/wpr-addons/forms/b1ack.php 2 -
+//css/index.php 2 http://maltalottery.net//css/index.php
+//wp-content/json.php 1 http://maltalottery.net//wp-content/json.php
+/cgi-bin/radio.php 1 -
+//wp-admin/css/wp-login.php 5 http://maltalottery.net//wp-admin/css/wp-login.php
+/cgi-bin/class_api.php 1 -
+/wp-admin/css/colors/coffee/index.php 17 -
+//class.api.php 13 http://maltalottery.net//class.api.php
+//wso112233.php 1 http://maltalottery.net//wso112233.php
+/xmlrpc.php 18 -
+//beence.php 1 http://maltalottery.net//beence.php#3a89149a9d5ae80acf6ee5d70a2d3229
+/wp-admin/YP1cuvy6WrD.php 20 -
+//wp-includes/rest-api/about.php 13 http://maltalottery.net//wp-includes/rest-api/about.php
+/wp-includes/fonts/log404.php 20 -
+/login.php 3 -
+/wp-config-sample.php 16 -
+/wp-includes/PHPMailer/admin.php 20 -
+/file.php 16 -
+//wp-content/themes/hideo/network.php 1 http://maltalottery.net//wp-content/themes/hideo/network.php
+//.well-known/acme-challenge/wp-login.php 5 http://maltalottery.net//.well-known/acme-challenge/wp-login.php
+/wp-content/uploads/style.php 2 -
+//shell20211028.php 1 http://maltalottery.net//shell20211028.php
+/wp-includes/css/dist/format-library/index.php 1 maltalottery.net
+/cgi-bin/admin.php 1 -
+/atomlib.php 3 -
+/wp-admin/includes/about.php 43 -
+/wp-includes/Text/about.php 43 -
+//wp-includes/IXR/themes.php 1 http://maltalottery.net//wp-includes/IXR/themes.php#xleet
+/wp-admin/user/xmrlpc.php 42 -
+//wp-includes/IXR/moon.php 1 http://maltalottery.net//wp-includes/IXR/moon.php
+//autoload_classmap.php 1 http://maltalottery.net//autoload_classmap.php
+//wp-trackback.php 1 http://maltalottery.net//wp-trackback.php
+//wp-includes/random_compat/plugins.php 1 http://maltalottery.net//wp-includes/random_compat/plugins.php
+/wp-admin/x.php 16 -
+/dist/js/bootstrap.bundle.min.js 7 -
+/filefuns.php 36 -
+/wp-uploads-config.php 16 -
+//wp-admin/css/colors/blue/xmrlpc.php 2 -
+//wp-uploads-config.php 1 http://maltalottery.net//wp-uploads-config.php
+/style.php 29 www.google.com
+/wp-admin/css/colors/cloud.php 42 -
+/backup/ 2 -
+//wp-admin/xmrlpc.php 2 -
+/simple.php 34 -
+/wp-p.php7 42 -
+/cgi-bin/2index.php 1 -
+//ws.php7 2 -
+//wp-includes/IXR/class_api.php 1 http://maltalottery.net//wp-includes/IXR/class_api.php
+/%5C/taipolottery.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 1 -
+//wp-content/wso.php 1 http://maltalottery.net//wp-content/wso.php
+//img/about.php 2 -
+/wp-admin/admin-ajax.php 2 -
+/cgi-bin/termps.php 1 -
+/wp-admin/images/cloud.php 43 -
+/wp-admin/css/colors/xmrlpc.php 42 -
+/assets/app.php 20 -
+/wp-includes/SimplePie/Net/index.php 1 maltalottery.net
+/wp-configs.php 20 -
+/wp-includes/js/jquery/jquery.js 6 -
+/wp-content/themes/twentyfive/include.php 36 -
+/assets/administrator/filemanager/dialog.php 3 -
+/wp-includes/Requests/about.php 43 -
+/wp-admin/css/index.php 42 -
+/Ueditor/net/controller.ashx 2 www.maltalottery.net/Ueditor/net/controller.ashx
+//.well-known/pki-validation/file.php 1 http://maltalottery.net//.well-known/pki-validation/file.php
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 8 -
+//cong.php 2 http://maltalottery.net//cong.php
+/wp-content/plugins/seoplugins/db.php 42 -
+//wp-content/languages/themes/file.php 1 http://maltalottery.net//wp-content/languages/themes/file.php
+//wp-content/languages/about.php 2 -
+//wp-admin/maint/wp-login.php 5 http://maltalottery.net//wp-admin/maint/wp-login.php
+//images/class.api.php 1 http://maltalottery.net//images/class.api.php
+//alfanew.PHP7 1 http://maltalottery.net//alfanew.PHP7
+/mini.php 20 -
+/403.php 16 -
+/wp-admin/about.php 1 -
+/indeex.php 20 -
+//cdn.js 8 -
+/wp-content/themes/about.php 43 -
+//wp-admin/js/widgets/file.php 1 http://maltalottery.net//wp-admin/js/widgets/file.php
+/wp-includes/certificates/about.php 20 -
+/shop 2 -
+/doc.php 22 -
+//.well-known/about.php 2 -
+//wp-includes/certificates/wp-login.php 4 http://maltalottery.net//wp-includes/certificates/wp-login.php
+/old 24 http://maltalottery.net/old
+//libraries/vendor/updates.php 2 -
+/wp-includes/style-engine/about.php 43 -
+/wp-admin/maint/moon.php 20 -
+//wp-content/shell20211028.php 1 http://maltalottery.net//wp-content/shell20211028.php
+/wp-includes/css/buttons.css 7 http://maltalottery.net/wp-includes/css/buttons.css
+//wp-admin/admin-ajax.php 11 http://maltalottery.net//wp-admin/admin-ajax.php
+/images/about.php 43 -
+/wp-includes/pomo/plugins.php 1 maltalottery.net
+//wp-includes/theme-compat/network.php 1 http://maltalottery.net//wp-includes/theme-compat/network.php
+/wp-includes/ID3/plugins.php 1 maltalottery.net
+/wp-includes/js/jquery/jquery.min.js 7 -
+/nptwldeu.php 1 www.google.com
+/content.php 2 -
+/.well-known/index.php 20 -
+/cgi-bin/class_api_1.php 1 -
+/ern1.PhP7 20 -
+//wp-admin/css/colors/coffee/lofter.php 1 http://maltalottery.net//wp-admin/css/colors/coffee/lofter.php
+/wp-content/plugins/revslider/includes/external/page/index.php 36 -
+//my1.php 12 http://maltalottery.net//my1.php
+//cgi-bin/cloud.php 2 -
+/1.php 20 -
+/wp-include/auto_seo.php 5 -
+//wp-admin/includes/wp-login.php 5 http://maltalottery.net//wp-admin/includes/wp-login.php
+/debug/default/view 1 -
+/radio.php 38 -
+/wp-includes/class-controller-theme-comment.php 20 -
+/new 24 http://maltalottery.net/new
+/wp-content/plugins/extensive-vc-addon/readme.txt 1 -
+/fm.php 20 -
+//wso.php 1 http://maltalottery.net//wso.php
+/old/ 2 -
+//wp-includes/Requests/Text/admin.php 3 -
+/wordpress 24 http://maltalottery.net/wordpress
+//shell.php 1 http://maltalottery.net//shell.php
+/plugins/content/apismtp/apismtp.php.suspected 5 -
+//wp-content/moderation.php 1 http://maltalottery.net//wp-content/moderation.php
+//wp-admin/css/atomlib.php 1 http://maltalottery.net//wp-admin/css/atomlib.php
+//wp-admin/cong.php 1 http://maltalottery.net//wp-admin/cong.php
+/wp-content/plugins/seoo/wsoyanz1.php 42 -
+/worksec.php 20 -
+//wp-content/plugins/file.php 1 http://maltalottery.net//wp-content/plugins/file.php
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 9 -
+/wp-content/plugins/fix/up.php 5 -
+//cgi-bin/install.php 11 http://maltalottery.net//cgi-bin/install.php
+/fbpoqhus.php 1 www.google.com
+//wp-content/themes/sketch/404.php 1 http://maltalottery.net//wp-content/themes/sketch/404.php
+/config.json 1 -
+//xxl.php 1 http://maltalottery.net//xxl.php
+/wp-content/auto_seo.php 5 -
+/bc 8 http://maltalottery.net/bc
+//cache-compat.php 2 -
+//wp-content/plugins/WordPressCore/ 1 http://maltalottery.net//wp-content/plugins/WordPressCore/
+/wp-includes/pomo/wp-login.php 20 -
+//wp-admin/includes/atomlib.php 1 http://maltalottery.net//wp-admin/includes/atomlib.php
+//wp-content/about.php 3 -
+//wp-admin/network/xmrlpc.php 2 -
+//wp-admin/maint/plugins.php 1 http://maltalottery.net//wp-admin/maint/plugins.php
+//wp-content/plugins/moon.php 1 http://maltalottery.net//wp-content/plugins/moon.php
+/wp-content/themes/lottery_taipo/readme.txt 1 -
+/wp-content/plugins/apikey/apikey.php.suspected 5 -
+/new/ 2 -
+/phpmyadmin/index.php 10 -
+//wp-admin/network/plugins.php 2 http://maltalottery.net//wp-admin/network/plugins.php
+//wp-includes/Requests/class_api.php 1 http://maltalottery.net//wp-includes/Requests/class_api.php
+//wp-content/themes/atomlib.php 1 http://maltalottery.net//wp-content/themes/atomlib.php
+//wp-includes.bak/html-api/about.php 2 -
+/bak.php 2 -
+/.well-known/ 11 binance.com
+//wp-includes/SimplePie/index.php 1 http://maltalottery.net//wp-includes/SimplePie/index.php
+/img/about.php 43 -
+//alfanew.php7 2 -
+//wp-admin/css/colors/blue/blue.php 5 -
+//wp-includes/widgets//include.php 1 http://maltalottery.net//wp-includes/widgets//include.php
+/blog/wp-admin/install.php 1 -
+//.well-known/pki-validation/atomlib.php 1 http://maltalottery.net//.well-known/pki-validation/atomlib.php
+/wp-content/themes/travelscape/json.php 1 www.google.com
+/wp-content/plugins/core/include.php 17 -
+/wp-content/admin.php 1 -
+//alfa-rex.php7 2 -
+//phpmailer.lang-sv.php 1 http://maltalottery.net//phpmailer.lang-sv.php
+//wp-content/uploads/wpr-addons/forms/ 1 http://maltalottery.net//wp-content/uploads/wpr-addons/forms/
+/wp-admin/js/widgets/class_api.php 16 -
+/cgi-bin/cong.php 1 -
+/wp-admin/js/widgets/about.php7 42 -
+/cgi-bin/about.php 44 -
+/yanz.php 42 -
+//img/cloud.php 2 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 3 -
+//2021/wp-includes/wlwmanifest.xml 28 -
+/home 22 http://maltalottery.net/home
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 1 -
+/wp-includes/IXR/about.php 43 -
+/ini.php 2 -
+//wp-admin/css/colors/ectoplasm/users.php 1 http://maltalottery.net//wp-admin/css/colors/ectoplasm/users.php
+//wp-content/blogs.dir/about.php 2 -
+/wordpress/wp-admin/setup-config.php 1 -
+//.well-known/pki-validation/cloud.php 3 -
+//.well-known/acme-challenge/xmrlpc.php 3 -
+//wp-admin/images/moon.php 1 http://maltalottery.net//wp-admin/images/moon.php
+//warm.PhP7 1 http://maltalottery.net//warm.PhP7
+/wp-includes/about.php 44 -
+/wp-crons.php 20 -
+/about.php7 42 -
+/cgi-bin/upload.php 1 -
+//wp-content/languages/file.php 1 http://maltalottery.net//wp-content/languages/file.php
+/.vscode/sftp.json 4 -
+/wp-admin/network/class_api.php 16 -
+//.tmb/wp-login.php 4 http://maltalottery.net//.tmb/wp-login.php
+//wp-content/uploads/ 11 http://maltalottery.net//wp-content/uploads/
+/sidwso.php 20 -
+//wp-admin/js/about.php7 11 http://maltalottery.net//wp-admin/js/about.php7
+/assets/images/cmd.php 20 -
+/tmp 1 -
+//wp-admin/network/index.php 1 http://maltalottery.net//wp-admin/network/index.php
+//cjfuns.php 14 http://maltalottery.net//cjfuns.php
+/class.api.php 17 -
+//wp-includes/IXR/wp-login.php 5 http://maltalottery.net//wp-includes/IXR/wp-login.php
+/wp-admin/maint/maint/ajax-actions.php 42 -
+/wp-json/wp/v2/users 2 http://www.google.com
+/wp-content/themes/applica/400.php 1 www.google.com
+/wp.php 18 -
+//wp-content/themes/seotheme/db.php 2 -
+/index.php 4 maltalottery.net
+/cgi-bin/xmrlpc.php 43 -
+//wp-content/themes/intense/block-css.php 1 http://maltalottery.net//wp-content/themes/intense/block-css.php
+/wp-content/inputs.php 6 -
+/wp-includes/style.php 2 -
+/wordpress/ 2 -
+//wp-content/languages/themes/class_api.php 1 http://maltalottery.net//wp-content/languages/themes/class_api.php
+//wp-admin/images/about.php 2 -
+/robots.txt 166 -
+//cgi-bin/themes.php 1 http://maltalottery.net//cgi-bin/themes.php#xleet
+/wp-includes/block-patterns/about.php 43 -
+/wp-content/uploads/option.php 20 -
+/shell.php 20 -
+/hax 2 -
+/wp-content/plugins/essential-addons-for-elementor-lite/includes/Traits/Shared.php 1 -
+/wp-admin/includes/xmrlpc.php 42 -
+/wp-includes/sodium_compat/namespaced/Core/ChaCha20/index.php 1 maltalottery.net
+//wp-admin/maint/class.api.php 1 http://maltalottery.net//wp-admin/maint/class.api.php
+//css/install.php 11 http://maltalottery.net//css/install.php
+/backup/wp-admin/install.php 1 -
+/wp-admin/includes/cloud.php 42 -
+//install.php 11 http://maltalottery.net//install.php
+/ws.php7 42 -
+//wp-includes/pomo/about.php 2 -
+//wp-admin/maint/users.php 1 http://maltalottery.net//wp-admin/maint/users.php
+/wp-content/plugins/WordPressCore/about.php 1 maltalottery.net
+/wp-admin/user/about.php 20 -
+/.well-known/admin.php 16 -
+/wp-admin/dropdown.php 44 -
+/cgi-bin/inputs.php 1 -
+//wp-includes/repeater.php 2 -
+/options-reading.php 16 -
+/wp-admin/css/colors/index.php 42 -
+/assets/css/403.php 16 -
+/ioxi001.PhP7 20 -
+/wp-includes/theme-compat/index.php 1 maltalottery.net
+//wp-head.php 13 http://maltalottery.net//wp-head.php
+//img/xmrlpc.php 2 -
+/wp-content/plugins/backup-backup/includes/C 1 -
+/users.php 16 -
+/repeater.php 43 -
+//wp-admin/images/Mhbgf.php 1 http://maltalottery.net//wp-admin/images/Mhbgf.php
+//wp-info.php 1 http://maltalottery.net//wp-info.php
+//wp-admin/css/admin.php 5 -
+/log.php 2 -
+//wp-includes/random_compat/about.php 1 http://maltalottery.net//wp-includes/random_compat/about.php
+//wp-admin/css/colors/coffee/cloud.php 2 -
+//simple.php 1 http://maltalottery.net//simple.php
+//wp-includes/pomo/wp-login.php 5 http://maltalottery.net//wp-includes/pomo/wp-login.php
+/wp-content/banners/about.php 43 -
+/wp-content/plugins/linkpreview/db.php 42 -
+//wp-admin/css/index.php 2 -
+//common/css/class_api.php 1 http://maltalottery.net//common/css/class_api.php
+/wp-content/plugins/seoplugins/mar.php 42 -
+/wp-content/plugins/backup-backup/includes/Y 1 -
+/new/wp-admin/install.php 1 -
+/wp-content/uploads/wp-apxupx.php 1 -
+/wp-admin/maint/edit.php 20 -
+/x.php 20 -
+/wp-file.php 20 -
+/function.php 20 -
+/css/cloud.php 43 -
+//wp-content/themes/plugins.php 1 http://maltalottery.net//wp-content/themes/plugins.php
+//classwithtostring.php 1 http://maltalottery.net//classwithtostring.php
+/.env 23 -
+//wp-content/themes/include.php 1 http://maltalottery.net//wp-content/themes/include.php
+/index1.php 20 -
+/wp-json/ 1 http://www.maltalottery.net/wp-json/
+/cgi-bin/install_php1.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/img/index.php 1 www.google.com
+//wp-admin/install.php 11 http://maltalottery.net//wp-admin/install.php
+/wp 24 http://maltalottery.net/wp
+/.well-known/pki-validation/cloud.php 44 -
+//moon.php 1 http://maltalottery.net//moon.php
+/wp-admin/network/xmrlpc.php 42 -
+/about.php 51 www.google.com
+//wp-includes/customize/wp-login.php 5 http://maltalottery.net//wp-includes/customize/wp-login.php
+/web.php 20 -
+//wp-blog-header.php 1 http://maltalottery.net//wp-blog-header.php
+//wp-admin/css/colors/blue/atomlib.php 1 http://maltalottery.net//wp-admin/css/colors/blue/atomlib.php
+//wp-apxupx.php 1 http://maltalottery.net//wp-apxupx.php
+//wp-rocket.php 1 http://maltalottery.net//wp-rocket.php
+/wp-admin/ajax-actions.php 42 -
+/wp-admin/js/about.php 69 -
+/alfa-rex.php 16 -
+/avaa.php 43 -
+/byp.php 20 -
+//2019/wp-includes/wlwmanifest.xml 28 -
+/wp-admin/wp-apxupx.php 1 -
+//wp-seo.php 1 http://maltalottery.net//wp-seo.php
+/alfacgiapi/perl.alfa 5 www.google.com
+//wp-admin/images/iR7SzrsOUEP.php 1 http://maltalottery.net//wp-admin/images/iR7SzrsOUEP.php
+//wp-p.php7 2 -
+/adminfuns.php7 42 -
+//wp-content/themes/wp-pridmag/up.php 1 http://maltalottery.net//wp-content/themes/wp-pridmag/up.php
+/wp-include/inputs.php 5 -
+//wp-content/themes/twenty/twenty.php 11 http://maltalottery.net//wp-content/themes/twenty/twenty.php
+/test/wp-admin/install.php 1 -
+/wp-includes/repeater.php 42 -
+/makeasmtp.php 2 -
+/cgi-bin/wp-sigunq.php 1 -
+//wp-admin/network/moon.php 1 http://maltalottery.net//wp-admin/network/moon.php
+//wp-admin/images/xmrlpc.php 2 -
+/demo 1 -
+//wp-admin/user/users.php 1 http://maltalottery.net//wp-admin/user/users.php
+//wp-content/plugins/wp-help/admin/wp-fclass.php 1 http://maltalottery.net//wp-content/plugins/wp-help/admin/wp-fclass.php
+//admin-post.php 2 -
+/assets/images/tinyimg.php 20 -
+/wp-admin/images/index.php 42 -
+/wp-content/themes/plugins.php 1 maltalottery.net
+//.well-known/pki-validation/xmrlpc.php 3 -
+//common/img/class_api.php 1 http://maltalottery.net//common/img/class_api.php
+/assets/.env 1 -
+/telescope/requests 1 -
+/wp-admin/maint/plugins.php 1 maltalottery.net
+/web/wp-admin/install.php 1 -
+/cgi-bin/cloud.php 44 -
+/wp-includes/SimplePie/HTTP/index.php 1 maltalottery.net
+/cgi-bin/shell.php 1 -
+//wp-includes/certificates/file.php 1 http://maltalottery.net//wp-includes/certificates/file.php
+//wp-content/index.php 1 http://maltalottery.net//wp-content/index.php
+//wp-includes/wp-class.php 1 http://maltalottery.net//wp-includes/wp-class.php
+//yanz.php 2 -
+//wp-admin/images/revision.php 1 http://maltalottery.net//wp-admin/images/revision.php
+//wp-json/oembed/1.0/embed 85 -
+//wp-admin/network/admin.php 1 http://maltalottery.net//wp-admin/network/admin.php
+/wp-content/themes/aahana/json.php 1 www.google.com
+/main 9 http://maltalottery.net/main
+//wp-admin/network/class_api.php 1 http://maltalottery.net//wp-admin/network/class_api.php
+//wp-admin/css/colors/coffee/about.php 1 http://maltalottery.net//wp-admin/css/colors/coffee/about.php
+//wp-admin/css/colors/cloud.php 2 -
+//wp-admin/js/widgets/xmrlpc.php 2 -
+//wp-includes/js/jcrop/about.php 1 http://maltalottery.net//wp-includes/js/jcrop/about.php
+/wp-includes/js/tinymce/index.php 1 maltalottery.net
+//wp-content/plugins/Cache/Cache.php 3 -
+//wp-admin/maint/file.php 1 http://maltalottery.net//wp-admin/maint/file.php
+//author/demilation/ 1 -
+//wp-content/plugins/dummyyummy/wp-signup.php 1 http://maltalottery.net//wp-content/plugins/dummyyummy/wp-signup.php
+/wp-atom.php 14 -
+/_all_dbs 1 -
+//wp-content/plugins/Cache/dropdown.php 11 http://maltalottery.net//wp-content/plugins/Cache/dropdown.php
+/images/class-config.php 20 -
+/libraries/phpmailer/updates.php 42 -
+//wp-admin/user/about.php 1 http://maltalottery.net//wp-admin/user/about.php
+//wp-content/languages/class_api.php 1 http://maltalottery.net//wp-content/languages/class_api.php
+//wp-content/themes/hello-element/footer.php 1 http://maltalottery.net//wp-content/themes/hello-element/footer.php
+/wp-content/plugins/seoo/wsoyanz.php 42 -
+/wso112233.php 3 -
+/wp-admin/xmrlpc.php 42 -
+/cgi-bin/moon.php 1 -
+/wp-admin/css/colors/midnight/admin.php 20 -
+/moded.php 20 -
+//ioxi02.php 1 http://maltalottery.net//ioxi02.php
+/alfa-rex.php7 43 -
+/%c2%ae.php 1 -
+/jquery.php 20 -
+/wp-admin/network/cloud.php 43 -
+//wp-admin/css/colors/blue/ 1 http://maltalottery.net//wp-admin/css/colors/blue/
+/.well-known/pki-validation/a.php 20 -
+//feed/ 29 -
+/cgi-bin/moon1.php 1 -
+//wp-content/plugins/wp-login.php 5 http://maltalottery.net//wp-content/plugins/wp-login.php
+//wp-admin/images/install.php 11 http://maltalottery.net//wp-admin/images/install.php
+//test/wp-includes/wlwmanifest.xml 28 -
+/wp-content/plugins/index.php 17 -
+/bypass.php 3 -
+/wp-include/ccx/index.php 16 -
+/LA.php 20 -
+/wp-admin/css/colors/coffee/cloud.php 43 -
+/epinyins.php 1 www.google.com
+/dropdown.php 42 -
+//wp-content/plugins/atomlib.php 1 http://maltalottery.net//wp-content/plugins/atomlib.php
+//wp-admin/network/file.php 1 http://maltalottery.net//wp-admin/network/file.php
+//css/iR7SzrsOUEP.php 1 http://maltalottery.net//css/iR7SzrsOUEP.php
+//wp-admin/images/file.php 1 http://maltalottery.net//wp-admin/images/file.php
+/wp-content/plugins/backup-backup/includes/backup-heart.php 2 -
+//wp-admin/js/index.php 1 http://maltalottery.net//wp-admin/js/index.php
+/wp-links-opml.php 20 -
+//delete3.php 1 http://maltalottery.net//delete3.php
+/cgi-bin/iR7SzrsOUEP.php 1 -
+//wp-admin/dropdown.php 13 http://maltalottery.net//wp-admin/dropdown.php
+//text.php 1 http://maltalottery.net//text.php
+//.well-known/acme-challenge/install.php 11 http://maltalottery.net//.well-known/acme-challenge/install.php
+//wp-admin/user/class.api.php 1 http://maltalottery.net//wp-admin/user/class.api.php
+/wp_cron.php 1 maltalottery.net
+/wp-content/themes/pridmag/db.php 42 -
+/test 16 -
+/cong.php 36 -
+//avaa.php 2 -
+//site/wp-includes/wlwmanifest.xml 28 -
+//wp-includes/ID3/plugins.php 1 http://maltalottery.net//wp-includes/ID3/plugins.php
+//erin1.PhP7 1 http://maltalottery.net//erin1.PhP7
+/wp-includes/js/plugins.php 1 maltalottery.net
+//wp-includes/certificates/moon.php 1 http://maltalottery.net//wp-includes/certificates/moon.php
+/wp-admin/css/colors/midnight/index.php 1 maltalottery.net
+/wp-includes/customize/about.php 43 -
+/.well-known/about.php 43 -
+/sitemap.xml 27 -
+//.well-known/acme-challenge/admin.php 1 http://maltalottery.net//.well-known/acme-challenge/admin.php
+/wp-includes/Text/Diff/Engine/index.php 1 maltalottery.net
+/wp-content/plugins/ccx/index.php 16 -
+//mah.php 1 http://maltalottery.net//mah.php
+//alfa-rex2.php7 2 -
+/wp-admin/css/colors/blue/xmrlpc.php 42 -
+//wp-includes/js/500.php 1 http://maltalottery.net//wp-includes/js/500.php
+/wp-includes/Text/Diff/index.php 1 maltalottery.net
+/site/wp-admin/install.php 1 -
+/humans.txt 7 http://maltalottery.net/humans.txt
+//wp-includes/customize/plugins.php 1 http://maltalottery.net//wp-includes/customize/plugins.php
+//cgi-bin/moon.php 1 http://maltalottery.net//cgi-bin/moon.php
+/input.php 21 www.google.com
+//wp-admin/css/colors/blue/lofter.php 1 http://maltalottery.net//wp-admin/css/colors/blue/lofter.php
+//taipolottery.com/wp-content/themes/lottery_taipo/assets/js/lottery.js 9 -
+//wp-includes/IXR/plugins.php 1 http://maltalottery.net//wp-includes/IXR/plugins.php
+//wp-includes/pomo/plugins.php 1 http://maltalottery.net//wp-includes/pomo/plugins.php
+//wp-includes/js/tinymce/plugins/compat3x/css/index.php 11 http://maltalottery.net//wp-includes/js/tinymce/plugins/compat3x/css/index.php
+/wp-includes/blocks/table/int/tmpl/index.php 16 -
+/dev 1 -
+/wp-includes/blocks/pullquote/index.php 1 maltalottery.net
+/wp-admin/user/cloud.php 43 -
+/wp-includes/theme-compat/plugins.php 1 maltalottery.net
+/wp-includes/Requests/plugins.php 1 maltalottery.net
+//wp-content/uploads/2023/index.php 1 http://maltalottery.net//wp-content/uploads/2023/index.php
+/alfanew.php 44 -
+/wp-includes/Text/plugins.php 1 maltalottery.net
+//wp-content/themes/tflow/up.php 1 http://maltalottery.net//wp-content/themes/tflow/up.php
+/wp-content/uploads/2023/01/index.php 1 maltalottery.net
+//wp-content/plugins/press/wp-class.php 1 http://maltalottery.net//wp-content/plugins/press/wp-class.php
+//wp-includes/Text/about.php 13 http://maltalottery.net//wp-includes/Text/about.php
+/wp-includes/sodium_compat/src/wp-login.php 1 maltalottery.net
+/wp-includes/plugins.php 17 -
+/login.action 1 -
+/assets/admin/js/filemanager/dialog.php 3 -
+//.well-known/pki-validation/class_api.php 1 http://maltalottery.net//.well-known/pki-validation/class_api.php
+/wp-content/themes/bricks/style.css 1 -
+/js/filemanager/dialog.php 3 -
+/wp-includes/IXR/index.php 1 maltalottery.net
+/storage/.env 1 -
+//wp-includes/Requests/Text/index.php 1 http://maltalottery.net//wp-includes/Requests/Text/index.php
+//wp-admin/css/colors/xmrlpc.php 2 -
+/plugins/content/apismtp/apismtp.php 5 -
+/wp-info.php 16 -
+/wp-content/plugins/instabuilder2/cache/plugins/moon.php 36 -
+//wp-admin/css/colors/ectoplasm/lofter.php 1 http://maltalottery.net//wp-admin/css/colors/ectoplasm/lofter.php
+//wp-content/epinyins.php 1 http://maltalottery.net//wp-content/epinyins.php
+/wp-content/uploads/wp-booter.php 20 -
+/.well-known/zxhfwqyt.php 20 -
+/wp-content/themes/lottery/readme.txt 1 -
+/wp-sigunq.php 2 -
+/wp-content/uploads/about.php 20 -
+/.DS_Store 9 -
+//wp-content/themes/twentytwentythree/patterns/ 1 http://maltalottery.net//wp-content/themes/twentytwentythree/patterns/
+/post.php 20 -
+//wp-admin/maint/termps.php 1 http://maltalottery.net//wp-admin/maint/termps.php
+/admin/login.php 1 -
+//wp-admin/includes/class_api.php 1 http://maltalottery.net//wp-admin/includes/class_api.php
+//adminfuns.php 1 http://maltalottery.net//adminfuns.php
+/wp-emoji-release.min.js 8 -
+//wp-admin/user/class_api.php 1 http://maltalottery.net//wp-admin/user/class_api.php
+/wp-includes/widgets/class-wp-widget-tag.php 20 -
+//cgi-bin/cgi-bin/about.php 11 http://maltalottery.net//cgi-bin/cgi-bin/about.php
+/gel4y.php 20 -
+/wp-includes/SimplePie/Decode/HTML/2index.php 1 maltalottery.net
+//xmrlpc.php 2 -
+/inc.php 1 -
+/alfanew2.php7 42 -
+/wp-login.php 74 http://maltalottery.net/wp-login.php
+//wp-admin/css/colors/coffee/profile.php 1 http://maltalottery.net//wp-admin/css/colors/coffee/profile.php
+//.well-known/acme-challenge/file.php 1 http://maltalottery.net//.well-known/acme-challenge/file.php
+/wp-activate.php 22 -
+/wp-2019.php 22 -
+//wp-content/languages/wp-login.php 4 http://maltalottery.net//wp-content/languages/wp-login.php
+/wp-includes/widgets/about.php 43 -
+//alfanew2.php7 2 -
+/gecko.php 20 -
+/wp-includes/IXR/admin.php 20 -
+//wp-includes/block-supports/themes.php 1 http://maltalottery.net//wp-includes/block-supports/themes.php#xleet
+/wp-l0gin.php 20 -
+/wordpress/wp-admin/install.php 1 -
+//cgi-bin/file.php 1 http://maltalottery.net//cgi-bin/file.php
+/wp-includes/images/about.php 43 -
+//wp-content/plugins/seoplugins/mar.php 2 -
+/wp-includes/blocks/nextpage/index.php 1 maltalottery.net
+//ebs.php7 2 -
+/wp-includes/js/wp-emoji-release.min.js 1 www.google.com
+//updates.php 2 -
+//wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php 1 http://maltalottery.net//wp-includes/sodium_compat/src/Core/Curve25519/Ge/wp_blog.php
+//wp-admin/css/colors/coffee/xmrlpc.php 2 -
+/wp-includes/js/plupload/index.php 1 maltalottery.net
+/img/xmrlpc.php 42 -
+/wp-content/plugins/wp-apxupx.php 1 -
+/wp-admin/images/atomlib.php 20 -
+/backup 9 http://maltalottery.net/backup
+/cgi-bin/license.php 1 -
+//wp-includes/wso.php 1 http://maltalottery.net//wp-includes/wso.php
+/server-status 1 -
+/wp-admin/user/class_api.php 16 -
+/wp-content/plugins/miniorange-malware-protection/includes/js/phone.js 2 -
+//wp-includes/IXR/class.api.php 1 http://maltalottery.net//wp-includes/IXR/class.api.php
+/plugins.php 2 -
+//wp-includes/IXR/about.php 3 -
+//wp-content/languages/themes/class.api.php 1 http://maltalottery.net//wp-content/languages/themes/class.api.php
+/testing 14 -
+/wp-includes/blocks/about.php 43 -
+//.tmb/file.php 1 http://maltalottery.net//.tmb/file.php
+/ylqoneyu.php 1 www.google.com
+/ajax-actions.php 42 -
+//admin.php 4 -
+//2020/wp-includes/wlwmanifest.xml 28 -
+/cgi-bin/about2.php 1 -
+/cloud.php 43 -
+/v2/_catalog 1 -
+/wp-includes/wp-apxupx.php 2 -
+/as.php 2 -
+//wp-login.php 11 -
+//wp-includes/Requests/about.php 2 -
+//wp-includes/ID3/license.txt 20 -
+//css/xmrlpc.php 2 -
+//images/plugins.php 1 http://maltalottery.net//images/plugins.php
+//cgi-bin/class_api.php 1 http://maltalottery.net//cgi-bin/class_api.php
+//wp-content/include.php 1 http://maltalottery.net//wp-content/include.php
+/index_sso.php 10 -
+//.well-known/admin.php 1 http://maltalottery.net//.well-known/admin.php
+//adminfuns.php7 2 -
+/wp-admin/inputs.php 1 www.google.com
+/wp-content/themes/universal-news/www.php 1 www.google.com
+/wp-includes/Requests/index.php 1 maltalottery.net
+//wp-admin/ajax-actions.php 2 -
+//wp-includes/certificates/plugins.php 1 http://maltalottery.net//wp-includes/certificates/plugins.php
+/defaults.php 21 -
+/cgi-bin/bak.php 1 -
+//images/cloud.php 2 -
+/nf_tracking.php 1 www.google.com
+/wp-includes/rest-api/about.php 43 -
+/ads.txt 7 http://maltalottery.net/ads.txt
+/admin/controller/extension/extension/ 10 binance.com
+//wp-content/gallery/about.php 2 -
+/sftp-config.json 3 -
+/wp-content/plugins/apikey/apikey.php 5 -
+//wp-includes/SimplePie/plugins.php 1 http://maltalottery.net//wp-includes/SimplePie/plugins.php
+/wp-admin/css/colors/blue/about.php 16 -
+//wp-content/upgrade-temp-backup/about.php 3 -
+//wp-includes/fonts/wp-login.php 5 http://maltalottery.net//wp-includes/fonts/wp-login.php
+/include/bussubmit.php 20 -
+/wp-includes/pomo/about.php 43 -
+/wp-includes/js/admin-bar.js 1 -
+//gawean.PhP7 1 http://maltalottery.net//gawean.PhP7
+/wp-admin/css/colors/blue/cloud.php 42 -
+//shop/wp-includes/wlwmanifest.xml 28 -
+/wp-security.php 1 www.google.com
+/core 13 -
+//wp-admin/images/index.php 2 -
+/wp-includes/qw.php 20 -
+//wp-admin/wso112233.php 1 http://maltalottery.net//wp-admin/wso112233.php
+/wp-content/themes/wpclassic/inc/index.php 1 www.google.com
+/inputs.php 33 http://maltalottery.net/inputs.php
+/wp-content/updraft/about.php 43 -
+/wp-content/gallery/about.php 43 -
+//wp-includes/certificates/iR7SzrsOUEP.php 1 http://maltalottery.net//wp-includes/certificates/iR7SzrsOUEP.php
+//cms/wp-includes/wlwmanifest.xml 28 -
+/wp-content/plugins/press/wp-class.php 16 -
+/wp-admin/js/widgets/cloud.php 42 -
+/wp/wp-includes/menu.php 20 -
+/kbirdixz.php 1 www.google.com
+/wp-content/plugins/easy-digital-downloads/assets/css/edd-admin-email-tags-rtl.min.css 2 -
+/admin/filemanager/dialog.php 3 -
+//libraries/legacy/updates.php 2 -
+//wp-admin/includes/xmrlpc.php 2 -
+//wp-content/banners/about.php 2 -
+/chosen.php 24 -
+/wp-content/plugins/miniorange-malware-protection/includes/js/settings_page.js 1 maltalottery.net
+//wp-admin/css/colors/index.php 2 -
+//wp-admin/user/xmrlpc.php 2 -
+//wp-admin/user/plugins.php 1 http://maltalottery.net//wp-admin/user/plugins.php
+//wp-includes/blocks/about.php 2 -
+/images/cloud.php 43 -
+//.well-known/acme-challenge/class_api.php 1 http://maltalottery.net//.well-known/acme-challenge/class_api.php
+//wp-admin/css/about.php 2 -
+//wp-admin/network/cloud.php 2 -
+//wp-admin/user/wp-login.php 5 http://maltalottery.net//wp-admin/user/wp-login.php
+/libraries/legacy/updates.php 42 -
+/wp-admin/css/colors/blue/blue.php 36 -
+/ALFA_DATA/alfacgiapi/perl.alfa 5 www.google.com
+/wp-includes/images/smilies/index.php 1 maltalottery.net
+//wp-admin/js/widgets/class_api.php 1 http://maltalottery.net//wp-admin/js/widgets/class_api.php
+//wp-admin/taf.php 5 -
+//wp-content/install.php 11 http://maltalottery.net//wp-content/install.php
+/cache-compat.php 42 -
+//wp-includes/shell20211028.php 1 http://maltalottery.net//wp-includes/shell20211028.php
+/wp-admin/ccx/index.php 16 -
+/server 1 -
+//taf.php 5 -
+//class_api.php 1 http://maltalottery.net//class_api.php
+/wp-includes/mah.php 2 www.google.com
+/wp-content/plugins/gotmls/readme.txt 4 -
+/wp-includes/IXR/plugins.php 1 maltalottery.net
+//wp-content/themes/about.php 2 -
+/wp-includes/blocks/social-link/index.php 1 maltalottery.net
+//shellv3.php 1 http://maltalottery.net//shellv3.php
+//wp-admin/maint/atomlib.php 1 http://maltalottery.net//wp-admin/maint/atomlib.php
+/.well-known/security.txt 2 http://www.maltalottery.net/.well-known/security.txt
+//wp-admin/js/widgets/iR7SzrsOUEP.php 1 http://maltalottery.net//wp-admin/js/widgets/iR7SzrsOUEP.php
+//wp-includes/css/buttons.css 1 http://maltalottery.net//wp-includes/css/buttons.css
+/worm0.PhP7 16 -
+/wp-content/plugins/wp-automatic/css/style.css 6 -
+//.well-known/acme-challenge/moon.php 1 http://maltalottery.net//.well-known/acme-challenge/moon.php
+//wp-includes/Requests/Utility/about.php 1 http://maltalottery.net//wp-includes/Requests/Utility/about.php
+/vendor/.env 1 -
+//wp-includes/images/include.php 1 http://maltalottery.net//wp-includes/images/include.php
+//wp-admin/about.php 1 http://maltalottery.net//wp-admin/about.php
+/gawean.PhP7 36 -
+//wp-admin/images/users.php 1 http://maltalottery.net//wp-admin/images/users.php
+//wp-admin/js/about.php 15 http://maltalottery.net//wp-admin/js/about.php
+/wp-includes.bak/html-api/about.php 43 -
+//cgi-bin/xmrlpc.php 2 -
+/mail.php 2 -
+//wp-admin/images/class.api.php 1 http://maltalottery.net//wp-admin/images/class.api.php
+//.well-known/pki-validation/about.php 2 -
+//.well-known/pki-validation/plugins.php 1 http://maltalottery.net//.well-known/pki-validation/plugins.php
+//.well-known/pki-validation/iR7SzrsOUEP.php 1 http://maltalottery.net//.well-known/pki-validation/iR7SzrsOUEP.php
+//users.php 2 http://maltalottery.net//users.php
+//defaul1.php 1 http://maltalottery.net//defaul1.php
+/wp-includes/customize/amaxx.php 20 -
+/wp-content/themes/travel/issue.php 1 www.google.com
+/.well-known/pki-validation/xmrlpc.php 42 -
+//chosen.php 2 http://maltalottery.net//chosen.php
+//wp-content/plugins/seoo/wsoyanz.php 2 -
+/wp-content/upgrade-temp-backup/about.php 43 -
+/cgi-bin/fun.php 1 -
+//wp-admin/user/file.php 1 http://maltalottery.net//wp-admin/user/file.php
+/wp-content/plugins/gotmls/images/ELI-16x16.gif 3 -
+//wp-content/plugins/classic-editor/wp-login.php 5 http://maltalottery.net//wp-content/plugins/classic-editor/wp-login.php
+/xmrlpc.php 42 -
+/wp-content/plugins/yyobang/mar.php 16 -
+/wp-includes/js/tinymce/plugins/paste/index.php 1 maltalottery.net
+/wp-admin/css/colors/blue/index.php 21 -
+/uploads/ 11 binance.com
+/old/wp-admin/install.php 1 -
+//wp-includes/random_compat/class_api.php 1 http://maltalottery.net//wp-includes/random_compat/class_api.php
+/wp-content/uploads/2022/11/index.php 1 maltalottery.net
+//wp-includes/style-engine/about.php 2 -
+/cgi-bin/file.php 1 -
+//wp-admin/shell20211028.php 1 http://maltalottery.net//wp-admin/shell20211028.php
+/admin.php 65 -
+//wp-admin/maint/iR7SzrsOUEP.php 1 http://maltalottery.net//wp-admin/maint/iR7SzrsOUEP.php
+//wp-content/upgrade/class_api.php 1 http://maltalottery.net//wp-content/upgrade/class_api.php
+/wp-admin/repeater.php 42 -
+//wp-includes/block-patterns/about.php 2 -
+/wp-admin/css/colors/light/about.php 20 -
+//wp/wp-includes/wlwmanifest.xml 28 -
+/cgi-bin/Simple.php 1 -
+//wp-content/themes/travel/issue.php 1 http://maltalottery.net//wp-content/themes/travel/issue.php
+/.well-known/plugins.php 1 maltalottery.net
+//wp-consar.php 2 -
+/wp-includes/blocks/preformatted/index.php 1 maltalottery.net
+//wp-includes/fonts/plugins.php 1 http://maltalottery.net//wp-includes/fonts/plugins.php
+/autoload_classmap.php 20 -
+/wp-consar.php 43 -
+/install.php 22 -
+//wp-content/upgrade/moon.php 1 http://maltalottery.net//wp-content/upgrade/moon.php
+//css/plugins.php 1 http://maltalottery.net//css/plugins.php
+//wp-content/languages/plugins.php 1 http://maltalottery.net//wp-content/languages/plugins.php
+//.well-known/acme-challenge/iR7SzrsOUEP.php 1 http://maltalottery.net//.well-known/acme-challenge/iR7SzrsOUEP.php
+/postnews.php 16 -
+/wp-apxupx.php 17 -
+/media/system/js/core.js 7 http://maltalottery.net/media/system/js/core.js
+//wp-includes/customize/about.php 2 -
+//.well-known/pki-validation/wp-login.php 5 http://maltalottery.net//.well-known/pki-validation/wp-login.php
+//images/xmrlpc.php 2 -
+/wp-content/about.php 45 -
+/wp-content/ccx/index.php 16 -
+//wp-admin/css/plugins.php 1 http://maltalottery.net//wp-admin/css/plugins.php
+/temp/ 2 -
+//cgi-bin/plugins.php 1 http://maltalottery.net//cgi-bin/plugins.php
+/wp-includes/Requests/Text/admin.php 42 -
+//wp-admin/maint/maint/ajax-actions.php 2 -
+//wp-content/dropdown.php 11 http://maltalottery.net//wp-content/dropdown.php
+/blog 16 -
+//wp-content/themes/pridmag/db.php 2 -
+/wp-includes/js/tinymce/plugins/wordpress/index.php 1 maltalottery.net
+/wp-content/blogs.dir/about.php 43 -
+/wwr.php 16 -
+//wp-admin/includes/plugins.php 1 http://maltalottery.net//wp-admin/includes/plugins.php
+//wp-content/plugins/seoplugins/db.php 2 -
+/css.php 23 -
+/wso.php 1 -
+/modules/mod_rebug/manifest.xml 1 www.google.com
+/wp-admin/images/about.php 43 -
+/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js 1 -
+/images/ 11 binance.com
+//repeater.php 3 -
+/wp-admin/includes/plugins.php 1 maltalottery.net
+//file.php 1 http://maltalottery.net//file.php
+//wp-includes/ID3/about.php 2 -
+//images/about.php 2 -
+/css/403.php 16 -
+/s/33e27393e2431313e2838313/_/ 1 -
+/wp-admin/css/colors/sunrise/index.php 1 maltalottery.net
+//.well-known/acme-challenge/index.php 2 http://maltalottery.net//.well-known/acme-challenge/index.php
+//wp-admin/css/colors/blue/taf.php 5 -
+/wp-includes/blocks/template-part/index.php 1 maltalottery.net
+/wp-includes/images/smilies/about.php 20 -
+/wp-includes/wp-info.php 28 -
+/wp-includes/sitemaps/about.php 20 -
+//blog/wp-includes/wlwmanifest.xml 28 -
+//wp-admin/network/wp-login.php 5 http://maltalottery.net//wp-admin/network/wp-login.php
+/wp-admin/admin.php 1 -
+//wp1/wp-includes/wlwmanifest.xml 28 -
+/filemanager/dialog.php 4 -
+/test.php 20 -
+/wp/ 2 -
+//wp-admin/user/iR7SzrsOUEP.php 1 http://maltalottery.net//wp-admin/user/iR7SzrsOUEP.php
+/user.php 1 -
+//about.php 3 -
+/.well-known/pki-validation/about.php 43 -
+/cgi-bin/cloud2.php 1 -
+/wp-json/wpgmza/v1/markers 4 -
+/wp-admin/images/profile.php 20 -
+/site 1 -
+//css/class_api.php 1 http://maltalottery.net//css/class_api.php
+//wordpress/wp-includes/wlwmanifest.xml 28 -
+/wp-includes/js/tinymce/plugins/fullscreen/index.php 1 maltalottery.net
+//wpwp.php 1 http://maltalottery.net//wpwp.php
+/wp-content/updates.php 43 -
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 1 -
+//wp-content/repeater.php 2 -
+/.well-known/pki-validation/content.php 1 maltalottery.net
+//.well-known/acme-challenge/cloud.php 5 -
+/cjfuns.php 16 -
+//cgi-bin/iR7SzrsOUEP.php 1 http://maltalottery.net//cgi-bin/iR7SzrsOUEP.php
+//wp-admin/images/cloud.php 2 -
+/test/ 2 -
+/themes.php 2 -
+/wp-includes/Text/Diff/Renderer/install.php 20 -
+/wp-includes/SimplePie/Decode/index.php 1 maltalottery.net
+/images/xmrlpc.php 42 -
+//wp-content/plugins/ 11 http://maltalottery.net//wp-content/plugins/
+//wp-includes/SimplePie/about.php 3 -
+/wp-json 5 -
+/wp-admin/css/colors/coffee/xmrlpc.php 42 -
+//wp-admin/js/widgets/moon.php 1 http://maltalottery.net//wp-admin/js/widgets/moon.php
+/wp-content/plugins/core-plugin/include.php 17 -
+/wp-content/repeater.php 42 -
+/lufix.php 2 -
+/cgi-bin/wp-blog.php 1 -
+/conf.js 1 -
+//wp-admin/network/class.api.php 1 http://maltalottery.net//wp-admin/network/class.api.php
+//wp-l0gin.php 1 http://maltalottery.net//wp-l0gin.php
+//wp-admin/cloud.php 2 -
+/wp-content/index.php 17 -
+/wp-admin/includes/class_api.php 16 -
+//taipolottery.com/wp-content/themes/lottery/assets/js/flipclock.js 8 -
+/wp-admin/css/ 11 binance.com
+/wp-admin/style.php 2 -
+/css/xmrlpc.php 42 -
+/cgi-bin/index.php 1 -
+/wp-conflg.php 2 -
+//wp-includes/customize/file.php 1 http://maltalottery.net//wp-includes/customize/file.php
+//wp-json/wp/v2/users/ 85 -
+//wp-includes/SimplePie/file.php 1 http://maltalottery.net//wp-includes/SimplePie/file.php
+/ws.php 23 -
+//wp-content/updraft/about.php 2 -
+/oldsite/wp-admin/install.php 1 -
+/wp-admin/setup-config.php 17 -
+//web/wp-includes/wlwmanifest.xml 28 -
+//wp-admin/css/colors/blue/cloud.php 2 -
+/wsoyanz.php 42 -
+//wp-class.php 1 http://maltalottery.net//wp-class.php
+/wp-content/themes/seotheme/mar.php 42 -
+/wp-includes/js/tinymce/skins/lightgray/index.php 1 maltalottery.net
+/alfa-rex2.php7 42 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 27 -
+/wp-includes/js/tinymce/skins/index.php 1 maltalottery.net
+/bk 8 http://maltalottery.net/bk
+/fw.php 24 -
+/assets/plugins/filemanager/dialog.php 3 -
+//wp-content/mah.php 1 http://maltalottery.net//wp-content/mah.php
+/public/.env 1 -
+//wp-content/upgrade/plugins.php 1 http://maltalottery.net//wp-content/upgrade/plugins.php
+//cgi-bin/cgi-bin/about.php7 11 http://maltalottery.net//cgi-bin/cgi-bin/about.php7
+//delpaths.php 1 http://maltalottery.net//delpaths.php
+/wp-includes/sx.php 20 -
+//nf_tracking.php 1 http://maltalottery.net//nf_tracking.php
+/wp-content/plugins/apikey/mar.php 20 -
+/wp-admin/includes/index.php 1 maltalottery.net
+/404.php 18 -
+/wp-includes/ID3/about.php 43 -
+/ebs.php7 42 -
+/wp-json/wp/v2/posts/ 1 -
+//wp-includes/wlwmanifest.xml 96 -
+//atomlib.php 1 http://maltalottery.net//atomlib.php
+/libraries/vendor/updates.php 42 -
+/wp-content/themes/digital-download/new.php 1 www.google.com
+//wp-admin/css/colors/ectoplasm/load-styles.php 1 http://maltalottery.net//wp-admin/css/colors/ectoplasm/load-styles.php
+//.well-known/index.php 1 http://maltalottery.net//.well-known/index.php
+//wp-content/plugins/install.php 11 http://maltalottery.net//wp-content/plugins/install.php
+/wp-seo.php 16 -
+//wp-admin/includes/file.php 1 http://maltalottery.net//wp-admin/includes/file.php
+/wp-content/themes/twentytwentyone/index.php 1 maltalottery.net
+//wp-admin/js/widgets/about.php7 2 -
+//wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/taf.php 5 -
+//ajax-actions.php 2 -
+/api/index.php/v1/config/application 1 -
+/wp-admin/css/about.php 43 -
+/.tmb/class_api.php 16 -
+//css/cloud.php 2 -
+/wp-includes/IXR/allez.php 20 -
+/wp-content/style.php 2 -
+/shell20211028.php 20 -
+//wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/wp-content/themes/seotheme/db.php 53 www.google.com
+//.tmb/moon.php 1 http://maltalottery.net//.tmb/moon.php
+//wsoyanz.php 2 -
+/moon.php 22 -
+/api/index.php/v1/users 8 -
+//wp-includes/install.php 11 http://maltalottery.net//wp-includes/install.php
+//wp-includes/css/dist/customize-widgets/about.php 1 http://maltalottery.net//wp-includes/css/dist/customize-widgets/about.php
+//wp-content/themes/seotheme/mar.php 2 -
+/wp-content/pm.php 16 -
+/sites/default/files/ 11 binance.com
+//wp-admin/network/iR7SzrsOUEP.php 1 http://maltalottery.net//wp-admin/network/iR7SzrsOUEP.php
+/wp-admin/install.php 25 -
+/wp-content/plugins/dummyyummy/wp-signup.php 1 www.google.com
+//wp-hoard.php 1 http://maltalottery.net//wp-hoard.php
+/wp-admin/network/index.php 21 -
+//wp-admin/maint/moon.php 12 http://maltalottery.net//wp-admin/maint/moon.php
+//wp-admin/images/admin.php 1 http://maltalottery.net//wp-admin/images/admin.php
+//about.php7 2 -
+/comdofuns.php 20 -
+/zb_system/login.php 1 -
+/auto_seo.php 5 -
+//wp-includes/Requests/Exception/HTTP/taf.php 5 -
+/wp-plain.php 6 www.google.com
+//wp-admin/user/moon.php 1 http://maltalottery.net//wp-admin/user/moon.php
+/newsite 14 -
+//wp-content/plugins/seoo/wsoyanz1.php 2 -
+//xmlrpc.php 132 -
+//cgi-bin/wp-login.php 4 http://maltalottery.net//cgi-bin/wp-login.php
+/mdhdejqe.php 1 www.google.com
+//wp-admin/admin.php 5 -
+//images/wp-login.php 5 http://maltalottery.net//images/wp-login.php
+/wp-admin/js/user-suggest.js 1 -
+//cloud.php 2 -
+//wp-includes/about.php 2 -
+/wp-links.php 20 -
+/fsizplhm.php 1 www.google.com
+//wp-admin/repeater.php 2 -
+//dropdown.php 13 http://maltalottery.net//dropdown.php
+/wp-admin/images/xmrlpc.php 42 -
+/cms 1 -
+/wp-content/plugins/Cache/Cache.php 43 -
+//wp-content/plugins/include.php 1 http://maltalottery.net//wp-content/plugins/include.php
+/wp/wp-admin/install.php 1 -
+//wp-admin/includes/about.php 2 -
+/wp-admin/cloud.php 42 -
+/cms/wp-admin/install.php 1 -
+/sx.php 20 -
+//wp-content/patior/ 11 http://maltalottery.net//wp-content/patior/
+//wp-admin/js/widgets/cloud.php 2 -
+/wp-content/plugins/background-image-cropper/tmpls.php 20 -
+/admin-post.php 42 -
+/wp-admin/css/colors/coffee/about.php 16 -
+/wp-content/themes/index.php 1 maltalottery.net
+//wp-content/plugins/fix/up.php 6 -
+/ae.php 2 -
+/api.php 1 -
+//.env 4 http://maltalottery.net//.env
+/upfile.php 2 -
+/wp-includes/js/index.php 1 maltalottery.net
+/wp-includes/wp-class.php 16 -
+//wp-content/plugins/contact-form-7/includes/js/jquery-ui/themes/smoothness/smoothness.php 5 -
+/cgi-bin/upfile_(2).php 1 -
+//.well-known/acme-challenge/plugins.php 1 http://maltalottery.net//.well-known/acme-challenge/plugins.php
+/wp-content/languages/about.php 43 -
+//.tmb/class_api.php 1 http://maltalottery.net//.tmb/class_api.php
+/wp-includes/ID3/index.php 1 maltalottery.net
+/security.txt 1 http://www.maltalottery.net/security.txt
+//libraries/phpmailer/updates.php 2 -
+/web 1 -
+//wp-content/updates.php 2 -
+//wp-includes/widgets/about.php 2 -
+//.well-known/acme-challenge/atomlib.php 1 http://maltalottery.net//.well-known/acme-challenge/atomlib.php
+//.well-known/pki-validation/termps.php 1 http://maltalottery.net//.well-known/pki-validation/termps.php
+/wp-content/plugins/royal-elementor-addons/readme.txt 1 -
+/wp-content/plugins/custom-registration-form-builder-with-submission-manager/public/js/bootstrap.min.js 3 -
+//wp-admin/includes/moon.php 1 http://maltalottery.net//wp-admin/includes/moon.php
+//cgi-bin/about.php 2 -
+/wp-includes/rest-api/plugins.php 1 maltalottery.net
+/wp-includes/block-patterns/index.php 1 maltalottery.net
+//images/atomlib.php 1 http://maltalottery.net//images/atomlib.php
+//wp-admin/user/cloud.php 2 -
+/core3.php 1 -
+//wp-admin/includes/themes.php 1 http://maltalottery.net//wp-admin/includes/themes.php
+/.tmb/admin.php 20 -
+//rindex.php 6 -
+/wp-content/plugins/envato-market/inc/class-envato-market-api.php 16 -
+/php/thinkphp/aaaffff123.php 10 -
+//st.php 13 http://maltalottery.net//st.php
+/files/ 11 binance.com
+//.tmb/plugins.php 1 http://maltalottery.net//.tmb/plugins.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 475
+89.187.163.201 35 35 256430 20240319080614
+91.92.254.123 24 24 175853 20240329234942
+138.199.60.185 20 20 146570 20240323210946
+152.42.180.8 20 20 146584 20240329175506
+159.89.206.68 20 20 146564 20240311070234
+159.223.55.19 16 16 117264 20240328111441
+165.232.176.245 16 16 117268 20240314074922
+146.70.192.156 15 15 109925 20240312195436
+2a12:5940:5433::2 13 13 95269 20240323212902
+129.226.146.179 12 12 87940 20240329212539
+128.199.255.8 12 12 87948 20240312031505
+157.230.39.131 12 12 87936 20240325045440
+103.216.223.204 10 10 73285 20240324200625
+146.70.192.164 10 10 73280 20240331073335
+212.102.44.114 10 10 73280 20240328013638
+91.92.246.225 10 10 73285 20240314052614
+170.64.147.207 10 10 73300 20240302025148
+212.102.44.116 10 10 73295 20240329035103
+124.248.183.41 10 10 51897 20240324164714
+43.130.37.62 9 9 65956 20240329152544
+54.88.179.33 9 9 65953 20240323100348
+137.226.113.44 8 8 60471 20240329050929
+167.172.71.23 8 8 58624 20240315054158
+54.38.211.230 8 8 58628 20240311125239
+128.199.161.208 8 8 58616 20240320032952
+87.121.69.30 1 1 7329 20240316220343
+52.81.78.71 1 1 7329 20240317023852
+93.158.91.245 1 1 7329 20240312112619
+93.158.91.251 1 1 7324 20240306202023
+146.70.192.182 5 5 36640 20240305113918
+91.90.124.151 1 1 7330 20240319211855
+176.53.220.193 1 1 7329 20240330214324
+5.188.62.26 1 1 7329 20240306042500
+162.0.209.76 2 2 18314 20240331222606
+87.236.176.29 1 1 7329 20240313060902
+16.16.255.28 2 2 14656 20240310234707
+5.133.192.171 1 1 7327 20240310034356
+199.45.154.16 2 2 14654 20240326151443
+199.45.154.67 1 1 7326 20240328010332
+43.155.183.138 2 2 14654 20240318073533
+205.185.125.169 1 1 7326 20240321113826
+150.109.16.20 3 3 21993 20240325153426
+173.249.27.178 1 1 7328 20240304230845
+198.235.24.114 1 1 7328 20240305084618
+58.220.27.161 1 1 7328 20240305112003
+178.33.149.171 2 2 14655 20240311125557
+91.92.250.136 4 4 29316 20240317001811
+45.141.215.11 1 1 7329 20240329023257
+101.36.124.72 2 2 14658 20240313133718
+165.154.24.150 2 2 14656 20240314131227
+43.130.47.136 2 2 14659 20240329121512
+52.81.80.21 2 2 14658 20240325195053
+5.129.210.207 1 1 7332 20240303192601
+135.148.195.16 1 1 7326 20240328145011
+87.236.176.229 1 1 7329 20240313121339
+2409:8a34:407d:1da0:a00:27ff:feb5:71b5 1 1 7327 20240319153607
+52.81.17.164 1 1 7329 20240325011547
+202.75.29.7 1 1 7330 20240319165431
+175.6.217.4 2 2 19365 20240308090244
+43.133.72.69 1 1 7324 20240307123420
+58.211.23.183 3 3 21984 20240314062816
+170.106.171.77 1 1 7332 20240303102824
+52.13.234.28 1 1 7329 20240313073920
+125.75.66.97 4 4 34032 20240305144752
+36.133.172.82 1 1 7329 20240312194851
+43.130.62.164 5 5 36646 20240323212603
+43.135.181.13 3 3 21983 20240313232103
+185.196.9.53 1 1 7329 20240312011639
+178.162.204.238 1 1 0 20240307213825
+35.90.95.175 1 1 7332 20240303070437
+128.90.170.38 1 1 7330 20240327054948
+167.248.133.50 1 1 7327 20240318204444
+43.155.138.79 2 2 14658 20240316153358
+159.203.115.30 1 1 7324 20240318034112
+2001:4ba0:cafe:b2c::1 1 1 7324 20240307025219
+170.106.104.42 5 5 38475 20240331212938
+18.144.25.79 1 1 7329 20240329105815
+74.50.6.95 1 1 7328 20240322191036
+35.91.106.191 1 1 7328 20240311004646
+2607:5300:60:2e23::1 1 1 7330 20240326051510
+117.62.235.53 1 1 7330 20240320163754
+198.235.24.216 1 1 7329 20240312042733
+128.90.43.47 1 1 0 20240321213921
+124.225.164.130 1 1 12037 20240305041914
+43.153.93.68 3 3 21983 20240326213803
+52.191.195.202 2 2 14660 20240320103424
+185.104.112.95 1 1 7329 20240309083030
+89.248.172.92 2 2 14648 20240307050835
+87.236.176.169 1 1 7329 20240313161843
+87.236.176.170 1 1 7328 20240323112149
+45.86.86.223 1 1 7326 20240316044143
+142.147.98.143 1 1 7330 20240302091654
+91.92.246.171 2 2 14656 20240309063450
+43.135.129.233 1 1 7328 20240314151723
+2a01:4f8:262:111f::2 1 1 7328 20240307194821
+119.188.247.39 1 1 7329 20240312203112
+119.96.24.54 3 3 21985 20240328040932
+43.155.169.133 1 1 7325 20240331231825
+198.71.56.224 1 1 7328 20240315092707
+5.133.192.160 1 1 7326 20240315205659
+123.6.49.47 1 1 7330 20240320143216
+24.199.115.87 1 1 7330 20240302012653
+74.125.210.198 1 1 7328 20240308073952
+182.42.110.255 1 1 7328 20240311045323
+51.89.211.248 6 6 43970 20240311125500
+124.223.193.173 3 3 21990 20240327125437
+43.159.128.172 2 2 14650 20240327231337
+198.235.24.110 1 1 7330 20240326020641
+35.171.144.152 3 3 21983 20240323100348
+87.236.176.127 1 1 7328 20240323110622
+91.230.225.234 1 1 12037 20240304215546
+35.85.247.170 3 3 21990 20240326071824
+223.113.128.132 1 1 7328 20240314055725
+34.72.176.129 1 1 7328 20240330111929
+64.15.129.108 1 1 7331 20240322090309
+142.93.73.177 4 4 29318 20240311184634
+38.45.123.34 1 1 7329 20240308225420
+134.209.207.241 1 1 7329 20240309035106
+91.92.255.48 4 4 29308 20240319153235
+205.210.31.180 2 2 14656 20240322205809
+18.237.240.26 1 1 7329 20240331074949
+195.211.77.142 1 1 7328 20240330111959
+54.218.239.162 1 1 7329 20240324140002
+45.11.21.164 1 1 7329 20240325090615
+49.51.206.130 2 2 14657 20240313210907
+130.255.166.120 1 1 7329 20240329152403
+2a00:6800:3:b9e::1 1 1 7326 20240315200518
+143.198.80.211 2 2 14660 20240326192825
+52.81.249.147 2 2 14656 20240323043742
+182.44.2.148 3 3 26700 20240315155537
+52.26.137.248 1 1 7329 20240313073919
+34.219.147.91 1 1 7329 20240329075345
+206.189.50.93 1 1 7328 20240314030154
+43.135.166.178 6 6 45810 20240328114056
+150.109.253.34 1 1 7332 20240304082944
+49.7.227.204 1 1 7327 20240319114423
+199.45.154.48 1 1 7326 20240321034521
+43.163.3.58 1 1 7326 20240315190612
+82.80.249.249 4 4 34036 20240303044439
+65.154.226.168 2 2 14653 20240316083316
+129.226.147.7 3 3 23831 20240330151233
+36.134.147.75 2 2 14656 20240327181659
+104.164.173.87 1 1 7328 20240330111941
+54.191.80.44 1 1 7326 20240321043517
+20.37.106.71 4 4 29312 20240330073514
+131.153.240.162 3 3 21987 20240317135359
+205.210.31.226 1 1 7330 20240326021852
+51.158.174.16 1 1 7327 20240319155430
+185.166.84.146 2 2 14652 20240318105107
+124.156.193.7 1 1 7327 20240310090608
+159.203.79.9 1 1 7329 20240306014753
+54.149.248.52 1 1 7329 20240331074929
+69.167.29.40 1 1 0 20240330154602
+87.236.20.108 1 1 7330 20240326143059
+135.148.195.2 1 1 7331 20240322043911
+125.94.144.102 1 1 7335 20240303151418
+5.133.192.88 1 1 7332 20240304080503
+198.235.24.202 1 1 7328 20240304200535
+43.153.110.177 3 3 21978 20240321151609
+199.45.154.66 2 2 14653 20240321100849
+35.173.246.31 1 1 7330 20240326035534
+199.45.154.17 3 3 21986 20240327231431
+54.190.162.115 1 1 7328 20240315080651
+182.44.67.97 1 1 7328 20240307223913
+3.7.169.138 1 1 7330 20240320013058
+35.167.245.242 2 2 14654 20240310164957
+27.115.124.101 1 1 7330 20240320143034
+165.154.172.72 1 1 7331 20240321220915
+35.83.162.44 1 1 7330 20240320024723
+154.28.229.83 4 4 34030 20240330225453
+146.70.94.3 1 1 0 20240307221934
+42.83.147.34 2 2 14653 20240318064033
+205.210.31.239 1 1 7330 20240301224933
+143.110.219.132 1 1 7328 20240305114629
+43.133.38.182 4 4 29317 20240328230212
+35.165.215.140 1 1 7324 20240307084031
+205.210.31.31 1 1 9168 20240301053344
+164.92.235.230 1 1 7330 20240326025609
+65.154.226.169 2 2 14656 20240330111936
+154.28.229.119 2 2 7329 20240330235807
+20.38.44.72 2 2 14657 20240309194115
+94.156.67.39 2 2 14656 20240314123804
+65.154.226.170 1 1 7329 20240305222541
+43.131.44.218 2 2 14658 20240311113238
+37.19.197.246 5 5 41362 20240327034216
+69.55.49.32 1 1 7329 20240312025523
+198.235.24.22 1 1 7326 20240315202902
+18.236.162.43 1 1 7329 20240317083908
+180.97.221.10 1 1 7332 20240303090531
+66.135.10.114 1 1 7326 20240315222834
+176.53.217.161 1 1 7332 20240302205829
+185.64.104.47 1 1 7326 20240321081022
+13.59.109.161 1 1 9168 20240301004749
+54.219.221.247 1 1 7331 20240322122725
+128.90.128.2 2 2 14654 20240316094149
+198.235.24.87 1 1 7328 20240329190310
+159.65.155.248 1 1 7329 20240324032449
+182.44.8.254 2 2 14655 20240322000447
+133.242.174.119 1 1 7329 20240331020808
+4.237.56.74 4 4 29312 20240330000112
+35.87.205.178 1 1 7329 20240331074959
+212.132.99.18 1 1 7331 20240321194403
+44.222.25.214 1 1 7329 20240306113603
+35.91.228.179 1 1 7329 20240325082335
+146.70.192.158 5 5 36660 20240303210934
+43.133.66.151 2 2 14661 20240322083450
+35.87.38.215 1 1 7328 20240311013346
+1.192.192.8 2 2 14658 20240312131211
+167.99.70.126 3 3 21972 20240318053119
+222.79.103.59 1 1 12037 20240304204645
+199.45.154.19 2 2 14650 20240327222725
+20.65.168.203 4 4 29320 20240326181609
+38.60.212.6 1 1 7326 20240321044431
+185.233.38.8 1 1 7329 20240324235912
+43.131.62.4 1 1 7328 20240314113226
+38.150.5.90 1 1 7326 20240327185156
+89.248.168.222 6 6 43984 20240304222310
+106.227.49.113 3 3 21984 20240315085231
+164.92.177.51 1 1 7331 20240322033916
+43.134.190.89 2 2 19365 20240325153427
+116.206.14.30 1 1 7329 20240324163848
+203.2.64.59 1 1 7326 20240328124704
+43.155.136.16 2 2 14662 20240310161117
+74.125.210.194 1 1 7330 20240301175438
+198.235.24.141 1 1 7329 20240329105819
+43.134.89.111 1 1 7330 20240326232501
+145.220.91.19 2 2 14656 20240328112209
+43.131.48.214 1 1 7332 20240304102749
+178.157.65.54 1 1 7327 20240319153957
+43.163.1.85 2 2 14656 20240330101504
+91.92.248.133 1 1 7325 20240331235509
+114.96.103.33 1 1 7329 20240324000818
+88.151.192.69 5 5 41359 20240311181152
+100.26.54.205 1 1 7328 20240322203636
+43.163.8.148 4 4 34024 20240328212025
+182.42.105.144 1 1 7328 20240311135959
+172.208.13.2 4 4 29304 20240328104023
+182.42.111.156 2 2 14653 20240317213546
+104.197.193.142 1 1 7329 20240308210840
+93.158.90.53 1 1 7329 20240324000946
+45.94.31.231 1 1 0 20240311152410
+151.115.36.66 1 1 7329 20240324215106
+87.236.176.117 1 1 7329 20240313142544
+199.45.155.17 2 2 14656 20240328024210
+128.90.136.189 1 1 0 20240320200734
+205.210.31.93 1 1 7328 20240308103039
+185.12.150.110 1 1 7327 20240301052715
+89.248.174.34 2 2 14660 20240301223405
+14.215.163.132 1 1 7330 20240320065906
+115.223.43.181 1 1 7329 20240317052204
+43.159.141.180 6 6 43968 20240326130704
+154.28.229.150 1 1 7329 20240330225449
+199.45.155.18 1 1 7324 20240317170906
+198.235.24.223 1 1 7331 20240321174951
+84.239.45.138 6 6 48691 20240315003147
+52.73.68.8 2 2 14656 20240314023142
+44.230.225.86 1 1 7327 20240319094803
+54.202.121.38 1 1 7326 20240316121404
+2607:5300:60:2de3::1 2 2 14656 20240327202253
+199.45.154.49 1 1 7326 20240321110347
+20.120.176.134 2 2 14657 20240319191801
+2a00:6800:3:b78::1 1 1 7329 20240325153244
+66.58.255.6 1 1 7329 20240317040010
+91.92.249.217 5 5 36660 20240303123123
+128.199.40.223 1 1 7327 20240319014929
+170.106.159.160 5 5 36644 20240325210915
+84.46.251.179 1 1 7324 20240307152445
+87.236.176.73 1 1 7329 20240323222718
+46.19.138.210 1 1 7330 20240325203819
+38.45.123.36 1 1 7329 20240328173235
+34.122.196.1 1 1 7328 20240323050938
+205.210.31.71 1 1 7329 20240329131931
+116.206.14.26 2 2 0 20240319173447
+36.41.75.167 1 1 7330 20240326041213
+192.175.111.232 1 1 7331 20240322090310
+43.131.243.208 2 2 14661 20240308182813
+43.133.77.208 6 6 43977 20240317113248
+146.190.172.49 1 1 7326 20240328041249
+52.41.230.246 1 1 7329 20240317083909
+182.44.10.67 1 1 7328 20240329213415
+15.204.182.106 2 2 14650 20240331213508
+94.228.169.182 1 1 7326 20240328140252
+54.254.253.172 4 4 34032 20240326160608
+182.43.70.143 1 1 7328 20240310185954
+2409:8c20:b281:14::105 1 1 7324 20240318122839
+128.199.214.169 1 1 7331 20240322150556
+104.164.173.24 1 1 7329 20240330235802
+143.244.189.31 1 1 7329 20240306021810
+104.164.173.241 3 3 21987 20240330225452
+146.190.91.79 4 4 29316 20240325011930
+2604:a880:cad:d0::db5:a001 1 1 7328 20240330111926
+50.19.28.158 2 2 14656 20240314023134
+36.85.217.78 3 3 14664 20240306152617
+185.5.248.18 2 2 7329 20240324213032
+167.248.133.186 1 1 7326 20240321094243
+43.135.149.154 1 1 7329 20240312114514
+199.244.88.231 1 1 7328 20240315053453
+36.99.136.137 1 1 7329 20240306131222
+129.226.158.26 3 3 21983 20240322211106
+43.131.248.209 3 3 21985 20240315113254
+104.234.140.11 2 2 14656 20240308115554
+182.40.104.255 1 1 7324 20240306162954
+45.94.31.146 2 2 0 20240310052805
+38.46.8.202 1 1 7328 20240323111852
+170.106.101.31 1 1 7326 20240321041809
+54.70.60.30 1 1 7329 20240325082336
+34.212.160.225 1 1 7328 20240315080653
+45.8.68.145 4 4 29304 20240320220923
+43.134.37.211 5 5 36643 20240329232707
+91.230.225.51 1 1 7328 20240304215541
+52.249.222.173 4 4 29320 20240320065630
+66.102.8.174 1 1 7328 20240315150944
+123.60.68.42 5 5 36647 20240327101408
+150.109.13.194 1 1 7326 20240327210742
+205.169.39.179 2 2 14656 20240330112040
+199.45.154.18 1 1 7330 20240326034749
+34.208.220.33 3 3 21987 20240324051728
+143.110.213.72 1 1 7328 20240330111925
+142.93.132.228 1 1 7329 20240325061614
+62.197.150.19 2 2 14653 20240312013951
+91.230.225.45 1 1 7328 20240304215543
+82.80.249.214 1 1 7332 20240303044358
+82.102.24.216 1 1 7329 20240324111949
+43.131.249.153 2 2 14663 20240330152850
+149.56.150.163 6 6 48700 20240303050529
+154.28.229.68 1 1 7329 20240330225449
+52.80.96.170 1 1 7328 20240308094711
+146.70.133.9 1 1 7329 20240330225502
+20.42.221.72 1 1 7329 20240324122731
+34.213.226.236 1 1 7329 20240317083910
+205.210.31.78 1 1 7329 20240309032950
+182.44.9.147 2 2 19365 20240314223117
+154.91.83.168 4 4 29318 20240329082740
+185.192.71.80 2 2 14663 20240304215548
+37.139.53.195 2 2 14653 20240307074838
+104.238.48.241 2 2 7329 20240324113138
+5.133.192.128 1 1 7330 20240327092407
+157.245.151.191 4 4 29328 20240303000947
+51.89.142.176 3 3 21979 20240331234232
+35.242.170.221 1 1 7329 20240305224658
+176.53.222.249 1 1 7330 20240301235951
+35.89.53.152 1 1 7328 20240305070349
+167.99.228.213 1 1 7330 20240320040635
+45.55.201.183 1 1 7327 20240310030509
+34.78.49.210 1 1 7327 20240310055420
+45.146.55.109 1 1 7332 20240303022355
+52.12.25.207 1 1 7328 20240323090302
+45.151.199.91 1 1 7330 20240325174310
+218.186.132.53 1 1 7330 20240326004041
+180.102.134.69 4 4 31150 20240321130648
+35.188.189.141 1 1 7329 20240331061258
+75.119.150.136 1 1 7328 20240307161859
+43.130.7.211 1 1 7329 20240316232309
+192.175.111.242 1 1 7331 20240322090310
+54.186.231.236 1 1 7327 20240319082901
+35.173.217.166 1 1 7328 20240329172245
+20.191.109.243 2 2 14662 20240322072353
+205.210.31.219 1 1 7328 20240323035047
+43.130.32.224 1 1 7327 20240318232622
+43.134.66.205 1 1 7326 20240328150153
+43.128.100.206 2 2 19363 20240321012208
+195.211.77.140 1 1 0 20240330111946
+152.32.188.245 2 2 14656 20240314123829
+94.156.64.15 2 2 14659 20240320085547
+54.244.11.232 1 1 7327 20240319082903
+5.78.100.174 1 1 12037 20240309055701
+65.154.226.167 1 1 7328 20240330111934
+182.42.104.32 1 1 7328 20240314025429
+27.115.124.38 1 1 7330 20240320143016
+131.153.142.170 2 2 14658 20240317135359
+43.157.40.112 2 2 14656 20240322232229
+43.155.152.154 3 3 21990 20240325231039
+165.154.41.52 2 2 14658 20240313141947
+111.7.96.176 2 2 14656 20240330103106
+205.169.39.138 2 2 14658 20240305185719
+43.130.31.48 6 6 43974 20240324195025
+134.209.100.232 4 4 29308 20240310030747
+43.153.216.189 1 1 7335 20240304050730
+54.172.141.161 1 1 7329 20240312040138
+205.210.31.170 1 1 7328 20240308143751
+156.146.62.52 2 2 14650 20240316092243
+5.133.192.138 1 1 7326 20240321151419
+159.89.30.13 1 1 7326 20240316025916
+91.92.246.131 1 1 7328 20240308144949
+2604:a880:cad:d0::d82:8001 1 1 7328 20240330111925
+43.133.77.230 1 1 9168 20240301053916
+93.174.93.215 2 2 14656 20240304203147
+199.244.88.229 1 1 7330 20240327014934
+222.79.104.23 2 2 14658 20240304203153
+193.233.233.29 3 3 21982 20240323054235
+143.110.226.219 1 1 7335 20240309080421
+34.220.92.208 1 1 7332 20240303070457
+104.164.173.218 2 2 14658 20240330225351
+43.134.142.8 2 2 14667 20240304204447
+202.93.153.69 1 1 7328 20240313174619
+94.247.172.129 1 1 7330 20240320041023
+162.142.125.225 2 2 14657 20240326105235
+42.83.147.53 2 2 14660 20240326144828
+146.70.192.108 5 5 36640 20240330091627
+35.86.131.59 1 1 7331 20240322095528
+144.217.135.137 1 1 7332 20240303050551
+143.198.59.233 1 1 7328 20240308015412
+64.23.185.222 6 6 43976 20240322185531
+49.51.179.103 3 3 21983 20240320114246
+52.12.216.57 1 1 7328 20240305070354
+34.70.105.141 1 1 7330 20240301173207
+13.72.253.117 4 4 29304 20240316100339
+35.188.149.210 1 1 7326 20240315230520
+199.45.154.51 3 3 21980 20240328112359
+43.159.63.75 5 5 41361 20240326145804
+199.45.155.33 1 1 7327 20240318220431
+45.94.31.165 1 1 0 20240308201354
+43.157.66.187 2 2 14659 20240324213125
+35.205.159.124 1 1 7328 20240305010236
+13.200.212.71 1 1 7329 20240325141737
+199.45.155.39 1 1 7326 20240328130427
+43.155.166.202 2 2 19365 20240330152842
+3.234.214.67 1 1 7329 20240329013950
+93.158.95.213 1 1 7324 20240317224940
+192.175.111.253 1 1 7331 20240322090308
+43.159.128.149 1 1 7332 20240302220715
+94.72.121.39 1 1 7326 20240321080250
+124.226.222.66 2 2 14657 20240322174528
+111.7.96.161 2 2 14652 20240328101555
+2.56.189.185 4 4 29316 20240309161337
+45.138.16.248 4 4 29316 20240317154202
+170.64.214.133 4 4 29316 20240312054107
+85.215.153.110 1 1 7328 20240311043506
+52.81.44.220 1 1 7327 20240319125439
+43.134.170.46 1 1 7328 20240305075903
+134.209.97.195 2 2 14658 20240312094947
+128.90.128.226 1 1 0 20240330021216
+36.133.35.23 2 2 14659 20240331055015
+165.227.118.214 4 4 29314 20240313012939
+23.26.108.89 5 5 36650 20240327095435
+157.245.195.150 5 5 36645 20240311214747
+43.159.129.209 3 3 21987 20240327113603
+43.130.39.101 5 5 36638 20240330114210
+138.68.149.168 1 1 7326 20240316132348
+159.203.11.92 1 1 7328 20240311113107
+43.163.0.99 1 1 7329 20240317015655
+54.183.251.198 1 1 7326 20240315231355
+58.220.27.164 1 1 7324 20240307061854
+205.210.31.213 1 1 7330 20240326104411
+199.45.155.50 1 1 7330 20240326033017
+113.141.91.58 1 1 7332 20240303045821
+158.220.125.47 1 1 7327 20240318171850
+5.62.41.24 1 1 7330 20240319213646
+199.45.155.51 1 1 7326 20240328104247
+139.59.58.102 1 1 7332 20240304030029
+87.98.140.71 5 5 36642 20240312012526
+36.150.60.24 3 3 21984 20240314060805
+139.59.124.215 5 5 36630 20240321035942
+178.128.58.178 4 4 29316 20240324183641
+89.248.172.174 2 2 14658 20240329090148
+182.16.3.82 1 1 7327 20240319162729
+60.188.57.0 4 4 34029 20240305041121
+152.32.225.96 2 2 14658 20240313134846
+146.70.192.172 5 5 36645 20240309073727
+205.210.31.174 1 1 7329 20240312193834
+87.98.153.11 7 7 51302 20240312133241
+163.116.180.133 1 1 7329 20240317040036
+221.229.106.25 3 3 21995 20240323040127
+43.128.110.17 1 1 7329 20240330231030
+52.42.82.45 1 1 7329 20240329075348
+158.220.125.71 1 1 7327 20240318224858
+68.183.4.250 1 1 7328 20240330042212
+43.159.128.68 3 3 23824 20240306195820
+52.43.34.79 1 1 7324 20240318145548
+135.148.195.13 1 1 7328 20240314133811
+156.146.56.131 5 5 36640 20240308131234
+170.106.82.193 3 3 21987 20240324151554
+122.228.8.169 2 2 14659 20240327133855
+3.76.126.197 5 5 41350 20240328144526
+20.83.185.42 4 4 29320 20240326124727
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240301 37 37 292419 30
+20240302 33 33 235177 21
+20240303 50 50 373392 28
+20240304 37 37 290060 31
+20240305 47 47 346528 31
+20240306 28 28 197839 19
+20240307 27 27 183128 22
+20240308 42 42 300459 27
+20240309 33 33 246559 22
+20240310 26 26 187897 17
+20240311 40 40 290526 23
+20240312 42 42 307818 24
+20240313 39 39 285820 24
+20240314 39 39 285792 22
+20240315 57 57 427101 28
+20240316 30 30 219795 19
+20240317 36 36 263804 23
+20240318 32 32 234398 23
+20240319 39 39 271135 25
+20240320 41 41 297872 23
+20240321 32 32 227156 24
+20240322 31 31 227222 25
+20240323 26 26 190538 21
+20240324 36 36 241857 22
+20240325 31 31 231924 20
+20240326 46 46 341892 30
+20240327 42 42 312544 22
+20240328 40 40 297781 22
+20240329 31 31 227189 22
+20240330 53 53 368519 33
+20240331 21 21 157537 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+15mn-30mn 4
+30s-2mn 4
+2mn-5mn 2
+0s-30s 723
+5mn-15mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 886 6374556 714 620
+// 212 1553603 4 87
+/live-draw/ 24 168705 7 13
+/history-result/ 22 264814 12 17
+END_SIDER

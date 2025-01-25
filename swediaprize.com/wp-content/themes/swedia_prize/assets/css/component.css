@@ -1,0 +1,91 @@
+/**** begin card style ****/
+.card.card-result {
+    position: relative;
+    border-radius: 12px;
+}
+.card.card-result .card-body {
+    position: relative;
+    border-radius: 8px;
+}
+.card.card-result .card-body .card-title {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0 20px;
+    width: auto;
+    height: 45px;
+    line-height: 45px;
+    background-image: var(--gradient-4);
+    border-radius: 8px 0 0 0;
+    z-index: 1;
+}
+.card.card-result .card-body .card-title::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: auto;
+    right: -30px;
+    bottom: 0;
+    width: 50%;
+    height: 45px;
+    background-image: var(--gradient-4);
+    border-radius: 0 0 8px 0;
+    transform: skewX(-30deg);
+    z-index: -1;
+}
+
+
+
+.prize-wrapper .prize-block {
+    position: relative;
+    margin: 0 2.5px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: radial-gradient(circle at center, var(--color-6), var(--color-5));
+}
+.prize-wrapper .prize-block::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: -10px;
+	width: auto;
+	height: 10px;
+	border-radius: 50%;
+	background: rgba(0, 0, 0, 0.6);
+	filter: blur(5px);
+	z-index: 0;
+}
+.prize-wrapper .prize-block .prize-digit {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    width: 30px;
+    height: 30px;
+    background-color: var(--color-9);
+    border-radius: 50px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 32px;
+    z-index: 1;
+}
+.prize-wrapper .prize-block .prize-digit::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: auto;
+	height: auto;
+	border-radius: 50%;
+	background: radial-gradient(circle at 25% 0px, #ffffff, rgba(104, 31, 0, 0.286) 58%);
+	z-index: -1;
+}
+/**** endof card style ****/

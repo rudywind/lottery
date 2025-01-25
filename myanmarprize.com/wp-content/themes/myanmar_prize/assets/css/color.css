@@ -1,0 +1,63 @@
+:root {
+    /**** begin countdown colors ****/
+    --flipclock-bg-color: #121212;
+    --flipclock-color: #ffffff;
+    /**** endof countdown colors ****/
+
+    /**** begin custom colors ****/
+    --color-1: #3b8002;
+    --color-2: #8d2a22;
+    --color-3: #003972;
+    --color-4: #ecdf21;
+    --color-5: #50030a;
+    --color-6: #9d0208;
+    --color-7: #ff0000;
+    --color-8: #eae2b7;
+    --color-9: #e2d40c;
+
+    --gradient-1: radial-gradient(circle at center, var(--color-4), var(--color-2)) !important;
+    --gradient-2: radial-gradient(circle at bottom, var(--color-7), var(--color-5) 65%) !important;
+    --gradient-3: linear-gradient(to bottom, var(--color-7), var(--color-5)) !important;
+    --gradient-4: radial-gradient(circle at bottom, var(--color-9), var(--color-4), var(--color-2) 60%) !important;
+
+    --gradient-red:    linear-gradient(to bottom, #900c0c, #ff0000) !important;
+    --gradient-blue:   linear-gradient(to bottom, #0c3a90, #0080ff) !important;
+    --gradient-cyan:   linear-gradient(to bottom, #0c9083, #00fff7) !important;
+    --gradient-green:  linear-gradient(to bottom, #19900c, #48ff00) !important;
+    --gradient-black:  linear-gradient(to bottom, #000000, #292929) !important;
+    --gradient-orange: linear-gradient(to bottom, #90410c, #ff7700) !important;
+    --gradient-yellow: linear-gradient(to bottom, #908c0c, #fff700) !important;
+    --gradient-purple: linear-gradient(to bottom, #890c90, #ff00fb) !important;
+    /**** endof custom colors ****/
+}
+
+/**** begin custom background colors ****/
+.bg-color-1 { background-color: var(--color-1) !important; }
+.bg-color-2 { background-color: var(--color-2) !important; }
+.bg-color-3 { background-color: var(--color-3) !important; }
+.bg-color-4 { background-color: var(--color-4) !important; }
+.bg-color-5 { background-color: var(--color-5) !important; }
+.bg-color-6 { background-color: var(--color-6) !important; }
+.bg-color-7 { background-color: var(--color-7) !important; }
+.bg-color-8 { background-color: var(--color-8) !important; }
+.bg-color-9 { background-color: var(--color-9) !important; }
+
+.bg-gradient-1 { background-image: var(--gradient-1) !important; }
+.bg-gradient-2 { background-image: var(--gradient-2) !important; }
+.bg-gradient-3 { background-image: var(--gradient-3) !important; }
+.bg-gradient-4 { background-image: var(--gradient-4) !important; }
+
+.text-black { color: var(--color-1) !important; }
+.text-danger { color: var(--color-7) !important; }
+/**** endof custom background colors ****/
+
+/**** begin countdown colors ****/
+.flip-clock-wrapper ul,
+.flip-clock-wrapper ul li a div div.inn,
+.flip-clock-divider .flip-clock-dot {
+	background-color: var(--flipclock-bg-color);
+}
+.flip-clock-wrapper ul li a div div.inn {
+	color: var(--flipclock-color);
+}
+/**** endof countdown colors ****/

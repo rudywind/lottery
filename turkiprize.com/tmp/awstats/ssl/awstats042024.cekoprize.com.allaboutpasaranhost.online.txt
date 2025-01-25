@@ -1,0 +1,950 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202404 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.cekoprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2041                
+POS_TIME 2720                
+POS_VISITOR 23777               
+POS_DAY 32806               
+POS_DOMAIN 3511                
+POS_LOGIN 4066                
+POS_ROBOT 4221                
+POS_WORMS 4974                
+POS_EMAILSENDER 5105                
+POS_EMAILRECEIVER 5248                
+POS_SESSION 33572               
+POS_SIDER 33761               
+POS_FILETYPES 5383                
+POS_DOWNLOADS 5468                
+POS_OS 5516                
+POS_BROWSER 5891                
+POS_SCREENSIZE 7574                
+POS_UNKNOWNREFERER 7648                
+POS_UNKNOWNREFERERBROWSER 8573                
+POS_ORIGIN 9042                
+POS_SEREFERRALS 9184                
+POS_PAGEREFS 9368                
+POS_SEARCHWORDS 9635                
+POS_KEYWORDS 9787                
+POS_MISC 2384                
+POS_ERRORS 9846                
+POS_CLUSTER 3922                
+POS_SIDER_404 9950                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240501001126 50 10863 11057473512405
+FirstTime 20240401021647
+LastTime 20240430232815
+LastUpdate 20240501081720 50 0 49 0 0
+TotalVisits 280                 
+TotalUnique 233                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 233                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 12 228321 13 24 107791
+1 15 15 345271 47 56 136167
+2 10 10 120522 22 29 124612
+3 15 15 126858 24 28 78330
+4 10 10 150391 8 15 57697
+5 8 8 72487 15 25 110290
+6 16 16 204815 31 34 137314
+7 10 10 150399 100 105 248567
+8 15 15 345276 35 39 98659
+9 19 19 202020 32 35 57677
+10 15 15 405299 15 28 200642
+11 9 9 141333 20 30 112966
+12 15 15 126826 29 39 104572
+13 85 85 313602 9 12 27190
+14 29 29 252502 32 34 48614
+15 12 12 166167 24 35 97131
+16 31 31 259701 40 50 202960
+17 21 21 190273 21 28 116518
+18 17 17 324392 24 30 112042
+19 17 17 363337 50 56 176626
+20 16 16 165768 8 26 51243
+21 9 9 171263 15 24 45281
+22 9 9 79848 7 18 22518
+23 27 27 277595 34 44 167490
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 24
+us 143 143 2335895
+cn 61 61 521518
+ca 38 38 678029
+au 37 37 47455
+id 32 32 94352
+jp 23 23 208374
+in 18 18 178216
+ru 15 15 283748
+de 15 15 135914
+nl 14 14 117176
+fr 10 10 90544
+se 8 8 72509
+gb 6 6 45240
+kh 4 4 32783
+sa 3 3 27179
+be 3 3 27177
+bg 3 3 116905
+ro 2 2 48027
+hu 2 2 18118
+dz 1 1 9054
+hk 1 1 38969
+no 1 1 9057
+pl 1 1 9058
+br 1 1 38969
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 17
+AhrefsBot/ 32 229635 20240429075741 0
+no_user_agent 17 662487 20240430124824 0
+Googlebot/ 10 73347 20240426202744 0
+DotBot/ 8 319433 20240420034813 0
+bot[\s_+:,\.\;\/\\-] 6 54352 20240415013548 0
+nbot 6 52448 20240402062614 0
+nutch 5 35145 20240408215913 0
+(firefox/)([0-9]\.|[0-1][0]\.) 5 45289 20240430165645 0
+bingbot/ 5 36195 20240421190411 0
+crawl 4 35622 20240424155649 0
+YandexBot/ 3 27160 20240412195005 0
+SemrushBot/ 3 26561 20240415152442 0
+survey 2 77938 20240403170504 0
+Go\-http\-client/ 2 18126 20240425045619 0
+MJ12bot/ 1 7333 20240430000859 0
+CCBot/ 1 7339 20240421014221 0
+curl 1 38969 20240415080410 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 442 5184266 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 22
+win2000 1 1
+win7 17 17
+win10 111 111
+androidmarshmallow 2 2
+android10 87 87
+androidnougat 9 9
+winlong 4 4
+Unknown 47 47
+macosx14 3 3
+ios_iphone 49 49
+macosx9 1 1
+macosx15 47 47
+winnt 5 5
+android 8 8
+win8 1 1
+androidlollipop 1 1
+win8.1 1 1
+linuxubuntu 4 4
+winvista 1 1
+androidkitkat 6 6
+linux 32 32
+macosx 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 81
+chrome45.0.2454.84 1 1
+chrome92.0.4515.131 1 1
+chrome105.0.0.0 6 6
+chrome60.0.3112.107 9 9
+chrome115.0.0.0 2 2
+chrome101.0.947 1 1
+firefox123 1 1
+chrome19.0.1084.9 1 1
+firefox99.0 4 4
+firefox118.0 6 6
+Unknown 15 15
+mozilla 29 29
+firefox40.0 1 1
+safari16.2 1 1
+chrome103.0.5060.53 1 1
+opera102.0.0.0 1 1
+safari16.6 4 4
+chrome80.0.3987.162 1 1
+android 6 6
+chrome100.0.4896.58 1 1
+chrome103.0.5060.66 1 1
+chrome57.0.2427 1 1
+chrome60.0.3112.90 1 1
+chrome81.0.4044.138 3 3
+firefox108.0 3 3
+chrome79.0.3945.130 3 3
+chrome116.0.0.0 11 11
+chrome106.0.0.0 5 5
+chrome51.0.2704.103 3 3
+chrome78.0.3904.108 7 7
+firefox75.0 1 1
+safari5.1 1 1
+firefox117.0 12 12
+chrome104.0.5112.79 1 1
+chrome118.0.0.0 1 1
+chrome117.0.5938.132 1 1
+chrome100.0.4896.127 4 4
+chrome79.0.3945.88 3 3
+chrome111.0.0.0 1 1
+chrome63.0.3239.132 1 1
+chrome34.0.1847.116 3 3
+chrome83.0.4103.97 9 9
+chrome32.0.1667.0 1 1
+chrome97.0.4280.67 2 2
+chrome103.0.0.0 1 1
+chrome113.0.0.0 1 1
+opera79.2.4195.76518 1 1
+msie9.0 1 1
+chrome87.0.4280.88 3 3
+chrome78.0.3767.88 1 1
+chrome121.0.0.0 22 22
+safari13.0.1 1 1
+chrome122.0.0.0 5 5
+edge18 1 1
+chrome109.0.0.0 6 6
+chrome119.0.0.0 1 1
+chrome91.0.4472.114 3 3
+safari9.1.3 1 1
+chrome123.0.0.0 69 69
+msie5.5 1 1
+safari17.3.1 2 2
+chrome81.0.4044.92 1 1
+chrome114.0.0.0 11 11
+msie11.0 2 2
+msie7.0 1 1
+chrome41.0.2227.0 1 1
+chrome120.0.0.0 4 4
+chrome74.0.3729.169 7 7
+safari13.0.3 46 46
+chrome91.0.4472.101 1 1
+chrome120.0.6099.71 1 1
+netscape5.0 4 4
+chrome124.0.0.0 17 17
+chrome117.0.0.0 17 17
+firefox66.0 1 1
+chrome100.0.4896.60 23 23
+safari17.0 1 1
+chrome110.0.0.0 6 6
+chrome77.0.1375.88 1 1
+chrome96.0.4664.110 5 5
+chrome66.0.131 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240429203339
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240430232815
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240425102349
+undici 20240407163149
+Mozilla/5.0_(compatible;_Domains_Project/1.3.7;__https://domainsproject.org) 20240413231930
+Embarcadero_URI_Client/1.0 20240405014619
+python-requests/2.31.0 20240423215903
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240424005038
+Mozilla/5.0_(compatible;_ips-agent) 20240414225820
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240424123623
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+Embarcadero_URI_Client/1.0 20240405014619
+python-requests/2.31.0 20240423215903
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240430232815
+undici 20240407163149
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 314 314
+From1 11 11
+From2 4 4
+From3 11 11
+From4 102 102
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_co_id 1 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://onic4dpasaran.site 5 5
+https://cometojp.site 4 4
+https://secure.livechatinc.com 1 1
+https://itilajaib.site 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 22 27324
+404 695 868194
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 294
+/security.txt 1 http://www.cekoprize.com/security.txt
+/wp-content/plugins/genesis-simple-share/includes/class-genesis-simple-share-view.php 1 cekoprize.com
+/wp-includes/assets/plugins.php 1 cekoprize.com
+/repeater.php 2 http://cekoprize.com/repeater.php
+/wp-checkbex.php 2 -
+/ws.php 1 -
+/freichat/client/plugins/upload/upload.php 3 -
+/ftp-sync.json 2 -
+/contact 1 -
+/defaults.php 1 -
+/elrte/src/elrte.src.html 1 -
+/author/w-padmine/ 2 -
+/wp-includes/customize/amaxx.php 1 http://cekoprize.com/wp-includes/customize/amaxx.php
+/administrator/components/com_maian15/charts/php-ofc-library/ofc_upload_image.php 1 -
+/humans.txt 3 http://cekoprize.com/humans.txt
+/wp-includes/sitemaps/plugins.php 1 cekoprize.com
+/cjfuns%20.php 1 http://cekoprize.com/cjfuns%20.php
+/wp-content/index.php 1 cekoprize.com
+/wp-admin/css/plugins.php 1 cekoprize.com
+/wp-content/plugins.php 1 cekoprize.com
+/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 1 http://cekoprize.com/_wel-known/pki-validation/883d551d-7523-4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+/wp-includes/inputs.php 3 www.google.com
+/administrator/components/com_jnewsletter/includes/openflashchart/php-ofc-library/ofc_upload_image.php 1 -
+/author/superadmin/ 2 -
+/wp-woulds.php 1 cekoprize.com
+/checkbex.php 1 cekoprize.com
+/chosen.php 12 -
+/admin/index.php 3 -
+/author/crander/ 2 -
+/wp-admin/a2.php 1 cekoprize.com
+/fm1.php 3 -
+/wp-admin/js/plugins.php 1 cekoprize.com
+/shell20211028.php 1 http://cekoprize.com/shell20211028.php
+/music/bak_config.php 1 cekoprize.com
+/wp-info.php 1 http://cekoprize.com/wp-info.php
+/wp-content/themes/seotheme/db.php 6 www.google.com
+/sitemap.txt 3 -
+/wp-content/plugins/core/include.php 2 http://cekoprize.com/wp-content/plugins/core/include.php
+/wp-admin/css/colors/blue/index.php 1 cekoprize.com
+/wp-includes/block-supports/plugins.php 1 cekoprize.com
+/vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-json/wp/v2/users/1 2 https://cekoprize.com/
+/wp-admin/about.php 1 -
+/wp-admin/user/upfile.php 1 cekoprize.com
+/wp-content/upgrade/edit.php 1 http://cekoprize.com/wp-content/upgrade/edit.php
+/sitemap.php 1 -
+/text.php 1 http://cekoprize.com/text.php
+/wordpress 2 -
+/wp-content/plugins/fix/up.php 2 www.google.com
+/author/stender/ 2 -
+/xmlrpc.php 1 -
+/wp-admin/index.php 2 cekoprize.com
+/wp-content/themes/twentytwentytwo/inputs.php 1 cekoprize.com
+/wp-includes/images/plugins.php 1 cekoprize.com
+/wp-includes/block-patterns/plugins.php 1 cekoprize.com
+/plugins/content/apismtp/apismtp.php 3 -
+/index.php 9 -
+/wp-content/themes/about.php 3 -
+/wp-admin/css/colors/light/index.php 1 cekoprize.com
+/class.api.php 4 -
+/sftp-config.json 2 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 2 -
+/wp-admin/privacy-guides.php 1 cekoprize.com
+/wp-includes/css/plugins.php 1 cekoprize.com
+/wp-login.php 1 -
+/radio.txt 1 cekoprize.com
+/.vscode/.sftp.json 1 -
+/.sftp-config.json 2 -
+/.well-known/pki-validation/about.php 2 http://cekoprize.com/.well-known/pki-validation/about.php
+/sitemap.xml.gz 3 -
+/sitemap-index.xml 1 -
+/wp-content/uploads/plugins.php 1 cekoprize.com
+/images/toggige-arrow.jpg 1 cekoprize.com
+/author/wpservices/ 2 -
+/ioxi01.php 1 -
+/ads.txt 3 http://cekoprize.com/ads.txt
+//kubalotto.com/wp-content/themes/pools-kuba/assets/js/custom.js 2 -
+/wp-content/plugins/Cache/Cache.php 1 http://cekoprize.com/wp-content/plugins/Cache/Cache.php
+/sitemapindex.xml 1 -
+/install.php 1 http://cekoprize.com/install.php
+/wp-plain.php 3 www.google.com
+/fksogjdn.php 1 www.google.com
+/wp-roto/wp-admin/css/index.php 1 cekoprize.com
+/.vscode/sftp.json 2 -
+/wp-content/themes/bute/lang.php 1 www.google.com
+/sites/all/modules/contrib/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php 1 -
+/alfacgiapi/perl.alfa 3 www.google.com
+/wp-admin/network/amaxx.php 1 http://cekoprize.com/wp-admin/network/amaxx.php
+/about.php 5 -
+/media/system/js/core.js 1 http://cekoprize.com/media/system/js/core.js
+/wp-includes/widgets/plugins.php 1 cekoprize.com
+/dropdown.php 2 http://cekoprize.com/dropdown.php
+/wp-content/plugins/apikey/apikey.php 3 -
+/images/about.php 1 -
+/wp-admin/maint/upfile.php 1 cekoprize.com
+/.ftp-sync.json 3 -
+/top.php 1 -
+/admin 2 -
+/ALFA_DATA/alfacgiapi/perl.alfa 3 www.google.com
+/wp-content/themes/torofilm/changelog.txt 2 -
+/phpmyadmin/index.php 3 -
+/alfanew.php7 2 http://cekoprize.com/alfanew.php7
+/wp-content/themes/qoe/vendor/ernilambar/wp-admin-notice/src/Start-home.php 1 cekoprize.com
+/wp-content/themes/soledad/style.css 2 -
+/atomlib.php 1 cekoprize.com
+/cjfuns.php 1 http://cekoprize.com/cjfuns.php
+/.well-known/acme-challenge/about.php 1 -
+/wp-includes/sodium_compat/plugins.php 1 cekoprize.com
+/cgi-bin/xmrlpc.php 1 -
+//xmlrpc.php 4 -
+/.vscode/ftp-sync.json 2 -
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php 1 http://cekoprize.com/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZValfadheat.php
+/wp-content/plugins/backup-backup/modules/gdrivebanner/assets/css/styles.css 2 -
+/wp-includes/IXR/themes.php 2 http://cekoprize.com/wp-includes/IXR/themes.php
+/author/greeceman/ 2 -
+/wp-content/themes/finley/min.php 2 http://cekoprize.com/wp-content/themes/finley/min.php
+/old 1 -
+/PHPMailer/web_config.php 1 cekoprize.com
+/backup_1/cleaner.php 1 cekoprize.com
+/wp-content/plugins/wp-ver.php 1 cekoprize.com
+/index_sso.php 3 -
+//wp-json/wp/v2/users/ 2 -
+/wp-cron.php 1 cekoprize.com
+/menu.php 1 http://cekoprize.com/menu.php
+/wp-content/plugins/backup-backup/includes/S 1 -
+/wp-admin/includes/users.php 1 cekoprize.com
+//kubalotto.com/wp-content/themes/pools-kuba/assets/js/flipclock.js 2 -
+/wp-apxupx.php 1 www.google.com
+/sitemap_index.xml 3 -
+/.well-known/acme-challenge/upfile.php 1 cekoprize.com
+/wp-admin/admin-ajax.php 16 -
+/wzy.php 1 -
+/wp-content/plugins/press/wp-class.php 2 http://cekoprize.com/wp-content/plugins/press/wp-class.php
+/wp-includes/random_compat/about.php 1 http://cekoprize.com//wp-includes/random_compat/about.php
+/.well-known/fierzashell.php 1 -
+/worm0.PhP7 1 -
+/wp-content/plugins/ern/bypmini.php 1 -
+/wp-content/plugins/alfa-rex.php 2 http://cekoprize.com/wp-content/plugins/alfa-rex.php
+/cgi-bin/upfile_(2).php 1 cekoprize.com
+/wp-content/plugins/core-plugin/.nxd.php 1 http://cekoprize.com/wp-content/plugins/core-plugin/.nxd.php
+/c.php 1 http://cekoprize.com/c.php
+//wp-json/oembed/1.0/embed 2 -
+/wp-includes/Requests/Text/index.php 1 cekoprize.com
+/wp-includes/js/wp-emoji-release.min.js 3 www.google.com
+/wp-content/plugins/backup-backup/includes/r 1 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 3 -
+/wp-content/plugins/about.php 3 -
+/wp-includes/theme-compat/wp-conflg.php 1 http://cekoprize.com/wp-includes/theme-compat/wp-conflg.php
+/nccglzqa.php 1 www.google.com
+/M1.php 2 http://cekoprize.com/M1.php
+/wp-content/plugins/seo-spy-google-wordpress-plugin/ofc/php-ofc-library/ofc_upload_image.php 1 -
+/administrator/index.php 3 -
+/wp-content/plugins/wp-statistics/readme.txt 2 -
+/wp-content/plugins/LayerSlider/static/js/builder.js 1 cekoprize.com
+/wp-admin/user/about.php 1 http://cekoprize.com/wp-admin/user/about.php
+/wp-content/plugins/backup-backup/includes/ 1 http://cekoprize.com/wp-content/plugins/backup-backup/includes/
+/.well-known/pki-validation/upfile.php 1 cekoprize.com
+/.well-known/wso112233.php 2 http://cekoprize.com/.well-known/wso112233.php
+/wp-includes/style-engine/plugins.php 1 cekoprize.com
+/a2.php 1 cekoprize.com
+/plugins/content/apismtp/apismtp.php.suspected 3 -
+/wp-admin/edit-forms.php 1 cekoprize.com
+/wp-admin/link-forms.php 1 cekoprize.com
+/wp-content/uploads/about.php 1 -
+/wp-emoji-release.min.js 2 -
+/wp-admin/images/upfile.php 2 cekoprize.com
+/wp-includes/ID3/about.php 2 http://cekoprize.com/wp-includes/ID3/about.php
+/dede/ 2 -
+/admin.php 4 -
+/wp-admin/inputs.php 6 www.google.com
+/wp-aa.php 3 www.google.com
+/wp-includes/html-api/plugins.php 1 cekoprize.com
+/wp-admin/css/colors/index.php 2 cekoprize.com
+/wp-2019.php 1 http://cekoprize.com/wp-2019.php
+/shop 1 -
+/wp-includes/PHPMailer/plugins.php 1 cekoprize.com
+//s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js 2 -
+/wp-content/plugins/wp-automatic/inc/csv.php 2 -
+/wp-includes/customize/plugins.php 1 cekoprize.com
+/wp-admin/install.php 1 -
+/wp-content/upgrade/plugins.php 1 cekoprize.com
+/wp-includes/SimplePie/plugins.php 3 http://cekoprize.com/wp-includes/SimplePie/plugins.php
+/wp-admin/setup-config.php 1 -
+/sites/all/libraries/plupload/examples/upload.php 1 -
+/hnfogrub.php 1 www.google.com
+/wp-header.php 2 http://cekoprize.com/wp-header.php
+/simple.php 12 www.google.com
+/wp-admin/images/plugins.php 1 cekoprize.com
+/.well-known/security.txt 3 -
+/wp-admin/user/plugins.php 1 cekoprize.com
+/wp-json/wp/v2/users/5 1 https://cekoprize.com/
+/wp-admin/images/admin.php 1 http://cekoprize.com/wp-admin/images/admin.php
+/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV 1 http://cekoprize.com/4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbRyFTLRNyDmT1a1boZV
+/wp-content/plugins/pwnd/pwnd.php 1 www.google.com
+/sites/all/modules/plupload/plupload/examples/upload.php 1 -
+/wp-head.php 4 -
+/sitemap/sitemap.xml 1 -
+/_well-known/amaxx.php 1 http://cekoprize.com/_well-known/amaxx.php
+/cgi-bin/plugins.php 1 cekoprize.com
+/author/wpsecuritypatch/ 2 -
+/wp-content/languages/plugins.php 1 cekoprize.com
+/wp-content/themes/themes.php 1 cekoprize.com
+/wp-content/plugins/master/mode/table.php 1 cekoprize.com
+/test 1 -
+/wp-content/plugins/work-list/lang.php 1 www.google.com
+/wp-includes/js/plugins.php 1 http://cekoprize.com/wp-includes/js/plugins.php
+/robots.txt 96 -
+/author/wpadminne/ 2 -
+/new 1 -
+/wp-content/plugins/wp-automatic/inputs.php 1 cekoprize.com
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 3 www.google.com
+/gawean.PhP7 1 -
+/users.php 1 -
+/wp-json/wp/v2/users/4 1 https://cekoprize.com/
+/wp-includes/js/jquery/jquery.min.js 4 www.google.com
+/wp-content/plugins/forminator/readme.txt 2 -
+/sitemap1.xml 1 -
+//kubalotto.com/wp-content/themes/pools-kuba/assets/js/jquery.min.js 8 www.google.com
+/wp-privacys.php 1 cekoprize.com
+/ioxi02.php 2 -
+/wp-content/plugins/apikey/apikey.php.suspected 3 -
+/blog 1 -
+/wp-includes/certificates/plugins.php 1 cekoprize.com
+/wp-includes/blocks/plugins.php 1 cekoprize.com
+/wp-includes/js/jquery/jquery.js 11 www.google.com
+/wp-content/about.php 1 -
+/sitemap.xml 13 -
+/wp-admin/js/widgets/upfile.php 1 cekoprize.com
+/autoload_classmap.php 1 http://cekoprize.com/autoload_classmap.php
+/wp 2 -
+/classwithtostring.php 1 -
+/radio.php 1 cekoprize.com
+/sitemap 1 -
+//kubalotto.com/wp-content/themes/pools-kuba/assets/js/bootstrap.min.js 2 -
+/wp-admin/network/licenses.php 1 cekoprize.com
+/wp-content/pm.php 2 -
+//wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/moveto/assets/lib/loader_ajax.php 2 https://cekoprize.com
+/wp-content/plugins/wp-meta-seo/readme.txt 2 -
+/wp-content/themes/theme_log.php 1 cekoprize.com
+/wp-admin/dropdown.php 1 http://cekoprize.com/wp-admin/dropdown.php
+/cgi-bin/upfile.php 2 cekoprize.com
+/wp-includes/css/buttons.css 1 http://cekoprize.com/wp-includes/css/buttons.css
+/wp-boards.php 1 cekoprize.com
+/wp-includes/php-compat/plugins.php 1 cekoprize.com
+/wso112233.php 1 http://cekoprize.com/wso112233.php
+/alfanew.PHP7 1 -
+/wp-admin/widgets-blocks.php 1 cekoprize.com
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 6 -
+/wp-json/litespeed/v1/cdn_status 23 -
+/wp-includes/ID3/wp-login.php 2 http://cekoprize.com/wp-includes/ID3/wp-login.php
+/wp-content/style-css.php 1 cekoprize.com
+/.env 14 -
+/wp-content/plugins/blogroll-to-page/blogroll-to-page.php 1 -
+/.quarantine/upfile.php 1 cekoprize.com
+/wp-includes/ 1 -
+/wp-json/wp/v2/users/3 1 https://cekoprize.com/
+/archivarix.cms.php 1 -
+/wp-content/shell20211028.php 1 http://cekoprize.com/wp-content/shell20211028.php
+/upfile.php 1 cekoprize.com
+/style.php 6 www.google.com
+/wp-includes/fonts/plugins.php 1 cekoprize.com
+/wp-json 18 -
+/wp-admin/css/index.php 1 cekoprize.com
+/contact-us 1 -
+/wp-content/ 3 -
+/cgi-bin/about.php 1 -
+/wp-json/wp/v2/users/2 1 https://cekoprize.com/
+/author/admim/ 2 -
+/wp-atom.php 1 cekoprize.com
+/Wp-includes/amaxx.php 1 http://cekoprize.com/Wp-includes/amaxx.php
+/wp-admin/network/upfile.php 1 cekoprize.com
+/wp-admin/includes/upfile.php 1 cekoprize.com
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/wp-editor.php 1 cekoprize.com
+/.DS_Store 4 -
+/wp-includes/widgets/index.php 1 cekoprize.com
+/inputs.php 13 www.google.com
+/wp-blog.php 1 cekoprize.com
+/wp-admin/js/index.php 1 cekoprize.com
+/wp-content/inputs.php 4 www.google.com
+/wp-content/plugins/ai-engine/readme.txt 2 -
+/php/thinkphp/aaaffff123.php 3 -
+/wp-content/themes/wp-admin/css/index.php 1 cekoprize.com
+/sitemap/index.xml 1 -
+/wp-json/instawp-connect/v1/config 2 https://cekoprize.com
+/wp-content/plugins/ern/randkeyword.php 1 -
+/wp-content/plugins/core-plugin/nxd.php 1 http://cekoprize.com/wp-content/plugins/core-plugin/nxd.php
+/wp-ver.php 1 cekoprize.com
+/administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 1 -
+/wp-content/plugins/backup-backup/includes/backup-heart.php 4 http://cekoprize.com/wp-content/plugins/backup-backup/includes/backup-heart.php
+/licenses.php 1 cekoprize.com
+/alfanew.php 2 http://cekoprize.com/alfanew.php
+/wp-includes/about.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 233
+114.142.172.56 20 20 14663 20240402142019
+35.171.144.152 18 18 701442 20240425191611
+67.205.58.81 14 14 118244 20240427162401
+114.122.4.228 13 13 21500 20240429135051
+114.142.173.6 10 10 7337 20240426142158
+142.198.109.116 9 9 26562 20240413231930
+46.255.166.204 9 9 81486 20240411092132
+116.203.76.17 9 9 81558 20240408172821
+192.95.31.35 7 7 63357 20240401165236
+116.206.15.26 7 7 7336 20240406140406
+192.95.30.227 7 7 63385 20240403195237
+213.202.233.34 7 7 63430 20240425184047
+36.74.40.178 6 6 14668 20240424134859
+149.56.150.21 6 6 236384 20240425102324
+42.83.147.34 5 5 45318 20240430120545
+146.70.212.85 5 5 36178 20240428201107
+114.142.173.9 5 5 7332 20240401134852
+122.180.176.124 5 5 36186 20240424180331
+54.88.179.33 5 5 194845 20240424181040
+44.234.71.7 5 5 36670 20240408135748
+45.86.202.204 4 4 155876 20240410140140
+180.253.166.153 4 4 7341 20240415135046
+116.206.15.61 4 4 7331 20240407134807
+137.226.113.44 4 4 36222 20240424123623
+212.162.149.43 3 3 27179 20240418030125
+107.178.105.167 2 2 18122 20240412144033
+154.28.229.185 1 1 7329 20240402140618
+104.161.20.238 1 1 9060 20240411150323
+154.28.229.148 1 1 7329 20240402140617
+36.74.42.197 1 1 7337 20240425135509
+138.197.114.41 1 1 9051 20240402041614
+43.135.166.178 2 2 18123 20240429124710
+91.92.242.55 2 2 77938 20240426083635
+64.23.171.213 1 1 9054 20240413035830
+36.99.136.137 2 2 9066 20240414160256
+36.134.147.75 1 1 9062 20240409171652
+35.88.59.157 1 1 9062 20240410064237
+199.45.155.34 1 1 9066 20240413202808
+5.35.32.125 1 1 38971 20240429210942
+185.220.100.246 1 1 9058 20240423233530
+198.235.24.14 1 1 38971 20240401201430
+43.163.8.148 1 1 9068 20240401075252
+124.156.193.7 1 1 9053 20240407070207
+159.203.129.37 1 1 9062 20240421022555
+49.51.179.103 1 1 9064 20240429015606
+80.248.227.19 1 1 9062 20240408223230
+124.248.183.41 2 2 14669 20240403134440
+170.106.101.31 1 1 9062 20240410131024
+111.90.185.121 1 1 9060 20240412071801
+54.201.5.226 1 1 9051 20240402071040
+135.148.195.9 1 1 9071 20240423042212
+43.163.6.124 2 2 18113 20240417070103
+54.176.91.0 1 1 9059 20240405204839
+93.174.93.215 1 1 9054 20240410155415
+168.119.64.222 2 2 18142 20240422180804
+167.71.48.121 1 1 9069 20240419044625
+42.83.147.53 2 2 18116 20240416092111
+27.115.124.97 1 1 9058 20240405110303
+159.203.184.57 1 1 9064 20240429024128
+1.192.195.8 1 1 38969 20240405115722
+185.220.101.61 1 1 9057 20240419231954
+43.159.141.180 1 1 9066 20240426053221
+182.42.104.32 2 2 18107 20240416202505
+209.182.219.227 1 1 38971 20240416102604
+87.236.176.176 1 1 9059 20240406000859
+123.60.68.42 2 2 18114 20240418130844
+167.94.145.96 1 1 9058 20240423235956
+188.19.152.206 1 1 38969 20240411003652
+199.45.154.63 1 1 9058 20240424005038
+182.2.38.0 1 1 7332 20240410140027
+43.155.169.133 1 1 9055 20240425060923
+43.163.6.35 1 1 9060 20240412050725
+3.235.146.4 1 1 9064 20240429052730
+38.150.5.90 1 1 9054 20240430003953
+38.45.127.226 1 1 9050 20240430225233
+192.42.116.191 1 1 9057 20240419231940
+65.154.226.168 1 1 9057 20240419152505
+142.93.137.109 1 1 9066 20240415033907
+144.172.73.6 1 1 9058 20240423233513
+146.190.171.154 1 1 9048 20240403043442
+182.42.110.255 2 2 18115 20240428141656
+187.79.81.149 1 1 38969 20240405014619
+54.188.50.22 1 1 38969 20240410213025
+43.159.128.172 1 1 9051 20240402122515
+87.236.176.181 1 1 9064 20240429014855
+203.78.124.155 2 2 7336 20240406135450
+185.34.33.2 1 1 9058 20240423233515
+89.248.174.9 1 1 9062 20240408224928
+78.46.142.160 1 1 9066 20240426023138
+159.203.42.219 1 1 9058 20240405035005
+45.77.234.190 1 1 9061 20240427163838
+104.238.189.239 1 1 9061 20240428132901
+111.7.96.153 1 1 9060 20240411153621
+143.198.9.63 1 1 9054 20240430042213
+154.39.66.38 1 1 9066 20240414084027
+41.111.156.85 1 1 9054 20240411082921
+65.154.226.170 1 1 7331 20240423223209
+150.109.13.194 1 1 9062 20240420165412
+89.149.37.165 1 1 38969 20240429004312
+135.148.195.3 1 1 9065 20240415173458
+62.141.44.236 1 1 9071 20240423080729
+185.190.42.200 2 2 77938 20240420013528
+178.254.24.91 1 1 9059 20240406064541
+101.199.254.234 1 1 38969 20240405101555
+167.94.138.36 1 1 9066 20240413215847
+43.135.181.13 1 1 9071 20240422200148
+152.42.133.5 1 1 9071 20240423030655
+139.59.20.66 1 1 9055 20240425044929
+101.199.254.200 1 1 9058 20240405101758
+103.20.82.155 1 1 9054 20240411084139
+93.159.230.89 1 1 9064 20240429133123
+43.159.128.149 1 1 9054 20240413004820
+69.10.48.138 1 1 38969 20240420021034
+43.159.129.209 1 1 9057 20240420065016
+198.235.24.255 1 1 38961 20240430232815
+91.244.198.101 1 1 9068 20240421141312
+185.196.0.24 1 1 9065 20240416063457
+46.101.9.216 3 3 26561 20240416101201
+129.226.158.26 2 2 18153 20240425173943
+93.158.91.19 1 1 9057 20240419214111
+87.236.176.247 1 1 9054 20240429203339
+180.97.221.86 2 2 18108 20240430110713
+54.189.138.155 1 1 9058 20240424060813
+27.115.124.41 1 1 38969 20240405110047
+198.235.24.79 1 1 38969 20240406131947
+23.108.254.60 2 2 9066 20240415124931
+52.81.77.13 1 1 9057 20240419155828
+165.22.235.120 1 1 9060 20240418095146
+199.45.154.70 1 1 9057 20240419145703
+54.254.162.138 1 1 7334 20240407163149
+83.26.9.159 1 1 9058 20240423233520
+89.248.172.115 3 3 27219 20240414061249
+130.255.166.69 1 1 9054 20240430113834
+169.150.198.86 1 1 9068 20240422050350
+68.183.205.40 1 1 9062 20240409032510
+50.18.14.244 1 1 9050 20240426195558
+182.40.104.255 1 1 9054 20240411085233
+198.235.24.6 1 1 38969 20240413101653
+46.101.3.216 1 1 9050 20240427033338
+150.109.16.20 1 1 9050 20240426165721
+13.57.34.108 1 1 9060 20240412130019
+36.99.136.128 1 1 9066 20240414160251
+199.244.88.218 1 1 9054 20240417092836
+68.183.31.13 1 1 9053 20240407023523
+107.178.207.3 1 1 9066 20240426061612
+116.206.15.39 1 1 7335 20240412134528
+154.28.229.54 1 1 7334 20240402165123
+199.45.154.55 1 1 9066 20240414010022
+93.159.230.90 2 2 18124 20240419071123
+198.235.24.185 1 1 38969 20240425232705
+43.134.190.89 1 1 9051 20240402031241
+117.33.163.216 1 1 9062 20240410034618
+15.204.194.30 2 2 18116 20240430021838
+192.42.116.214 1 1 9054 20240416204936
+114.80.36.40 2 2 18108 20240427043830
+51.15.17.105 1 1 9062 20240410092822
+128.90.141.40 2 2 18122 20240429082049
+34.217.46.199 1 1 9061 20240428061551
+38.122.112.147 1 1 9054 20240413011732
+198.235.24.236 1 1 38971 20240416062135
+140.213.44.232 2 2 14157 20240410132844
+43.130.47.136 1 1 9055 20240403170111
+69.160.160.56 3 3 24833 20240424155713
+117.62.235.53 1 1 9058 20240404223744
+128.90.170.38 1 1 9054 20240413110631
+93.159.230.87 1 1 9068 20240401132325
+5.133.192.131 1 1 9066 20240414021040
+199.45.155.19 1 1 9066 20240413212835
+167.99.178.159 1 1 9055 20240404042834
+116.206.15.40 2 2 7335 20240403140657
+137.184.125.175 1 1 9065 20240416011503
+140.213.173.89 1 1 7345 20240412131908
+45.154.35.141 1 1 38971 20240406155857
+158.69.25.39 1 1 9054 20240429200232
+103.119.141.219 3 3 21501 20240403134003
+150.109.253.34 1 1 9061 20240427161919
+149.56.150.163 1 1 7337 20240425102349
+43.131.248.209 1 1 9061 20240428031953
+58.49.233.126 1 1 9066 20240415025550
+178.254.29.124 1 1 9066 20240414083624
+204.8.96.87 1 1 9057 20240419231957
+45.61.184.47 1 1 9058 20240423233523
+5.133.192.160 1 1 9051 20240402110650
+1.192.192.8 1 1 9058 20240405115946
+5.133.192.108 1 1 9087 20240408064539
+116.206.14.15 3 3 14674 20240427135037
+222.79.104.23 1 1 9062 20240408222426
+72.13.62.27 3 3 27223 20240414225820
+5.133.192.140 1 1 9066 20240425171457
+139.59.46.218 1 1 9068 20240401021647
+54.176.25.117 1 1 9057 20240419190711
+93.158.90.42 1 1 9066 20240414115532
+81.200.156.80 1 1 7331 20240423234354
+62.212.69.138 1 1 0 20240415030256
+40.119.193.220 1 1 9050 20240426155802
+205.210.31.10 1 1 38971 20240420150026
+34.215.18.144 1 1 9054 20240430055948
+43.130.37.62 2 2 18123 20240424065926
+223.15.245.170 1 1 9055 20240404124336
+77.74.177.119 1 1 9066 20240415132257
+111.7.96.159 2 2 18100 20240430170142
+49.51.206.130 1 1 9069 20240419092619
+35.87.107.75 1 1 9058 20240424060815
+43.163.8.36 1 1 9055 20240424183422
+45.61.55.132 1 1 38969 20240401042522
+52.81.236.145 1 1 9068 20240422035221
+43.163.3.58 3 3 27185 20240415232414
+104.234.53.248 3 3 116913 20240428084144
+168.235.206.82 1 1 9050 20240427101924
+135.148.195.12 1 1 9051 20240401170932
+134.209.120.129 1 1 9054 20240417022645
+35.92.180.172 1 1 9051 20240402071104
+54.223.89.173 1 1 9062 20240410124349
+54.185.55.191 1 1 9061 20240428061552
+114.96.103.33 1 1 9054 20240412150013
+84.38.188.16 1 1 38969 20240414212207
+192.42.116.179 1 1 9057 20240419231946
+91.92.247.48 1 1 38967 20240403091359
+202.74.40.142 1 1 38969 20240429063247
+205.210.31.212 1 1 38971 20240429191106
+43.163.0.99 1 1 9060 20240411184006
+198.235.24.174 1 1 38971 20240408190805
+146.247.229.2 1 1 9057 20240420012600
+112.215.151.4 2 2 7336 20240405145452
+64.23.218.95 1 1 9054 20240411035013
+65.154.226.167 1 1 9050 20240430232243
+34.221.27.32 1 1 9062 20240410064235
+43.163.1.85 1 1 9066 20240414165432
+89.248.174.182 1 1 9062 20240409125446
+111.7.96.178 2 2 18096 20240403004120
+62.77.154.96 2 2 18118 20240423215903
+109.166.53.124 1 1 9058 20240404232735
+116.206.14.38 1 1 7331 20240430135733
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240401 22 22 221122 12
+20240402 29 29 90961 10
+20240403 20 20 191104 9
+20240404 5 5 45281 5
+20240405 16 16 343527 14
+20240406 17 17 206780 9
+20240407 9 9 50911 6
+20240408 20 20 202559 8
+20240409 6 6 54372 5
+20240410 18 18 306938 14
+20240411 18 18 192905 10
+20240412 9 9 107997 9
+20240413 24 24 341910 14
+20240414 14 14 147786 11
+20240415 13 13 70801 9
+20240416 13 13 176990 11
+20240417 7 7 153123 6
+20240418 7 7 123256 6
+20240419 12 12 108720 12
+20240420 6 6 144085 6
+20240421 2 2 18130 2
+20240422 6 6 54420 5
+20240423 16 16 121670 14
+20240424 22 22 287635 13
+20240425 19 19 530180 11
+20240426 17 17 100654 8
+20240427 22 22 178190 7
+20240428 13 13 198399 7
+20240429 27 27 267990 15
+20240430 13 13 145870 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+30mn-1h 1
+5mn-15mn 3
+0s-30s 268
+2mn-5mn 4
+30s-2mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 409 4800774 279 269
+/live-draw/ 18 126779 1 4
+/history-result/ 11 100833 0 5
+// 4 155880 0 2
+END_SIDER

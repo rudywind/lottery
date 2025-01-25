@@ -1,0 +1,82 @@
+/**** begin card style ****/
+.card,
+.card .card-header,
+.card .card-body {
+    border-radius: 0;
+}
+
+
+
+.card.card-result {
+    position: relative;
+    margin: 0 auto;
+    max-width: 450px;
+}
+.card.card-result .winner-box {
+    position: relative;
+    margin: 0 -10px;
+}
+.card.card-result .winner-box::before {
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    border-top: 10px solid var(--color-6);
+    border-left: 10px solid transparent;
+}
+.card.card-result .winner-box::after {
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    right: 0;
+    border-top: 10px solid var(--color-6);
+    border-right: 10px solid transparent;
+}
+.card.card-result .prize .prize-wrapper .prize-block {
+    position: relative;
+    display: inline-block;
+    margin: 0 2.5px;
+    width: 30px;
+    height: 30px;
+    background-color: var(--color-7);
+    border: 2px solid #071330;
+    border-radius: 50px;
+    padding: 3px;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.65);
+}
+.card.card-result .prize .prize-wrapper .prize-block:after {
+    content: "";
+    position: absolute;
+    top: 0px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 10px;
+    height: 7px;
+    background-color: rgba(225, 225, 225, 0.45);
+    border-radius: 50px;
+}
+.card.card-result .prize .prize-wrapper .prize-block:before {
+    content: "";
+    position: absolute;
+    bottom: -9px;
+    left: 0;
+    right: 0;
+    width: auto;
+    height: 6px;
+    border-radius: 50%;
+    background-color: #07133080;
+    filter: blur(3px);
+}
+.card.card-result .prize .prize-wrapper .prize-block .prize-digit {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    color: var(--color-9);
+    border-radius: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+/**** endof card style ****/

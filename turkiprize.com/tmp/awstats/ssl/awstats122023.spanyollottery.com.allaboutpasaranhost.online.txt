@@ -1,0 +1,1648 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202312 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.spanyollottery.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2046                
+POS_TIME 2723                
+POS_VISITOR 28089               
+POS_DAY 48769               
+POS_DOMAIN 3539                
+POS_LOGIN 4291                
+POS_ROBOT 4446                
+POS_WORMS 5284                
+POS_EMAILSENDER 5415                
+POS_EMAILRECEIVER 5558                
+POS_SESSION 49560               
+POS_SIDER 49768               
+POS_FILETYPES 5693                
+POS_DOWNLOADS 5829                
+POS_OS 5877                
+POS_BROWSER 6400                
+POS_SCREENSIZE 10630               
+POS_UNKNOWNREFERER 10704               
+POS_UNKNOWNREFERERBROWSER 12282               
+POS_ORIGIN 13032               
+POS_SEREFERRALS 13172               
+POS_PAGEREFS 13365               
+POS_SEARCHWORDS 13640               
+POS_KEYWORDS 13792               
+POS_MISC 2387                
+POS_ERRORS 13851               
+POS_CLUSTER 4147                
+POS_SIDER_404 13969               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240101013031 24 4754 8783744928581
+FirstTime 20231203084426
+LastTime 20231231213953
+LastUpdate 20240101070255 24 0 23 0 0
+TotalVisits 879                 
+TotalUnique 535                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 535                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 47 47 606321 27 36 183718
+1 40 40 630097 14 38 240083
+2 27 35 183904 22 59 133629
+3 69 82 737638 14 19 301481
+4 73 75 695434 14 24 108447
+5 81 86 600379 134 146 214603
+6 49 57 650030 27 33 75271
+7 149 174 1325887 193 310 409396
+8 69 72 832590 49 50 127351
+9 39 51 412141 4 15 87240
+10 86 94 1036217 17 22 72202
+11 82 87 548520 27 37 278438
+12 70 74 794566 43 49 190646
+13 73 77 1180205 17 28 60035
+14 42 48 591734 1 7 45559
+15 26 26 272243 12 60 193264
+16 44 44 2446396 38 48 267513
+17 47 47 912967 30 37 74048
+18 34 34 384852 30 69 219005
+19 69 69 1069438 44 74 442487
+20 48 52 660670 40 84 277097
+21 71 75 2493203 24 93 248572
+22 19 27 311019 22 31 229226
+23 40 40 404424 23 46 242699
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 38
+us 534 610 9064304
+kh 212 212 1726828
+jp 142 146 1157560
+cn 102 107 899756
+gb 92 97 1301784
+fr 64 64 2388676
+ru 41 45 368365
+in 28 32 306529
+no 21 26 21235
+ca 20 20 448526
+it 19 19 150387
+nl 16 16 136640
+gr 13 13 425942
+bg 12 12 207267
+ro 10 14 118474
+de 9 9 93613
+se 8 8 61234
+lb 7 7 292915
+eu 7 7 259755
+id 5 5 104239
+au 5 5 59879
+be 4 4 2526
+cl 4 4 5048
+br 2 2 8658
+zz 2 2 17284
+at 1 1 630
+tr 1 1 8635
+hn 1 1 6902
+sc 1 1 41845
+ar 1 5 5491
+th 1 1 6838
+ir 1 5 4460
+kr 2 2 14329
+es 1 1 8655
+il 2 2 2524
+pl 1 1 41845
+iq 1 5 4460
+ua 1 1 6837
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 18
+crawl 65 1564039 20231230220410 0
+Googlebot/ 32 207198 20231229055929 0
+no_user_agent 29 870049 20231230045509 0
+Go\-http\-client/ 17 105830 20231231170523 0
+Apache\-HttpClient/ 7 18667 20231210180333 0
+AhrefsBot/ 6 63934 20231230193642 0
+spider 6 24808 20231213023811 0
+(firefox/)([0-9]\.|[0-1][0]\.) 5 174217 20231208180208 0
+link 5 105693 20231206190539 0
+curl 4 86747 20231208063440 0
+bot[\s_+:,\.\;\/\\-] 3 25987 20231229032114 0
+java 1 41845 20231229152013 0
+yandex 1 0 20231216012708 0
+TelegramBot 1 8172 20231205095638 0
+Screaming[\x20]Frog[\x20]SEO[\x20]Spider/ 1 8658 20231215171931 0
+scanner 1 630 20231204230337 0
+bingbot/ 1 8658 20231218192758 0
+facebookexternalhit/ 1 41845 20231230082338 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+svg 27 7734 0 0
+js 60 65671 0 0
+html 1394 19664652 0 0
+css 32 42818 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 32
+androidfroyo 1 1
+Unknown 81 81
+win95 1 1
+winnt 9 8
+androidlollipop 1 1
+macosx14 5 5
+win7 39 37
+androidkitkat 5 5
+macosx 4 4
+win8 1 1
+bsdfreebsd 1 1
+androidics 1 1
+androidpie 8 8
+win8.1 3 3
+android 15 15
+win10 698 639
+macosx8 1 1
+androiddonut 2 2
+symbian 1 1
+macosx11 7 7
+android10 36 36
+androidnougat 5 5
+linuxubuntu 22 14
+androidmarshmallow 5 5
+ios_iphone 330 306
+androidoreo 6 6
+linux 177 152
+macosx15 30 30
+winxp 7 7
+macosx9 6 6
+winlong 2 2
+ios_ipad 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 203
+chrome106.0.0.0 1 1
+firefox16.0 1 1
+chrome83.0.4103.101 1 1
+chrome116.0.0.0 5 5
+chrome91.0.4472.114 3 3
+chrome37.0.2062.124 1 1
+safari13.1.1 1 1
+chrome94.0.4606.61 7 7
+Unknown 45 45
+chrome118.0.0.0 4 4
+chrome53.0.2785.97 1 1
+chrome120.0.6099.62 1 1
+chrome108.0.0.0 22 22
+safari7.0.6 1 1
+chrome79.0.3945.88 11 11
+chrome84.0.4147.89 4 4
+chrome19.0.1063.0 1 1
+firefox56.2.4 1 1
+firefox108.0 11 11
+chrome85.0.4183.121 1 1
+safari13.1 1 1
+safari13.0.3 231 231
+chrome100.0.4896.127 2 2
+safari9.0 1 1
+chrome100.0.4896.88 1 1
+firefox40.0 2 2
+chrome92.0.4515.115 1 1
+chrome99.0.4844.51 5 1
+chrome80.0.3987.149 15 15
+chrome87.0.4280.141 2 2
+chrome119.0.6045.199 10 6
+chrome119.0.6045.105 6 2
+safari17.1.2 3 3
+chrome95.0.4638.54 2 2
+chrome98.0.4758.82 1 1
+chrome64.0.3282.0 1 1
+android 4 4
+chrome38.0.2125.102 1 1
+edge17 4 4
+chrome111.0.0.0 1 1
+chrome70.0.1594.88 1 1
+chrome39.0.2171.93 1 1
+chrome83.0.4103.61 5 3
+chrome30.0.1599.114 1 1
+safari12.0 2 2
+chrome71.0.2246.88 1 1
+chrome10.0.638.0 1 1
+safari15.4 1 1
+msie9.0 3 3
+chrome103.0.5060.134 1 1
+firefox65.0 1 1
+chrome85.0.4183.81 1 1
+chrome74.0.3729.169 23 23
+firefox119.0 9 9
+chrome72.0.3626.121 1 1
+chrome84.0.4147.111 1 1
+chrome80.0.2166 1 1
+chrome51.0.2704.103 5 5
+netscape5.0 10 10
+chrome22.0.1229.79 1 1
+safari6.0 2 2
+chrome114.0.0.0 16 16
+chrome117.0.5938.132 14 10
+chrome35.0.1916.47 2 2
+chrome33.0.1750.152 2 2
+chrome79.0.1277 1 0
+chrome54.0.2840.85 2 2
+chrome79.0.3945.130 4 4
+firefox120.0 88 88
+chrome79.0.2725.88 1 1
+chrome112.0.0.0 3 3
+chrome101.0.4950.2 1 1
+firefox14.0.1 1 1
+chrome89.0.4389.114 30 30
+chrome104.0.1522 1 0
+chrome79.0.3945.136 1 1
+chrome119.0.6045.124 4 4
+firefox114.0 5 5
+opera10.54 1 1
+chrome70.0.2263 1 1
+firefox117.0 2 2
+chrome63.0.3239.108 1 1
+chrome97.0.4692.71 3 3
+firefox47.0 2 2
+firefox77.0 9 9
+lynx 1 1
+chrome89.0.4389.128 1 1
+chrome116.0.5845.659 5 5
+chrome120.0.0.0 12 12
+netscape3.01 1 1
+firefox57.0 1 1
+firefox34.0 1 1
+chrome21.0.1180.83 7 7
+chrome67.0.3372.0 1 1
+chrome19.0.1084.9 1 1
+chrome11.0.696.71 4 4
+chrome1.0.154.43 1 1
+chrome34.0.1847.131 1 1
+chrome90.0.4430.216 1 1
+safari17.0.1 6 6
+chrome86.0.4240.75 1 1
+chrome59.0.3071.115 1 1
+edge12 77 57
+safari2.0.1 1 1
+chrome101.0.4951.41 2 2
+chrome90.0.4430.210 1 1
+safari14.0 3 3
+chrome72.0.1282.88 1 1
+chrome87.0.4280.88 1 1
+chrome84.0.4147.125 1 1
+msie11 1 1
+chrome109.0.0.0 4 4
+chrome119.0.0.0 136 128
+iphone 5 5
+safari17.1 1 1
+chrome101.0.4951.54 1 1
+chrome78.0.3904.108 13 13
+chrome51.0.2382 1 1
+chrome85.0.4183.127 1 1
+firefox58.0 2 2
+chrome93.0.4577.63 1 1
+firefox68.0 13 13
+chrome87.0.4280.101 13 13
+chrome96.0.4664.110 3 3
+chrome104.0.5112.101 1 1
+safari17.1.1 3 3
+chrome58.0.3029.110 1 1
+chrome86.0.4240.111 6 2
+chrome70.0.3538.77 42 42
+chrome103.0.5060.114 4 4
+chrome63.0.3239.132 10 10
+firefox118.0 11 3
+firefox35.0 1 1
+firefox102.0 1 1
+chrome60.0.1692 1 1
+chrome92.0.4515.159 1 1
+safari 23 19
+chrome52.0.2717.98 2 2
+chrome88.0.4240.193 24 24
+firefox51.0 1 1
+chrome79.0.3945.79 7 3
+chrome110.0.5481.100 5 5
+safari16.6.1 3 3
+chrome80.0.3987.162 4 4
+mozilla 32 29
+chrome110.0.0.0 9 5
+chrome51.0.2704.106 72 72
+msie11.0 2 2
+chrome75.0.2583.88 1 1
+chrome80.0.3987.119 1 1
+chrome92.0.4515.131 1 1
+chrome92.0.4515.107 6 2
+msie10.0 1 1
+safari16.6 4 4
+chrome105.0.0.0 3 3
+chrome83.0.4103.97 68 68
+chrome98.0.4758.102 5 1
+chrome109.0.5414.46 11 3
+safari16.1 24 8
+firefox83.0 2 2
+firefox121.0 2 2
+chrome100.0.4896.60 1 1
+firefox115.0 1 1
+chrome88.0.4324.93 1 1
+dillo 1 1
+firefox52.0 8 8
+opera94.0.0.0 1 1
+safari10.0 10 6
+safari11.0 1 1
+safari1.0 1 1
+sonyericsson 3 3
+chrome118.0.5993.80 1 1
+chrome91.0.4472.77 6 2
+iceape 1 1
+chrome59.0.3071.104 14 14
+chrome85.0.4183.102 5 1
+chrome113.0.0.0 3 3
+msie6.0 4 4
+chrome91.0.4472.120 1 1
+chrome103.0.0.0 1 1
+safari8.0 3 3
+chrome108.0.5359.71 1 1
+chrome76.0.3809.71 1 1
+firefox98.0 1 1
+chrome56.0.2924.87 1 1
+chrome57.0.2987.133 1 1
+chrome99.0.4844.83 1 1
+chrome117.0.0.0 11 11
+chrome107.0.0.0 1 1
+chrome89.0.4389.105 1 1
+firefox59.0 2 2
+safari13.0.1 1 1
+chrome100.0.4896.136 1 1
+firefox26.0 1 1
+firefox44.0 1 1
+firefox33.0 3 3
+chrome103.0.5042.0 1 1
+chrome44.0.2403.128 3 3
+opera20.0.1396.73172 1 1
+chrome80.0.3987.132 1 1
+chrome45.0.2454.93 2 2
+chrome57.0.2987.132 1 1
+chrome60.0.3112.107 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 23
+Python/3.6_aiohttp/3.5.4 20231206095502
+Mozilla/5.0_Firefox/33.0 20231206025258
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20231228204904
+python-requests/2.21.0 20231218164628
+Mozilla/4.0_(compatible;_Dillo_3.0) 20231209160005
+Mozilla/5.0_(webOS/1.3;_U;_en-US)_AppleWebKit/525.27.1_(KHTML,_like_Gecko)_Version/1.0_Safari/525.27.1_Desktop/1.0 20231211192238
+Mozilla/5.0_Firefox/26.0 20231205041108
+Mozilla/5.0_Firefox/35.0 20231205201339
+Mozilla/5.0_(compatible;_ips-agent) 20231209104648
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20231204205815
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20231228173118
+python-requests/2.27.1 20231206002813
+Lynx/2.9.0dev.5_libwww-FM/2.14_SSL-MM/1.4.1_GNUTLS/3.6.13 20231214214241
+Python/3.11_aiohttp/3.8.4 20231231014241
+WhatsApp/2.23.20.0 20231228115407
+Mozilla/5.0_(compatible;_Dataprovider.com) 20231216161223
+python-requests/2.28.2 20231216045146
+Python/3.8_aiohttp/3.9.1 20231231060927
+python-requests/2.31.0 20231231154246
+WhatsApp/2.23.13.76_A 20231206081514
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20231229003531
+python-requests/2.28.1 20231205144428
+SonyEricssonW995/R1EA_Profile/MIDP-2.1_Configuration/CLDC-1.1_UNTRUSTED/1.0 20231218181554
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+python-requests/2.21.0 20231218164628
+python-requests/2.28.2 20231216045146
+python-requests/2.28.1 20231205144428
+WhatsApp/2.23.20.0 20231228115407
+Python/3.11_aiohttp/3.8.4 20231231014241
+WhatsApp/2.23.13.76_A 20231206081514
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20231228204904
+Python/3.8_aiohttp/3.9.1 20231231060927
+python-requests/2.31.0 20231231154246
+Python/3.6_aiohttp/3.5.4 20231206095502
+python-requests/2.27.1 20231206002813
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 905 907
+From1 1 1
+From2 8 8
+From3 29 33
+From4 451 564
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com 4 4
+duckduckgo 1 1
+google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://mail.spanyollottery.com 25 29
+https://secure.livechatinc.com 2 2
+https://itl4d.org 1 1
+http://creersonjeuvideo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+206 1 41845
+404 1044 1291234
+403 30 31954
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 517
+/upload_json/ 1 -
+/alexuse.php 1 -
+/13.php 1 -
+/-/x/hbg/daq/user-event/info/plain 1 -
+/shellx.php 1 -
+/wp-content/plugins/ht-mega-for-elementor/readme.txt 2 -
+/c99.php 1 -
+/app/config/getConfig 1 -
+/User/login.html 1 -
+/api/shares/systemStyle 1 -
+/api/user/switchWeb 1 -
+/wp-json/wp/v2/users/2 2 https://spanyollottery.com/
+/Pc/tools/outpwd_smsverify 1 -
+/security.txt 2 http://www.spanyollottery.com/security.txt
+/backup/wp-admin/install.php 1 -
+/static/home/baodan.png 1 -
+/_xingcai_buffer/systemSettings 1 -
+/Public/mobile/js/config.js 1 -
+/Site/configH5 1 -
+/User/Reg/ 1 -
+/phpcms/modules/member/touzi.php 1 -
+/member/showSign 1 -
+/Apps/gold/Tpl/Admin/Mt4Server/index.html 1 -
+/api/product/list/index 1 -
+/backup/wp-admin/setup-config.php 2 www.google.com
+/OLD/wp-admin/setup-config.php 2 www.google.com
+/anone.php 1 -
+/home/index/getkdata/intval/1day/type/btcusdt 1 -
+/shellalfa.php 1 -
+/dianjianniu.js 1 -
+/meta.json 1 -
+/static/config.js 1 -
+/dist/js/bootstrap.bundle.min.js 16 -
+/Public/Home/statics/web/js/style.js 1 -
+/index/user/register.html 1 -
+/jiankong.htm 1 -
+/auth/web/login/webLoginEwm 1 -
+/wp-content/plugins/backup-backup/modules/deactivation/assets/script.js 1 -
+/miningpool/index 1 -
+/setting/global 1 -
+/sym.php 1 -
+/static/wallet.png 1 -
+/admin/login/look.html 1 -
+/main 1 -
+/old 3 -
+/server-status 2 -
+/wp-content/plugins/backup-backup/modules/blackfriday2022/assets/styles.css 1 -
+/Public/home/js/check.js 2 -
+/index/newapi/api 1 -
+/market/index/market_bat 1 -
+/symlink.php 1 -
+/app/get_shares_index 1 -
+/wp-json/wp/v2/users/4 2 https://spanyollottery.com/
+/member/css/bindmobile.js 1 -
+/FoxWSO.php 1 -
+/v1/user/overview/userinfo 1 -
+/sitemap.php 1 -
+/resource/home/js/config.js 1 -
+/index/login/smsRand 1 -
+/api/home/country/list 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 2 -
+/web/wp-admin/install.php 1 -
+/index/login/getWays 1 -
+/xox.php 1 -
+/index.php/index/index/get_company_info 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 17 -
+/o.php 1 -
+/wp-content/wp-logins.php 1 -
+/user/ajax_tm 1 -
+/t000/login-img-2.svg 1 -
+//web/wp-includes/wlwmanifest.xml 3 -
+/case/ 1 -
+/Public/home/common/js/index.js 1 -
+/testing 1 -
+/init.js 1 -
+/sitemap_index/xml 1 -
+/check 1 -
+/a.php 2 -
+/api/submitCard.html 1 -
+/prod-api/api/mine/sys/sysConfig 1 -
+/abndstwupyckxgr 1 -
+/wi.php 1 -
+/4price.php 1 -
+/Publics/getWebInitInfo 1 -
+/send.php 1 -
+/about 2 -
+/ashx/getPlatParam.ashx 1 1
+/blog/wp-admin/install.php 1 -
+//news/wp-includes/wlwmanifest.xml 2 -
+/sitemap.txt 1 -
+/alfa.php 2 -
+/user/regok.php 1 -
+/active 1 -
+//site/wp-includes/wlwmanifest.xml 3 -
+/3.php 1 -
+/wp-content/plugins/ultimate-member/readme.txt 2 -
+/tp/ 1 -
+/api/vue/transaction/config 1 -
+/media-admin.php 1 -
+/wp-admin/setup-config.php 13 www.google.com
+/xx.php 1 -
+/kctqxweo 3 -
+/api/link 1 -
+/baindex.php 1 -
+/alex.php 1 -
+/melody/api/v1/retgistercolumn/list 1 -
+/ws.php 1 -
+//wp-includes/wlwmanifest.xml 15 -
+/account/login 1 -
+//sito/wp-includes/wlwmanifest.xml 2 -
+/mobile/login/register.html 1 -
+/assets/layui/resuser/room.js 1 -
+/app/member/getdata.php 1 -
+/images/adminlo.png 1 -
+/test/wp-admin/install.php 1 -
+/sitemap/index.xml 1 -
+/sitemap.xml 27 -
+/index/lotteryHall.do 1 -
+/web/api/getConfig 1 -
+/api/apps/config 1 -
+/history_code.shtml 1 -
+/wp.php 1 -
+/site/info 1 127.0.0.1
+/new/wp-admin/install.php 1 -
+/wikindex.php 1 -
+/cpanel.php 1 -
+/obqsztdj 1 -
+/public/static/js/main.js 1 -
+/static/admin/js/cvphp.js 1 -
+/js/_coolchat-commons.js 1 -
+/wp-json/wp/v2/users/3 1 https://spanyollottery.com/
+//wp2/wp-includes/wlwmanifest.xml 2 -
+/ixyfvdqm 3 -
+/dr.php 1 -
+/history-result/%20%20%20%20%20%20%20%20 2 https://spanyollottery.com/index.html
+/rsjgwiku 1 -
+/static/wap/bjscDetails.html 1 -
+/misc/ajax.js 5 -
+/_data/config/config/get 1 -
+/old/wp-admin/install.php 1 -
+/upload.php 1 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 17 -
+/readme.html 4 -
+/public/js/json/code_BF_ix.json 1 -
+/wordpress/wp-admin/install.php 1 -
+/default_drawnotice.shtml 1 -
+/mailer.php 2 -
+/Public/Home/css/revise.css 1 -
+/api/index/index 1 -
+/Plus/AboutUs/Images/Style.css 1 -
+/shouye.asp 1 -
+/dev 1 -
+/index.php/index/login/logincl 1 -
+/test 3 -
+/v1/app/market/home/queryKlineRiseList 1 -
+/wap/api/exchangerateuserconfig!get.action 1 -
+/room/minilogin.php 1 -
+/Home/Get/getIndexLunshu 1 -
+/img/default/gaba.png 1 -
+/Indox.php 1 -
+/vnuolrmx 1 -
+/api/v1/product/category 1 -
+/wp-wso.php 1 -
+/static/admin/javascript/hetong.js 1 -
+/Six/Js/class_12.js 1 -
+/favicon.png 3 -
+/main.js 1 -
+/home/login/login_index.html 1 -
+/403.php 1 -
+//germanylotterie.com/wp-content/themes/lottery/assets/js/flipclock.js 16 -
+/api/nimcc/recv 1 -
+/config.json 2 -
+/ajax/index_b_trends 1 -
+/old-index.php 1 -
+/Public/js/chatmsg.js 1 -
+/Public/xxpc/basejac.js 1 -
+/telescope/requests 2 -
+/wp-content/plugins/backup-backup/modules/blackfriday2022/assets/script.js 1 -
+/administrator/index.php 5 -
+/static/api/js/conf/define.js 1 -
+/t100/icon-service.svg 1 -
+/bypass.php 1 -
+/res/dou/login.css 1 -
+/3index.php 1 -
+/debug/default/view 2 -
+//wordpress/wp-includes/wlwmanifest.xml 3 -
+/wp-login.php 1 -
+/php/thinkphp/aaaffff123.php 2 -
+/v1/common/visitor/getAgentStatus.do 1 -
+/w.php 1 -
+/admin/event/uploadfile 1 -
+/assets/js/video.js 1 -
+/api/service 1 -
+/api/pc/helper/terms 1 -
+/Public/Wap/jinrong/Mobile/Public/js/drawsvg.js 1 -
+/chatroomgame 1 -
+/wordpress/ 4 -
+/mar.php 1 -
+/wsoshell.php 1 -
+/api/site/getInfo.do 1 -
+/wp/wp-admin/install.php 1 -
+/blog/wp-admin/setup-config.php 1 www.google.com
+/api/market/currency_matches 1 -
+/dist/js/regist.js 1 -
+/login.action 2 -
+/XxX.php 1 -
+/sitemap/sitemap.xml 1 -
+/home/main/getConfig.do 1 -
+/newsite 1 -
+/backend 1 -
+/html/wechat/getkey 1 -
+/images/defaultpic.gif 1 -
+//website/wp-includes/wlwmanifest.xml 2 -
+/index.php/games/red 1 -
+/phalapi/public/ 1 -
+/index/load/rebotslist.html 1 -
+/eotysnbd 3 -
+/shell.php 2 -
+/pczs/js/trendChart.js 1 -
+/ilhmnptj 3 -
+/api.php 1 -
+/web/im/js/register.js 1 -
+/api/mihdy/register 1 -
+/dist/jquery.min.js 16 -
+/wp-content/plugins/wp-post-author/readme.txt 2 -
+/wp-content/plugins/backup-backup/readme.txt 2 -
+/star.php 1 -
+/data.php 1 -
+/api/safety/system-list 1 -
+/js/subsidy/bk.min.js 1 -
+/.vscode/sftp.json 2 -
+/root.php 1 -
+/home 1 -
+/Home/Jiekou/ajaxLatest1 1 -
+/api/message/webInfo 1 -
+/complete-order/ 2 -
+/wp-json/wp/v2/users/5 1 https://spanyollottery.com/
+/km.asmx/getPlatParam 1 -
+/api/default/login-page 1 -
+/js/app.js 1 -
+/static/js/winScale.js 1 -
+/static/theme/landrick/js/counter.init.js 1 -
+/configstatic/h5/control/control.js 1 -
+/Pay/index.php 1 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 3 -
+/Loading.png 1 -
+/Gel.php 1 -
+/loop/fiveData 1 -
+/Public/admin/js/common.js 1 -
+/waplogin.php 1 -
+/static/js/chart.js 1 -
+/wp-content/plugins/backup-backup/modules/gdrivebanner/assets/css/styles.css 1 -
+/ohayo.php 1 -
+/scripts/LoadAjaxIco.js 1 -
+//blog/wp-includes/wlwmanifest.xml 3 -
+/assets/yibao/Nweshebao/img/logo.png 1 -
+/doLogin 1 -
+/business/t-ec-info/commands 1 -
+/ws/index/weblogo/app 1 -
+/wp-content/plugins/backup-backup/modules/review/assets/css/style.css 1 -
+/wp-content/plugins/backup-backup/includes/banner/assets/style.min.css 1 -
+/picture/imtokenlogo.svg 1 -
+//feed/ 1 -
+/wp-content/plugins/backup-backup/analyst/assets/js/customize.js 1 -
+/wp-content/plugins/userpro/changelog.txt 1 -
+/post.asp 1 -
+/template/mb/lang/text-zh.json 1 -
+/static/img/banben.png 1 -
+/exploit.php 1 -
+/wp-admin.php 1 -
+/Public/statics/js/iconfont.js 1 -
+//cms/wp-includes/wlwmanifest.xml 3 -
+/_all_dbs 2 -
+/3ds.php 10 -
+/resources/main/common.js 1 -
+/mobile/user/getImgCodeCal 1 -
+/wp-content/plugins/backup-backup/includes/banner/assets/index.min.js 1 -
+/wp-content/wp-admin.php 1 -
+/stindex.php 1 -
+//wp-json/wp/v2/users/ 13 -
+/wp-uploads.php 1 -
+/777.php 1 -
+/MARIJUANA.php 1 -
+/wp 3 -
+/js/app.style2.js 1 -
+/leaf.php 2 -
+/nee.php 1 -
+/public/message/findByType 1 -
+/libs/wsBase.js 1 -
+/static/index/Index.js 1 -
+/wp-json/wp/v2/users/1 1 https://spanyollottery.com/
+/7yn.php 1 -
+/wp-configer.php 2 -
+/backup 1 -
+/jsonpublic/selectAddtion.asp 1 -
+/config.js 1 -
+//2020/wp-includes/wlwmanifest.xml 2 -
+/wp-configr.php 1 -
+/m.php 1 -
+/wp-emoji-release.min.js 17 -
+/install.php 1 -
+/lol.php 1 -
+/ups.php 1 -
+/text_config.js 1 -
+/wp-blog.php 1 -
+/platform/passport/login.html 1 -
+/wp-content/plugins/backup-backup/includes/htaccess/default.json 1 -
+/fwgeqmiy 2 -
+/Home/SendSMSCodeToPhoneFromAdmin 1 -
+/api/link/platform 1 -
+/static/wap/css/trade-history.css 1 -
+/js/preload/example.txt 1 -
+//xmlrpc.php 16 -
+/api/zhenren/tfGameType/distinctPtAndBusiness 1 -
+/index/index/vhash 1 -
+/sh3ll.php 1 -
+/Card/liu.html 1 -
+/static_jt/css/style.css 1 -
+/static/home/js/regular.js 1 -
+/acquireSession 1 -
+/js/chunk-vendors.63ec85b1.js 1 -
+//germanylotterie.com/wp-content/themes/lottery_germany/assets/js/lottery.js 16 -
+/cms 1 -
+/merchant/code 10 -
+/index.php 3 -
+/v1/management/tenant/getTenantConfig 1 -
+/templates/hyacinth/js/common.js 1 -
+/wp-content/plugins/backup-backup/admin/css/bmi-plugin.min.css 1 -
+/Web/JS/michat.js 1 -
+/api/index/indexconfig 1 -
+/.fk.php 1 -
+/wp-content/plugins/backup-backup/modules/deactivation/assets/style.css 1 -
+/xmlb 1 -
+/dist/images/mask/colsed.png 1 -
+/index/user/main.html 1 -
+/static/common/icon/zhuanzhang.png 1 -
+/404.php 1 -
+/template/mobile_user/ask_list.html 1 -
+/f.php 1 -
+/humans.txt 7 http://spanyollottery.com/humans.txt
+/web 1 -
+/static/img/cs/cs-bg-big.jpg 1 -
+/1.jpg 1 -
+//wp1/wp-includes/wlwmanifest.xml 3 -
+//wp/wp-includes/wlwmanifest.xml 3 -
+/app/login 1 -
+/Ajax/checkpwd.js 1 -
+/blog 3 -
+/api/v1/member/home 1 -
+/api/shop/product 1 -
+/wso.php 2 -
+/js/noright.js 1 -
+/wordpress/wp-admin/setup-config.php 2 www.google.com
+/v.php 1 -
+/btxmeskz 3 -
+/newss/resources/js/pc28-betbox.js 1 -
+/magento_version 1 -
+/api/exclude/siteConfig/webSiteConfig 1 -
+/1.php 1 -
+/2index.php 1 -
+/live/getRealIP 1 -
+/cms/wp-admin/install.php 1 -
+/a/web/goWeb/userTpl 1 -
+/x_hf.asp 1 -
+/.well-known/security.txt 3 http://www.spanyollottery.com/.well-known/security.txt
+/assets/js/daik/hm.js 1 -
+/api/config 1 -
+/merchant/z/payment/ 10 -
+/g.php 1 -
+/c.php 1 -
+/sitemap-index.xml 1 -
+/shx.php 1 -
+/static/index/js/lk/order.js 1 -
+/license.txt 4 -
+/index/index/register1/type/1.html 1 -
+//cdn.js 16 -
+/wp-cron.php 2 -
+/owl.php 1 -
+/.env 6 -
+//wp-json/oembed/1.0/embed 13 -
+/static/images/themeWZCP/tzjl.png 1 -
+/js/nsc_m/res.js 1 -
+/util/login.aspx 1 -
+/template/css/bet_aok.css 1 -
+/wp-content/plugins/backup-backup/analyst/assets/css/customize.css 1 -
+/Public/m/js/yxMobileSlider.js 1 -
+//media/wp-includes/wlwmanifest.xml 1 -
+/41.php 1 -
+/app/h5Api 1 -
+/service 2 -
+/doc.php 1 -
+/checkusername 1 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 2 -
+/images/vuln.php 1 -
+/api/currency/quotation_new 1 -
+/static_new/js/common.js 1 -
+/87.php 1 -
+/backup/ 4 -
+/-_files/bj.png 1 -
+/new 3 -
+/cron/bet/lastKj 1 -
+/site/wp-admin/install.php 1 -
+/wp-confirm.php 1 -
+/v2/_catalog 2 -
+/static/js/news.js 1 -
+/cms.php 1 -
+/portal 1 -
+/api/sms 1 -
+/old/wp-admin/setup-config.php 2 www.google.com
+/site 1 -
+/1index.php 1 -
+/2.php 1 -
+/api/index/userdded.html 1 -
+/Scripts/Chat 1 -
+/tag-sitemap.xml 1 -
+/defau1t.php 1 -
+/wordpress 3 -
+/demo 1 -
+/photo/index.asp 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 2 -
+/wp-content/plugins/mstore-api/readme.txt 2 -
+/wp/wp-admin/setup-config.php 1 www.google.com
+/sitemap1.xml 1 -
+//s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js 17 -
+/wp-content/plugins/fix/up.php 3 -
+/api/client/regconfig 1 -
+/api/Index/down 1 -
+/robots.txt 84 -
+/vuln.php 1 -
+/api/uploads/getappconfig 1 -
+/api/f.php 1 -
+//wp-includes/ID3/license.txt 1 -
+/li/user/loginck 1 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 2 -
+/index/index/ajaxreg.shtml 1 -
+/resource/images/404.jpg 1 -
+/index/chat/init 1 -
+/.DS_Store 3 -
+/leafmailer.php 1 -
+/api/index/logincode 1 -
+/nuocltsf 3 -
+/app/public/config/index.php 1 -
+/z.php 1 -
+/ads.txt 9 http://spanyollottery.com/ads.txt
+/index_sso.php 2 -
+/11index.php 1 -
+/static/index/sign.js 1 -
+/js/room.js 1 -
+//test/wp-includes/wlwmanifest.xml 3 -
+/old/ 4 -
+//2018/wp-includes/wlwmanifest.xml 1 -
+/computer/articleContent 1 -
+/api/index/webconfig 1 -
+/Mg0a4/app/data.js 1 -
+/static/icon.png 1 -
+/x.php 2 -
+/Public/Wchat/js/cvphp.js 1 -
+/3ds1633693954432212 10 -
+/static/splash.png 1 -
+/h5/static/icon/icon_hetong.png 1 -
+/en/autonews.html 1 -
+/new.php 1 -
+/native/getStationInfo.do 1 -
+/wap/reportExample.shtml 1 -
+/wp-content/plugins/backup-backup/admin/js/backup-migration.min.js 1 -
+/shop 2 -
+/submit.asp 1 -
+/api/v1/tea/investment-project/list 1 -
+/index/index/info 1 -
+/wnihgzrt 3 -
+/index/index/cx 1 -
+/sitemapindex.xml 1 -
+/oldsite/wp-admin/install.php 1 -
+/pc/serverConfig.js 1 -
+/wp-content/ 1 -
+/common/scrollreveal.min.js 1 -
+/haxor.php 1 -
+/Ajax/allcoin_a 1 -
+/wp/ 4 -
+/manifest.json 1 -
+/autoload_classmap.php 1 -
+/s/6373e2930323e203e2236313/_/ 2 -
+/wp-content/plugins/backup-backup/modules/gdrivebanner/assets/js/script.js 1 -
+/vewykzfx 3 -
+/Application/Basic/Static/css/customerselect.css 1 -
+/static/img_m/login-bg.a7550e9.png 1 -
+/api/trendData 1 -
+/wp-admin/install.php 13 -
+//2019/wp-includes/wlwmanifest.xml 3 -
+/wp-includes/wlwmanifest.xml 5 -
+/static/tabbar/trade.png 1 -
+/0byte.php 1 -
+/kyfithcw 3 -
+/statics/css/user.css 1 -
+/category-sitemap.xml 1 -
+/views/bank/bank.html 1 -
+/jkb/accSet.jpg 1 -
+/deujfmcv 3 -
+//shop/wp-includes/wlwmanifest.xml 3 -
+/sitemap.xml.gz 1 -
+/static/picture/imTokenLogo.svg 1 -
+/sindex.php 1 -
+/mini.php 1 -
+/tmp 1 -
+//2021/wp-includes/wlwmanifest.xml 1 -
+/public/home/js/func.js 1 -
+/home/data/get_ip_info 1 -
+/new-index.php 1 -
+/404 1 -
+/api/user/drawList 1 -
+/100.php 1 -
+/phpmyadmin/index.php 2 -
+/xxx.php 1 -
+/nyyh/ac_runactivecontent.js 1 -
+/api/baseConfig 1 -
+/static/new/js/shangchuan.js 1 -
+/view-source: 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 535
+124.248.183.41 207 207 1624805 20231227032950
+139.99.236.252 49 59 51309 20231204120245
+51.195.90.123 29 34 31335 20231204073620
+67.220.86.160 22 22 190417 20231231213747
+146.59.87.207 21 26 21235 20231204055112
+193.233.233.29 20 20 171964 20231219030804
+51.89.211.248 19 19 785691 20231229152712
+54.38.211.230 18 18 738008 20231230030529
+2.236.112.207 16 16 106018 20231205084005
+87.98.153.11 16 16 628981 20231226175939
+163.5.64.44 15 15 627675 20231210171343
+23.224.89.180 15 15 119474 20231211044417
+103.105.34.75 12 12 50243 20231220113717
+43.133.77.208 10 10 84247 20231226010406
+87.98.140.71 10 10 337306 20231231012158
+178.128.108.104 10 10 418450 20231208012700
+43.135.149.154 9 9 77858 20231231132326
+178.33.149.171 9 9 376629 20231231213953
+34.77.60.3 9 9 140940 20231231060928
+170.64.153.181 8 8 69230 20231230214029
+44.228.242.45 8 8 97359 20231207043653
+149.56.150.108 7 7 1924656 20231216161202
+36.50.40.181 7 7 70786 20231218043514
+49.51.179.103 7 7 58235 20231222192753
+43.155.152.154 7 7 59414 20231223174330
+149.40.49.204 1 5 4460 20231204075531
+181.228.238.122 1 5 5491 20231204074045
+35.88.31.140 1 1 8655 20231211004148
+35.232.171.4 1 1 8665 20231228233133
+52.201.248.212 1 5 4460 20231205025514
+157.119.232.164 1 5 4460 20231203210339
+192.42.116.176 1 1 6837 20231211163904
+206.204.35.94 1 1 6845 20231217090145
+58.49.233.126 1 1 8655 20231208022447
+35.90.202.94 1 1 8658 20231215052522
+34.122.120.27 1 1 8653 20231220214606
+182.42.111.156 1 1 8658 20231215084612
+191.55.44.33 1 1 0 20231205062822
+107.189.31.134 1 1 8635 20231223002700
+141.98.252.163 2 2 17310 20231207001055
+208.80.194.41 1 1 41851 20231218065935
+193.41.226.117 1 1 8635 20231223002659
+46.101.141.208 1 1 8658 20231214030024
+184.72.244.125 1 1 630 20231204131632
+52.36.0.102 1 1 8655 20231211000452
+146.70.116.240 2 2 17310 20231209152557
+198.235.24.55 1 1 41851 20231214222111
+34.72.94.241 3 3 25965 20231208180234
+34.123.170.104 2 2 12054 20231205215247
+130.255.166.11 1 1 630 20231204022239
+212.102.57.204 1 1 41845 20231206125253
+110.50.81.197 1 1 6842 20231228115423
+51.15.247.130 1 1 6865 20231221190551
+35.89.55.180 1 1 8658 20231215052451
+34.123.171.213 4 4 32812 20231214210430
+52.37.69.227 1 1 630 20231204143917
+178.20.55.182 1 1 8635 20231223002702
+45.79.183.4 1 1 8658 20231212125243
+93.159.230.87 1 1 8658 20231218235557
+194.104.146.221 5 5 43290 20231218075820
+180.241.30.161 2 2 83690 20231207112853
+172.105.18.95 1 1 8658 20231217123508
+86.160.126.57 1 1 41845 20231206125301
+139.144.183.40 1 1 8655 20231211153121
+23.91.98.38 1 1 0 20231206064804
+93.159.230.90 1 1 630 20231204235120
+38.100.114.15 1 1 6837 20231206125204
+66.102.8.97 1 1 6842 20231230022930
+3.79.116.55 1 1 8645 20231221170206
+178.128.84.228 2 2 0 20231205060823
+163.5.64.43 5 5 209255 20231215174423
+64.227.147.84 1 1 8658 20231218013623
+124.225.164.130 1 1 8655 20231211213224
+35.241.227.38 1 1 8638 20231231014241
+98.159.226.12 1 5 4460 20231204223032
+87.236.176.66 1 1 630 20231204154958
+58.251.94.154 1 4 5083 20231203085710
+104.223.93.153 1 1 1262 20231204074938
+43.130.32.224 4 4 34632 20231223131705
+36.111.67.189 1 1 8655 20231207011016
+129.226.158.26 3 3 25981 20231229101450
+45.152.115.168 1 1 8658 20231216045146
+139.162.130.201 1 1 8655 20231211153117
+185.241.208.97 4 4 34622 20231220135151
+35.88.186.70 1 1 6027 20231205144326
+168.151.115.224 1 1 6837 20231206100548
+195.201.41.238 1 1 32429 20231205181823
+52.90.235.150 1 1 41845 20231206164037
+172.241.131.132 1 1 41845 20231206133127
+8.41.221.53 2 2 39921 20231206025258
+111.172.249.49 2 2 17316 20231213142551
+178.128.23.48 1 1 7492 20231205204806
+87.89.48.69 2 2 83690 20231206125301
+103.129.116.77 1 1 7492 20231205144428
+34.174.140.171 4 4 167388 20231227044458
+107.189.13.253 1 1 8635 20231223002707
+172.105.8.24 1 1 8655 20231211153120
+128.90.135.40 6 6 51951 20231227060833
+178.62.69.219 1 1 8655 20231210090423
+91.92.249.196 6 6 141682 20231210063211
+161.35.91.9 1 1 633 20231204220722
+45.79.223.13 1 1 8658 20231213123551
+3.142.153.161 1 1 6845 20231217092719
+42.83.147.42 1 1 1266 20231205022704
+176.53.218.172 1 1 7492 20231205155728
+35.91.131.61 1 1 8658 20231215125147
+52.15.121.48 1 1 6843 20231226031149
+43.131.48.214 4 4 34616 20231221192735
+66.115.176.21 1 1 41845 20231206132630
+37.120.147.170 1 1 1262 20231204075535
+43.130.31.48 5 5 42115 20231219101655
+128.90.144.77 1 1 8655 20231210195545
+54.218.43.117 1 1 8661 20231230051512
+104.166.80.164 1 1 8658 20231215135541
+106.119.167.146 2 2 17313 20231226180428
+185.106.94.195 1 1 8635 20231223002705
+40.86.96.107 1 1 6837 20231211111353
+128.199.149.201 4 4 34638 20231230030051
+104.166.80.6 1 1 8658 20231213162120
+168.151.134.53 1 5 4460 20231203094659
+199.45.154.18 1 1 812 20231219042513
+43.130.62.164 2 2 9285 20231206161300
+117.62.235.53 1 1 8665 20231229030432
+37.120.149.62 2 2 83690 20231206135455
+89.238.135.177 1 1 1262 20231204074938
+34.70.210.226 1 1 8658 20231218203949
+54.162.109.83 1 5 4460 20231205025516
+35.88.62.72 1 1 8655 20231208051537
+209.38.220.47 1 1 8655 20231210072117
+44.227.127.2 1 1 6842 20231231170523
+185.198.240.11 1 1 6837 20231207093725
+135.148.195.4 1 1 8665 20231228224249
+188.166.97.211 1 1 8645 20231222013842
+43.130.47.136 4 4 26602 20231224132009
+43.130.37.62 3 3 25971 20231230101731
+37.120.149.58 1 1 1262 20231204073813
+43.130.39.101 3 3 25976 20231227212051
+213.188.69.61 1 5 4460 20231204101258
+170.106.159.160 1 1 8653 20231221121051
+5.133.192.88 1 1 8665 20231228152136
+178.254.12.183 1 1 8658 20231213114421
+52.37.106.23 1 1 8658 20231219113600
+198.235.24.111 1 1 41851 20231214152443
+199.45.155.17 1 1 811 20231227134353
+156.146.41.221 2 2 2524 20231204075024
+205.169.39.88 2 2 13674 20231207213536
+185.198.62.96 1 5 4460 20231204073622
+35.223.125.109 1 1 8658 20231216232134
+163.172.144.75 1 1 6838 20231221171349
+49.51.206.130 5 5 43310 20231228193051
+172.104.244.41 1 1 8658 20231216123557
+152.32.132.77 1 1 6837 20231206090642
+179.61.240.136 1 1 1262 20231204075536
+193.239.84.90 1 1 41845 20231206133126
+190.123.213.200 1 1 6902 20231206044929
+141.105.130.132 1 1 6837 20231208233011
+52.11.199.94 1 1 8655 20231210234628
+43.135.181.13 3 3 19518 20231228152501
+35.92.169.196 1 1 8655 20231211002629
+182.44.10.67 2 2 17325 20231229172101
+111.7.96.159 1 1 8664 20231224050203
+103.72.146.153 1 1 6027 20231205144938
+13.41.247.29 1 1 8658 20231215125147
+106.75.85.188 1 1 8655 20231208111149
+34.222.134.236 1 1 8655 20231211003817
+139.162.152.198 1 1 8658 20231217123508
+211.176.125.70 1 1 7492 20231206002813
+106.75.81.180 1 3 3668 20231205042614
+13.40.43.167 1 1 41845 20231206125252
+205.169.39.193 2 2 13674 20231211185925
+45.130.83.20 1 1 630 20231204074008
+54.188.250.28 1 1 8655 20231211003709
+45.55.112.20 1 1 8660 20231228115422
+93.158.91.24 1 1 8658 20231216070507
+52.202.132.144 1 1 8655 20231210233135
+43.135.130.122 2 2 8122 20231206002000
+172.104.212.92 1 1 8658 20231215125147
+54.190.78.74 2 2 17310 20231211004026
+183.129.153.157 1 1 8732 20231206052635
+138.199.60.185 5 5 209255 20231221085039
+45.90.63.211 1 1 630 20231205044545
+172.105.14.152 1 1 8658 20231213123551
+103.27.227.239 1 1 1262 20231204075536
+103.175.82.69 1 1 6865 20231228120241
+103.11.219.14 2 2 13674 20231211102540
+14.215.163.132 1 1 8655 20231210043930
+104.234.204.32 4 4 34620 20231212022007
+173.245.209.183 1 1 41845 20231206144715
+34.208.226.191 1 1 8655 20231211013640
+64.227.147.114 4 4 34616 20231221120011
+18.236.93.29 1 1 8645 20231222050953
+89.104.111.20 1 1 630 20231204044552
+198.235.24.98 1 1 41845 20231223130106
+43.157.40.112 5 5 43279 20231219212048
+34.220.89.192 1 1 8655 20231211013138
+135.148.195.16 1 1 8655 20231209012632
+52.32.72.220 1 1 630 20231205024958
+199.45.154.51 1 1 812 20231218123310
+35.173.128.52 6 6 114709 20231209071124
+181.214.165.130 2 2 2524 20231204173632
+51.15.141.121 4 4 0 20231221161356
+8.137.22.65 2 2 15503 20231218075706
+170.106.104.42 3 3 17944 20231220211422
+146.190.13.187 1 1 1262 20231204075535
+80.120.129.210 1 1 630 20231205041108
+1.66.104.168 2 2 17310 20231206150332
+52.26.126.80 2 2 17310 20231211002121
+54.184.224.167 1 1 8664 20231224050106
+159.203.118.28 2 2 10820 20231205075535
+135.148.195.2 1 1 8658 20231218171954
+49.98.158.5 2 2 17310 20231206131828
+47.251.11.3 1 1 633 20231203204940
+54.66.55.193 1 1 498 20231204075125
+216.19.199.184 1 1 6837 20231206104321
+54.191.158.62 1 1 8655 20231211004133
+51.254.199.11 3 3 25977 20231224091028
+192.210.165.183 1 1 8655 20231211005501
+66.115.182.137 2 2 83690 20231206134032
+52.30.227.144 6 14 11449 20231204060645
+193.36.118.227 1 1 1262 20231204075535
+143.244.133.75 1 1 8658 20231219073651
+3.144.224.237 1 1 6009 20231205103806
+49.106.206.202 2 2 17310 20231206133344
+192.42.116.213 1 1 8642 20231231183841
+144.202.123.247 1 1 8638 20231230190445
+111.118.140.52 1 1 8660 20231228115407
+139.59.65.144 1 1 1262 20231203084436
+111.207.155.211 1 1 32429 20231205201339
+34.41.4.113 5 5 28503 20231205185826
+34.81.16.175 1 1 6842 20231229152014
+34.42.141.218 1 1 8658 20231215193846
+43.131.62.4 3 3 25973 20231225192800
+178.79.156.83 1 1 8658 20231213123551
+52.26.5.116 2 2 17310 20231211002018
+43.135.166.178 1 1 8658 20231217191824
+65.154.226.166 2 2 13519 20231205231523
+84.17.59.82 2 2 2524 20231204074938
+159.203.45.170 1 1 633 20231205052841
+198.235.24.42 1 1 41851 20231219221154
+43.135.129.233 5 5 43271 20231221211514
+49.7.227.204 3 3 26057 20231230084712
+194.233.173.126 1 1 8658 20231213123551
+191.101.217.37 1 1 1262 20231204073813
+104.129.56.73 1 1 41845 20231206125257
+18.246.164.199 1 1 8658 20231217051419
+212.30.36.151 4 4 167380 20231223135048
+38.6.186.190 6 6 43905 20231209234849
+123.187.240.242 3 3 25961 20231222070259
+13.41.78.158 1 1 8658 20231217123507
+185.164.59.65 1 1 6837 20231206125821
+159.203.45.22 1 1 41851 20231214214241
+206.204.46.23 1 1 6837 20231207074034
+34.209.48.33 1 1 8664 20231224050227
+3.123.16.121 1 1 41845 20231206134032
+54.187.181.71 1 1 8658 20231215052426
+182.42.111.213 1 1 7492 20231205205048
+106.75.27.108 1 1 0 20231205070530
+170.64.212.200 4 4 34626 20231218055938
+114.96.103.33 2 2 17322 20231224112127
+198.235.24.75 1 1 41847 20231227031025
+34.116.186.243 1 5 4460 20231204131914
+43.206.208.110 1 1 630 20231203130353
+2.57.170.142 1 1 1262 20231204073813
+3.19.217.64 1 5 4460 20231204121700
+95.177.180.82 1 1 6027 20231206011328
+88.0.90.25 1 1 8655 20231207073617
+178.254.29.124 1 1 630 20231204072702
+43.130.7.211 2 2 9288 20231212210834
+91.92.241.173 1 1 8655 20231206184350
+192.158.226.24 1 1 1262 20231204074938
+59.13.123.221 1 1 6837 20231206175657
+93.158.91.11 1 1 8645 20231222113211
+61.115.12.244 2 2 8655 20231206130902
+94.176.63.88 1 5 4460 20231204093639
+165.231.253.67 1 1 41845 20231206135455
+54.201.101.104 1 1 8655 20231208051549
+101.91.148.219 1 1 8658 20231219055938
+35.160.249.135 1 1 630 20231204143915
+23.83.184.142 1 1 41845 20231206132633
+113.219.218.197 1 1 8664 20231225144856
+125.75.66.97 2 2 17315 20231227214322
+43.159.128.172 7 7 52572 20231217131000
+36.99.136.129 1 1 8658 20231217173959
+46.4.33.48 1 1 32409 20231205103556
+146.70.85.167 3 3 0 20231205062315
+185.104.186.149 3 3 1890 20231204092131
+180.102.134.69 2 2 17308 20231220093652
+62.171.136.40 1 1 630 20231204103633
+68.183.245.101 1 1 41845 20231206134037
+18.237.64.156 1 1 8655 20231210235129
+3.235.103.122 1 1 630 20231204134315
+146.70.192.180 5 5 209225 20231211191921
+165.232.164.207 4 4 34632 20231217060821
+35.90.219.29 1 1 8655 20231211003244
+170.106.101.31 5 5 43273 20231230192755
+103.108.92.94 1 1 1262 20231204075536
+175.6.217.4 2 2 17300 20231226083918
+119.13.192.215 1 1 6845 20231217090401
+212.47.230.140 1 1 6838 20231221190236
+3.76.47.7 1 1 8658 20231213123551
+205.210.31.214 1 1 41845 20231222012349
+35.180.113.141 1 1 8658 20231215125147
+172.104.34.190 2 2 17310 20231211153123
+45.90.63.151 1 1 630 20231204132124
+149.56.160.148 1 1 6845 20231216161223
+149.56.150.99 7 7 1924612 20231206213144
+100.20.101.61 1 1 41845 20231211200605
+43.134.37.211 3 3 25965 20231208210636
+204.101.161.32 2 2 13674 20231211005136
+138.197.141.38 1 1 7492 20231206033419
+208.115.223.200 1 1 630 20231204035424
+208.80.194.42 2 2 83690 20231225095016
+34.211.28.215 1 1 8655 20231211010140
+34.222.67.91 1 1 8658 20231215052420
+107.175.79.221 1 1 8655 20231210134217
+209.38.208.71 1 1 8655 20231210020201
+38.95.13.131 1 1 41845 20231206135455
+35.86.171.251 1 1 8655 20231208051631
+176.53.218.134 1 1 630 20231204173335
+66.102.6.66 1 1 6838 20231222022428
+164.90.184.41 4 4 34615 20231230132543
+13.52.104.43 1 1 8635 20231222190143
+129.226.146.179 2 2 17293 20231223101634
+52.53.154.127 1 1 8655 20231208123948
+49.104.14.14 1 1 630 20231204080303
+168.235.96.104 1 1 630 20231204035423
+34.27.52.191 1 1 8724 20231206034038
+182.42.110.255 1 1 8658 20231227035901
+167.71.210.130 2 2 17310 20231211212055
+170.106.171.77 4 4 34653 20231229192801
+176.53.221.246 1 1 8655 20231206131700
+65.154.226.169 2 2 13677 20231225130406
+185.45.92.158 1 1 41849 20231231061747
+180.171.162.67 1 1 41845 20231210200009
+43.157.66.187 3 3 25951 20231230132911
+43.131.44.218 3 3 25974 20231229132057
+139.177.178.98 1 1 8658 20231216123551
+175.178.76.152 1 1 8655 20231207140220
+3.111.52.139 1 1 8655 20231208150346
+72.13.62.43 3 3 26005 20231209104648
+95.177.163.4 3 7 18134 20231209045605
+116.203.211.224 1 1 1262 20231204232821
+185.220.101.3 1 1 8635 20231223002706
+91.207.102.155 1 1 1262 20231204194408
+194.195.246.202 1 1 8655 20231211153120
+167.172.58.184 1 1 8655 20231212020316
+54.214.114.217 1 1 8655 20231211011722
+138.199.47.242 1 1 41845 20231206134032
+182.44.9.147 3 3 25956 20231221041912
+180.110.203.108 1 1 8655 20231209023132
+45.87.212.55 1 1 41845 20231206144715
+43.133.66.151 4 4 34697 20231210160622
+139.59.175.20 1 1 8665 20231226020556
+104.166.80.34 1 1 8658 20231213175252
+34.30.128.221 4 4 32812 20231212234638
+198.12.64.38 1 1 1262 20231204075025
+18.159.36.144 2 2 17316 20231218123455
+20.254.167.83 1 1 8658 20231218193606
+203.2.64.59 1 1 630 20231204120345
+85.17.64.4 2 2 17310 20231211075039
+54.245.218.227 1 1 8661 20231230051557
+35.90.229.103 1 1 8655 20231210235708
+34.76.206.8 1 1 8638 20231231014241
+149.88.20.146 1 1 6837 20231206134327
+207.102.138.32 1 1 6837 20231211103022
+15.204.182.106 2 2 1263 20231204204632
+36.99.136.128 2 2 17318 20231228051834
+43.159.129.209 5 5 43289 20231228101950
+176.53.218.149 1 1 7492 20231205172848
+192.71.142.176 1 1 8655 20231209023942
+216.19.200.247 1 1 6837 20231207074034
+111.118.140.50 2 2 79689 20231206081514
+173.249.33.193 1 1 8655 20231206095502
+51.89.227.251 1 1 633 20231204183815
+42.83.147.54 1 1 8650 20231220064347
+217.138.194.118 2 2 2524 20231204073915
+182.44.12.37 4 4 26591 20231231142851
+2.57.170.120 1 1 1262 20231204075024
+34.213.248.92 1 1 8645 20231222051028
+131.202.14.152 1 1 8655 20231211011157
+18.237.253.28 1 1 8655 20231210232511
+154.6.147.50 4 4 2520 20231204092127
+35.164.155.205 1 1 8664 20231224050140
+34.72.24.139 4 4 32802 20231207202720
+18.197.154.30 1 1 8655 20231211153120
+34.122.92.230 1 1 8642 20231231154246
+185.220.100.240 1 1 8642 20231231183837
+42.83.147.53 4 4 34629 20231218114336
+149.56.150.153 1 1 6837 20231206213205
+205.169.39.72 2 8 7417 20231204143049
+54.201.90.99 1 1 8655 20231208051549
+23.19.125.60 1 1 6844 20231226121750
+3.80.107.189 1 1 6838 20231215080350
+182.44.8.254 3 3 25954 20231230234626
+43.134.89.111 7 7 51929 20231226131342
+209.58.188.146 1 1 630 20231203090159
+54.218.44.107 1 1 8655 20231211012639
+54.184.65.156 1 1 8655 20231209043955
+182.119.20.83 1 1 8658 20231217131247
+106.75.71.193 1 1 8732 20231206054950
+42.228.9.78 2 2 8122 20231205171018
+107.23.67.180 1 5 4460 20231204074141
+198.235.24.121 1 1 41849 20231228180850
+43.153.93.68 2 2 17311 20231221101623
+34.222.213.18 1 1 8658 20231217051323
+54.238.152.158 2 2 8655 20231206142247
+93.159.230.89 1 1 630 20231204235152
+54.172.141.161 1 1 6842 20231229075006
+167.160.167.213 1 1 1262 20231204075024
+172.104.135.113 2 2 17316 20231216123543
+167.172.56.31 1 1 7492 20231206021250
+176.58.96.9 1 1 8658 20231216123542
+65.154.226.168 2 2 12864 20231207185747
+63.246.149.93 1 5 4460 20231204203013
+23.129.64.135 1 1 8642 20231231183839
+34.221.230.246 2 2 17310 20231211004043
+51.75.141.254 2 2 43107 20231206132636
+69.160.160.60 1 5 4460 20231205032130
+170.64.153.98 4 4 34600 20231231123115
+199.45.154.48 1 1 812 20231221090346
+23.94.60.196 1 1 8664 20231223173100
+143.110.210.236 1 1 8658 20231216030544
+117.33.163.216 1 1 8664 20231225060534
+178.254.24.91 1 1 8635 20231222222723
+64.227.147.115 2 2 17320 20231228101034
+168.151.246.212 1 5 4460 20231203091129
+192.36.109.90 1 1 8665 20231228143545
+185.45.95.139 1 1 8638 20231231072724
+87.236.176.194 1 1 633 20231204022716
+23.19.125.48 4 4 50249 20231226121757
+49.12.3.21 1 1 8645 20231222114047
+87.236.176.165 1 1 630 20231204205815
+45.131.193.206 1 5 4460 20231204223932
+103.216.223.204 5 5 209225 20231224165026
+143.198.128.32 1 1 8660 20231228032945
+103.27.227.125 1 1 41845 20231206144716
+182.44.2.148 2 2 17313 20231212224830
+88.80.189.95 1 1 8658 20231218123456
+91.92.253.104 5 5 56930 20231206172433
+3.22.250.117 1 1 6837 20231211145914
+20.243.124.98 5 5 209225 20231206193233
+49.228.226.210 1 1 6838 20231214074152
+192.42.116.181 1 1 8642 20231231183843
+43.133.77.230 3 3 25951 20231231101444
+103.77.234.215 1 1 1262 20231204075536
+47.251.15.21 1 1 630 20231203204940
+35.167.140.179 1 1 8655 20231211002039
+35.87.129.249 2 2 17310 20231211002314
+207.154.216.144 1 1 8664 20231224021744
+106.155.3.7 2 2 17310 20231206140008
+34.219.130.22 1 1 8664 20231224050044
+137.226.113.44 2 2 17310 20231228173118
+192.36.109.96 1 1 8658 20231217090346
+173.255.234.19 1 1 8658 20231217123507
+52.12.233.28 1 1 8655 20231211012139
+118.193.31.181 1 1 32429 20231206030751
+34.97.121.71 1 1 6838 20231212215258
+18.144.165.39 1 1 8661 20231229190400
+36.99.136.139 1 1 8655 20231211061550
+114.5.252.245 2 2 13707 20231228120238
+184.75.221.43 1 1 6838 20231213120900
+34.42.7.243 1 1 8664 20231224214239
+152.39.155.99 1 5 4464 20231203102704
+199.45.155.35 1 1 812 20231229003531
+35.170.40.121 1 1 630 20231204172228
+120.71.59.24 3 3 25973 20231228063023
+54.202.106.210 1 1 8658 20231217051245
+172.111.152.7 1 5 4460 20231204075509
+123.60.68.42 5 5 20821 20231206074720
+35.88.107.227 1 1 8655 20231211010118
+13.82.54.38 4 4 18579 20231216191716
+51.159.103.13 2 2 18848 20231212082346
+44.234.19.83 3 3 18081 20231206002040
+34.136.199.158 3 3 25965 20231206143202
+43.131.248.209 3 3 25974 20231226211855
+86.175.169.255 1 1 1262 20231204073914
+135.148.195.12 1 1 8658 20231213170421
+35.91.249.78 1 1 630 20231204143951
+192.71.142.40 1 1 8658 20231214210012
+45.81.163.69 1 1 630 20231205025501
+143.198.72.96 1 1 1266 20231203084426
+106.161.65.206 3 3 44369 20231206144719
+3.137.220.69 1 1 6845 20231230180943
+212.30.36.84 3 3 125535 20231223074009
+173.255.114.59 4 4 32802 20231211192256
+156.146.59.173 2 2 1260 20231204091311
+146.190.197.169 1 1 1262 20231204073816
+121.229.185.160 1 1 8655 20231208090225
+161.35.215.22 1 1 8664 20231223235450
+24.199.121.20 1 1 630 20231204042520
+3.101.14.149 1 1 8658 20231215191132
+104.244.210.249 1 1 41845 20231206144714
+113.30.155.19 1 1 498 20231204150418
+43.153.110.177 2 2 17305 20231219131845
+104.129.56.45 1 1 1262 20231204073916
+38.132.118.68 1 1 6837 20231206125049
+194.233.173.97 1 1 8658 20231213123552
+198.235.24.33 1 1 41849 20231228204904
+65.154.226.171 1 1 6840 20231225131308
+170.187.230.28 1 1 8658 20231217123510
+52.40.232.136 3 3 25965 20231211013708
+51.15.132.144 1 1 29696 20231221190423
+34.66.57.249 1 1 8645 20231221235827
+34.171.91.99 1 1 8635 20231222232301
+23.129.64.213 1 1 8642 20231231183844
+18.119.129.247 1 1 6843 20231222201027
+43.133.38.182 1 1 8665 20231228211655
+46.101.79.185 1 1 8661 20231230012616
+95.177.180.85 1 1 6837 20231208044751
+170.106.82.193 1 1 8653 20231220131125
+165.22.227.58 1 1 8650 20231220040611
+182.42.105.85 4 4 36075 20231223085146
+43.159.128.149 4 4 34620 20231231192828
+172.105.81.33 1 1 8658 20231218123455
+34.221.54.129 1 1 8655 20231210232600
+34.171.173.135 4 4 32812 20231213224449
+66.228.43.134 2 2 17316 20231212125243
+170.64.204.110 4 4 34626 20231216074325
+135.148.195.6 1 1 8664 20231224030312
+8.137.55.154 2 2 15503 20231218075808
+23.23.4.63 1 1 630 20231204120633
+34.132.203.76 1 1 8664 20231225202658
+94.23.61.200 2 2 83690 20231229201232
+191.54.178.193 1 1 8658 20231218164628
+170.64.194.79 6 6 51942 20231229202436
+34.213.180.207 1 1 8658 20231214051206
+203.33.203.148 1 1 8658 20231213063710
+192.42.116.202 1 1 8642 20231231183836
+43.159.128.68 5 5 43238 20231231211932
+88.99.26.177 1 1 7492 20231205145801
+45.94.31.66 2 2 17310 20231208213826
+49.98.132.64 2 2 17310 20231206143228
+205.210.31.136 1 1 41851 20231220033438
+23.111.114.116 3 3 15614 20231206010101
+87.236.176.2 1 1 633 20231204010953
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20231203 12 31 29240 12
+20231204 219 301 267882 101
+20231205 126 144 886266 55
+20231206 234 234 5264233 89
+20231207 47 47 701760 30
+20231208 48 48 633661 36
+20231209 40 40 506771 31
+20231210 52 52 1070197 39
+20231211 78 78 934674 60
+20231212 33 33 372675 21
+20231213 33 33 322209 26
+20231214 27 27 396091 22
+20231215 27 27 464297 23
+20231216 40 40 2350083 28
+20231217 30 30 320687 29
+20231218 40 40 415040 28
+20231219 18 18 242098 16
+20231220 30 30 330121 18
+20231221 30 30 463269 22
+20231222 21 21 275649 21
+20231223 27 27 565477 22
+20231224 27 27 532557 22
+20231225 17 17 241359 16
+20231226 19 19 239261 15
+20231227 20 20 462222 16
+20231228 26 26 350742 24
+20231229 19 19 352196 16
+20231230 21 21 277595 18
+20231231 33 33 512563 23
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 9
+5mn-15mn 13
+0s-30s 835
+15mn-30mn 4
+2mn-5mn 5
+1h+ 4
+30mn-1h 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 1279 13381216 873 852
+/history-result/ 52 4529766 4 11
+// 36 1506460 0 12
+/live-draw/ 27 247210 2 4
+END_SIDER

@@ -1,0 +1,50 @@
+:root {
+    /**** begin countdown colors ****/
+    --flipclock-bg-color: #ff6633;
+    --flipclock-color: #fffa62;
+    /**** endof countdown colors ****/
+
+    /**** begin custom colors ****/
+    --color-1: #03071e;
+    --color-2: #000063;
+    --color-3: #003399;
+    --color-4: #005598;
+    --color-5: #ff6633;
+    --color-6: #ff9933;
+    --color-7: #ffca00;
+    --color-8: #fffa62;
+    --color-9: #f5f5f5;
+
+    --gradient-1: linear-gradient(to bottom, var(--color-8), var(--color-7)) !important;
+    --gradient-2: radial-gradient(circle at center, var(--color-4), var(--color-1)) !important;
+    --gradient-3: linear-gradient(to bottom, var(--color-6), var(--color-8), var(--color-7), var(--color-5)) !important;
+    --gradient-4: linear-gradient(to bottom, var(--color-6), var(--color-8)) !important;
+    /**** endof custom colors ****/
+}
+
+
+
+/**** begin custom background colors ****/
+.bg-color-1 { background-color: var(--color-1) !important; }
+.bg-color-2 { background-color: var(--color-2) !important; }
+.bg-color-3 { background-color: var(--color-3) !important; }
+.bg-color-4 { background-color: var(--color-4) !important; }
+.bg-color-5 { background-color: var(--color-5) !important; }
+.bg-color-6 { background-color: var(--color-6) !important; }
+.bg-color-7 { background-color: var(--color-7) !important; }
+.bg-color-8 { background-color: var(--color-8) !important; }
+.bg-color-9 { background-color: var(--color-9) !important; }
+
+.bg-gradient-1 { background-image: var(--gradient-1) !important; }
+.bg-gradient-2 { background-image: var(--gradient-2) !important; }
+.bg-gradient-3 { background-image: var(--gradient-3) !important; }
+.bg-gradient-4 { background-image: var(--gradient-4) !important; }
+
+.badge.badge-dark { background-color: var(--color-1) !important; }
+/**** endof custom background colors ****/
+
+
+
+/**** begin custom button colors ****/
+.btn.btn-info { background-color: var(--color-4) !important; }
+/**** endof custom button colors ****/

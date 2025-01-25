@@ -1,0 +1,754 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202409 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.maltalottery.net.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2044                
+POS_TIME 2726                
+POS_VISITOR 21749               
+POS_DAY 24142               
+POS_DOMAIN 3431                
+POS_LOGIN 3818                
+POS_ROBOT 3973                
+POS_WORMS 4580                
+POS_EMAILSENDER 4711                
+POS_EMAILRECEIVER 4854                
+POS_SESSION 24319               
+POS_SIDER 24477               
+POS_FILETYPES 4989                
+POS_DOWNLOADS 5072                
+POS_OS 5120                
+POS_BROWSER 5370                
+POS_SCREENSIZE 6134                
+POS_UNKNOWNREFERER 6208                
+POS_UNKNOWNREFERERBROWSER 6838                
+POS_ORIGIN 7319                
+POS_SEREFERRALS 7453                
+POS_PAGEREFS 7624                
+POS_SEARCHWORDS 7805                
+POS_KEYWORDS 7957                
+POS_MISC 2390                
+POS_ERRORS 8016                
+POS_CLUSTER 3674                
+POS_SIDER_404 8119                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240905073831 170 36968 13098992789759
+FirstTime 20240901062242
+LastTime 20240905060518
+LastUpdate 20240905084041 170 0 170 0 0
+TotalVisits 65                  
+TotalUnique 59                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 59                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 8 63349 16 23 51710
+1 2 2 14662 12 15 29551
+2 3 3 26701 31 32 46103
+3 5 5 36666 11 13 33120
+4 10 10 65991 16 17 33427
+5 1 1 7330 28 29 48429
+6 8 8 51315 29 35 44686
+7 1 1 7334 31 35 55935
+8 4 4 29324 35 35 55945
+9 3 3 21996 30 31 38781
+10 3 3 21995 259 262 339925
+11 0 0 0 40 43 59864
+12 4 4 29329 18 22 30928
+13 4 4 21992 19 36 52023
+14 8 8 58660 31 34 48614
+15 0 0 0 22 23 27522
+16 6 6 43989 17 19 28601
+17 2 2 14664 5 7 13589
+18 6 6 67515 57 58 72549
+19 2 2 14660 31 32 40032
+20 0 0 0 29 31 44861
+21 6 6 43985 39 40 62199
+22 1 1 7334 16 17 27346
+23 4 4 29324 18 24 42183
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 33 33 239306
+ru 10 10 96846
+bg 10 10 73309
+gb 9 9 66003
+cn 8 8 58660
+jp 6 6 43984
+ip 4 4 14661
+ua 3 3 21992
+se 2 2 14664
+ca 2 2 14662
+de 2 2 14660
+mt 1 1 12037
+in 1 1 7331
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+bot[\s_+:,\.\;\/\\-] 8 63359 20240904071800 0
+AhrefsBot/ 6 48693 20240904231100 0
+YandexBot/ 4 34033 20240903122656 0
+no_user_agent 3 21995 20240903220646 0
+Go\-http\-client/ 3 21996 20240902210222 0
+crawl 3 21993 20240905073831 0
+MJ12bot/ 2 14661 20240904053004 0
+survey 1 7331 20240903111839 0
+[\s_+:,\.\;\/\\-]bot 1 7331 20240901041247 0
+bingbot/ 1 7331 20240901202750 0
+facebookexternalhit/ 1 7331 20240903065548 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 7331 20240901104756 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 91 678115 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+macosx 1 1
+ios_ipad 1 1
+android 1 1
+androidnougat 5 5
+Unknown 14 14
+ios_iphone 12 12
+linuxubuntu 2 2
+macosx12 1 1
+linux 2 2
+win10 41 41
+macosx15 5 5
+win8.1 3 3
+android10 2 2
+winnt 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 35
+chrome110.0.0.0 1 1
+chrome98.0.4758.102 1 1
+firefox63.0 2 2
+mozilla 10 10
+chrome76.0.3809.100 1 1
+chrome109.0.0.0 3 3
+chrome74.0.3729.169 2 2
+chrome121.0.0.0 1 1
+firefox126.0 1 1
+chrome80.0.3987.149 8 8
+chrome96.0.4664.110 1 1
+chrome126.0.6478.234 1 1
+chrome83.0.4103.116 1 1
+chrome127.0.0.0 1 1
+safari13.0.3 12 12
+chrome123.0.0.0 3 3
+Unknown 6 6
+chrome87.0.4280.88 1 1
+chrome106.0.0.0 1 1
+chrome129.0.0.0 1 1
+safari 1 1
+chrome89.0.4389.114 5 5
+chrome125.0.6422.41 1 1
+firefox108.0 1 1
+chrome78.0.3904.108 8 8
+opera112.0.0.0 1 1
+chrome105.0.0.0 1 1
+firefox115 1 1
+chrome126.0.0.0 3 3
+chrome124.0.6367.92 1 1
+chrome60.0.3112.107 5 5
+firefox88.0 2 2
+chrome91.0.4472.114 1 1
+firefox109.0 1 1
+chrome80.0.3987.162 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240903142952
+python-requests/2.28.1 20240904195744
+python-requests/2.32.3 20240904172237
+python-requests/2.26.0 20240903083729
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240901171250
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240904003410
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+python-requests/2.28.1 20240904195744
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240903142952
+python-requests/2.26.0 20240903083729
+python-requests/2.32.3 20240904172237
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 65 65
+From1 4 4
+From2 6 6
+From3 1 1
+From4 15 15
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+yandexcom 1 1
+yandexru 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://maltalottery.net:2086 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 7 8694
+404 868 1055844
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 377
+/images/xmrlpc.php 2 -
+//wp1/wp-includes/wlwmanifest.xml 8 -
+/nf_tracking.php 2 -
+/wp-includes/IXR/about.php 2 -
+/ajax-actions.php 2 -
+/wp-content/themes/twentyeleven/functions.php 1 -
+/test/ 2 -
+/bc 2 http://maltalottery.net/bc
+/backup/ 2 -
+/adminfuns.php7 2 -
+/bless.php 6 -
+/buy.php 1 -
+/about.php 8 -
+/wp-content/themes/twentytwenty/functions.php 1 -
+/plugins/content/apismtp/apismtp.php 1 -
+/wp-admin/images/xmrlpc.php 2 -
+/wp-admin/js/widgets/cloud.php 2 -
+/themes.php 1 -
+/_fragment 1 -
+/WordPress 1 www.google.com
+/wp-includes/js/jquery/jquery-migrate.min.js 2 -
+/wp-admin/xmrlpc.php 2 -
+/wp-content/db-cache.php 1 -
+/wp-admin/images/index.php 2 -
+/wp-content/updates.php 2 -
+//wp-includes/ID3/license.txt 8 -
+/wp-admin/maint/index.php 4 -
+/plugins/content/apismtp/apismtp.php.suspected 1 -
+/.well-known/pki-validation/about.php 2 -
+/Maltalottery 1 www.google.com
+/wp-content/plugins/moveto/assets/lib/loader_ajax.php 1 -
+/goat.php 2 -
+//wp-includes/css/dashicons.min.css 1 www.google.com
+/wp-admin/ajax-actions.php 2 -
+/wp-admin/network/wp-GhD3xj.php 2 -
+/class.api.php 1 -
+/profile.php 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 1 -
+/aws.yml 1 http://maltalottery.net/aws.yml
+//wp-admin/maint/wp-login.php 1 http://maltalottery.net//wp-admin/maint/wp-login.php
+/files/ 1 binance.com
+/_profiler/phpinfo.php 1 http://maltalottery.net/_profiler/phpinfo.php
+/wp-admin/js/about.php 4 -
+/dropdown.php 5 -
+/xmrlpc.php 2 -
+/Backup 1 www.google.com
+/install.php 1 -
+/wp-includes/about.php 2 -
+/post.php 1 -
+/wp-content/plugins/seoplugins/mar.php 2 -
+/img/xmrlpc.php 2 -
+/wp-includes/style-engine/about.php 2 -
+/wp-content/plugins/Cache/Cache.php 2 -
+/wp-aa.php 1 -
+/phpinfo 1 http://maltalottery.net/phpinfo
+/wp-includes/ID3/license.txt 2 -
+/blog/ 2 -
+/mini.php 1 -
+/cgi-bin/class_api.php 1 -
+/img/cloud.php 2 -
+/simple.php 10 -
+//wp-admin/user/wp-login.php 1 http://maltalottery.net//wp-admin/user/wp-login.php
+//wp-content/plugins/wp-login.php 1 http://maltalottery.net//wp-content/plugins/wp-login.php
+/cgi-bin/cloud.php 2 -
+/cloud.php 3 -
+/js/filemanager/dialog.php 1 -
+/wp-content/ 2 -
+/assets/admin/js/filemanager/dialog.php 1 -
+/wp-admin/maint/maint/ajax-actions.php 2 -
+/wp-content/banners/about.php 2 -
+/wp-admin/includes/class-custom-header.php 1 -
+/options.php 1 -
+/wp-admin/css/colors/xmrlpc.php 2 -
+/home 2 http://maltalottery.net/home
+/wp-consar.php 2 -
+/wp-admin/cloud.php 2 -
+/wp-ver.php 1 www.google.com
+/wp-admin/includes/about.php 2 -
+/SHOP 1 www.google.com
+/wp-content/plugins/root-file-manager/wp-file.php 3 www.google.com
+/wp-admin/includes/xmrlpc.php 2 -
+/wp-content/plugins/social-networking-e-commerce-1/classes/views/social-photo/upload_photo1.php 1 -
+/xyamievl.php 1 www.google.com
+/ads.txt 1 http://www.maltalottery.net/ads.txt
+/%5C/taipolottery.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 1 -
+/configs.php 1 -
+/wp-content/plugins/advert-manager-plugin/upload-file.php 1 -
+/wp-content/themes/jaida/lang.php 3 www.google.com
+/img/about.php 2 -
+/wp-content/plugins/admin.php 1 -
+/wp-content/plugins/instawp-connect/readme.txt 1 -
+/function.php 1 -
+/.env 15 -
+/atomlib.php 2 -
+/wp-login.php 13 -
+/test.php 1 http://maltalottery.net/test.php
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 1 -
+/wp-includes/blocks/about.php 2 -
+/admin.php 9 -
+//cgi-bin/wp-login.php 1 http://maltalottery.net//cgi-bin/wp-login.php
+/wp-emoji-release.min.js 2 -
+//wp-json/oembed/1.0/embed 5 -
+/jp.php 1 -
+/forum 1 www.google.com
+/wp-content/plugins/index.php 1 -
+/wp-activate.php 1 -
+/assets/administrator/filemanager/dialog.php 1 -
+/BACKUP 1 www.google.com
+/wp-content/themes/pridmag/db.php 2 -
+/wp-content/upgrade-temp-backup/about.php 2 -
+/bak.php 1 -
+/security.txt 1 http://www.maltalottery.net/security.txt
+/radio.php 2 -
+//wp-admin/css/wp-login.php 1 http://maltalottery.net//wp-admin/css/wp-login.php
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 1 -
+/wp-content/themes/twentythirteen/functions.php 1 -
+/wp-json/wp/v2/plugins 1 -
+//wp-content/plugins/classic-editor/wp-login.php 1 http://maltalottery.net//wp-content/plugins/classic-editor/wp-login.php
+//wp-admin/includes/wp-login.php 1 http://maltalottery.net//wp-admin/includes/wp-login.php
+/wp-p.php7 2 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/item.php 1 -
+/wp-content/themes/noo-jobmonster/assets/css/noo.css 1 -
+/wp-includes/widgets/about.php 2 -
+/wp-content/plugins/about.php 2 -
+/wp-includes.bak/html-api/about.php 2 -
+/uploads/ 1 binance.com
+/wp-admin/css/ 1 binance.com
+//wp-includes/certificates/wp-login.php 1 http://maltalottery.net//wp-includes/certificates/wp-login.php
+/wp-sigunq.php 1 -
+/alfa-rex.php7 2 -
+/.well-known/security.txt 1 http://www.maltalottery.net/.well-known/security.txt
+/wp-content/plugins/wp-theme-editor/include.php 2 -
+//2019/wp-includes/wlwmanifest.xml 8 -
+/mah.php 7 -
+//.tmb/wp-login.php 1 http://maltalottery.net//.tmb/wp-login.php
+/css/index.php 6 -
+/_profiler/phpinfo 1 http://maltalottery.net/_profiler/phpinfo
+/wp-content/blogs.dir/about.php 2 -
+/wp-content/plugins/envato-market/inc/class-envato-market-api.php 1 -
+/classwithtostring.php 1 -
+/wp-admin/admin.php 1 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/lock.php 1 -
+/wp-admin/network/xmrlpc.php 2 -
+/wp-admin/css/about.php 2 -
+/wp-links.php 1 -
+/wordpress 3 www.google.com
+/maltalottery 1 www.google.com
+//2020/wp-includes/wlwmanifest.xml 8 -
+/wsoyanz.php 2 -
+/wp-content/updraft/about.php 2 -
+//wp-includes/IXR/wp-login.php 1 http://maltalottery.net//wp-includes/IXR/wp-login.php
+//2021/wp-includes/wlwmanifest.xml 8 -
+/wp-plain.php 1 www.google.com
+/wp-admin/js/widgets/about.php7 2 -
+/wp-content/plugins/wp-help/mini.php 3 www.google.com
+/yanz.php 2 -
+/login 1 -
+/wp-content/plugins/hb-audio-gallery/lib/upload_picture.php 1 -
+/sites/default/files/ 1 binance.com
+/wp-content/themes/oceanwp/functions.php 1 -
+/shop 1 www.google.com
+/wp-content/plugins/wp-sec/wp.php 1 -
+//images/wp-login.php 1 http://maltalottery.net//images/wp-login.php
+/wp-admin/css/colors/index.php 2 -
+/wp-content/plugins/wp-automatic/inc/csv.php 1 -
+//wp-content/languages/wp-login.php 1 http://maltalottery.net//wp-content/languages/wp-login.php
+/.well-known/about.php 2 -
+/cgi-bin/about.php 2 -
+/search.php 1 -
+/media/system/js/core.js 2 http://maltalottery.net/media/system/js/core.js
+//wp-json/wp/v2/users/ 5 -
+/alfanew.php 2 -
+/pages.php 1 -
+/alfa-rex2.php7 2 -
+/wp-content/plugins/wc-multivendor-marketplace/readme.txt 1 -
+/assets/filemanager/dialog.php 1 -
+/alfanew.php7 2 -
+/goat11.PhP7 1 -
+/xmlrpc.php 74 -
+//wordpress/wp-includes/css/dashicons.min.css 1 www.google.com
+/STORE 1 www.google.com
+/css/cloud.php 2 -
+/temp/ 2 -
+/wp-includes/assets/index.php 2 -
+/wp-admin/user/cloud.php 2 -
+/wp-includes/pomo/index.php 3 -
+/alfanew2.php7 2 -
+/chosen.php 7 -
+//wp-includes/pomo/wp-login.php 1 http://maltalottery.net//wp-includes/pomo/wp-login.php
+//site/wp-includes/wlwmanifest.xml 8 -
+/wp/xmlrpc.php 2 -
+/demo 1 www.google.com
+//wp-admin/network/wp-login.php 1 http://maltalottery.net//wp-admin/network/wp-login.php
+/old/xmlrpc.php 1 -
+/wp-includes/SimplePie/about.php 2 -
+/updates.php 2 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 1 -
+/wp-admin/css/colors/blue/cloud.php 2 -
+/new/xmlrpc.php 1 -
+/wp-includes/ID3/ 6 -
+/privacy.php 1 -
+//cdn.js 1 -
+/backup 3 www.google.com
+/wp-includes/Requests/Text/admin.php 2 -
+/index.php 5 -
+//.well-known/acme-challenge/wp-login.php 1 http://maltalottery.net//.well-known/acme-challenge/wp-login.php
+/.well-known/pki-validation/class_api.php 1 -
+/wp-content/plugins/apikey/apikey.php.suspected 1 -
+/wp-includes/certificates/index.php 1 -
+//taipolottery.com/wp-content/themes/lottery_taipo/assets/js/lottery.js 1 -
+/%5C/s.w.org%5C/images%5C/core%5C/emoji%5C/14.0.0%5C/72x72%5C/%22,%22ext%22:%22.png%22,%22svgUrl%22:%22https:%5C/%5C/s.w.org%5C/images%5C/core%5C/emoji%5C/14.0.0%5C/svg%5C/%22,%22svgExt%22:%22.svg%22,%22source%22:%7B%22concatemoji%22:%22https:%5C/%5C/taipo 1 -
+/users.php 1 -
+/wp-content/plugins/give/readme.txt 1 -
+/wp-content/plugins/wp-catcher/index.php 2 www.google.com
+/wp-json/wp/v2/users 1 -
+/libraries/legacy/updates.php 2 -
+/wp-checkbex.php 1 -
+/geju.php 1 -
+/wp-add.php 4 www.google.com
+/administrator/language/en-GB/en-GB.xml 2 -
+/admin/ 1 -
+/admin/filemanager/dialog.php 1 -
+/assets/plugins/filemanager/dialog.php 1 -
+/classsmtps.php 1 -
+/wp-includes/Requests/about.php 2 -
+/wp-content/themes/deeds/framework/helpers/fontupload.php 1 -
+/wp-admin/user/xmrlpc.php 2 -
+//wp/wp-includes/wlwmanifest.xml 8 -
+/wp-hudbud.php 1 -
+/repeater.php 2 -
+/wp/ 2 -
+/goods.php 1 -
+//blog/wp-includes/wlwmanifest.xml 8 -
+/WORDPRESS 1 www.google.com
+/wp.php 2 -
+/ws.php7 2 -
+/wordpress/xmlrpc.php 2 -
+/wp-content/repeater.php 2 -
+/wp-content/plugins/pwnd/pwnd.php 3 www.google.com
+/wp-admin/css/index.php 2 -
+/.well-known/pki-validation/xmrlpc.php 2 -
+/bk 2 http://maltalottery.net/bk
+/admin-post.php 2 -
+/wp-includes/wp-includes_function.php 1 -
+/wp-includes/pomo/about.php 2 -
+/old 3 www.google.com
+/wp-includes/ID3/about.php 2 -
+/wp-content/plugins/grapefile/grapeupload2.php 1 -
+/new 3 www.google.com
+/store 1 www.google.com
+/moon.php 1 -
+/hoot.php 1 -
+/wp-configs.php 1 -
+/css/xmrlpc.php 2 -
+/wp-content/plugins/linkpreview/db.php 2 -
+/wp-includes/sodium_compat/index.php 2 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/images/ 1 binance.com
+/wp-includes/IXR/index.php 1 -
+/style.php 1 -
+//wp-includes/wlwmanifest.xml 5 -
+/wp-content/plugins/easy2map-photos/includes/MapPinIconSave.php 1 -
+/input.php 1 -
+/wp-GhD3xj.php 2 -
+/wp-admin/css/colors/cloud.php 2 -
+/WP 1 www.google.com
+/edit.php 2 -
+/wp-conflg.php 1 -
+/wp 3 www.google.com
+/wp-includes/customize/about.php 2 -
+//feed/ 8 -
+/wp-includes/images/about.php 2 -
+/click.php 1 -
+//wp-admin/images/wp-login.php 1 http://maltalottery.net//wp-admin/images/wp-login.php
+/class_api.php 1 -
+/wp-includes/block-patterns/about.php 2 -
+/.env.bak 1 http://maltalottery.net/.env.bak
+/wordpress/ 2 -
+/test 1 www.google.com
+/libraries/vendor/updates.php 2 -
+/about.php7 2 -
+/wp-theme.php 1 -
+/ebs.php7 2 -
+/autoload_classmap.php 1 -
+/log.php 1 -
+/sitemap.xml 1 -
+/images/about.php 2 -
+/wp-content/languages/about.php 2 -
+/cong.php 1 -
+/wp-includes/option-module.php 1 -
+/content.php 1 -
+//web/wp-includes/wlwmanifest.xml 8 -
+//xmlrpc.php 13 -
+/wp-the1me.php 1 -
+/filemanager/dialog.php 1 -
+/wp-admin/includes/cloud.php 2 -
+/wp-includes/css/buttons.css 2 http://maltalottery.net/wp-includes/css/buttons.css
+//cms/wp-includes/wlwmanifest.xml 8 -
+/info.php 1 http://maltalottery.net/info.php
+/wp-admin/js/widgets/xmrlpc.php 2 -
+/robots.txt 29 -
+/wp-content/about.php 4 -
+/lock360.php 1 -
+/plugin.php 1 -
+/wp-content/plugins/core-plugin/include.php 1 -
+/wp-content/themes/teamwork/upload/upload.php 1 -
+/blog/xmlrpc.php 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/wp-admin/images/cloud.php 2 -
+//wordpress/wp-includes/wlwmanifest.xml 8 -
+/wp-admin/css/colors/coffee/cloud.php 2 -
+/product.php 1 -
+/wp-content/plugins/wpcall-button/button-image.php 1 -
+/wp-content/index.php 2 -
+/worksec.php 1 -
+/wp-content/gallery/about.php 2 -
+/admin/controller/extension/extension/ 1 binance.com
+/.idea/workspace.xml 1 -
+/wp-admin/setup-config.php 1 -
+/wp-includes/rest-api/about.php 2 -
+/wp-atom.php 1 -
+/makeasmtp.php 1 -
+/cgi-bin/xmrlpc.php 2 -
+//wp-includes/customize/wp-login.php 1 http://maltalottery.net//wp-includes/customize/wp-login.php
+/wp-admin/js/widgets/class.api.php 1 -
+/wp-content/plugins/wp-ecommerce-cvs-importer/upload/upload-file.php 1 -
+/wp-admin/repeater.php 2 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 1 -
+/wp-content/themes/about.php 2 -
+/wp-content/plugins/ph-file-manager/wp-file.php 3 www.google.com
+/libraries/phpmailer/updates.php 2 -
+/wp-admin/dropdown.php 2 -
+/wp-head.php 1 -
+/wp-admin/install.php 1 -
+//.well-known/pki-validation/wp-login.php 1 http://maltalottery.net//.well-known/pki-validation/wp-login.php
+/wp-admin/network/cloud.php 2 -
+/.well-known/pki-validation/cloud.php 2 -
+/network.php 1 -
+/wp-includes/Text/about.php 2 -
+/wp-content/plugins/cost-calculator-builder/demo-sample/cost_calculator_data.txt 2 -
+//test/wp-includes/wlwmanifest.xml 8 -
+/wp-admin/css/colors/blue/xmrlpc.php 2 -
+/blog 1 www.google.com
+/.well-known/ 1 binance.com
+/wp-content/plugins/seoo/wsoyanz.php 2 -
+/ova.php 2 -
+/old/ 2 -
+/new/ 2 -
+/wp-admin/css/colors/coffee/xmrlpc.php 2 -
+/link.php 1 -
+/special.php 1 -
+/wp-content/plugins/wpe-indoshipping/admin/upload-file.php 1 -
+/humans.txt 1 http://www.maltalottery.net/humans.txt
+/wp-content/themes/seotheme/mar.php 2 -
+//shop/wp-includes/wlwmanifest.xml 8 -
+/shop.php 1 -
+//wp-includes/fonts/wp-login.php 1 http://maltalottery.net//wp-includes/fonts/wp-login.php
+/wp-content/themes/index.php 1 -
+//taipolottery.com/wp-content/themes/lottery/assets/js/flipclock.js 1 -
+/wp-content/plugins/seoo/wsoyanz1.php 2 -
+/wp-content/plugins/seoplugins/db.php 2 -
+/images/cloud.php 2 -
+/wp-content/themes/travel/issue.php 3 www.google.com
+/wp-admin/images/class.api.php 1 -
+/wp-admin/images/about.php 2 -
+/wp-content/themes/kadence/functions.php 1 -
+/wp-content/plugins/fix/up.php 3 www.google.com
+/main 2 http://maltalottery.net/main
+/cache-compat.php 2 -
+/wp-content/plugins/shell/about.php 3 www.google.com
+/avaa.php 2 -
+/wp-includes/repeater.php 2 -
+/login.php 1 -
+/wp-content/themes/seotheme/db.php 4 -
+/FORUM 1 www.google.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 59
+128.199.210.206 8 8 58672 20240902043757
+149.56.150.40 6 6 48688 20240904003345
+94.156.66.186 5 5 36655 20240902212350
+91.92.244.110 4 4 29324 20240903160126
+4.247.168.79 4 4 29336 20240902145430
+34.209.169.247 3 3 21990 20240904062225
+154.38.180.55 3 3 21995 20240904183806
+43.153.93.68 2 2 14662 20240903001734
+176.97.122.93 2 2 14662 20240903091640
+154.38.187.100 2 2 14660 20240904232606
+162.19.77.8 2 2 14660 20240905040539
+194.163.137.108 2 2 14660 20240904125055
+38.242.247.242 2 2 14660 20240904195744
+94.232.247.194 1 1 7331 20240903144453
+180.102.134.69 1 1 7334 20240902103022
+123.160.223.75 1 1 7334 20240902120805
+167.94.145.101 1 1 7331 20240901164230
+2001:19f0:ac00:4c22:5400:5ff:fe15:2ae2 1 1 0 20240903065329
+38.18.24.2 1 1 0 20240903044713
+93.158.91.237 1 1 7334 20240902163930
+5.133.192.133 1 1 7330 20240905053736
+34.27.101.225 1 1 7331 20240901062242
+185.5.48.152 1 1 12037 20240902023633
+137.184.225.165 1 1 7330 20240904021718
+95.29.237.87 1 1 12037 20240903182035
+43.130.37.62 1 1 7330 20240904033007
+188.143.169.41 1 1 7334 20240901233513
+198.235.24.177 1 1 7331 20240903045601
+49.51.72.76 1 1 7330 20240905060518
+79.173.88.110 1 1 12037 20240901182137
+3.249.138.188 1 1 7331 20240903011554
+185.119.0.113 1 1 12037 20240901182137
+45.148.10.59 1 1 7331 20240903133331
+117.33.163.216 1 1 7334 20240901222829
+94.228.169.182 1 1 7331 20240903083729
+162.142.125.202 1 1 7334 20240901171250
+2a00:6800:3:7bc::1 1 1 7331 20240901142606
+80.251.234.236 1 1 12037 20240903181857
+2a01:8640:a::1709:91f5 1 1 7330 20240904214240
+43.131.249.153 1 1 7331 20240901082451
+77.232.41.55 1 1 7334 20240902043639
+182.42.105.144 1 1 7330 20240905045236
+62.182.81.85 1 1 7330 20240904234838
+147.185.132.168 1 1 7331 20240903142952
+15.236.43.75 1 1 7331 20240901082558
+128.199.27.245 1 1 7331 20240903011100
+185.119.1.29 1 1 12037 20240903181803
+198.235.24.116 1 1 7331 20240903134906
+49.51.47.100 1 1 7330 20240903194612
+2001:19f0:9002:529:5400:5ff:fe14:e8b4 1 1 0 20240902132246
+165.232.36.4 1 1 7334 20240902021148
+43.163.0.99 1 1 7330 20240904135846
+93.159.230.87 1 1 7331 20240901101513
+49.51.233.46 1 1 7334 20240902072457
+123.160.223.74 1 1 7334 20240902120807
+149.56.150.108 1 1 7330 20240904003410
+128.90.170.14 1 1 7334 20240902060036
+43.130.7.211 1 1 7331 20240903123017
+94.156.66.165 1 1 7330 20240904105410
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20240901 13 13 104724 13
+20240902 28 28 202706 15
+20240903 22 22 160737 18
+20240904 23 23 173298 15
+20240905 5 5 36650 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 1
+0s-30s 64
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 69 483871 56 51
+// 14 102654 3 8
+/history-result/ 7 84259 6 6
+/live-draw/ 1 7331 0 0
+END_SIDER

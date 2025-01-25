@@ -1,0 +1,1618 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202406 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.swissprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2042                
+POS_TIME 2720                
+POS_VISITOR 36341               
+POS_DAY 48350               
+POS_DOMAIN 3537                
+POS_LOGIN 4142                
+POS_ROBOT 4297                
+POS_WORMS 5033                
+POS_EMAILSENDER 5164                
+POS_EMAILRECEIVER 5307                
+POS_SESSION 49149               
+POS_SIDER 49327               
+POS_FILETYPES 5442                
+POS_DOWNLOADS 5528                
+POS_OS 5576                
+POS_BROWSER 5981                
+POS_SCREENSIZE 8038                
+POS_UNKNOWNREFERER 8112                
+POS_UNKNOWNREFERERBROWSER 9306                
+POS_ORIGIN 9990                
+POS_SEREFERRALS 10128               
+POS_PAGEREFS 10297               
+POS_SEARCHWORDS 10445               
+POS_KEYWORDS 10597               
+POS_MISC 2384                
+POS_ERRORS 10656               
+POS_CLUSTER 3998                
+POS_SIDER_404 10762               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240701002134 94 14886 8040207492538
+FirstTime 20240601014700
+LastTime 20240630233215
+LastUpdate 20240701084003 94 0 93 0 0
+TotalVisits 396                 
+TotalUnique 304                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 304                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 20 20 433658 21 33 138584
+1 76 76 1205694 612 818 1438021
+2 22 22 365599 64 82 290100
+3 28 28 740840 37 56 319032
+4 39 39 640666 98 118 414285
+5 13 13 203410 36 84 171668
+6 23 23 324292 43 50 267284
+7 10 10 205891 41 74 194450
+8 7 7 139435 36 56 195587
+9 23 23 712953 37 46 78731
+10 20 20 529224 39 45 110407
+11 22 22 516495 32 42 263072
+12 18 18 378811 47 54 282448
+13 23 23 274425 46 61 181914
+14 26 26 453050 79 91 223962
+15 12 12 243490 50 55 123043
+16 28 28 468713 49 55 230689
+17 17 17 314034 18 27 109438
+18 23 23 549557 20 29 38150
+19 20 20 338540 279 326 793964
+20 25 25 406305 41 66 301728
+21 18 18 2419418 49 68 331039
+22 14 14 447322 42 50 262734
+23 16 16 153103 44 51 125021
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 27
+us 255 255 6126404
+ca 55 55 2234025
+cn 50 50 547610
+nl 24 24 364537
+jp 22 22 296870
+gb 19 19 334674
+ru 16 16 439162
+de 16 16 361565
+se 11 11 113319
+fr 10 10 103030
+kh 10 10 73243
+lb 7 7 315280
+in 6 6 61786
+au 6 6 200753
+be 5 5 51491
+ch 4 4 180156
+ph 4 4 41182
+cz 4 4 110671
+eu 4 4 111486
+gr 4 4 41208
+ro 3 3 100377
+pa 2 2 20602
+sa 2 2 90080
+it 1 1 10295
+kz 1 1 45040
+bg 1 1 45039
+ua 1 1 45040
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+bot[\s_+:,\.\;\/\\-] 48 829993 20240625190416 0
+no_user_agent 33 1406528 20240630111730 0
+Googlebot/ 29 187200 20240630034816 0
+zoominfobot 26 829756 20240630223531 0
+MJ12bot/ 21 170941 20240630063507 0
+AhrefsBot/ 21 342805 20240630225858 0
+(firefox/)([0-9]\.|[0-1][0]\.) 19 220165 20240630214244 0
+Applebot/ 3 101203 20240610175151 0
+survey 2 90078 20240604195054 0
+curl 1 10289 20240630152219 0
+Go\-http\-client/ 1 45040 20240630072107 0
+SemrushBot/ 1 10296 20240628175538 0
+baidu 1 10303 20240603081518 0
+CCBot/ 1 8142 20240619200040 0
+bingbot/ 1 8141 20240615023316 0
+crawl 1 10294 20240607072501 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 543 12464925 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 25
+macosx14 1 1
+ios_iphone 59 59
+androidmarshmallow 1 1
+win10 213 213
+win98 1 1
+winxp 4 4
+macosx 3 3
+winlong 1 1
+win7 14 14
+android 1 1
+macosx11 5 5
+winvista 1 1
+win8.1 1 1
+android10 6 6
+winnt 4 4
+linux 37 37
+androidnougat 2 2
+androidkitkat 1 1
+macosx9 1 1
+linuxubuntu 4 4
+unix 1 1
+macosx15 102 102
+macosx13 2 2
+Unknown 77 77
+androidoreo 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 101
+chrome68.0.3134.151 1 1
+safari17.1.2 1 1
+chrome99.0.1508 1 1
+chrome96.0.4664.110 4 4
+safari16.5.2 1 1
+opera89.0.4447.51 12 12
+firefox49.0 1 1
+chrome113.0.0.0 1 1
+chrome104.0.1583 1 1
+vodafone 1 1
+chrome47.0.1011.269 1 1
+msie11.0 2 2
+firefox108.0 3 3
+chrome91.0.4472.114 3 3
+chrome121.0.0.0 33 33
+firefox99.0 1 1
+firefox123.0 1 1
+chrome87.0.4280.88 3 3
+firefox126.0 1 1
+safari 2 2
+firefox114.0 2 2
+chrome122.0.0.0 15 15
+chrome107.0.0.0 40 40
+firefox122.0 2 2
+chrome88.0.4324.192 4 4
+chrome63.0.3239.84 4 4
+chrome124.0.0.0 5 5
+safari10.0 1 1
+mozilla 23 23
+chrome115.0.0.0 1 1
+edge16 1 1
+chrome116.0.0.0 5 5
+safari14.0 1 1
+chrome80.0.3987.162 1 1
+safari17.0 4 4
+chrome74.0.3729.169 17 17
+firefox33.0 1 1
+chrome104.0.0.0 3 3
+chrome106.0.203 1 1
+firefox72.0 1 1
+chrome118.0.0.0 2 2
+firefox52.0 6 6
+chrome75.0.3770.143 1 1
+chrome78.0.3449.88 1 1
+chrome79.0.3945.130 2 2
+firefox119.0 1 1
+chrome60.0.3112.90 1 1
+msie5.0 1 1
+chrome81.0.4044.129 2 2
+opera102.0.0.0 2 2
+chrome103.0.5060.53 1 1
+chrome104.0.5112.79 1 1
+safari4.0.5 1 1
+msie6.0 2 2
+chrome63.0.3239.132 1 1
+chrome74.0.2473 1 1
+chrome74.0.3729.131 1 1
+chrome5.0.353.0 1 1
+chrome119.0.0.0 1 1
+chrome100.0.4896.60 21 21
+msie9.0 1 1
+firefox73.0 1 1
+firefox118.0 4 4
+safari13.0.3 50 50
+chrome93.0.4577.63 2 2
+chrome68.0.1642 1 1
+chrome71.0.2623.112 1 1
+chrome78.0.3904.108 27 27
+chrome75.0.3770.100 1 1
+chrome120.0.0.0 2 2
+chrome81.0.4044.92 1 1
+chrome83.0.4103.97 4 4
+chrome30.0.1599.114 1 1
+chrome126.0.0.0 8 8
+chrome125.0.0.0 60 60
+firefox83.0 1 1
+chrome76.0.3809.100 2 2
+chrome59.0.1415 1 1
+chrome108.0.0.0 4 4
+edge13 1 1
+chrome114.0.0.0 6 6
+chrome100.0.4896.127 1 1
+chrome88.0.4240.193 2 2
+firefox45.0 1 1
+chrome112.0.0.0 2 2
+chrome120.0.6099.71 1 1
+firefox117.0 9 9
+netscape5.0 5 5
+chrome80.0.3987.149 4 4
+chrome51.0.2704.103 4 4
+chrome117.0.0.0 9 9
+chrome60.0.3112.107 1 1
+chrome55.0.2652.166 1 1
+chrome19.0.1084.9 1 1
+Unknown 49 49
+chrome106.0.0.0 1 1
+firefox120.0 4 4
+chrome105.0.0.0 6 6
+chrome76.0.3809.89 1 1
+chrome90.0.4430.85 5 5
+firefox115 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 16
+Vodafone/1.0/V802SE/SEJ001_Browser/SEMC-Browser/4.1 20240608131609
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240617043106
+python-requests/2.26.0 20240627081505
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240620174621
+python-requests/2.32.2 20240615170232
+python-requests/2.28.2 20240606044105
+req/v3_(https://github.com/imroc/req) 20240624180812
+python-requests/2.32.3 20240629010349
+Python/3.8_aiohttp/3.9.5 20240628204825
+Mozilla/5.0_(compatible;_Example3/1.0;__https://www.example3.com/domain/swissprize.com) 20240623222441
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240630181140
+GlobalWebSearchx 20240628142300
+Mozilla/5.0 20240613122300
+Python/3.9_aiohttp/3.8.3 20240622022638
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240627185252
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240607213747
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 9
+python-requests/2.32.3 20240629010349
+req/v3_(https://github.com/imroc/req) 20240624180812
+python-requests/2.28.2 20240606044105
+python-requests/2.32.2 20240615170232
+python-requests/2.26.0 20240627081505
+Python/3.8_aiohttp/3.9.5 20240628204825
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240627185252
+Python/3.9_aiohttp/3.8.3 20240622022638
+GlobalWebSearchx 20240628142300
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 409 409
+From1 8 8
+From2 2 2
+From3 0 0
+From4 124 124
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google_com 1 1
+baidu 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 45 55890
+404 2152 2548287
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 859
+/assets.php 2 -
+/wp-pluploads.php 2 -
+/contract.html 2 -
+/wp-includes/js/tinymce/plugins/wordpress/radio.php 1 -
+/tokens 2 -
+/tron 2 -
+/wp-includes/blocks/nextpage/radio.php 1 -
+/submit.html 2 -
+/wp-includes/js/tinymce/plugins/link/radio.php 1 -
+/jquery-file-upload/server/php/index.php 1 -
+/wp-ver.php 3 swissprize.com
+/wp-includes/pomo/radio.php 1 -
+/fund_account_btc 2 -
+/wp-admin/css/colors/blue/radio.php 1 -
+/dashboard/deposit 2 -
+/wp-includes/js/tinymce/plugins/hr/radio.php 1 -
+/signup.js 2 -
+/ads.txt 3 http://www.swissprize.com/ads.txt
+/wp-includes/blocks/rss/radio.php 1 -
+/signin.js 2 -
+/online.js 2 -
+/api.php 1 -
+/payments.html 2 -
+/new 16 http://swissprize.com/new
+/wp-json/wc/store/products/collection-data 2 -
+/get 2 -
+/wp-includes/js/tinymce/plugins/charmap/radio.php 1 -
+/dashboard/payment.php 2 -
+/wp-admin/includes/radio.php 1 -
+/ayk.php 1 -
+/ccx/radio.php 1 -
+/wp-json/wp/v2/users 4 -
+/wp-admin/css/colors/radio.php 1 -
+/wp-includes/css/dist/widgets/radio.php 1 -
+/utils.php 2 -
+/simple.php 2 http://swissprize.com/simple.php
+/wp-includes/css/dist/format-library/radio.php 1 -
+/wp-includes/sodium_compat/namespaced/Core/radio.php 1 -
+/doge 2 -
+/wp-includes/js/jquery/radio.php 1 -
+/wp-includes/js/tinymce/langs/radio.php 1 -
+/wp-includes/blocks/paragraph/radio.php 1 -
+/wp-includes/images/radio.php 1 -
+/fund_account_eth.php 2 -
+/wp-includes/blocks/missing/radio.php 1 -
+/php-cgi/php-cgi.exe 1 -
+/tokens.php 2 -
+/assets 2 -
+/fund.php 2 -
+/wp-includes/sodium_compat/src/Core/Curve25519/radio.php 1 -
+/assets/server/php/index.php 1 -
+/uploads/ 5 binance.com
+/withdraws 2 -
+/plugins/content/apismtp/apismtp.php 1 -
+/usdt.html 2 -
+/html2.php 2 -
+/wp-includes/sitemaps/radio.php 1 -
+/fund_account.js 2 -
+/inputs.php 4 swissprize.com
+/wp-json 10 -
+/wp-includes/blocks/html/radio.php 1 -
+/author/admim/ 1 -
+/wp-includes/blocks/post-featured-image/radio.php 1 -
+/borrow.js 2 -
+/chosen.php 7 -
+/wp-includes/fonts/radio.php 1 -
+/admin/assets/plugins/plupload/examples/upload.php 1 -
+/yjronmsc.php 1 www.google.com
+/wp-includes/js/jcrop/radio.php 1 -
+/dash/deposits.js 2 -
+/wp-includes/blocks/page-list/radio.php 1 -
+/check_deposit 2 -
+/wp-content/themes/radio.php 1 -
+/wp-includes/images/include.php 10 -
+//swedenlotteri.com/wp-content/themes/lottery/assets/js/flipclock.js 13 -
+/options.php 1 -
+/wp-includes/js/tinymce/plugins/compat3x/css/radio.php 1 -
+/source.php 2 -
+/users.html 2 -
+/wp-includes/css/dist/block-library/radio.php 1 -
+/admin 3 -
+/fund_account 2 -
+/wp-content/plugins/loader.php 1 -
+/wp-content/themes/travel/issue.php 1 -
+/wp-includes/blocks/site-title/radio.php 1 -
+/wp-includes/sodium_compat/namespaced/Core/Poly1305/radio.php 1 -
+/profile.php 2 -
+/js/_system/jQuery-File-Upload/server/php/index.php 1 -
+/wp-includes/blocks/embed/radio.php 1 -
+/wp-content/ 2 -
+/html.php 2 -
+/source 2 -
+/wp-json/wp/v2/users/5 1 https://swissprize.com/
+/dash/payments.php 2 -
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 3 -
+/wp-content/plugins/salon-booking-system/css/cancel-booking-rtl.css 1 -
+/radio.php 1 -
+/mine.html 2 -
+/author/stender/ 2 -
+/airdrop.php 2 -
+/wp-includes/blocks/freeform/radio.php 1 -
+/wp-content/themes/seotheme/db.php 4 www.google.com
+/panel 2 -
+/wp-head.php 2 -
+/dash/payments.html 2 -
+/trx.html 2 -
+/wp-includes/blocks/table/radio.php 1 -
+/transactions.html 2 -
+/login.js 2 -
+/wp-admin/css/ 5 binance.com
+/dup-installer/main.installer.php 1 http://swissprize.com/dup-installer/main.installer.php
+/wallet.js 2 -
+/transactions.php 2 -
+/wp-includes/js/tinymce/plugins/colorpicker/radio.php 1 -
+/trx.php 2 -
+/wp-content/plugins/include.php 17 -
+/author/wp-import-user/ 1 -
+/wp-includes/css/dist/list-reusable-blocks/radio.php 1 -
+/.well-known/radio.php 1 -
+/bnb.js 2 -
+/wp-includes/Text/Diff/radio.php 1 -
+/wp-includes/blocks/video/radio.php 1 -
+//cdn.js 13 -
+/wp-includes/SimplePie/XML/Declaration/radio.php 1 -
+/deposit-money.js 2 -
+/wp-json/wp/v2/users/2 1 https://swissprize.com/
+/portal.html 2 -
+/wp-admin/wp-wordpress.php 1 http://swissprize.com
+/blog/wp-admin/install.php 2 -
+/mint 2 -
+/wp-includes/blocks/query-title/radio.php 1 -
+/wp-includes/blocks/query/radio.php 1 -
+/login 2 -
+/author/wpadminns/ 1 -
+/withdraw.php 2 -
+/investing 2 -
+/payment-details 2 -
+/csqlavjv.php 1 www.google.com
+/mine.js 2 -
+/wp-content/plugins/about.php 1 -
+/dash/deposit.js 2 -
+/wp-includes/css/dist/customize-widgets/radio.php 1 -
+/recieve 2 -
+/sites/all/libraries/openwysiwyg/addons/imagelibrary/insert_image.php 1 -
+/dashboard.html 2 -
+/hoot.php 1 -
+/change.php 2 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 3 -
+/test.php 1 -
+/wp-admin/images/radio.php 1 -
+/airdrop.html 2 -
+//wp-json/oembed/1.0/embed 8 -
+/new/wp-admin/install.php 2 -
+//swedenlotteri.com/wp-content/themes/lottery/assets/css/flipclock.css 2 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 1 www.google.com
+/dapp 2 -
+/panel.js 2 -
+/trading 2 -
+/change 2 -
+/index.php 20 -
+/wp-checkbex.php 2 -
+/admin.js 2 -
+/sendgrid/.env 1 -
+/wp-includes/js/plupload/radio.php 1 -
+/admin/login.php 1 -
+/profile.html 2 -
+/payment-details.js 2 -
+/%5C/swedenlotteri.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 3 -
+/wp-includes/js/jquery/ui/radio.php 1 -
+/swap.php 2 -
+/admin/jquery-file-upload/server/php/index.php 1 -
+/wp-content/plugins/core-plugin/include.php 7 -
+/wp-includes/Requests/Exception/Transport/radio.php 1 -
+/wp-includes/rest-api/endpoints/radio.php 1 -
+/trading.js 2 -
+/wp-includes/blocks/preformatted/radio.php 1 -
+/investment.html 2 -
+/wp-includes/blocks/latest-comments/radio.php 1 -
+/.wp-cli/radio.php 1 -
+/recieve.js 2 -
+/dash 2 -
+/buy.php 2 -
+/asset.html 2 -
+/wp-on.php 2 -
+/wp-includes/rest-api/radio.php 1 -
+/author/Sendsdesr/ 1 -
+/admin/controller/extension/extension/ 5 binance.com
+/omments-post.php 2 -
+/deposit-money 2 -
+/wp-includes/block-supports/radio.php 1 -
+/wp-includes/blocks/site-tagline/radio.php 1 -
+/wp-includes/blocks/archives/radio.php 1 -
+/wp-includes/blocks/post-title/radio.php 1 -
+/dogecoin.php 2 -
+/manual.php 2 -
+/assets/plugins/elfinder/connectors/php/connector.php 1 -
+/javascript.js 2 -
+/buy.html 2 -
+/cxwlcms.php 1 -
+/uninstall.php 2 -
+/usdt.js 2 -
+/dashboard/payments 2 -
+/wp-includes/SimplePie/Decode/HTML/radio.php 1 -
+/manual 2 -
+/client.html 2 -
+/wp-atom.php 3 -
+/shop 1 -
+/wp-includes/js/tinymce/themes/modern/radio.php 1 -
+/plupload/examples/upload.php 1 -
+/wp-content/plugins/apikey/apikey.php.suspected 1 -
+/dash/deposit 2 -
+/wp-includes/blocks/social-link/radio.php 1 -
+/author/admim 1 -
+/ethereum.html 2 -
+/token.html 2 -
+/dashboard/deposits.js 2 -
+/public/plugins/elfinder/connectors/php/connector.php 1 -
+/plugins/elfinder/connectors/php/connector.php 1 -
+/util.php 2 -
+/wp-content/plugins/wp-mlm/readme.txt 1 -
+/wp-includes/js/swfupload/radio.php 1 -
+/theme/assets/jquery-file-upload/server/php/index.php 1 -
+/wp-includes/blocks/site-logo/radio.php 1 -
+/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/radio.php 1 -
+/investment.php 2 -
+/dash/deposits 2 -
+/check_deposit.js 2 -
+/alfacgiapi/perl.alfa 2 www.google.com
+/index.js 2 -
+/script.js 2 -
+/wp-admin/css/colors/ocean/radio.php 1 -
+/admin.php 5 -
+/account.html 2 -
+/doge.php 2 -
+/wp-includes/js/tinymce/plugins/wpemoji/radio.php 1 -
+/admin/ 1 -
+/acct.html 2 -
+/wp-includes/blocks/post-template/radio.php 1 -
+/wp-includes/js/dist/radio.php 1 -
+/wp-includes/blocks/button/radio.php 1 -
+/client.php 2 -
+/wp-includes/sodium_compat/src/PHP52/radio.php 2 -
+/wp-content/plugins/wp-help/admin/wp-fclass.php 1 -
+/EUR/USD 17 -
+/invest.js 2 -
+/wp-includes/blocks/post-terms/radio.php 1 -
+/transaction.php 2 -
+/fund 2 -
+/invest-now.php 2 -
+/php/thinkphp/aaaffff123.php 5 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 13 -
+/register.js 2 -
+/app.html 2 -
+/client 2 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 3 -
+/wp-includes/ID3/radio.php 1 -
+/manual.html 2 -
+/wp-includes/blocks/search/radio.php 1 -
+//swedenlotteri.com/wp-content/themes/lottery_sweden/assets/js/lottery.js 13 -
+/tron.php 2 -
+/wp-content/plugins/ccx/radio.php 1 -
+/wp-includes/js/tinymce/plugins/tabfocus/radio.php 1 -
+/wp-json/wp/v2/users/1 1 https://swissprize.com/
+/wp-content/plugins/wp-catcher/index.php 1 www.google.com
+/wp-includes/js/tinymce/plugins/wptextpattern/radio.php 1 -
+/investing.js 2 -
+/wp-plain.php 2 www.google.com
+/wp-content/db-cache.php 1 -
+/javascript 2 -
+/.env 41 -
+/app-ads.txt 1 -
+/wp-includes/sodium_compat/src/Core/Poly1305/radio.php 1 -
+/app.php 2 -
+/withdraw.html 2 -
+/assets/jQuery-File-Upload/server/php/index.php 1 -
+/comments.php 1 -
+/backup/wp-admin/install.php 2 -
+/invoice.html 2 -
+/wp-includes/blocks/post-excerpt/radio.php 1 -
+/administrator/index.php 1 -
+/panel.php 2 -
+/wp-includes/css/dist/block-directory/radio.php 1 -
+/robots.txt 202 -
+/wp-ldd.php 1 -
+/wp-includes/images/media/radio.php 1 -
+/wp-includes/css/dist/editor/radio.php 1 -
+/js 2 -
+/newsite 4 -
+/wp-content/plugins/wp-automatic/changelog 3 -
+/html 2 -
+/dash/payments.js 2 -
+/images/radio.php 1 -
+/author/administratoir/ 1 -
+/ethereum.php 2 -
+/invest-now.html 2 -
+/deposit-money.php 2 -
+/wp-includes/js/tinymce/skins/lightgray/img/radio.php 1 -
+/wp-content/themes/admin.php 1 -
+//cdn.datatables.net/1.10.25/css/dataTables.bootstrap4.min.css 2 -
+/deposit-money.html 2 -
+/fund_account_eth.html 2 -
+//xmlrpc.php 17 -
+/sign.html 2 -
+/overview.js 2 -
+/author/wpadminne/ 1 -
+/wp-admin/maint/radio.php 1 -
+//contact 1 -
+/transfer.js 2 -
+/wp-content/plugins/google-seo-rank/README.txt 4 www.google.com
+/wp-content/themes/intense/block-css.php 1 -
+/wp-includes/js/tinymce/themes/inlite/radio.php 1 -
+/mments-post.php 2 -
+/dash/deposits.php 2 -
+/wp-includes/js/tinymce/utils/radio.php 1 -
+/wordpress 16 http://swissprize.com/wordpress
+/old 16 http://swissprize.com/old
+/wp-includes/blocks/latest-posts/radio.php 1 -
+/change.html 2 -
+/investing.php 2 -
+/dash/deposits.html 2 -
+/assets/plugins/plupload/examples/upload.php 1 -
+/html2 2 -
+/wp.php 2 -
+/security.txt 1 http://www.swissprize.com/security.txt
+/usdc.html 2 -
+/.wp-cli/cache/radio.php 1 -
+/dogecoin.html 2 -
+/utils 2 -
+/wp-includes/SimplePie/radio.php 1 -
+/.well-known/security.txt 1 http://www.swissprize.com/.well-known/security.txt
+/wp-includes/images/wlw/radio.php 1 -
+/deposits 2 -
+/fund_account_eth.js 2 -
+/user.js 2 -
+/sftp-config.json 1 -
+//wp-json/wp/v2/users/ 8 -
+/filemanager/dialog.php 1 -
+//wp-login.php 1 -
+/wp-includes/blocks/columns/radio.php 1 -
+/assets/admin/plugins/plupload/examples/upload.php 1 -
+/admin/plugins/jquery-file-upload/server/php/index.php 1 -
+/deposit.php 2 -
+/utils.js 2 -
+/deposit.html 2 -
+/swap 2 -
+/dashboard/payment.js 2 -
+/wp-wordpress.php 2 http://swissprize.com
+/wp-includes/blocks/file/radio.php 1 -
+/wp/wp-admin/install.php 2 -
+/portal.php 2 -
+/wp-admin/wp-add.php 1 -
+/wp-includes/blocks/column/radio.php 1 -
+/registration.js 2 -
+/scripts.js 2 -
+/dash/payment.js 2 -
+/usdc.js 2 -
+/address 2 -
+/withdraws.js 2 -
+/dash.php 2 -
+/sitemap.xml 33 -
+/bitcoin 2 -
+/wp-includes/js/tinymce/plugins/compat3x/radio.php 1 -
+/register 2 -
+/wp-json/wp/v2/posts 18 https://www.google.com/
+/wp-content/plugins/wp-theme-editor/include.php 6 www.google.com
+/wp-includes/blocks/spacer/radio.php 1 -
+/wp-admin/network/radio.php 1 -
+/html2.js 2 -
+/bnb 2 -
+/ments-post.php 2 -
+/wp-content/plugins/wp-automatic/css/style.css 1 -
+/images/ 5 binance.com
+/wp-admin/install.php 8 -
+/view-source: 1 -
+/user.html 2 -
+/source.html 2 -
+/wp-includes/PHPMailer/radio.php 1 -
+/scripts 2 -
+/wp-includes/js/tinymce/plugins/wplink/radio.php 1 -
+/address.js 2 -
+/wp-includes/css/dist/edit-widgets/radio.php 1 -
+/archivarix.cms.php 3 https://swissprize.com/archivarix.cms.php
+/wp-includes/js/tinymce/plugins/wpdialogs/radio.php 1 -
+/dashboard/deposits.php 2 -
+/trades.js 2 -
+/payments.php 2 -
+/assets/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/mint.php 2 -
+/mayicms 1 -
+/wp-includes/blocks/shortcode/radio.php 1 -
+/dapp.php 2 -
+/wp-includes/js/tinymce/plugins/lists/radio.php 1 -
+/portal 2 -
+/sign.js 2 -
+/test 5 -
+/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/admin/elfinder/src/connectors/php/connector.php 1 -
+/bitcoin.js 2 -
+/dist/jquery.min.js 10 -
+/wp-includes/blocks/radio.php 1 -
+//wp-ver.php 1 swissprize.com
+/contract.php 2 -
+/locoy.php 2 -
+/tokens.html 2 -
+/wp-admin/js/widgets/radio.php 1 -
+/invoice.php 2 -
+/wp-json/wp/v2/users/4 1 https://swissprize.com/
+/files/ 5 binance.com
+/dashboard/payment.html 2 -
+/BTC/USD 16 -
+/mining.js 2 -
+/submit 2 -
+/.well-known/pki-validation/radio.php 1 -
+/deposits.js 2 -
+/xmlrpc.php 4 -
+/wp-includes/Requests/Response/radio.php 1 -
+/login.php 3 -
+/wp-admin 1 -
+/wp-includes/blocks/post-content/radio.php 1 -
+/check_deposit.php 2 -
+/transfer 2 -
+/main 11 http://swissprize.com/main
+/check_deposit.html 2 -
+/util 2 -
+/withdraws.php 2 -
+/wp-includes/blocks/tag-cloud/radio.php 1 -
+/wp-includes/blocks/query-pagination-numbers/radio.php 1 -
+/wp-includes/sitemaps/providers/radio.php 1 -
+/wp-includes/js/tinymce/plugins/wpeditimage/radio.php 1 -
+/payment.js 2 -
+/btc.html 2 -
+/eth.php 2 -
+/dashboard/deposits.html 2 -
+/static.js 2 -
+/acct.js 2 -
+/wp-emoji-release.min.js 10 -
+/registration 2 -
+/dash/payment 2 -
+/wp-includes/blocks/media-text/radio.php 1 -
+/overview 2 -
+/wp-includes/js/tinymce/plugins/textcolor/radio.php 1 -
+/misc/ajax.js 1 -
+/wp-json/wp/v2/users/ 1 -
+/payment 2 -
+/wp-includes/blocks/more/radio.php 1 -
+/index 2 -
+/assets.html 2 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 13 -
+/wp-admin/css/colors/modern/radio.php 1 -
+/wp-content/plugins/google-seo-rank/module.php 5 www.google.com
+/wp-includes/blocks/verse/radio.php 1 -
+/wp-includes/css/dist/components/radio.php 1 -
+/eth.html 2 -
+/btc.php 2 -
+/get.js 2 -
+/wp-includes/images/smilies/radio.php 1 -
+/wp-includes/radio.php 1 -
+/wp-includes/blocks/loginout/radio.php 1 -
+/submit.php 2 -
+/plugins/plupload/examples/upload.php 1 -
+/account.php 2 -
+/dash/payments 2 -
+/sign.php 2 -
+/account.js 2 -
+/wp-includes/blocks/code/radio.php 1 -
+/wp-includes/Requests/Proxy/radio.php 1 -
+/fund_account.html 2 -
+/fund_account.php 2 -
+/portal.js 2 -
+/wp-includes/theme-compat/radio.php 1 -
+/wp-includes/js/tinymce/radio.php 1 -
+/wp-content/uploads/radio.php 1 -
+/web/wp-admin/install.php 2 -
+/about.php 2 -
+/wp-includes/assets/radio.php 1 -
+/javascript.html 2 -
+/dapp.js 2 -
+/wallet.html 2 -
+/wp-content/languages/radio.php 1 -
+/wp-includes/blocks/gallery/radio.php 1 -
+/users.php 2 -
+/wordpress/xmlrpc.php 1 -
+/trades 2 -
+/index_sso.php 5 -
+/wp-includes/js/tinymce/plugins/fullscreen/radio.php 1 -
+/invoice 2 -
+/mint.js 2 -
+/wp-admin/css/radio.php 1 -
+/register.php 2 -
+/mine 2 -
+/dashboard/payments.php 2 -
+/payment.php 2 -
+/trades.php 2 -
+/plugins/content/apismtp/apismtp.php.suspected 1 -
+/app.js 2 -
+/payments 2 -
+/dist/css/bootstrap.min.css 2 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/radio.php 1 -
+/loader.php 1 -
+/site/wp-admin/install.php 2 -
+/zb_system/login.php 1 -
+/dash.js 2 -
+/transactions 2 -
+/.DS_Store 6 -
+/cgi-bin/radio.php 1 -
+/components/com_acym/controllers/index.html 1 -
+/account 2 -
+/admin/plugins/plupload/examples/upload.php 1 -
+/geju.php 1 -
+/.env.example 1 -
+/contract 2 -
+/ETH/USD 15 -
+/wp-json/litespeed/v1/cdn_status 7 -
+/dashboard/deposit.js 2 -
+/usdc.php 2 -
+/admin/jquery_uploader/server/php/index.php 1 -
+/wp-includes/Requests/Auth/radio.php 1 -
+/invoice.js 2 -
+/wp-includes/blocks/query-pagination-previous/radio.php 1 -
+/wp-includes/js/thickbox/radio.php 1 -
+/testing 4 -
+/buy 2 -
+/wp-admin/js/radio.php 1 -
+/borrow.html 2 -
+/wp-includes/blocks/image/radio.php 1 -
+/bitcoin.php 2 -
+/javascript.php 2 -
+/mining.php 2 -
+/author/administratoirr/ 1 -
+/transactions.js 2 -
+/withdraws.html 2 -
+/wp-json/wp/v2/users/3 1 https://swissprize.com/
+/usdt 2 -
+/wp-includes/js/imgareaselect/radio.php 1 -
+/assets/plugins/summernote/upload.php 1 -
+/wp-admin/css/colors/midnight/radio.php 1 -
+/wp-includes/Requests/Utility/radio.php 1 -
+/dashboard/payments.html 2 -
+/wp-content/upgrade/radio.php 1 -
+/wp-admin/admin-ajax.php 13 -
+/static 2 -
+/transfer.php 2 -
+/address.php 2 -
+/wp-admin.php 2 -
+/doge.html 2 -
+/assets/filemanager/dialog.php 1 -
+/fund_account_btc.html 2 -
+/acct.php 2 -
+/overview.php 2 -
+/wp-includes/sodium_compat/src/Core/SecretStream/radio.php 1 -
+/wp-includes/js/mediaelement/radio.php 1 -
+/cms/wp-admin/install.php 2 -
+/utils.html 2 -
+/util/login.aspx 1 -
+/ethereum.js 2 -
+/online.html 2 -
+/wp-includes/sodium_compat/radio.php 1 -
+/staging/.env 1 -
+/transaction.js 2 -
+/wp-content/updraft/themes.php 1 -
+/static.php 2 -
+/invest-now 2 -
+/wp-includes/blocks/pullquote/radio.php 1 -
+/signin.html 2 -
+/investment.js 2 -
+/signup.html 2 -
+/wp-includes/sodium_compat/namespaced/radio.php 1 -
+/wp-includes/css/dist/block-editor/radio.php 1 -
+/wp-includes/sodium_compat/src/Core32/SecretStream/radio.php 1 -
+/scripts.php 2 -
+/submit.js 2 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/radio.php 1 -
+/mining 2 -
+/wp-includes/js/tinymce/plugins/media/radio.php 1 -
+/wp-login.php 20 -
+//swedenlotteri.com/xmlrpc.php 3 -
+/sellers.json 1 -
+/test/wp-admin/install.php 2 -
+/fund_account_btc.js 2 -
+/theme/v2board/assets/umi.css 3 http://swissprize.com/theme/v2board/assets/umi.css
+/dashboard/deposit.html 2 -
+/tron.html 2 -
+/html2.html 2 -
+/deposit.js 2 -
+/admin/server/php/index.php 1 -
+/contract.js 2 -
+/wp-content/plugins/admin.php 1 -
+/asset.php 2 -
+/script.php 2 -
+/trx 2 -
+/class.api.php 3 http://swissprize.com/class.api.php
+/scripts.html 2 -
+/payments.js 2 -
+/wp-includes/blocks/cover/radio.php 1 -
+/core 4 -
+/wp-admin/radio.php 1 -
+/transaction 2 -
+/client.js 2 -
+/wp-content/themes/seotheme/radio.php 1 -
+/wp-includes/SimplePie/Content/Type/radio.php 1 -
+/author/wwwadmin/ 1 -
+/wp-content/themes/hideo/network.php 1 -
+/tron.js 2 -
+/invest.php 2 -
+/address.html 2 -
+/sitemap.xml.gz 2 -
+/wp-admin/user/news.php 2 -
+/wp-add.php 3 www.google.com
+/invest 2 -
+/deposit 2 -
+/old/wp-admin/install.php 2 -
+/dash/deposit.html 2 -
+/wp-loader.php 2 -
+/wp-includes/Requests/radio.php 1 -
+/dash/deposit.php 2 -
+/token.php 2 -
+/sites/default/files/ 5 binance.com
+/script 2 -
+/admin/jQuery-File-Upload/server/php/index.php 1 -
+/administrator/components/com_jclassifiedsmanager/helpers/upload.php 1 -
+/doge.js 2 -
+/bitcoin.html 2 -
+/wp-includes/css/dist/edit-post/radio.php 1 -
+/wp-includes/blocks/list/radio.php 1 -
+/blog 5 -
+/wp-admin/wp-ldd.php 1 -
+/user.php 3 -
+/bc 11 http://swissprize.com/bc
+/wp-includes/rest-api/search/radio.php 1 -
+/wp-includes/sodium_compat/namespaced/Core/Curve25519/radio.php 1 -
+/dash.html 2 -
+/wp-includes/blocks/categories/radio.php 1 -
+/humans.txt 1 http://www.swissprize.com/humans.txt
+/wp-includes/sodium_compat/src/Core/Base64/radio.php 1 -
+/payment.html 2 -
+/public/.env 1 -
+/wp-includes/images/crystal/radio.php 1 -
+/wp-includes/css/dist/nux/radio.php 1 -
+/ethereum 2 -
+/wp-content/plugins/userpro/changelog.txt 1 -
+/dashboard 2 -
+/btc.js 2 -
+/wp-includes/js/codemirror/radio.php 1 -
+/wp-includes/Requests/Transport/radio.php 1 -
+/get.php 2 -
+/wp-includes/SimplePie/Net/radio.php 1 -
+/dapp.html 2 -
+/public/plugins/plupload/examples/upload.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/fonts/radio.php 1 -
+/author/wp-demouser-44/ 1 -
+/mint.html 2 -
+/goods.php 1 -
+/investing.html 2 -
+/wp-includes/js/tinymce/plugins/paste/radio.php 1 -
+/deposits.php 2 -
+/wp-includes/blocks/block/radio.php 1 -
+/wp-includes/js/dist/vendor/radio.php 1 -
+/wp-includes/blocks/post-date/radio.php 1 -
+/public/assets/plugins/plupload/examples/upload.php 1 -
+/wp-includes/blocks/quote/radio.php 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/eth.js 2 -
+/wp-admin/css/colors/coffee/radio.php 1 -
+/get.html 2 -
+/wp-includes/block-patterns/radio.php 1 -
+/dashboard.php 2 -
+/btc 2 -
+/wp-includes/js/tinymce/plugins/wpgallery/radio.php 1 -
+/wp-content/themes/include.php 2 www.google.com
+/phpmyadmin/index.php 5 -
+/_profiler/phpinfo 2 -
+/withdraw 2 -
+/fund_account_eth 2 -
+/swap.js 2 -
+/wp-includes/blocks/heading/radio.php 1 -
+/wp-includes/blocks/buttons/radio.php 1 -
+/wp-includes/sodium_compat/src/Core/ChaCha20/radio.php 1 -
+/token.js 2 -
+/ss.php 2 www.google.com
+/usdc 2 -
+/change.js 2 -
+/wp-includes/Text/radio.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/radio.php 1 -
+/eth 2 -
+/wp-admin/wordpress.php 3 https://swissprize.com
+/admin/assets/global/plugins/plupload/examples/upload.php 1 -
+/wp-includes/blocks/query-pagination-next/radio.php 1 -
+/asset.js 2 -
+/wp-includes/sodium_compat/src/Core32/radio.php 1 -
+/bk 11 http://swissprize.com/bk
+/fund_account_btc.php 2 -
+/cgi-bin/php-cgi.exe 1 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/wp-content/radio.php 2 -
+/oldsite/wp-admin/install.php 2 -
+/wp-links-on.php 2 -
+/sign 2 -
+/wp-content/plugins/wp-help/index.php 1 -
+/wp-includes/js/tinymce/skins/wordpress/radio.php 1 -
+/wp-includes/js/tinymce/plugins/wpview/radio.php 1 -
+/mine.php 2 -
+/author/w-padmine/ 1 -
+/wp-content/plugins/WordPressCore/include.php 24 -
+/html.html 2 -
+/sitemaps.xml 2 -
+/dogecoin 2 -
+/recieve.php 2 -
+/wordpress-wp.php 4 https://swissprize.com
+/admin.html 2 -
+/dashboard/payments.js 2 -
+/wo-wordpress.php 2 http://swissprize.com
+/users 2 -
+/wp-includes/widgets/radio.php 1 -
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/radio.php 1 -
+/deposits.html 2 -
+/wp-includes/blocks/legacy-widget/radio.php 1 -
+/trading.php 2 -
+/wp-includes/Text/Diff/Renderer/radio.php 1 -
+/wp-includes/js/tinymce/plugins/directionality/radio.php 1 -
+/viewtopic.php 1 -
+/util.js 2 -
+/css/radio.php 1 -
+/wp-includes/sodium_compat/src/Core32/Poly1305/radio.php 1 -
+/wp-content/plugins/fix/up.php 12 -
+/dashboard.js 2 -
+/wp-includes/sodium_compat/namespaced/Core/ChaCha20/radio.php 1 -
+/payment-details.html 2 -
+/manual.js 2 -
+/sitemap_index.xml 4 -
+//inputs.php 1 swissprize.com
+/admin/assets/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/wp-includes/blocks/social-links/radio.php 1 -
+/usdt.php 2 -
+/server/php/index.php 1 -
+/wp-links-way.php 2 -
+/wp-includes/sodium_compat/src/radio.php 1 -
+/bnb.php 2 -
+/assets/global/plugins/plupload/examples/upload.php 1 -
+/wp-includes/blocks/separator/radio.php 1 -
+/trx.js 2 -
+/wp-admin/setup-config.php 6 -
+/wp-content/admin.php 1 -
+/admin/.env 1 -
+/invest.html 2 -
+/dashboard/deposits 2 -
+/css/all.min.css 2 -
+//wp-includes/wlwmanifest.xml 9 -
+/fund.html 2 -
+/acct 2 -
+/wp-includes/blocks/query-pagination/radio.php 1 -
+/wp-includes/customize/radio.php 1 -
+/wp-limit-login.php 2 -
+/wp-comments.php 2 -
+/wp-includes/sodium_compat/src/Core/radio.php 1 -
+/panel.html 2 -
+/script.html 2 -
+/wp-includes/sodium_compat/src/Core32/ChaCha20/radio.php 1 -
+/wp-includes/Requests/Exception/HTTP/radio.php 1 -
+/bnb.html 2 -
+/ALFA_DATA/alfacgiapi/perl.alfa 2 www.google.com
+/wp-includes/Text/Diff/Engine/radio.php 1 -
+/wp-includes/js/mediaelement/renderers/radio.php 1 -
+/wp-includes/IXR/radio.php 1 -
+/current.php 2 -
+/wp-includes/blocks/text-columns/radio.php 1 -
+/home 15 http://swissprize.com/home
+/wordpress/wp-admin/install.php 2 -
+/borrow 2 -
+/wp-content/plugins/wp-photo-album-plus/changelog.txt 2 -
+/invest-now.js 2 -
+/assets.js 2 -
+/wp-admin/css/colors/ectoplasm/radio.php 1 -
+/wp-includes/js/tinymce/plugins/image/radio.php 1 -
+/profile 2 -
+/investment 2 -
+/payment-details.php 2 -
+/fund.js 2 -
+/login.html 2 -
+/airdrop.js 2 -
+/signup.php 2 -
+/signin.php 2 -
+/online.php 2 -
+/assets/admin/plugins/elfinder/connectors/php/connector.php 1 -
+/js.html 2 -
+/static.html 2 -
+/wp-includes/blocks/audio/radio.php 1 -
+/wp-includes/Requests/Cookie/radio.php 1 -
+/wp-includes/SimplePie/HTTP/radio.php 1 -
+/profile.js 2 -
+/author/AdminZaxHH34/ 1 -
+/js.js 2 -
+/register.html 2 -
+/signup 2 -
+/signin 2 -
+//swedenlotteri.com/wp-content/themes/lottery_sweden/assets/css/lottery.css 2 -
+/util.html 2 -
+/dashboard/deposit.php 2 -
+/online 2 -
+/registration.html 2 -
+//swedenlotteri.com/wp-includes/css/dist/block-library/style.min.css 2 -
+/trading.html 2 -
+/author/crander/ 2 -
+/mining.html 2 -
+/users.js 2 -
+/registration.php 2 -
+/transaction.html 2 -
+/dash/payment.php 2 -
+/borrow.php 2 -
+/dash/payment.html 2 -
+/wp-includes/js/tinymce/plugins/wpautoresize/radio.php 1 -
+/airdrop 2 -
+/dashboard/payment 2 -
+/wp-includes/blocks/calendar/radio.php 1 -
+/tokens.js 2 -
+/wp-includes/css/dist/reusable-blocks/radio.php 1 -
+/wp-includes/sodium_compat/lib/radio.php 1 -
+/recieve.html 2 -
+/withdraw.js 2 -
+/wp-includes/widgets/include.php 10 -
+/wp-content/plugins/canto/Gruntfile.js 1 -
+/wp-includes/SimplePie/Parse/radio.php 1 -
+/app 2 -
+/wp-content/themes/bricks/assets/js/feedback.min.js 1 -
+/wp-includes/css/radio.php 1 -
+/wallet 2 -
+/.vscode/sftp.json 1 -
+/wp-includes/random_compat/radio.php 1 -
+/wp-includes/js/radio.php 1 -
+/wp 16 http://swissprize.com/wp
+/wp/xmlrpc.php 1 -
+/asset 2 -
+/trades.html 2 -
+/phpinfo.php 2 -
+/html.js 2 -
+/wordpress-wo.php 2 http://swissprize.com
+/wp-includes/rest-api/fields/radio.php 1 -
+/wp-includes/blocks/group/radio.php 1 -
+/source.js 2 -
+/overview.html 2 -
+/buy.js 2 -
+/token 2 -
+/page.php 1 -
+/cmd_sco 2 -
+/transfer.html 2 -
+/wp-includes/js/tinymce/skins/wordpress/images/radio.php 1 -
+/user 2 -
+//s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js 13 -
+/wp-includes/js/crop/radio.php 1 -
+/wp-admin/user/radio.php 1 -
+/license.php 2 -
+/swap.html 2 -
+/wp-includes/SimplePie/Cache/radio.php 1 -
+/backup 11 http://swissprize.com/backup
+/js.php 2 -
+/dist/js/bootstrap.bundle.min.js 10 -
+/dogecoin.js 2 -
+/wp-includes/Requests/Exception/radio.php 1 -
+/wallet.php 2 -
+/wp-includes/certificates/radio.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 304
+34.78.49.210 56 56 713378 20240624010907
+124.248.183.41 10 10 73243 20240630134422
+195.154.119.99 10 10 103030 20240603044506
+65.21.104.151 9 9 92718 20240614165403
+107.172.4.178 8 8 104257 20240617124534
+54.88.179.33 8 8 360319 20240622034052
+35.171.144.152 8 8 360317 20240621202233
+89.248.172.92 8 8 65107 20240611203455
+149.56.150.219 6 6 2159004 20240607213726
+34.22.148.59 6 6 41184 20240628204839
+194.55.186.251 6 6 270238 20240624173522
+139.99.63.152 6 6 61842 20240611024035
+107.175.31.199 5 5 67763 20240615132642
+212.30.36.190 4 4 180160 20240620102215
+185.192.71.11 4 4 180156 20240607090116
+139.59.83.72 4 4 180160 20240623142917
+50.114.45.57 4 4 180160 20240627010904
+149.36.49.222 4 4 57457 20240626162143
+113.61.53.11 4 4 41182 20240607064544
+158.220.113.117 4 4 180156 20240604124108
+128.199.232.110 4 4 180160 20240628040437
+89.248.174.182 4 4 36867 20240609012852
+117.33.163.216 4 4 41193 20240625063644
+51.178.112.60 4 4 41194 20240612105210
+136.143.176.64 3 3 101004 20240605161453
+64.15.129.116 1 1 45039 20240606044903
+192.175.111.235 2 2 90078 20240604150809
+198.235.24.174 1 1 45039 20240607190039
+192.175.111.249 1 1 45040 20240613141536
+159.203.75.208 1 1 10290 20240617020533
+43.155.160.173 1 1 10289 20240630233215
+45.33.115.18 1 1 0 20240604222015
+149.28.222.103 1 1 0 20240613140425
+45.148.10.59 3 3 30892 20240614205627
+35.173.198.69 1 1 45040 20240627221442
+192.175.111.230 1 1 45040 20240624162730
+212.30.36.68 3 3 135120 20240613023915
+193.138.195.163 1 1 10297 20240605115201
+5.133.192.87 1 1 10307 20240622112047
+93.170.204.202 1 1 45040 20240619191730
+123.60.68.42 1 1 10306 20240615191558
+192.175.111.229 3 3 100376 20240626062723
+206.168.34.222 1 1 10289 20240630160433
+89.248.174.11 1 1 10307 20240610221334
+87.236.176.200 1 1 10290 20240617043106
+85.203.34.60 3 3 135117 20240601033621
+129.226.158.26 1 1 10296 20240606132143
+43.134.44.82 1 1 10302 20240612101725
+145.220.91.19 2 2 20603 20240627210910
+45.87.104.224 1 1 45040 20240616003143
+192.175.111.253 1 1 45040 20240629175138
+64.15.129.108 2 2 90079 20240620181342
+182.44.67.97 1 1 10303 20240603060430
+170.106.159.160 1 1 10294 20240608200141
+35.90.238.179 1 1 8139 20240608083259
+43.135.149.154 1 1 10282 20240604065515
+199.244.88.221 1 1 10316 20240626041656
+43.133.38.182 2 2 20588 20240607161950
+36.111.67.189 2 2 20602 20240611024617
+185.210.207.34 1 1 80546 20240628004528
+159.65.4.218 2 2 20632 20240626112855
+54.202.242.158 1 1 45040 20240611113050
+205.209.106.139 1 1 45039 20240607001844
+192.175.111.236 1 1 45039 20240606044935
+223.113.128.132 1 1 10304 20240620004817
+43.134.79.102 1 1 10350 20240612200631
+192.126.252.248 1 1 10290 20240617014216
+120.71.59.24 1 1 10306 20240627214455
+128.90.157.31 1 1 10301 20240622195317
+167.99.46.23 1 1 10294 20240602032918
+43.133.66.151 1 1 10294 20240601185411
+42.83.147.55 1 1 10316 20240625190331
+93.158.91.32 1 1 10306 20240628091359
+43.153.216.189 1 1 10296 20240606004307
+106.119.167.146 2 2 20596 20240617213913
+3.81.64.219 1 1 10303 20240602181427
+64.15.129.109 3 3 135120 20240624162802
+203.83.11.14 1 1 10299 20240613122300
+34.34.71.194 1 1 10304 20240613204413
+162.142.125.41 1 1 10290 20240617120228
+147.45.187.169 1 1 10295 20240610124624
+18.224.149.196 1 1 10304 20240620011258
+192.42.116.185 1 1 10307 20240622042120
+64.15.129.105 1 1 45040 20240618102044
+43.134.175.104 2 2 90845 20240612222909
+178.62.71.111 1 1 10296 20240606062403
+176.96.138.61 2 2 20585 20240604062335
+52.81.33.66 1 1 10306 20240623140035
+45.63.8.73 1 1 0 20240607165147
+176.111.174.153 2 2 90080 20240619042111
+43.157.66.187 1 1 10296 20240629100231
+130.255.166.24 1 1 10301 20240623110147
+107.189.5.19 1 1 8135 20240601103438
+54.153.95.206 1 1 10296 20240629012413
+64.227.188.237 1 1 10306 20240624070815
+54.218.58.46 2 2 0 20240608120544
+54.144.225.43 1 1 10307 20240611055547
+121.229.185.160 1 1 10302 20240629230058
+54.241.144.167 1 1 10307 20240621145024
+139.171.104.142 1 1 10296 20240606012929
+205.234.181.108 2 2 20632 20240625180222
+223.113.128.138 3 3 30898 20240614143341
+173.244.35.118 1 1 10350 20240628004527
+36.99.136.128 2 2 20598 20240619055407
+35.172.121.255 1 1 10301 20240623031814
+192.42.116.180 1 1 10307 20240622042119
+43.135.129.233 1 1 10306 20240616050630
+101.91.148.219 1 1 10297 20240605114252
+58.49.233.126 1 1 10302 20240630101939
+13.57.235.224 1 1 10316 20240625140215
+165.22.235.69 1 1 10316 20240626044658
+34.90.198.60 1 1 10294 20240608195930
+3.27.192.154 1 1 10306 20240615175518
+35.187.125.4 1 1 10306 20240615170232
+35.205.159.124 1 1 45040 20240630072105
+54.242.162.245 1 1 10306 20240616072722
+149.56.150.7 1 1 8139 20240607213747
+173.244.35.233 1 1 10306 20240627233638
+54.67.98.20 1 1 10294 20240607230515
+159.89.181.143 1 1 10304 20240614022138
+104.28.218.136 2 2 8137 20240603141835
+34.223.224.143 2 2 20588 20240608230830
+137.226.113.44 3 3 30904 20240620174621
+64.15.129.126 2 2 90079 20240620181415
+79.110.62.2 2 2 20592 20240624180812
+198.235.24.79 1 1 45040 20240615030559
+43.153.110.177 1 1 10300 20240601062100
+43.155.183.138 1 1 10306 20240620183638
+203.33.203.148 1 1 10299 20240612153236
+158.69.25.39 2 2 20604 20240630132735
+205.210.31.213 1 1 45040 20240627185252
+45.140.143.13 2 2 20612 20240617195419
+135.148.195.3 1 1 10306 20240615162736
+205.210.31.196 1 1 45039 20240604080634
+104.166.80.68 1 1 10299 20240612211630
+36.99.136.129 2 2 20596 20240617095549
+192.175.111.250 1 1 45040 20240623033704
+64.15.129.104 1 1 45040 20240627203147
+42.83.147.56 1 1 10299 20240612212704
+192.175.111.233 1 1 45039 20240607184037
+209.97.137.121 1 1 10306 20240616034349
+172.188.67.141 2 2 90080 20240623013825
+36.134.147.75 1 1 10304 20240620064009
+64.15.129.122 2 2 90080 20240620180907
+36.99.136.136 1 1 10306 20240616001109
+216.250.255.126 1 1 0 20240617010219
+162.142.125.218 1 1 10296 20240629035947
+27.115.124.101 1 1 10282 20240603175836
+192.175.111.248 2 2 90080 20240621134844
+111.172.249.49 1 1 10301 20240622193157
+206.168.34.183 1 1 10302 20240614200441
+199.45.154.51 1 1 10302 20240614154926
+44.223.101.123 1 1 45040 20240626090611
+111.7.96.165 1 1 10316 20240625155007
+54.89.191.155 1 1 10308 20240619052411
+129.226.147.7 1 1 10316 20240625195343
+194.169.175.56 1 1 10302 20240615020706
+35.91.25.170 1 1 10307 20240611054020
+64.15.129.102 1 1 45039 20240601113521
+115.231.78.4 2 2 55346 20240618140026
+198.12.238.14 1 1 45039 20240603052551
+194.55.186.252 1 1 10296 20240629131456
+180.110.203.108 1 1 10306 20240624060114
+64.15.129.107 1 1 45040 20240627203116
+5.133.192.88 1 1 10307 20240610164815
+20.171.80.143 2 2 1532 20240611233914
+44.203.215.101 1 1 45040 20240627221459
+123.187.240.242 1 1 10302 20240615034821
+51.178.112.57 3 3 30894 20240616042448
+94.247.172.129 1 1 10297 20240604233858
+45.32.206.139 1 1 0 20240625143124
+54.39.104.60 1 1 45040 20240613012149
+37.99.42.195 1 1 45040 20240621163656
+140.82.49.159 1 1 0 20240624132839
+199.45.154.117 1 1 10306 20240620204416
+139.59.11.120 1 1 10294 20240608053012
+185.253.96.8 1 1 10303 20240603095958
+20.231.114.84 2 2 16272 20240606044131
+185.220.101.6 1 1 10307 20240622042116
+5.133.192.212 1 1 10296 20240629035326
+49.51.179.103 1 1 10294 20240608060841
+15.236.142.95 1 1 10307 20240610193207
+205.210.31.108 1 1 45040 20240619103304
+51.79.137.191 1 1 10296 20240628140219
+65.154.226.167 1 1 10306 20240620165238
+146.190.34.10 1 1 10290 20240617093342
+104.244.79.50 1 1 10307 20240622042124
+37.114.63.38 1 1 10302 20240611214145
+170.106.82.193 1 1 10316 20240626082728
+198.235.24.182 1 1 45040 20240611192204
+192.175.111.254 2 2 90080 20240620002019
+192.175.111.232 1 1 10296 20240606044104
+222.79.104.23 1 1 10304 20240619181503
+87.236.176.204 1 1 10294 20240606185745
+182.74.243.49 1 1 10282 20240604004421
+135.148.195.1 1 1 10303 20240603005132
+104.166.80.192 1 1 10289 20240630201206
+192.175.111.251 3 3 135120 20240627220919
+23.88.116.95 1 1 10316 20240626032429
+34.1.17.180 2 2 41172 20240611004718
+85.209.11.117 2 2 90080 20240619051318
+104.152.223.170 1 1 10299 20240612143943
+182.42.104.32 1 1 10290 20240617055605
+62.146.177.42 1 1 766 20240624153259
+142.93.145.59 1 1 10303 20240602235344
+42.83.147.53 2 2 20594 20240604224249
+147.185.132.57 1 1 45040 20240619114534
+45.63.69.91 1 1 0 20240614102056
+139.171.106.98 1 1 10302 20240612043100
+180.102.134.69 1 1 10302 20240611143750
+193.168.173.250 1 1 8142 20240609191648
+130.255.166.97 1 1 10294 20240606180920
+91.92.255.170 1 1 45039 20240601081322
+138.197.64.141 1 1 10282 20240604022504
+64.15.129.113 1 1 45040 20240621134812
+192.175.111.239 1 1 45039 20240607184006
+179.43.191.18 2 2 20602 20240628142300
+46.101.115.148 1 1 10306 20240623191722
+170.106.104.42 1 1 10306 20240618122026
+192.175.111.245 1 1 45039 20240606101430
+89.110.72.212 1 1 45040 20240628181230
+69.160.160.57 3 3 99034 20240607072506
+104.166.80.196 2 2 18425 20240630230755
+87.236.176.41 1 1 10303 20240602191728
+164.92.159.242 1 1 10302 20240612040815
+178.62.82.141 3 3 101190 20240609031524
+151.80.223.233 1 1 10295 20240609172844
+93.174.93.127 2 2 20576 20240606201223
+185.220.101.103 1 1 10307 20240622042114
+51.89.205.173 2 2 20617 20240627081505
+87.236.176.218 1 1 10303 20240602230032
+192.175.111.240 1 1 45040 20240613141611
+43.155.136.16 2 2 20608 20240615164443
+188.225.60.227 1 1 8136 20240606014904
+3.112.28.90 2 2 20589 20240616174336
+159.203.134.62 1 1 10302 20240630040231
+43.135.166.178 1 1 10299 20240613024602
+46.228.199.158 2 2 20614 20240622115522
+147.185.132.99 1 1 45040 20240614152052
+5.133.192.131 1 1 10297 20240604202955
+128.90.170.5 1 1 10306 20240615232208
+43.131.249.153 1 1 10302 20240612024322
+4.185.17.29 2 2 20622 20240625234507
+13.127.164.125 1 1 8135 20240601062841
+134.122.121.99 1 1 10303 20240603075546
+100.25.77.39 1 1 45040 20240626090633
+45.77.185.89 1 1 0 20240610065730
+192.175.111.243 1 1 45040 20240627220952
+64.15.129.125 1 1 45039 20240603013459
+57.128.132.155 1 1 10301 20240627052359
+43.157.40.112 1 1 10307 20240621195709
+34.219.220.61 1 1 10300 20240601061854
+68.183.144.244 1 1 10295 20240610031616
+44.214.106.63 1 1 45040 20240626090642
+79.166.181.29 1 1 10307 20240622022638
+199.45.155.98 1 1 10296 20240629042449
+198.58.101.172 1 1 0 20240629133824
+54.183.160.168 1 1 10302 20240615020352
+62.122.184.194 2 2 90078 20240607193855
+178.254.38.45 1 1 10303 20240603113945
+60.188.57.0 2 2 20601 20240623185604
+185.12.148.78 1 1 10306 20240617202831
+54.244.219.47 1 1 10307 20240611054017
+128.90.170.12 1 1 10303 20240603140832
+185.220.100.242 1 1 10307 20240622042122
+142.93.231.133 1 1 10316 20240625171326
+162.142.125.204 1 1 10290 20240617103433
+199.45.155.21 1 1 10302 20240615032724
+161.35.183.194 1 1 10294 20240601175231
+93.158.90.12 1 1 10302 20240612072518
+147.185.132.129 1 1 45040 20240626170932
+123.178.210.148 1 1 10308 20240619093526
+205.210.31.255 1 1 45040 20240610201235
+175.6.217.4 3 3 30899 20240626205319
+172.233.58.118 1 1 45040 20240623222441
+43.133.77.208 1 1 10302 20240614161827
+45.77.221.184 1 1 0 20240615141750
+42.83.147.54 2 2 20600 20240617235346
+192.175.111.237 2 2 90079 20240629175106
+155.138.254.144 1 1 0 20240612091915
+106.75.101.188 1 1 10300 20240601043716
+4.227.86.130 2 2 1532 20240606011205
+199.45.154.68 1 1 10307 20240611030401
+116.206.14.43 1 1 8138 20240606134844
+199.45.154.18 1 1 10302 20240614234242
+51.81.97.226 1 1 10307 20240611043052
+128.199.128.212 3 3 30904 20240629010349
+139.162.85.185 1 1 45040 20240610103554
+13.201.41.135 1 1 8139 20240607191539
+178.128.80.202 3 3 30901 20240619182900
+206.168.34.61 1 1 10289 20240630181140
+104.248.92.193 1 1 10307 20240622043430
+104.219.239.61 1 1 10304 20240614063208
+5.133.192.146 1 1 10306 20240616135205
+43.155.166.202 1 1 10294 20240602061454
+23.94.126.36 1 1 10297 20240625030937
+34.222.27.14 1 1 10300 20240601061854
+216.128.131.165 1 1 0 20240623142531
+93.170.204.95 1 1 45039 20240605120036
+188.130.136.250 1 1 8142 20240620001750
+43.159.128.68 1 1 10304 20240613160146
+205.210.31.204 1 1 45040 20240620223617
+64.226.73.159 1 1 10306 20240618035912
+64.15.129.100 1 1 45040 20240626062754
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240601 17 17 413931 15
+20240602 8 8 82388 8
+20240603 24 24 338969 14
+20240604 21 21 444739 17
+20240605 12 12 216726 10
+20240606 24 24 435224 22
+20240607 27 27 2810921 17
+20240608 15 15 162102 13
+20240609 10 10 192001 8
+20240610 15 15 352636 15
+20240611 28 28 466774 21
+20240612 15 15 214505 14
+20240613 13 13 332049 11
+20240614 24 24 410642 14
+20240615 18 18 226147 15
+20240616 10 10 137762 10
+20240617 25 25 303727 17
+20240618 9 9 266424 7
+20240619 11 11 287040 11
+20240620 19 19 575718 16
+20240621 11 11 317444 10
+20240622 17 17 277241 14
+20240623 16 16 467181 12
+20240624 65 65 927362 14
+20240625 13 13 121579 12
+20240626 18 18 408034 14
+20240627 17 17 555095 14
+20240628 18 18 396313 9
+20240629 12 12 180588 12
+20240630 11 11 143663 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30mn-1h 1
+0s-30s 390
+30s-2mn 2
+2mn-5mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 489 8897236 383 367
+// 21 772138 4 12
+/history-result/ 15 2651968 2 6
+/live-draw/ 13 139753 2 6
+/.well-known/ 5 3830 5 5
+END_SIDER

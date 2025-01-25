@@ -1,0 +1,622 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202409 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.laoslottery.org.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2043                
+POS_TIME 2725                
+POS_VISITOR 17065               
+POS_DAY 18882               
+POS_DOMAIN 3395                
+POS_LOGIN 3789                
+POS_ROBOT 3944                
+POS_WORMS 4660                
+POS_EMAILSENDER 4791                
+POS_EMAILRECEIVER 4934                
+POS_SESSION 19057               
+POS_SIDER 19216               
+POS_FILETYPES 5069                
+POS_DOWNLOADS 5152                
+POS_OS 5200                
+POS_BROWSER 5444                
+POS_SCREENSIZE 6053                
+POS_UNKNOWNREFERER 6127                
+POS_UNKNOWNREFERERBROWSER 6371                
+POS_ORIGIN 6610                
+POS_SEREFERRALS 6744                
+POS_PAGEREFS 6928                
+POS_SEARCHWORDS 7076                
+POS_KEYWORDS 7256                
+POS_MISC 2389                
+POS_ERRORS 7349                
+POS_CLUSTER 3645                
+POS_SIDER_404 7462                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240905051048 271 33956 13991924119290
+FirstTime 20240901045420
+LastTime 20240905051048
+LastUpdate 20240905084038 271 0 271 0 0
+TotalVisits 46                  
+TotalUnique 45                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 45                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 49961 16 17 18756
+1 0 0 0 2 4 11171
+2 7 7 67914 19 24 48058
+3 1 1 9325 8 17 32343
+4 5 5 42815 27 34 73363
+5 1 1 9325 25 29 846379
+6 1 1 9331 4 4 11164
+7 2 2 20908 5 8 15717
+8 3 3 27983 5 6 13669
+9 1 1 9319 0 0 0
+10 3 3 59292 11 14 31742
+11 1 1 40636 11 12 15012
+12 3 3 27999 226 226 282726
+13 0 0 0 28 31 44939
+14 1 1 9325 13 13 22432
+15 1 1 9333 5 9 102365
+16 1 1 9333 17 18 36767
+17 5 5 68631 8 12 36073
+18 0 0 0 0 0 0
+19 1 1 9319 4 7 14926
+20 0 0 0 4 5 28931
+21 5 5 37324 38 39 69205
+22 4 4 58254 18 23 46814
+23 6 6 179283 8 13 34756
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+us 24 24 369546
+cn 7 7 65291
+ru 4 4 68611
+jp 4 4 37314
+de 3 3 27985
+ua 3 3 49967
+se 2 2 18652
+gb 1 1 30263
+la 1 1 11589
+id 1 1 11589
+bg 1 1 40636
+my 1 1 7416
+eu 1 1 9333
+pl 1 1 7418
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 15
+[\s_+:,\.\;\/\\-]bot 13 96420 20240904072412 0
+Googlebot/ 8 37092 20240905031922 0
+AhrefsBot/ 6 44508 20240905043544 0
+bingbot/ 5 29678 20240904155844 0
+Apache\-HttpClient/ 3 27989 20240904052351 0
+MJ12bot/ 3 26429 20240902201530 0
+facebookexternalhit/ 2 765614 20240904052441 0
+CCBot/ 1 7416 20240905023656 0
+no_user_agent 1 40630 20240901050218 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 9319 20240901104802 0
+survey 1 40636 20240903153724 0
+curl 1 9331 20240902165317 0
+bot[\s_+:,\.\;\/\\-] 1 7414 20240901235158 0
+Go\-http\-client/ 1 9325 20240904170933 0
+crawl 1 40636 20240905050557 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 54 755610 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+macosx15 7 7
+Unknown 6 6
+win7 2 2
+j2me 1 1
+android 1 1
+androidkitkat 1 1
+macosx10 1 1
+androidnougat 1 1
+win10 19 19
+ios_iphone 10 10
+winnt 1 1
+macosx 1 1
+linux 1 1
+android10 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 28
+firefox108.0 3 3
+safari13.0.3 9 9
+firefox118.0 1 1
+chrome124.0.0.0 2 2
+chrome63.0.3239.132 1 1
+firefox117.0 1 1
+chrome126.0.0.0 3 3
+chrome108.0.0.0 2 2
+chrome124.0.6367.62 1 1
+chrome91.0.4472.114 1 1
+chrome91.0.4472.88 1 1
+opera12.16 1 1
+chrome128.0.0.0 1 1
+safari17.6 1 1
+chrome80.0.3987.149 4 4
+chrome120.0.0.0 1 1
+chrome60.0.3112.107 1 1
+chrome105.0.0.0 1 1
+Unknown 6 6
+firefox116.0 1 1
+android 1 1
+chrome124.0.6367.119 1 1
+chrome74.0.3729.169 1 1
+chrome127.0.0.0 1 1
+chrome107.0.0.0 4 4
+chrome96.0.4664.110 1 1
+chrome122.0.0.0 2 2
+chrome45.0.2454.85 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+python-requests/2.26.0 20240904004931
+got_(https://github.com/sindresorhus/got) 20240901233807
+python-requests/2.32.3 20240903124102
+fasthttp 20240902170900
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+got_(https://github.com/sindresorhus/got) 20240901233807
+python-requests/2.26.0 20240904004931
+fasthttp 20240902170900
+python-requests/2.32.3 20240903124102
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 38 38
+From1 0 0
+From2 4 4
+From3 0 0
+From4 12 12
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 3 3
+www_google_co_th 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+laos+lotto+result+history 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+laos 1
+history 1
+result 1
+lotto 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+403 8 9936
+404 505 631755
+301 4 3180
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 260
+/wp-content/themes/twentythirteen/functions.php 1 -
+/wp-content/themes/twentyeleven/functions.php 1 -
+/wp-add.php 4 www.google.com
+/images/cloud.php 2 -
+/wp-admin/images/xmrlpc.php 2 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/wp-content/plugins/wp-ecommerce-cvs-importer/upload/upload-file.php 1 -
+//wp/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/css/colors/blue/cloud.php 2 -
+/wp-admin/xmrlpc.php 2 -
+/epinyins.php 1 www.google.com
+/wp-admin/css/colors/blue/xmrlpc.php 2 -
+/mah.php 1 -
+/wp-aa.php 1 -
+/wp-admin/cloud.php 2 -
+/css/xmrlpc.php 2 -
+/img/about.php 2 -
+/xmlrpc.php 4 -
+//cms/wp-includes/wlwmanifest.xml 1 -
+/.well-known/pki-validation/xmrlpc.php 2 -
+/wp-admin/css/colors/cloud.php 2 -
+/apple-touch-icon-120x120.png 1 -
+/link.php 1 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/adminfuns.php7 2 -
+/cache-compat.php 2 -
+/wp-admin/ajax-actions.php 2 -
+/ws.php7 2 -
+/wp-includes/id3/license.txt/2020/wp-includes/wlwmanifest.xml 1 -
+/simple.php 4 -
+/wp-content/plugins/seoplugins/db.php 2 -
+/wp-content/themes/travelscape/json.php 1 www.google.com
+//shop/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/id3/license.txt/cms/wp-includes/wlwmanifest.xml 1 -
+/wp 2 -
+/wp-content/themes/seotheme/mar.php 2 -
+/wp-includes/Requests/about.php 2 -
+/robots.txt 46 http://laoslottery.org/robots.txt
+/wp-includes/customize/about.php 2 -
+/wp-head.php 3 -
+/yanz.php 2 -
+/wp-includes/id3/license.txt/xmlrpc.php 1 -
+/wp-admin/maint/index.php 1 -
+/cms/wp-admin/install.php 2 -
+/wp-admin/dropdown.php 3 www.google.com
+/test 2 -
+/wp-admin/js/widgets/cloud.php 2 -
+/wp-content/plugins/grapefile/grapeupload2.php 1 -
+/chosen.php 5 -
+/wp-content/plugins/instawp-connect/readme.txt 1 -
+/wp-consar.php 2 -
+/css/index.php 1 -
+/backup.sql 1 -
+/wp-content/plugins/wc-multivendor-marketplace/readme.txt 1 -
+/wp-includes/rest-api/about.php 2 -
+/wp-options.sql 1 -
+/wp-content/plugins/seoo/wsoyanz.php 2 -
+/cong.php 2 -
+/wp-includes/Text/about.php 2 -
+/radio.php 2 -
+/wp-includes/repeater.php 2 -
+/wp-content/updraft/about.php 2 -
+/images/xmrlpc.php 2 -
+/hoot.php 1 -
+/wordpress/wp-admin/install.php 2 -
+/wp-includes/id3/license.txt/site/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/hb-audio-gallery/lib/upload_picture.php 1 -
+/blog/wp-admin/install.php 2 -
+/wp-content/themes/digital-download/new.php 1 www.google.com
+/wp-includes/widgets/about.php 2 -
+/tanzhen.php 2 http://laoslottery.org/tanzhen.php
+/wp-includes.bak/html-api/about.php 2 -
+/wp-includes/pomo/about.php 2 -
+/wordpress 2 -
+/wp-includes/id3/license.txt/feed/ 1 -
+/niengsid.php 1 www.google.com
+/.idea/workspace.xml 1 -
+/index.php 3 -
+/wp-includes/id3/license.txt/shop/wp-includes/wlwmanifest.xml 1 -
+/wp-header.php 2 -
+/media/system/js/core.js 1 http://laoslottery.org/media/system/js/core.js
+/wp-content/themes/aahana/json.php 1 www.google.com
+/404.php 2 -
+/wp-json/wp/v2/users 1 -
+/wp-content/plugins/about.php 1 -
+/wp-content/db-cache.php 1 -
+/wp-admin/css/index.php 2 -
+//feed/ 1 -
+//wp-json/oembed/1.0/embed 1 -
+/wp-content/plugins/fix/up.php 3 -
+/dump.sql 1 -
+/wp-includes/assets/index.php 1 -
+/wp-content/index.php 3 -
+/wp-admin/options.php 2 -
+/admin-post.php 2 -
+/alfa-rex2.php7 2 -
+/wp-admin/user/xmrlpc.php 2 -
+/wp-admin/install.php 3 -
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/wp-json 3 -
+/wp-admin/images/index.php 2 -
+/classwithtostring.php 3 -
+//wp-json/wp/v2/users/ 1 -
+/wp-content/blogs.dir/about.php 2 -
+/plugins/content/apismtp/apismtp.php.suspected 1 -
+/img/cloud.php 2 -
+/wp-admin/css/colors/coffee/xmrlpc.php 2 -
+/images/bg-pattern.jpg 1 https://laoslottery.org/history-result/
+/wp-includes/id3/license.txt/test/wp-includes/wlwmanifest.xml 1 -
+/alfanew2.php7 2 -
+/wp-content/themes/pridmag/db.php 2 -
+/wsoyanz.php 2 -
+/wp-admin/includes/cloud.php 2 -
+/wp-content/plugins/index.php 1 -
+//blog/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/sodium_compat/index.php 1 -
+/wp-content/gallery/about.php 2 -
+/wp-content/themes/teamwork/upload/upload.php 1 -
+/site/wp-admin/install.php 2 -
+/users.php 2 -
+/wp-content/plugins/Cache/Cache.php 2 -
+/alfa-rex.php 2 -
+/wp-includes/id3/license.txt/wordpress/wp-includes/wlwmanifest.xml 1 -
+//site/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/admin.php 1 -
+/wp-admin/js/widgets/xmrlpc.php 2 -
+/wp-atom.php 1 -
+/cgi-bin/about.php 2 -
+/wp-includes/style-engine/about.php 2 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/wp-login.php 1 -
+/admin.php 6 -
+/wp-content/updates.php 2 -
+/wp-content/plugins/seoo/wsoyanz1.php 2 -
+/alfa-rex.php7 2 -
+/edit.php 1 -
+/db.sql 1 -
+/blog 2 -
+/.env 8 -
+/wp-content/plugins/dummyyummy/wp-signup.php 1 www.google.com
+/images/about.php 2 -
+/wp-admin/repeater.php 2 -
+/wp-content/themes/seotheme/db.php 4 -
+/wp-content/languages/about.php 2 -
+/new 2 -
+/cgi-bin/xmrlpc.php 2 -
+/wp-content/themes/about.php 2 -
+/wp-admin/images/about.php 2 -
+/wp-admin/css/colors/index.php 2 -
+/cloud.php 2 -
+/wp-json/wp/v2/users/ 1 -
+/wp-admin/network/xmrlpc.php 2 -
+/oldsite/wp-admin/install.php 2 -
+/wp-content/banners/about.php 2 -
+//web/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/id3/license.txt/web/wp-includes/wlwmanifest.xml 1 -
+/dropdown.php 5 -
+/wp-content/themes/oceanwp/functions.php 1 -
+/wp-admin/includes/xmrlpc.php 2 -
+/wp-content/plugins/litespeed-cache/readme.txt 1 -
+/%E2%96%93%D1%85%E2%95%9D%E2%96%A0%E2%94%90%D0%BA%E2%95%96%D0%B2%E2%95%A6%E2%95%A1%E2%94%9C%D1%9E.txt 2 http://laoslottery.org/%E2%96%93%D1%85%E2%95%9D%E2%96%A0%E2%94%90%D0%BA%E2%95%96%D0%B2%E2%95%A6%E2%95%A1%E2%94%9C%D1%9E.txt
+//xmlrpc.php 3 -
+//2019/wp-includes/wlwmanifest.xml 1 -
+/wp-content/plugins/easy2map-photos/includes/MapPinIconSave.php 1 -
+/wp/wp-admin/install.php 2 -
+/css/cloud.php 2 -
+/wp-content/themes/travel/issue.php 1 www.google.com
+/wp-includes/id3/license.txt/2021/wp-includes/wlwmanifest.xml 1 -
+/.well-known/acme-challenge/xmrlpc.php 2 -
+/wp-content/plugins/advert-manager-plugin/upload-file.php 1 -
+/plugins/content/apismtp/apismtp.php 1 -
+/repeater.php 2 -
+/updates.php 2 -
+/cgi-bin/cloud.php 2 -
+//test/wp-includes/wlwmanifest.xml 1 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/wp-includes/id3/license.txt/wp/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/images/about.php 2 -
+/wp-content/plugins/apikey/apikey.php.suspected 1 -
+/wp-includes/pomo/index.php 1 -
+/wp-includes/about.php 2 -
+/ads.txt 1 -
+/backup/wp-admin/install.php 1 -
+/wp-admin/js/about.php 4 -
+/wp-admin/network/cloud.php 2 -
+/wp-admin/js/widgets/about.php7 2 -
+/wp-includes/certificates/index.php 1 -
+/wp-content/plugins/moveto/assets/lib/loader_ajax.php 1 -
+//wp-includes/ID3/license.txt 1 -
+//2021/wp-includes/wlwmanifest.xml 1 -
+/libraries/legacy/updates.php 2 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/wp-content/themes/index.php 1 -
+/wp-content/about.php 3 -
+/wp-includes/Requests/Text/admin.php 2 -
+/wp-admin/maint/maint/ajax-actions.php 2 -
+/wp.php 1 -
+/wp-includes/blocks/about.php 2 -
+/.well-known/pki-validation/cloud.php 2 -
+/wp-content/themes/kadence/functions.php 1 -
+/alfanew.php 4 -
+/ebs.php7 2 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/wp-includes/ID3/about.php 2 -
+/database.sql 1 -
+/wp-content/repeater.php 2 -
+/wp-content/plugins/linkpreview/db.php 2 -
+/wp-admin/css/colors/coffee/cloud.php 2 -
+/wp-content/upgrade-temp-backup/about.php 2 -
+/wp-includes/id3/license.txt/wp1/wp-includes/wlwmanifest.xml 1 -
+/avaa.php 2 -
+/wp-admin/images/cloud.php 2 -
+//wp-includes/wlwmanifest.xml 1 -
+/xmrlpc.php 2 -
+/wp-content/plugins/seoplugins/mar.php 2 -
+/bless.php 1 -
+/.well-known/about.php 2 -
+/%E3%80%90%E5%BF%85%E7%9C%8B%E3%80%91%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.txt 2 http://laoslottery.org/%E3%80%90%E5%BF%85%E7%9C%8B%E3%80%91%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.txt
+/options.sql 1 -
+/old/wp-admin/install.php 2 -
+/wp-content/themes/deeds/framework/helpers/fontupload.php 1 -
+/wp-includes/css/buttons.css 1 http://laoslottery.org/wp-includes/css/buttons.css
+/%E3%80%90%E5%8F%AF%E7%9C%8B%E3%80%91%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E8%AF%B4%E6%98%8E.txt 2 http://laoslottery.org/%E3%80%90%E5%8F%AF%E7%9C%8B%E3%80%91%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E8%AF%B4%E6%98%8E.txt
+/wp-admin/includes/about.php 2 -
+/new/wp-admin/install.php 2 -
+/wp-includes/block-patterns/about.php 2 -
+/static/admin/login.html 2 http://laoslottery.org/static/admin/login.html
+/wp-content/plugins/wpe-indoshipping/admin/upload-file.php 1 -
+/wp-content/plugins/give/readme.txt 1 -
+/wp-content/plugins/social-networking-e-commerce-1/classes/views/social-photo/upload_photo1.php 1 -
+/web/wp-admin/install.php 2 -
+/wp-plain.php 1 www.google.com
+/wp-includes/SimplePie/about.php 2 -
+/.well-known/pki-validation/about.php 2 -
+/wp-includes/id3/license.txt/blog/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/css/colors/xmrlpc.php 2 -
+/wp-includes/id3/license.txt/2019/wp-includes/wlwmanifest.xml 1 -
+/about.php 8 -
+/test/wp-admin/install.php 2 -
+/wp-admin/setup-config.php 1 -
+/wp-admin/user/cloud.php 2 -
+/libraries/vendor/updates.php 2 -
+/wp-content/plugins/wpcall-button/button-image.php 1 -
+/options.php 2 -
+/wp-json/ 1 -
+/libraries/phpmailer/updates.php 2 -
+/old 2 -
+/ajax-actions.php 2 -
+/wp-includes/ID3/ 1 -
+/img/xmrlpc.php 2 -
+/wp-checkbex.php 1 -
+/.well-known/traffic-advice 2 -
+/alfanew.php7 2 -
+/shop 2 -
+//2020/wp-includes/wlwmanifest.xml 1 -
+/wp-p.php7 2 -
+/wp-includes/IXR/about.php 2 -
+/wp-admin/css/about.php 2 -
+/about.php7 2 -
+/.well-known/acme-challenge/cloud.php 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 45
+152.42.233.59 4 4 162544 20240901234038
+213.165.71.218 2 2 18666 20240903124102
+94.228.169.182 2 2 18650 20240904004931
+209.221.21.220 2 2 18666 20240902223010
+15.204.182.106 2 2 18666 20240902214305
+34.1.31.196 2 2 19005 20240904021907
+128.90.174.19 2 2 18662 20240902020104
+5.133.192.128 1 1 9333 20240903154019
+45.15.17.3 1 1 9331 20240902043923
+135.148.195.6 1 1 9331 20240902044037
+178.130.42.29 1 1 40636 20240902102435
+170.254.179.44 1 1 0 20240902170809
+124.226.222.66 1 1 9325 20240904143206
+43.157.40.112 1 1 9331 20240902105324
+178.62.241.41 1 1 9333 20240903081858
+192.36.109.131 1 1 9319 20240901045420
+94.156.66.165 1 1 40636 20240904110345
+49.51.233.46 1 1 9331 20240902065601
+115.231.78.4 1 1 9333 20240903160232
+43.128.100.206 1 1 9325 20240904034823
+89.110.65.103 1 1 40636 20240902001648
+175.6.217.4 1 1 9319 20240901085606
+64.227.146.240 1 1 9325 20240903211004
+128.90.170.14 1 1 9331 20240902084635
+38.154.186.210 1 1 9333 20240903025023
+38.154.198.31 1 1 9331 20240902170809
+209.127.107.215 1 1 9333 20240902210346
+161.97.156.209 1 1 40636 20240902170900
+115.164.200.103 1 1 7416 20240904040407
+94.141.120.165 1 1 9325 20240904103741
+42.83.147.34 1 1 9325 20240903234007
+149.40.50.18 1 1 9319 20240901195911
+193.186.4.147 1 1 7418 20240903040809
+82.145.210.159 1 1 30263 20240904221407
+182.42.110.255 1 1 9333 20240903125620
+95.164.158.12 1 1 9331 20240902172807
+54.205.66.23 1 1 7414 20240901233807
+43.130.16.212 1 1 9333 20240903171355
+178.254.24.91 1 1 9319 20240901072832
+115.84.119.40 1 1 11589 20240902074945
+164.90.236.38 1 1 9319 20240901092337
+58.49.233.126 1 1 9325 20240905051048 20240905051048 /
+114.10.137.229 1 1 11589 20240904024313
+43.135.133.194 1 1 9325 20240905021421
+193.34.74.206 1 1 0 20240902210345
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20240901 10 10 216553 7
+20240902 20 20 264141 17
+20240903 12 12 110057 11
+20240904 10 10 146209 9
+20240905 2 2 18650 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 44
+15mn-30mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 48 609308 43 40
+/history-result/ 4 65030 3 4
+// 2 81272 0 1
+END_SIDER

@@ -1,0 +1,987 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202401 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.estonialottery.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2046                
+POS_TIME 2724                
+POS_VISITOR 19451               
+POS_DAY 31310               
+POS_DOMAIN 3523                
+POS_LOGIN 4128                
+POS_ROBOT 4283                
+POS_WORMS 5002                
+POS_EMAILSENDER 5133                
+POS_EMAILRECEIVER 5276                
+POS_SESSION 32121               
+POS_SIDER 32300               
+POS_FILETYPES 5411                
+POS_DOWNLOADS 5496                
+POS_OS 5544                
+POS_BROWSER 5945                
+POS_SCREENSIZE 7986                
+POS_UNKNOWNREFERER 8060                
+POS_UNKNOWNREFERERBROWSER 8910                
+POS_ORIGIN 9470                
+POS_SEREFERRALS 9610                
+POS_PAGEREFS 9790                
+POS_SEARCHWORDS 9960                
+POS_KEYWORDS 10142               
+POS_MISC 2388                
+POS_ERRORS 10233               
+POS_CLUSTER 3984                
+POS_SIDER_404 10348               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240201004153 27 4753 10955244776485
+FirstTime 20240101015057
+LastTime 20240131224939
+LastUpdate 20240201070745 27 0 26 0 0
+TotalVisits 429                 
+TotalUnique 305                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 305                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 16 220741 44 63 166042
+1 11 11 99270 22 28 38281
+2 34 34 207567 19 25 123180
+3 23 23 340123 33 41 96657
+4 17 17 140780 32 50 228315
+5 13 13 137936 38 49 177845
+6 23 23 200866 18 28 66760
+7 23 23 186714 22 30 140450
+8 25 25 640832 32 44 105411
+9 15 15 235467 16 31 97438
+10 48 48 361179 12 25 107434
+11 28 28 348630 22 30 105098
+12 14 14 227616 7 18 22985
+13 33 33 328966 17 25 45206
+14 22 22 382244 56 74 157073
+15 15 15 466323 21 36 165481
+16 15 15 199245 15 22 62260
+17 24 24 585196 38 46 223147
+18 16 16 152892 12 19 49448
+19 29 29 331064 11 16 32881
+20 25 25 322438 18 24 114937
+21 38 38 251517 21 36 110919
+22 20 20 256430 9 16 110632
+23 10 10 82228 29 37 92564
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 28
+us 180 180 2103878
+jp 86 86 579387
+cn 76 76 587425
+fr 44 44 1202770
+ca 23 23 634796
+de 18 18 146038
+id 16 16 79747
+se 11 11 74106
+in 10 10 250985
+kh 10 10 53034
+gb 9 9 193895
+ru 8 8 127156
+au 7 7 100482
+sa 6 6 172211
+nl 6 6 62868
+it 6 6 40398
+lb 4 4 133572
+md 3 3 20235
+gr 3 3 20243
+ro 3 3 45393
+sc 1 1 6753
+il 1 1 33393
+nz 1 1 5250
+pk 1 1 6749
+bg 1 1 6749
+hr 1 1 5253
+ir 1 1 6748
+zz 1 1 6750
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+Googlebot/ 38 128974 20240131012911 0
+AhrefsBot/ 27 146804 20240131121447 0
+no_user_agent 25 834827 20240130040115 0
+YandexBot/ 16 115575 20240131225223 0
+Lightspeed 14 99526 20240129090347 0
+MJ12bot/ 9 47252 20240126174826 0
+crawl 7 76434 20240126154654 0
+bot[\s_+:,\.\;\/\\-] 6 38942 20240120052940 0
+SemrushBot/ 4 27043 20240120052120 0
+survey 4 133572 20240131100311 0
+Applebot/ 3 20238 20240126091243 0
+DotBot/ 3 100510 20240131052206 0
+curl 3 100179 20240118043128 0
+TelegramBot 2 10497 20240128021613 0
+feed 2 13552 20240114155823 0
+facebookexternalhit/ 1 33393 20240124074601 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 537 6706264 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 24
+macosx 10 10
+macosx9 1 1
+androidpie 1 1
+ios_ipad 2 2
+winxp 7 7
+unix 1 1
+macosx15 38 38
+androidcupcake 1 1
+macosx10 4 4
+androidmarshmallow 1 1
+win7 18 18
+macosx12 2 2
+androidoreo 10 10
+winnt 4 4
+linux 46 46
+ios_iphone 158 158
+macosx13 4 4
+android 7 7
+Unknown 46 46
+win8.1 4 4
+win2003 1 1
+androidkitkat 2 2
+android10 19 19
+win10 150 150
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 96
+chrome105.0.0.0 7 7
+chrome91.0.4472.101 1 1
+chrome111.0.0.0 1 1
+chrome103.0.5060.134 1 1
+chrome89.0.4389.114 32 32
+safari16.1 2 2
+chrome119.0.0.0 4 4
+chrome103.0.5060.53 1 1
+safari6.0 1 1
+chrome118.0.0.0 3 3
+chrome87.0.4280.66 1 1
+chrome87.0.4280.141 9 9
+chrome94.0.4606.81 2 2
+chrome91.0.4472.114 4 4
+firefox108.0 2 2
+chrome101.0.4951.54 1 1
+chrome99.0.4844.51 1 1
+chrome88.0.4240.193 5 5
+opera102.0.0.0 1 1
+Unknown 23 23
+chrome87.0.4280.88 3 3
+safari12.1.2 1 1
+msie6.0 5 5
+chrome120.0.6099.43 1 1
+chrome100.0.4896.60 9 9
+chrome67.0.3396.87 1 1
+firefox114.0 1 1
+safari15.5 1 1
+chrome51.0.2704.106 14 14
+chrome114.0.0.0 21 21
+chrome95.0.4638.54 2 2
+chrome103.0.0.0 3 3
+chrome116.0.0.0 3 3
+chrome62.0.2125 1 1
+firefox63.0 1 1
+chrome100.0.4896.127 2 2
+firefox45.0 1 1
+chrome96.0.4664.110 4 4
+chrome83.0.4103.97 11 11
+chrome103.0.5060.71 1 1
+firefox117.0 4 4
+chrome94.0.4606.85 1 1
+msie9.0 1 1
+chrome39.0.2171.95 3 3
+chrome103.0.5060.66 2 2
+chrome64.0.3282.0 1 1
+chrome41.0.2228.0 1 1
+safari16.6 2 2
+firefox118.0 2 2
+opera84.0.4316.14 2 2
+chrome76.0.3809.100 2 2
+chrome74.0.3729.169 5 5
+chrome70.0.3538.110 1 1
+safari15.0 1 1
+netscape5.0 5 5
+safari13.0.3 153 153
+chrome11.0.696.71 4 4
+chrome100.0.4896.75 2 2
+chrome71.0.3578.141 1 1
+chrome66.0.3359.126 1 1
+chrome108.0.0.0 22 22
+chrome68.0.3440.106 1 1
+android 3 3
+msie8.0 1 1
+safari17.0 1 1
+chrome121.0.0.0 1 1
+chrome109.0.0.0 2 2
+chrome75.0.1194.88 1 1
+mozilla 19 19
+chrome51.0.2704.103 4 4
+chrome76.0.3809.111 2 2
+chrome55.0.2883.87 1 1
+opera11.10 1 1
+chrome86.0.4240.111 1 1
+chrome75.0.2943.88 1 1
+chrome100.0.4895.86 1 1
+chrome99.0.4859.172 2 2
+chrome80.0.3987.162 2 2
+chrome66.0.3359.181 8 8
+msie11.0 1 1
+chrome70.0.1337.88 1 1
+safari 3 3
+chrome120.0.0.0 41 41
+chrome94.0.424 1 1
+chrome88.0.2972 1 1
+chrome63.0.3239.132 1 1
+chrome99.0.502 1 1
+chrome71.0.2623.112 3 3
+chrome106.0.0.0 1 1
+firefox60.0 1 1
+chrome104.0.0.0 6 6
+chrome113.0.0.0 2 2
+chrome57.0.2987.133 1 1
+chrome117.0.0.0 6 6
+chrome78.0.3904.108 10 10
+chrome66.0.3359.117 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Python/3.9_aiohttp/3.8.3 20240129020752
+python-requests/2.28.1 20240104160138
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240131073901
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240122231823
+Chrome 20240112073106
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240117183915
+ALittle_Client 20240125184020
+undici 20240129060912
+Mozilla/5.0_(compatible;_ips-agent) 20240119090816
+Python/3.11_aiohttp/3.9.1 20240120005340
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240103151259
+Mozilla/5.0 20240121042426
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+undici 20240129060912
+Python/3.11_aiohttp/3.9.1 20240120005340
+Python/3.9_aiohttp/3.8.3 20240129020752
+Chrome 20240112073106
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240131073901
+python-requests/2.28.1 20240104160138
+ALittle_Client 20240125184020
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 302 302
+From1 0 0
+From2 23 23
+From3 1 1
+From4 211 211
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 21 21
+google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://itl4d.org 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//estonialottery.com/ 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+//estonialottery.com/ 1
+https 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 586 662863
+301 4 2828
+403 40 47435
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 233
+//feed/ 2 -
+/wp-json 6 -
+/wp-content/plugins/include.php 1 -
+/wp-content/plugins/wp-file-manager-pro/css/fm_common.css 1 -
+/wp-login.php 2 -
+/lib/jquery-file-upload/server/php/ 1 -
+/new 3 http://estonialottery.com/new
+/robots.txt 123 -
+/app/webroot/global/plugins/jquery-file-upload/server/php/ 1 -
+/assets/elfinder/elfinder.html 1 -
+/public/javascript/jquery.upload/server/php/ 1 -
+//ukraineprize.com/wp-content/themes/lottery_ukraine/assets/js/lottery.js 5 -
+/old 2 http://estonialottery.com/old
+/coloradmin/assets/plugins/jquery-file-upload/server/php/ 1 -
+/.vscode/sftp.json 1 http://estonialottery.com/.vscode/sftp.json
+/wordpress/xmlrpc.php 1 -
+/assets/vendor/jquery.filer/php/readme.txt 1 -
+/security.txt 1 http://www.estonialottery.com/security.txt
+/wp-json/wp/v2/users/2 1 https://estonialottery.com/
+/phpmyadmin/index.php 4 -
+/wp-content/wpr-addons/forms/5fd0ca6d9850f48f5b663fc0e205f6f3.php 1 estonialottery.com
+/assets/plugins/jquery.filer/php/readme.txt 1 -
+/assets/js/kcfinder/upload.php 1 -
+/wp-includes/.wp-apxupx.php 1 estonialottery.com
+//wordpress/wp-includes/wlwmanifest.xml 2 -
+/wordpress/wp-admin/install.php 2 -
+/wp-touch.js 1 estonialottery.com
+/wp-content/plugins/ai-engine/app/chatbot.js 1 -
+/formcraft/file-upload/server/php/ 1 -
+/wp-content/plugins/admin.php 1 -
+/index_sso.php 4 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 1 -
+/MARIJUANA.php 1 -
+/mar.php 1 -
+/atomlib.php 2 -
+/.well-known/security.txt 1 http://www.estonialottery.com/.well-known/security.txt
+/backup/wp-admin/install.php 2 -
+//wp-json/wp/v2/users/ 9 -
+//web/wp-includes/wlwmanifest.xml 2 -
+/backup 2 http://estonialottery.com/backup
+/wp-json/wp/v2/users/5 1 https://estonialottery.com/
+/metronic/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/sitemap.xml 10 -
+/.DS_Store 5 -
+/index.html,https://ukraineprize.com 4 -
+/wp-content/plugins/syntax-highlighting-code-block/build/php5.php 1 estonialottery.com
+/assets/jquery-file-upload/server/php/ 1 -
+//wp-login.php 1 -
+/index.php 4 -
+/oldsite/wp-admin/install.php 2 -
+/new/xmlrpc.php 1 -
+/plugins/kcfinder/upload.php 1 -
+/debug/default/index 1 -
+/old/xmlrpc.php 1 -
+/2020/xmlrpc.php 1 -
+/assets/kcfinder/upload.php 1 -
+/wp-content/wp-apxupx.php 1 estonialottery.com
+/README.md 1 -
+/wp/xmlrpc.php 1 -
+/test/wp-admin/install.php 2 -
+/backup/ 1 -
+/assets/admin/bower_components/jquery.filer/php/readme.txt 1 -
+/wp-content/plugins/ai-engine/readme.txt 3 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 5 -
+//cdn.js 5 -
+//blog/wp-includes/wlwmanifest.xml 2 -
+//2020/wp-includes/wlwmanifest.xml 2 -
+/wp 3 http://estonialottery.com/wp
+/wp.php 2 -
+/old/wp-admin/install.php 2 -
+/marijuana.php 2 -
+/assets/libs/jquery-file-upload/server/php/ 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 5 -
+/wp-content/plugins/ioxi/ioxi-rex.php 1 -
+/dup-installer/main.installer.php 1 http://estonialottery.com/dup-installer/main.installer.php
+/wp-content/plugins/backup-backup/readme.txt 1 www.google.com
+/accesson.php 1 estonialottery.com
+/ninjawebshell.php 2 -
+/wp-content/plugins/wordpresscore/include.php 1 -
+/wp-content/plugins/td-composer/license.txt 7 -
+/wp-content/plugins/about.php 1 -
+/old/ 1 -
+//ukraineprize.com/wp-content/themes/lottery/assets/js/flipclock.js 5 -
+/wp-content/plugins/MI77I-X/key.inc.php 1 estonialottery.com
+/wp-content/.wp-apxupx.php 1 estonialottery.com
+/_ignition/execute-solution 1 -
+/new/ 1 -
+/main 2 http://estonialottery.com/main
+/wp-sitemap-posts-post-1.xml 2 -
+//wp/wp-includes/wlwmanifest.xml 2 -
+/wp-content/themes/buddyboss-theme/style.css 1 -
+/assets/plugins/jquery-file-upload/server/php/ 1 -
+/js/kcfinder/upload.php 1 -
+/xl2023.php 1 estonialottery.com
+/assets/lib/jquery-file-upload/server/php/ 1 -
+/jquery.php 2 -
+/wp-content/themes/seotheme/db.php 2 www.google.com
+/wp-admin/setup-config.php 3 -
+/wp-content/plugins/essential-addons-for-elementor-lite/readme.txt 2 www.google.com
+/wp-content/themes/aahana/json.php 1 www.google.com
+/view-source: 3 -
+/wp-content/plugins/WordPressCore/include.php 1 -
+/chosen.php 1 -
+//wp1/wp-includes/wlwmanifest.xml 2 -
+/new/wp-admin/install.php 2 -
+/vendor/laravel-filemanager/js/script.js 1 -
+/admin.php 1 -
+/web/xmlrpc.php 1 -
+/cms/wp-admin/install.php 2 -
+/wp-content/plugins/fix/up.php 2 -
+/shell.php 2 -
+/wp-includes/wlwmanifest.xml 3 -
+/assets/global/plugins/jquery-file-upload/server/php/ 1 -
+/geju.php 1 -
+/wp-content/plugins/ai-engine/app/index.js 1 -
+/plugins/jquery.filer/php/readme.txt 1 -
+/blog/wp-admin/install.php 2 -
+/wp-json/wp/v2/users/1 1 https://estonialottery.com/
+/ayk.php 1 -
+/.env 9 -
+/assets/backend/plugins/jquery-file-upload/server/php/ 1 -
+/assets/themes/metronic/global/jquery-file-upload/server/php/ 1 -
+/wp-head.php 2 -
+/blog/xmlrpc.php 1 -
+/bk 2 http://estonialottery.com/bk
+/public/vendor/laravel-filemanager/js/script.js 1 -
+//wp-includes/wlwmanifest.xml 11 -
+/humans.txt 7 http://www.estonialottery.com/humans.txt
+/bc 2 http://estonialottery.com/bc
+/home 2 http://estonialottery.com/home
+/misc/ajax.js 3 -
+/assets/plugins/elfinder/elfinder.html 1 -
+/wp-content/plugins/userpro/changelog.txt 2 -
+/wp-content/plugins/wp-gdpr-compliance/Resources/scss/front/_modal.scss 1 estonialottery.com
+/temp/ 1 -
+/wp-cron.php 1 -
+/xmlrpc.php 3 -
+//shop/wp-includes/wlwmanifest.xml 2 -
+//2019/wp-includes/wlwmanifest.xml 2 -
+/admin/.env 1 -
+/php/thinkphp/aaaffff123.php 4 -
+/blog/ 1 -
+/ads.txt 8 http://www.estonialottery.com/ads.txt
+/site/wp-admin/install.php 2 -
+/wp-includes/js/jquery/jquery.js 4 -
+/wp-atom.php 2 -
+/wp-pano 1 -
+/wp-content/plugins/ai-engine/themes/_codeDark.scss 1 estonialottery.com
+/wp-content/plugins/backup-backup/includes/restore-batching.php 1 -
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 5 -
+/timthumb.php 1 -
+/c.php 1 estonialottery.com
+/resources/global/plugins/jquery-file-upload/server/php/ 1 -
+/wp-includes/widgets/include.php 1 -
+/wp-admin/samll.php 1 estonialottery.com
+/backup/xmlrpc.php 1 -
+/about.php 3 estonialottery.com
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 5 -
+/post-sitemap.xml 2 -
+/asset/kcfinder/upload.php 1 -
+/jquery.filer/php/readme.txt 1 -
+/wp-content/plugins/wp-apxupx.php 1 estonialottery.com
+/administrator/index.php 3 -
+/public/.env 1 -
+/wp-includes/js/tinymce/plugins/wpeditimage/index.php 1 estonialottery.com
+/skills.php 1 estonialottery.com
+/demo 1 -
+/wp-content/plugins/better-search-replace/assets/js/better-search-replace.js 1 -
+/.well-known/traffic-advice 1 -
+/ninja.php 2 -
+/wp/ 1 -
+/media/system/js/core.js 3 -
+/alfacgiapi/perl.alfa 1 -
+/staging/.env 1 -
+/demo/xmlrpc.php 1 -
+/options-discussion.php 1 estonialottery.com
+/sitemap-1.xml 2 -
+/wp-config.php 2 -
+//test/wp-includes/wlwmanifest.xml 2 -
+/assets/plugins/kcfinder/upload.php 1 -
+/wp-content/plugins/backup-backup/includes/cld.php 1 estonialottery.com
+//wp-includes/ID3/license.txt 2 -
+/wp-content/plugins/post-smtp/readme.txt 5 -
+/style.php 6 www.google.com
+/wp-content/plugins/post-smtp/style/feeds.css 1 estonialottery.com
+//2021/wp-includes/wlwmanifest.xml 2 -
+/wp-json/wp/v2/users/4 2 https://estonialottery.com/
+//wp-json/oembed/1.0/embed 9 -
+/wp-aa.php 1 -
+/wordpress/ 1 -
+/site/xmlrpc.php 1 -
+/assets/color_admin/plugins/jquery-file-upload/server/php/ 1 -
+/wp/wp-admin/install.php 1 -
+/wp-content/plugins/backup-backup/includes/.wp-apxupx.php 1 estonialottery.com
+/ALFA_DATA/alfacgiapi/perl.alfa 1 -
+/wp-json/wp/v2/users 1 http://www.google.com
+/js/jquery-file-upload/server/php/ 1 -
+/wp-json/wp/v2/posts 1 -
+/thumb.php 1 -
+/assets/vendor_admin/plugins/jquery-file-upload/server/php/ 1 -
+/inputs.php 5 www.google.com
+/%5C/ukraineprize.com%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 5 -
+/simple.php 3 -
+/.env.example 1 -
+/coaster/jquery/gallery-upload/server/php/ 1 -
+/wp-content/themes/my-custom-theme/index.php 1 estonialottery.com
+/wp-content/mu-plugins/wp-apxupx.php 1 estonialottery.com
+/wp-admin/install.php 5 -
+/wp-content/admin.php 1 -
+/wp-json/wpgmza/v1/markers 1 -
+//cms/wp-includes/wlwmanifest.xml 2 -
+/web/wp-admin/install.php 2 -
+/plugins/jquery-file-upload/server/php/ 1 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 5 -
+/test/ 1 -
+/kcfinder/upload.php 1 -
+//site/wp-includes/wlwmanifest.xml 2 -
+//xmlrpc.php 9 -
+/wp-content/options-discussion.php 1 estonialottery.com
+/nf_tracking.php 2 -
+/wp-content/plugins/cach/coment/index.php 1 estonialottery.com
+/installer.php 1 -
+/media/mediamgr/other/jq_fileupload/server/php/ 1 -
+/wp-content/plugins/essential-blocks/assets/css/react-select.min.css 3 -
+/x/index.php 2 -
+/wp-apxupx.php 1 estonialottery.com
+/blog 1 -
+/wp-content/jp.php 1 estonialottery.com
+/.aws/credentials 3 -
+/wp-includes/js/tinymce/plugins/wpautoresize/index.php 1 estonialottery.com
+/wp-content/themes/include.php 1 -
+/wordpress 3 http://estonialottery.com/wordpress
+/wp-includes/images/include.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 305
+163.5.64.69 10 10 333930 20240129145047
+124.248.183.41 10 10 53034 20240130071227
+116.206.14.42 8 8 21540 20240107022223
+149.56.150.146 8 8 373273 20240103151239
+170.106.104.42 7 7 47162 20240120200347
+87.98.140.71 6 6 200358 20240105172025
+54.88.179.33 6 6 200358 20240117125936
+185.81.1.174 6 6 40398 20240105115935
+18.181.110.44 6 6 43035 20240115101559
+43.135.129.233 5 5 33665 20240125215820
+91.191.151.43 5 5 33740 20240130144805
+103.216.223.204 5 5 166965 20240124174922
+163.5.169.26 5 5 166965 20240125084441
+85.209.176.123 5 5 166965 20240115201731
+49.51.206.130 5 5 33700 20240123200417
+207.244.217.240 5 5 26739 20240130160708
+163.5.210.83 5 5 166965 20240117081156
+163.5.64.70 5 5 166965 20240130084825
+43.130.31.48 5 5 33720 20240124195848
+43.133.38.182 5 5 33679 20240122110804
+43.131.62.4 4 4 26946 20240123103848
+43.153.93.68 4 4 26944 20240118103846
+43.159.128.149 4 4 26936 20240118200603
+144.76.157.102 4 4 29517 20240122220408
+51.254.199.11 4 4 26925 20240125184848
+152.39.245.10 1 1 5247 20240130063250
+165.232.86.195 1 1 6748 20240131005206
+101.44.251.20 1 1 6776 20240110041634
+43.135.181.13 2 2 13476 20240119200151
+139.59.188.178 1 1 6748 20240130024751
+185.66.137.171 1 1 5247 20240130063120
+49.7.227.204 1 1 6738 20240120065022
+183.136.225.44 1 1 33393 20240118083815
+198.235.24.229 1 1 33393 20240110103256
+203.2.64.59 1 1 6753 20240119062012
+114.125.222.150 2 2 5249 20240122220845
+87.246.8.208 1 1 6749 20240123112417
+54.254.162.138 1 1 5249 20240129060912
+182.42.105.85 1 1 6749 20240123111806
+43.157.40.112 2 2 13474 20240108194256
+3.101.35.32 1 1 6733 20240105112939
+93.158.90.12 1 1 6729 20240114235152
+194.38.22.71 1 1 33393 20240125184020
+199.45.155.16 1 1 811 20240120084036
+121.229.185.160 2 2 13478 20240120174200
+72.14.201.78 1 1 5251 20240118102924
+36.99.136.137 1 1 6730 20240104203753
+139.190.224.165 1 1 6749 20240123112416
+104.143.252.1 1 1 5247 20240130160702
+34.220.217.141 2 2 13462 20240117070803
+35.88.200.173 1 1 6733 20240105064309
+198.235.24.83 1 1 33393 20240103114101
+207.135.192.229 1 1 6730 20240112073106
+34.211.71.241 1 1 5248 20240107221444
+45.138.16.85 2 2 66786 20240117135117
+199.244.88.229 1 1 6734 20240110184130
+23.129.64.216 1 1 6750 20240106232744
+188.166.155.171 1 1 9251 20240120093805
+114.122.75.95 1 1 5250 20240103215641
+135.148.195.15 2 2 13461 20240120142424
+180.244.133.41 1 1 5249 20240129075310
+43.133.77.230 3 3 20222 20240122195855
+174.138.70.170 1 1 6734 20240112020601
+121.91.225.56 1 1 6738 20240120025640
+150.109.253.34 1 1 6735 20240125024318
+43.134.89.111 1 1 6730 20240104212730
+79.166.11.206 1 1 6749 20240129020752
+167.99.133.58 1 1 6728 20240110011715
+129.226.147.7 1 1 6746 20240126101304
+192.36.109.114 1 1 6735 20240125082722
+24.144.95.18 1 1 6743 20240124121220
+199.45.154.49 1 1 812 20240118074000
+46.101.76.130 1 1 6748 20240118223251
+20.172.154.149 2 2 13490 20240122120516
+4.246.213.213 2 2 13460 20240104215657
+85.215.106.92 1 1 5249 20240114202602
+155.133.142.66 3 3 20202 20240110211134
+43.159.128.172 3 3 20199 20240124103721
+103.105.34.89 1 1 5249 20240112021545
+104.248.60.63 1 1 6730 20240116215952
+111.172.249.49 1 1 6734 20240111063339
+36.99.136.128 2 2 13478 20240118051716
+43.157.66.187 3 3 20204 20240121103718
+167.99.191.8 1 1 6745 20240122023445
+139.59.15.153 1 1 6731 20240102034930
+43.159.128.68 2 2 13493 20240124135218
+94.247.172.129 1 1 6744 20240115212354
+198.50.207.20 1 1 6743 20240121090942
+195.90.221.76 2 2 13469 20240124022317
+54.67.45.172 1 1 6753 20240119112320
+54.183.7.167 1 1 6746 20240126112730
+114.5.215.94 1 1 5249 20240129031201
+192.126.182.214 1 1 6727 20240104011445
+43.130.62.164 2 2 13487 20240123135615
+182.44.67.97 1 1 6744 20240115181424
+106.119.167.146 1 1 6726 20240107052324
+159.223.136.194 1 1 6753 20240120011810
+52.88.168.93 1 1 6744 20240115113136
+198.235.24.120 1 1 33393 20240126000933
+149.56.150.87 1 1 5250 20240103151259
+18.212.186.204 2 2 66786 20240111195152
+104.28.250.135 2 2 10494 20240128021619
+128.90.135.40 2 2 13457 20240114045909
+52.80.18.29 1 1 6748 20240118043658
+167.248.133.187 1 1 814 20240111232810
+134.209.158.122 1 1 6730 20240105012616
+139.59.42.138 1 1 6729 20240114032210
+93.158.91.31 1 1 6728 20240109072211
+35.91.225.206 2 2 13456 20240109064409
+182.3.102.33 2 2 10499 20240104223246
+5.133.192.127 1 1 6743 20240121203720
+154.47.28.110 2 2 6728 20240109075934
+5.133.192.168 1 1 6744 20240115131837
+222.249.228.245 1 1 6740 20240129124058
+149.202.79.101 1 1 6743 20240121090945
+134.209.41.173 1 1 6743 20240124022216
+129.226.158.26 3 3 20196 20240124214519
+43.130.7.211 2 2 13497 20240123215216
+205.210.31.82 1 1 33393 20240127062004
+223.15.245.170 1 1 6730 20240112130953
+46.8.10.21 1 1 33393 20240130055034
+137.226.113.44 3 3 20192 20240117183915
+35.91.178.90 1 1 6742 20240131064002
+209.170.91.200 1 1 5250 20240126000943
+106.55.201.50 1 1 5248 20240124173859
+49.51.179.103 2 2 13460 20240113134400
+35.164.187.123 1 1 6727 20240103070636
+86.106.74.251 1 1 33393 20240124003132
+223.113.128.132 2 2 13480 20240101053949
+161.35.174.128 1 1 6727 20240103084328
+199.45.154.19 1 1 812 20240117143745
+92.118.39.249 2 2 13494 20240128040327
+101.68.211.2 2 2 40135 20240131161804
+45.194.17.18 1 1 6753 20240119115558
+35.161.10.31 1 1 33393 20240110220237
+72.13.62.25 3 3 20282 20240119090816
+81.181.56.5 1 1 6753 20240120005340
+205.210.31.128 1 1 33393 20240106042858
+37.27.26.158 1 1 6748 20240130071425
+199.45.155.17 1 1 811 20240118073703
+43.131.48.214 2 2 13457 20240114134555
+182.42.111.213 1 1 6748 20240131014114
+36.99.136.136 3 3 20220 20240121074331
+130.255.166.79 1 1 6728 20240109175912
+85.215.155.77 1 1 5248 20240108182209
+188.166.155.120 1 1 6738 20240120111857
+137.184.160.250 1 1 6738 20240120085824
+114.96.103.33 1 1 6743 20240121232841
+141.138.213.100 1 1 6738 20240120040625
+104.28.218.136 1 1 5249 20240127022829
+91.227.68.185 2 2 33393 20240112100743
+43.135.166.178 1 1 6735 20240125104836
+34.219.176.68 1 1 6742 20240131063818
+199.45.154.17 1 1 812 20240103152420
+167.94.146.60 1 1 6731 20240117141823
+3.235.176.136 1 1 6738 20240120060856
+44.211.124.44 1 1 5246 20240119025644
+124.225.164.130 1 1 6753 20240119171930
+43.134.66.205 2 2 13488 20240127185005
+54.183.198.34 1 1 6730 20240112112341
+125.94.144.102 2 2 13471 20240117034044
+43.130.47.136 2 2 13463 20240105124731
+204.242.179.29 1 1 6738 20240120025650
+205.210.31.254 1 1 33393 20240124025615
+142.93.35.110 1 1 6738 20240120100802
+69.167.28.148 1 1 0 20240102002328
+193.233.232.86 1 1 6750 20240106232752
+205.210.31.185 1 1 33393 20240124003012
+117.254.107.138 1 1 6734 20240110164011
+178.33.149.171 1 1 33393 20240102095028
+205.210.31.60 1 1 33393 20240112000813
+109.248.13.192 1 1 6749 20240123073927
+54.212.204.125 1 1 6727 20240103070755
+128.199.74.118 2 2 66786 20240126192015
+43.131.248.209 2 2 13466 20240125140716
+77.68.6.242 3 3 20190 20240112031443
+170.106.101.31 3 3 20193 20240111134803
+182.44.8.254 1 1 6748 20240118062701
+34.106.166.46 4 4 133572 20240106035720
+114.5.213.79 1 1 5253 20240126215542
+205.210.31.169 1 1 33393 20240105223730
+38.122.112.147 2 2 13471 20240124203024
+69.167.12.163 1 1 0 20240114005005
+120.71.59.24 1 1 6748 20240118073809
+143.198.61.149 1 1 6776 20240120101801
+36.111.67.189 1 1 6748 20240130094556
+117.33.163.216 2 2 13478 20240118180057
+101.44.251.30 1 1 9251 20240109042009
+138.197.169.36 1 1 6730 20240116030810
+114.122.9.1 3 3 16247 20240120104037
+23.228.131.199 1 1 5249 20240129100917
+43.159.129.209 1 1 6731 20240102212517
+182.43.70.143 3 3 20199 20240107195748
+42.83.147.54 1 1 6745 20240123011136
+208.80.194.41 3 3 100179 20240123004642
+167.71.107.187 1 1 6753 20240119184522
+158.69.119.17 2 2 66786 20240130170340
+192.71.142.232 1 1 6727 20240103143149
+5.9.157.222 1 1 6776 20240122233027
+184.73.4.154 1 1 5250 20240105202607
+170.106.171.77 2 2 13467 20240115195700
+139.59.13.153 1 1 6750 20240106035128
+43.155.152.154 1 1 6730 20240116195705
+114.122.11.201 4 4 21504 20240127000838
+38.13.21.203 1 1 6723 20240113194314
+43.130.39.101 4 4 26946 20240121135550
+103.115.31.35 1 1 5251 20240102222020
+188.166.155.164 1 1 6738 20240120051307
+183.136.225.14 2 2 66786 20240125133014
+156.146.62.52 1 1 6748 20240118051726
+101.44.251.211 1 1 6776 20240113031412
+198.235.24.99 1 1 33393 20240113082533
+198.235.24.127 1 1 33393 20240115183021
+42.83.147.53 2 2 13460 20240116112313
+43.155.138.79 3 3 20229 20240128114519
+51.89.211.248 3 3 100181 20240104123457
+205.210.31.13 1 1 33393 20240131073901
+167.179.44.122 1 1 5250 20240121053639
+176.123.7.11 3 3 20235 20240128003930
+45.15.157.177 1 1 6743 20240121090953
+35.205.159.124 2 2 66786 20240126050110
+158.69.247.77 1 1 6731 20240102120350
+43.163.8.36 1 1 6740 20240129214116
+123.60.68.42 3 3 20202 20240120125644
+205.210.31.251 1 1 33393 20240103144553
+43.155.183.138 1 1 6740 20240129062513
+82.167.6.47 1 1 5246 20240119175837
+173.244.55.43 1 1 5251 20240118080152
+43.153.110.177 2 2 13478 20240115214446
+175.6.217.4 2 2 13472 20240127041436
+5.42.80.232 1 1 6740 20240129171745
+35.93.114.116 1 1 6727 20240103070807
+185.107.44.117 1 1 33393 20240129154523
+36.41.75.167 1 1 6728 20240109234948
+54.188.222.145 1 1 6742 20240131063923
+43.130.37.62 4 4 26928 20240120103927
+144.202.123.247 2 2 13464 20240108044000
+43.130.32.224 3 3 20215 20240119140059
+161.35.16.201 1 1 6726 20240108012406
+124.226.222.66 2 2 13462 20240117180917
+117.62.235.53 2 2 13463 20240114105410
+65.154.226.169 1 1 6746 20240126044441
+107.151.203.21 1 1 6743 20240121042426
+18.197.97.14 1 1 6740 20240129022616
+43.159.141.180 3 3 20219 20240122214823
+207.228.25.130 1 1 6737 20240108143416
+43.134.142.8 1 1 6742 20240131113056
+182.44.12.37 1 1 6734 20240111215302
+185.215.180.76 1 1 6738 20240120165305
+199.45.154.18 1 1 812 20240122231823
+104.28.249.191 2 2 10496 20240130095816
+142.93.217.247 1 1 6734 20240110030233
+114.122.116.36 1 1 5247 20240130212223
+205.210.31.19 1 1 33393 20240120132734
+43.133.77.208 1 1 6733 20240105194340
+45.15.73.131 1 1 33393 20240131082638
+5.133.192.184 1 1 6748 20240130085950
+205.210.31.230 1 1 33393 20240117095212
+198.235.24.223 1 1 33393 20240109142358
+35.165.101.231 2 2 13506 20240119070754
+142.93.35.106 1 1 6776 20240120000907
+209.97.186.35 1 1 6735 20240126013822
+180.110.203.108 1 1 6723 20240113045627
+35.93.118.112 1 1 6742 20240131064219
+140.179.37.52 1 1 6749 20240128065103
+212.30.36.150 4 4 133572 20240115114357
+178.254.24.91 1 1 6744 20240115212704
+34.219.15.68 2 2 13460 20240112202743
+87.98.153.11 2 2 66786 20240104221223
+104.28.218.135 3 3 15751 20240126021729
+2.57.169.18 1 1 33393 20240125121948
+208.80.194.42 1 1 33393 20240115220557
+204.217.131.243 1 1 6735 20240125031001
+65.21.69.75 1 1 6745 20240122212221
+167.71.88.110 1 1 6749 20240128023000
+67.220.86.160 1 1 6743 20240121074227
+54.38.211.230 2 2 66786 20240104030252
+195.29.147.9 1 1 5253 20240126050109
+150.109.16.20 1 1 6742 20240131224939
+182.42.110.255 2 2 13464 20240108150638
+170.106.159.160 4 4 26957 20240126103754
+170.106.82.193 2 2 13489 20240122135254
+104.189.31.180 1 1 5245 20240123104112
+43.134.37.211 4 4 26942 20240118214700
+199.244.88.224 1 1 6738 20240120131043
+54.218.193.128 1 1 6742 20240131063901
+5.133.192.128 1 1 6749 20240128034514
+119.96.24.54 1 1 6744 20240115033744
+85.215.236.41 1 1 5248 20240109105637
+167.99.5.59 1 1 6748 20240118033129
+5.133.192.140 1 1 6731 20240103013409
+104.28.250.136 1 1 5249 20240131022151
+188.130.137.34 1 1 33393 20240120163226
+213.152.162.181 1 1 0 20240104181448
+35.90.162.229 1 1 6742 20240131064001
+182.44.2.148 1 1 6750 20240106135412
+35.171.144.152 3 3 100179 20240103173928
+43.135.149.154 1 1 6733 20240105102923
+18.246.61.19 1 1 6742 20240131164521
+1.202.249.94 1 1 6749 20240123183350
+167.99.141.123 2 2 16027 20240120033958
+101.44.248.115 1 1 6728 20240109195341
+139.59.101.227 2 2 66786 20240102140857
+167.71.107.131 1 1 6776 20240120132255
+129.226.146.179 1 1 6727 20240103132317
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20240101 13 13 194234 12
+20240102 14 14 192671 13
+20240103 34 34 723018 25
+20240104 19 19 279634 17
+20240105 22 22 225137 17
+20240106 13 13 220965 10
+20240107 17 17 79122 10
+20240108 11 11 99263 11
+20240109 19 19 148812 17
+20240110 18 18 173081 16
+20240111 12 12 208183 9
+20240112 17 17 159529 13
+20240113 9 9 87230 9
+20240114 10 10 59081 10
+20240115 27 27 477798 15
+20240116 8 8 53840 7
+20240117 28 28 470447 17
+20240118 18 18 133242 18
+20240119 18 18 119554 15
+20240120 31 31 254989 29
+20240121 14 14 92909 13
+20240122 25 25 316907 16
+20240123 13 13 111369 13
+20240124 19 19 338327 15
+20240125 18 18 333009 14
+20240126 13 13 188300 12
+20240127 9 9 80381 6
+20240128 7 7 45739 7
+20240129 17 17 267052 13
+20240130 28 28 386097 15
+20240131 16 16 186344 15
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 421
+2mn-5mn 3
+5mn-15mn 3
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 481 5478770 419 404
+// 25 834825 0 9
+/live-draw/ 20 179014 7 10
+/history-result/ 11 213655 3 6
+END_SIDER

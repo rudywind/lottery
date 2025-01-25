@@ -1,0 +1,93 @@
+/**** begin countdown colors ****/
+.flip-clock-wrapper ul,
+.flip-clock-wrapper ul li a div div.inn,
+.flip-clock-divider .flip-clock-dot {
+	background-color: var(--flipclock-bg-color);
+}
+.flip-clock-wrapper ul li a div div.inn {
+	color: var(--flipclock-color);
+}
+/**** endof countdown colors ****/
+
+/**** begin custom style ****/
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-2);
+}
+
+button {
+    outline: none !important;
+}
+
+hr {
+    border-color: var(--color-3);
+    border-width: 5px;
+    border-style: dashed;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+header {
+    display: block;
+    position: relative;
+}
+header .logo-wrapper {
+    position: relative;
+    margin: 0 auto;
+    max-width: 350px;
+}
+header .logo-wrapper .web-logo {
+    width: 100%;
+}
+header .navbar .navbar-nav .nav-item {
+    margin-right: 10px;
+}
+header .navbar .navbar-nav .nav-item:last-child {
+    margin-right: 0;
+}
+header .navbar .navbar-nav .nav-item .nav-link {
+    font-weight: 900 !important;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: var(--color-1) !important;
+}
+
+section {
+    display: block;
+    position: relative;
+}
+section .circle-number {
+    position: relative;
+    width: 40px;
+    height: 40px;
+    line-height: calc(40px - 4px);
+    border: 2px solid var(--color-3);
+    border-radius: 50px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+footer {
+    display: block;
+    position: relative;
+}
+footer .navbar .navbar-nav .nav-item .nav-link {
+    color: var(--color-1);
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.pagination .paginate_button a {
+    color: var(--color-3);
+}
+.pagination .paginate_button.active a {
+    outline: none !important;
+    background-color: var(--color-3);
+    border-color: var(--color-3);
+    box-shadow: none !important;
+}
+/**** endof custom style ****/

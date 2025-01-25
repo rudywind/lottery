@@ -1,0 +1,83 @@
+/**** begin countdown colors ****/
+.flip-clock-wrapper ul,
+.flip-clock-wrapper ul li a div div.inn,
+.flip-clock-divider .flip-clock-dot {
+	background-color: var(--flipclock-bg-color);
+}
+.flip-clock-wrapper ul li a div div.inn {
+	color: var(--flipclock-color);
+}
+/**** endof countdown colors ****/
+
+/**** begin custom style ****/
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-1);
+}
+
+hr {
+    border-bottom: 0 !important;
+    border-left: 0 !important;
+    border-image: 0 !important;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: var(--color-9);
+}
+
+header {
+    display: block;
+    position: relative;
+}
+header .navbar .navbar-nav .nav-item .nav-link {
+    color: var(--color-9);
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+header .navbar .navbar-nav .nav-item.active .nav-link {
+    color: var(--color-3);
+    font-weight: 700;
+}
+
+section {
+    display: block;
+    position: relative;
+}
+section .logo-wrapper {
+    position: relative;
+    margin: 0 auto;
+    max-width: 250px;
+}
+section .logo-wrapper .web-logo {
+    width: 100%;
+}
+
+footer {
+    display: block;
+    position: relative;
+}
+footer .logo-wrapper {
+    position: relative;
+    max-width: 200px;
+    margin: 0 auto;
+}
+footer .logo-wrapper .web-logo {
+    width: 100%;
+}
+
+.pagination .paginate_button a {
+    outline: none !important;
+    background-color: var(--color-3) !important;
+    border-color: var(--color-3) !important;
+    box-shadow: none !important;
+    color: var(--color-9) !important;
+}
+.pagination .paginate_button.active a {
+    outline: none !important;
+    background-color: var(--color-5) !important;
+    border-color: var(--color-5) !important;
+    box-shadow: none !important;
+    color: var(--color-2) !important;
+}
+/**** endof custom style ****/

@@ -1,0 +1,307 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202409 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.sanmarinoprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2046                
+POS_TIME 2708                
+POS_VISITOR 7465                
+POS_DAY 8231                
+POS_DOMAIN 3281                
+POS_LOGIN 3623                
+POS_ROBOT 3778                
+POS_WORMS 4153                
+POS_EMAILSENDER 4284                
+POS_EMAILRECEIVER 4427                
+POS_SESSION 8373                
+POS_SIDER 8520                
+POS_FILETYPES 4562                
+POS_DOWNLOADS 4683                
+POS_OS 4731                
+POS_BROWSER 4895                
+POS_SCREENSIZE 5164                
+POS_UNKNOWNREFERER 5238                
+POS_UNKNOWNREFERERBROWSER 5400                
+POS_ORIGIN 5520                
+POS_SEREFERRALS 5652                
+POS_PAGEREFS 5796                
+POS_SEARCHWORDS 5944                
+POS_KEYWORDS 6096                
+POS_MISC 2372                
+POS_ERRORS 6155                
+POS_CLUSTER 3479                
+POS_SIDER_404 6255                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240904221402 9 1798 11293375191937
+FirstTime 0
+LastTime 20240904221401
+LastUpdate 20240905084051 9 0 9 0 0
+TotalVisits 17                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 1 4 5004
+5 0 0 0 1 1 1251
+6 1 2 150077 5 5 6255
+7 0 0 0 5 5 6246
+8 1 1 9065 1 6 48169
+9 2 4 300161 1 1 7095
+10 2 2 18042 2 2 10316
+11 0 0 0 1 15 86794
+12 2 2 18042 0 1 1251
+13 0 0 0 0 0 0
+14 1 1 9014 0 0 0
+15 2 2 18035 0 1 1251
+16 0 0 0 1 5 17561
+17 0 0 0 2 2 2493
+18 0 0 0 0 0 0
+19 1 1 9021 0 0 0
+20 0 0 0 1 1 7089
+21 4 4 259128 6 9 19029
+22 3 4 169465 2 2 18042
+23 0 0 0 1 1 1242
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 7 9 346618
+de 3 3 27056
+lt 2 2 205946
+se 1 2 150071
+ca 1 2 150077
+cn 1 1 9065
+gb 1 1 9021
+in 1 1 9014
+ru 1 1 9021
+it 1 1 44161
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+AhrefsBot/ 14 93313 20240903220030 0
+bingbot/ 7 61102 20240902084907 0
+Googlebot/ 3 15059 20240903160011 0
+SemrushBot/ 1 9021 20240903220400 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 9065 20240901104753 0
+bot[\s_+:,\.\;\/\\-] 1 9021 20240903215732 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+html 17 189852 0 0
+Unknown 2 205946 0 0
+png 4 564252 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+ios_iphone 1 1
+androidkitkat 1 1
+macosx15 1 1
+macosx13 1 1
+win10 14 10
+Unknown 3 3
+linuxubuntu 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 12
+firefox114.0 2 2
+firefox55.0 1 1
+safari13.0.3 1 1
+netscape5.0 1 1
+chrome66.0.3359.117 1 1
+chrome126.0.0.0 6 3
+chrome124.0.0.0 4 4
+chrome121.0.0.0 1 1
+chrome118.0.5993.70 1 1
+android 1 1
+Unknown 2 2
+chrome105.0.0.0 2 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+python-requests/2.32.3 20240903124225
+Mozilla/5.0_zgrab/0.x 20240901151032
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+python-requests/2.32.3 20240903124225
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 17 18
+From1 0 0
+From2 0 0
+From3 0 0
+From4 2 5
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 31 38781
+403 3 3726
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 20
+/xmlrpc.php 1 http://sanmarinoprize.com
+/admin/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/mvyhqxgv.php 1 www.google.com
+/wp-admin/dropdown.php 1 www.google.com
+/wp-content/themes/seotheme/db.php 1 www.google.com
+/wp-content/themes/aahana/json.php 1 www.google.com
+/.env 1 -
+/robots.txt 9 -
+/wp-content/uploads/elementor/css/post-78.css 2 https://sanmarinoprize.com/
+/wp-includes/js/wp-emoji-release.min.js 2 -
+/wp-plain.php 1 www.google.com
+/cfide/scripts/ajax/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-content/themes/digital-download/new.php 1 www.google.com
+/sitemaps.xml 2 -
+/wp-add.php 1 www.google.com
+/about.php 1 www.google.com
+/wp-login.php 1 -
+/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/html/js/editor/fckeditor/editor/filemanager/browser/default/browser.html 1 -
+/wp-content/plugins/dummyyummy/wp-signup.php 1 www.google.com
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+84.32.41.136 2 2 205946 20240902213104
+213.165.71.218 2 2 18042 20240903124225
+94.141.120.165 1 1 9021 20240904103742
+5.133.192.94 1 2 150071 20240904221401 20240904221401 /
+18.200.251.1 1 1 9021 20240903195045
+45.156.128.56 1 1 9014 20240902142904
+49.51.72.76 1 1 9065 20240901082249
+64.227.74.62 1 1 9014 20240903224100
+64.227.99.231 1 1 9021 20240903215612
+193.29.15.252 1 1 9014 20240901151032
+138.197.45.208 1 1 10380 20240903225101
+104.131.58.207 1 1 9021 20240903153651
+209.38.70.141 1 2 150077 20240902063229
+143.198.52.244 1 2 150084 20240904090107
+193.32.127.212 1 1 9021 20240904104727
+159.89.187.229 1 2 150077 20240902095919
+193.42.36.45 1 1 44161 20240904214241 20240904214241 /
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20240901 2 2 18079 2
+20240902 5 7 515114 4
+20240903 7 7 64499 6
+20240904 5 7 362358 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 15
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 15 170458 14 12
+/live-draw/ 1 9014 1 1
+/history-result/ 1 10380 1 1
+/wp-json/wp/v2/pages/78 1 14317 0 1
+/wp-json/json 1 191629 1 0
+END_SIDER

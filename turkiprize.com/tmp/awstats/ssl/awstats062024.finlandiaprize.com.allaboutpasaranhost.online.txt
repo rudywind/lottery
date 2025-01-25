@@ -1,0 +1,1390 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202406 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.finlandiaprize.com.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2046                
+POS_TIME 2724                
+POS_VISITOR 38759               
+POS_DAY 48154               
+POS_DOMAIN 3533                
+POS_LOGIN 4107                
+POS_ROBOT 4262                
+POS_WORMS 4889                
+POS_EMAILSENDER 5020                
+POS_EMAILRECEIVER 5163                
+POS_SESSION 48925               
+POS_SIDER 49106               
+POS_FILETYPES 5298                
+POS_DOWNLOADS 5383                
+POS_OS 5431                
+POS_BROWSER 5785                
+POS_SCREENSIZE 7447                
+POS_UNKNOWNREFERER 7521                
+POS_UNKNOWNREFERERBROWSER 8677                
+POS_ORIGIN 9314                
+POS_SEREFERRALS 9450                
+POS_PAGEREFS 9635                
+POS_SEARCHWORDS 9846                
+POS_KEYWORDS 9998                
+POS_MISC 2388                
+POS_ERRORS 10057               
+POS_CLUSTER 3963                
+POS_SIDER_404 10174               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240701002815 15 2408 14927491792016
+FirstTime 20240601024634
+LastTime 20240630234032
+LastUpdate 20240701083940 15 0 14 0 0
+TotalVisits 330                 
+TotalUnique 243                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 243                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 19 19 209209 20 28 77915
+1 14 14 345633 15 29 138576
+2 19 19 356227 54 66 116916
+3 19 19 390688 16 23 128565
+4 11 11 931508 69 92 216952
+5 17 17 302103 104 113 161946
+6 23 23 391310 244 249 388913
+7 22 22 255708 31 36 151188
+8 22 22 252494 24 28 120791
+9 8 8 228074 26 33 168709
+10 18 18 372675 29 32 131844
+11 5 5 67015 33 37 96890
+12 13 13 155969 25 32 73850
+13 15 15 189660 26 44 98737
+14 18 18 352671 57 66 210587
+15 20 20 161256 17 52 163074
+16 25 25 342034 34 41 62472
+17 14 14 121024 25 26 109974
+18 25 25 1156776 37 58 116032
+19 12 12 104130 19 26 62328
+20 16 16 240189 23 26 79361
+21 17 17 145372 276 320 453397
+22 17 17 190391 20 31 94961
+23 41 41 486341 124 132 216178
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 26
+us 203 203 4495278
+cn 49 49 519805
+jp 26 26 265340
+nl 23 23 307586
+de 21 21 380808
+gb 19 19 178624
+se 12 12 112835
+ru 11 11 256277
+ir 9 9 84627
+ca 9 9 298621
+lb 8 8 319808
+kh 7 7 52249
+fr 7 7 63168
+gr 5 5 47005
+be 5 5 47019
+cz 3 3 89360
+id 2 2 14924
+au 2 2 18798
+in 2 2 47437
+ua 1 1 39976
+eu 1 1 9397
+it 1 1 9397
+hr 1 1 9396
+kz 1 1 39976
+vn 1 1 39977
+bg 1 1 769
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+no_user_agent 25 999400 20240630093925 0
+Googlebot/ 22 174401 20240630035733 0
+AhrefsBot/ 19 162232 20240630024620 0
+(firefox/)([0-9]\.|[0-1][0]\.) 19 178584 20240630214242 0
+bingbot/ 4 29877 20240629133346 0
+link 3 49160 20240621003035 0
+bot[\s_+:,\.\;\/\\-] 2 18785 20240621142611 0
+survey 2 79950 20240604173255 0
+SemrushBot/ 2 39771 20240604200755 0
+MJ12bot/ 1 7463 20240616180245 0
+Go\-http\-client/ 1 9404 20240619041420 0
+baidu 1 9398 20240603081520 0
+YandexBot/ 1 9399 20240604181008 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 430 7748457 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+macosx 7 7
+macosx15 65 65
+win7 11 11
+winnt 4 4
+androidoreo 2 2
+win8 1 1
+Unknown 60 60
+androidnougat 1 1
+androidlollipop 1 1
+win10 171 171
+linux 27 27
+linuxubuntu 7 7
+androidpie 1 1
+win8.1 1 1
+macosx9 1 1
+android10 6 6
+androidkitkat 1 1
+ios_iphone 55 55
+winxp 2 2
+ios_ipad 1 1
+android 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 81
+firefox40.0 1 1
+edge8 2 2
+chrome116.0.0.0 12 12
+chrome83.0.4103.97 9 9
+firefox108.0 5 5
+chrome109.0.0.0 1 1
+firefox102.0 1 1
+firefox17.0 1 1
+safari17.0 4 4
+android 1 1
+chrome60.0.3112.107 1 1
+chrome80.0.3987.162 1 1
+safari 1 1
+edge44 4 4
+chrome60.0.3112.113 4 4
+chrome63.0.3425.131 1 1
+chrome126.0.0.0 4 4
+firefox118.0 7 7
+chrome122.0.0.0 4 4
+chrome104.0.0.0 3 3
+chrome93.0.4577.63 2 2
+chrome108.0.0.0 1 1
+netscape5.0 4 4
+safari17.3.1 1 1
+chrome58.0.3029.110 2 2
+chrome120.0.6099.71 1 1
+safari14.0.3 1 1
+chrome110.0.0.0 2 2
+firefox83.0 1 1
+chrome54.0.3695.359 1 1
+mozilla 18 18
+chrome82.0.1721 1 1
+chrome115.0.0.0 3 3
+chrome121.0.0.0 58 58
+chrome51.0.2704.103 3 3
+chrome120.0.0.0 1 1
+firefox123 1 1
+chrome62.0.1668 1 1
+Unknown 39 39
+chrome91.0.4472.114 3 3
+safari13.0.3 46 46
+chrome87.0.4280.88 3 3
+chrome125.0.0.0 15 15
+chrome103.0.5060.53 1 1
+chrome117.0.0.0 11 11
+chrome71.0.2623.112 1 1
+firefox115 1 1
+chrome78.0.3904.108 19 19
+firefox120.0 1 1
+firefox123.0 1 1
+safari16.6 7 7
+chrome105.0.0.0 7 7
+chrome84.0.1730 1 1
+sonyericsson 1 1
+chrome90.0.4430.85 9 9
+chrome94.0.2501 1 1
+safari14.0.1 1 1
+chrome89.0.2577 1 1
+chrome74.0.3729.169 6 6
+chrome56.0.2924.87 1 1
+chrome57.0.2666 1 1
+chrome75.0.2682.88 1 1
+chrome88.0.4324.190 1 1
+chrome48.0.2908.276 1 1
+chrome123.0.0.0 1 1
+chrome106.0.0.0 1 1
+chrome81.0.4044.129 2 2
+chrome88.0.4324.192 5 5
+chrome124.0.0.0 5 5
+iphone 1 1
+chrome100.0.4896.60 25 25
+chrome76.0.3809.89 2 2
+firefox117.0 14 14
+chrome96.0.4664.110 8 8
+chrome63.0.3239.132 1 1
+chrome48.0.1063.380 1 1
+chrome113.0.0.0 2 2
+safari17.2.1 1 1
+opera102.0.0.0 6 6
+chrome114.0.0.0 5 5
+chrome118.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 14
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20240629033054
+python-requests/2.32.3 20240619182756
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240627225059
+Mozilla/5.0_(compatible;_Dataprovider.com) 20240608045343
+python-requests/2.27.1 20240610175655
+got_(https://github.com/sindresorhus/got) 20240623213555
+python-requests/2.26.0 20240628100330
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240628030945
+Mozilla/5.0_(compatible;_Example3/1.0;__https://www.example3.com/domain/finlandiaprize.com) 20240623222438
+req/v3_(https://github.com/imroc/req) 20240624180819
+Mozilla/5.0_researchscan.comsys.rwth-aachen.de 20240619190334
+undici 20240629151615
+SonyEricssonW850i/R1ED_Browser/NetFront/3.3_Profile/MIDP-2.0_Configuration/CLDC-1.1 20240626015008
+fasthttp 20240628102052
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+python-requests/2.26.0 20240628100330
+got_(https://github.com/sindresorhus/got) 20240623213555
+python-requests/2.27.1 20240610175655
+req/v3_(https://github.com/imroc/req) 20240624180819
+undici 20240629151615
+fasthttp 20240628102052
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240628030945
+python-requests/2.32.3 20240619182756
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 330 330
+From1 9 9
+From2 3 3
+From3 3 3
+From4 85 85
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+cn_bing_com 1 1
+baidu 1 1
+google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://onic4dpasaran.site 2 2
+https://finlandiaprize.com. 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+500 1 1115
+404 1466 1832715
+403 31 38502
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 719
+/wp-includes/js/tinymce/plugins/fullscreen/radio.php 1 -
+/wp-includes/js/tinymce/themes/modern/radio.php 1 -
+/wp-includes/ID3/radio.php 1 -
+//indiagrandlotto.com/wp-content/themes/lottery/assets/css/flipclock.css 1 -
+/wp-admin/css/colors/blue/index.php 1 -
+/wp-admin/network/xmrlpc.php 2 -
+/administrator/index.php 1 -
+/dropdown.php 3 -
+/libraries/vendor/updates.php 2 -
+/blog/wp-admin/install.php 2 -
+/dist/jquery.min.js 5 -
+/wp-admin/css/about.php 2 -
+/images/index.php 1 -
+/cache-compat.php 2 -
+/wp-admin/cloud.php 2 -
+/site/wp-admin/install.php 2 -
+/wp-includes/PHPMailer/radio.php 1 -
+//cms/wp-includes/wlwmanifest.xml 1 -
+/.well-known/pki-validation/about.php 2 -
+/mayicms 1 -
+/wp-includes.bak/html-api/about.php 2 -
+/wp-emoji-release.min.js 5 -
+/wp-content/plugins/learning-management-system/readme.txt 1 -
+/wp-content/plugins/chatbot-chatgpt/readme.txt 2 -
+/wp-includes/blocks/archives/radio.php 1 -
+/wp-links-on.php 4 -
+/wp-admin/wordpress.php 2 http://finlandiaprize.com
+/wp-content/themes/statfort/include/lang_upload.php 1 -
+/wp-content/plugins/WordPressCore/include.php 14 www.google.com
+/cgi-bin/xmrlpc.php 2 -
+/wp-content/plugins/jobboardwp/readme.txt 1 -
+/wp-includes/blocks/categories/radio.php 1 -
+/wp-includes/blocks/block/radio.php 1 -
+/wp-includes/SimplePie/Decode/HTML/radio.php 1 -
+/author/wpservices/ 1 -
+/wp-content/plugins/woocommerce-upload-files/js/wcuf-admin-menu.js 1 -
+/wp-include/auto_seo.php 3 -
+//2019/wp-includes/wlwmanifest.xml 1 -
+/alfa-rex.php7 2 -
+/wp-includes/blocks/social-link/radio.php 1 -
+/repeater.php 2 -
+//site/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/radio.php 1 -
+/wp-content/plugins/tatsu/changelog.md 1 -
+/wp-includes/js/tinymce/plugins/wpautoresize/radio.php 1 -
+/.well-known/acme-challenge/cloud.php 4 -
+/wp-admin/css/colors/xmrlpc.php 2 -
+/wp-includes/blocks/heading/radio.php 1 -
+/wp-admin/js/widgets/about.php7 2 -
+/wp-includes/sodium_compat/src/Core32/Poly1305/radio.php 1 -
+/wp-json/wp/v2/users/1 1 https://finlandiaprize.com/
+/wp-json/wp/v2/users/2 1 https://finlandiaprize.com/
+/wp-admin/maint/radio.php 1 -
+/wp-content/plugins/wp-theme-editor/include.php 2 www.google.com
+/admin/assets/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/wp-content/plugins/fix/up.php 15 -
+/wp-content/themes/seotheme/radio.php 1 -
+//.well-known/acme-challenge/install.php 1 -
+/sendgrid/.env 1 -
+/wp-includes/js/imgareaselect/radio.php 1 -
+/plugins/content/apismtp/apismtp.php 1 -
+/wp-admin/images/xmrlpc.php 2 -
+/wp-content/upgrade-temp-backup/about.php 2 -
+/wp-content/plugins/woocommerce-simple-registration/readme.txt 1 -
+/wp-content/plugins/videowhisper-live-streaming-integration/readme.txt 1 -
+/shop 3 -
+/author/Sendsdesr/ 2 -
+/wp-limit-login.php 4 -
+/wp-includes/rest-api/radio.php 1 -
+/about.php 3 -
+/wp-includes/sitemaps/providers/radio.php 1 -
+/blog 6 -
+/wp-content/index.php 2 -
+/wp-content/plugins/google-seo-rank/README.txt 3 www.google.com
+//cgi-bin/install.php 1 -
+/wp-content/upgrade/radio.php 1 -
+//2020/wp-includes/wlwmanifest.xml 1 -
+/wp-content/about.php 2 -
+/wp-includes/about.php 2 -
+//cgi-bin/cgi-bin/about.php 1 -
+/author/wpadminne/ 3 -
+/wp-content/plugins/wp-live-chat-support-pro/css/wplc_styles_pro.css 1 -
+/cgi-bin/radio.php 1 -
+/wp-includes/blocks/query-pagination/radio.php 1 -
+/wp-content/themes/kingclub-theme/include/lang_upload.php 1 -
+/wp-admin/images/about.php 2 -
+/wp-content/plugins/canto/Gruntfile.js 1 -
+/wp-admin/js/widgets/cloud.php 2 -
+/sellers.json 1 -
+/wp-includes/js/tinymce/plugins/media/radio.php 1 -
+/wp-includes/sodium_compat/src/Core/Poly1305/radio.php 1 -
+/wp-content/plugins/wp-photo-album-plus/changelog.txt 2 -
+/libraries/phpmailer/updates.php 2 -
+/alfanew.php7 2 -
+/sitemap_index.xml 2 -
+/newsite 3 -
+/wp-content/themes/aidreform/include/lang_upload.php 1 -
+/wp-includes/ID3/about.php 2 -
+/wp-includes/images/smilies/radio.php 1 -
+//install.php 1 -
+/wp-content/plugins/mstore-api/readme.txt 1 -
+/wp-includes/sodium_compat/src/Core/radio.php 1 -
+/wp-content/plugins/wp-catcher/index.php 2 www.google.com
+/wp-content/plugins/membership-for-woocommerce/readme.txt 1 -
+/files/ 9 binance.com
+/wp-includes/js/tinymce/plugins/wplink/radio.php 1 -
+/wp/wp-admin/install.php 2 -
+/wp-includes/blocks/more/radio.php 1 -
+/wp-includes/Text/radio.php 1 -
+//wp-content/plugins/install.php 1 -
+/as.php 1 http://finlandiaprize.com/as.php
+/sites/default/files/ 9 binance.com
+/wp-includes/Text/about.php 2 -
+/wp-admin/maint/maint/ajax-actions.php 2 -
+/wp-includes/radio.php 1 -
+/wp-includes/blocks/missing/radio.php 1 -
+/wp-admin/css/colors/blue/radio.php 1 -
+//wp-includes/js/tinymce/plugins/compat3x/css/index.php 1 -
+/wp-content/plugins/wp-mlm/readme.txt 1 -
+/wp-admin/css/ 9 binance.com
+/wp-admin/js/widgets/xmrlpc.php 2 -
+/wp-admin/css/colors/coffee/radio.php 1 -
+/images/radio.php 1 -
+/wp-includes/blocks/calendar/radio.php 1 -
+/wp-includes/IXR/radio.php 1 -
+/options.php 2 -
+/author/greeceman/ 1 -
+/wp-includes/blocks/post-content/radio.php 1 -
+/wp-includes/IXR/index.php 1 -
+/wp-admin/images/radio.php 1 -
+/admin/server/php/index.php 1 -
+/wp-includes/blocks/preformatted/radio.php 1 -
+/wp-includes/block-patterns/about.php 2 -
+/wp-content/plugins/apikey/apikey.php.suspected 1 -
+/.well-known/pki-validation/radio.php 1 -
+/wp-content/plugins/js-support-ticket/readme.txt 1 -
+/author/stender/ 4 -
+/wp-includes/blocks/about.php 2 -
+/wp-admin/css/colors/cloud.php 2 -
+/core 3 -
+/user.php 1 -
+/wp-json 18 -
+/wp-content/plugins/seoo/wsoyanz1.php 2 -
+/wp-content/themes/bolster/include/lang_upload.php 1 -
+/alfa-rex2.php7 2 -
+/wp-includes/sodium_compat/src/Core/Base64/radio.php 1 -
+/wp-content/updraft/themes.php 2 -
+/assets/admin/plugins/elfinder/connectors/php/connector.php 1 -
+/wp-admin/network/cloud.php 2 -
+/wp-includes/js/tinymce/plugins/tabfocus/radio.php 1 -
+/wp-includes/js/jquery/ui/radio.php 1 -
+/.vscode/sftp.json 2 -
+/images/about.php 2 -
+/wp-content/plugins/woozone/lib/frontend/js/frontend.js 1 -
+/wp-content/plugins/core-plugin/include.php 8 www.google.com
+/wp-content/plugins/salon-booking-system/css/cancel-booking-rtl.css 1 -
+/author/admim 2 -
+/wp-content/themes/listingo/readme.txt 1 -
+/wp-includes/pomo/radio.php 1 -
+/wp-content/plugins/ai-engine/readme.txt 1 -
+/wp-content/plugins/masterstudy-lms-learning-management-system/readme.txt 1 -
+/wp-ver.php 3 finlandiaprize.com
+//wp/wp-includes/wlwmanifest.xml 1 -
+/wp-json/wp/v2/users/4 1 https://finlandiaprize.com/
+/wp-checkbex.php 3 -
+/wp-includes/js/tinymce/plugins/image/radio.php 1 -
+/old 6 -
+/backup/wp-admin/install.php 2 -
+/wp-content/themes/bricks/assets/js/feedback.min.js 1 -
+/wp-includes/js/swfupload/radio.php 1 -
+//indiagrandlotto.com/wp-content/themes/lottery_india/assets/js/lottery.js 5 -
+/wp-includes/js/tinymce/plugins/wpemoji/radio.php 1 -
+/archivarix.cms.php 2 https://finlandiaprize.com/archivarix.cms.php
+/wp-content/plugins/seoplugins/mar.php 2 -
+/index.php 17 -
+/wp-aa.php 1 -
+/wp-login.php 15 -
+/wp-admin/network/index.php 1 -
+/wp-admin/xmrlpc.php 2 -
+/wp-content/plugins/dzs-zoomsounds/admin/admin.css 1 -
+/wp-includes/random_compat/radio.php 1 -
+/wp-content/plugins/miniorange-2-factor-authentication/readme.txt 1 -
+/wp-includes/sodium_compat/src/PHP52/radio.php 2 -
+/theme/v2board/assets/umi.css 2 http://finlandiaprize.com/theme/v2board/assets/umi.css
+/wp-includes/sodium_compat/namespaced/Core/radio.php 1 -
+/wp-content/plugins/rencontre/readme.txt 1 -
+/wp-admin/dropdown.php 2 -
+//ee.php 1 -
+/assets/plugins/plupload/examples/upload.php 1 -
+//wp-admin/dropdown.php 1 -
+/images/logo.png 18 https://finlandiaprize.com/
+/wp-admin/user/index.php 1 -
+/wp-includes/blocks/paragraph/radio.php 1 -
+/wp-includes/Requests/Response/radio.php 1 -
+/wp-includes/css/radio.php 1 -
+//indiagrandlotto.com/wp-content/themes/lottery/assets/js/flipclock.js 5 -
+/wp-includes/rest-api/about.php 2 -
+/.well-known/index.php 1 -
+/author/wpadminns/ 2 -
+/wp-includes/sitemaps/radio.php 1 -
+/.well-known/pki-validation/xmrlpc.php 2 -
+/plugins/content/apismtp/apismtp.php.suspected 1 -
+//test/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/js/tinymce/plugins/textcolor/radio.php 1 -
+/login.php 1 -
+//wp-includes/install.php 1 -
+/wp-includes/customize/radio.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/server/php/index.php 1 -
+/sites/all/libraries/openwysiwyg/addons/imagelibrary/insert_image.php 1 -
+/wp-content/themes/soccer-theme/include/lang_upload.php 1 -
+/wp-includes/widgets/include.php 4 www.google.com
+/cxwlcms.php 1 -
+/wp-json/litespeed/v1/cdn_status 11 -
+/wp-includes/js/tinymce/plugins/wpview/radio.php 1 -
+//wp-content/themes/twenty/twenty.php 1 -
+/wp-content/languages/radio.php 1 -
+//wp-includes/wlwmanifest.xml 4 -
+/avaa.php 2 -
+/wp-admin/ajax-actions.php 2 -
+/.wp-cli/radio.php 1 -
+/wp-includes/widgets/radio.php 1 -
+/wp-includes/blocks/button/radio.php 1 -
+/wp-includes/sodium_compat/src/Core32/SecretStream/radio.php 1 -
+/images/ 9 binance.com
+/wp-includes/blocks/query-pagination-previous/radio.php 1 -
+/wp-includes/Requests/Exception/Transport/radio.php 1 -
+/js/_system/jQuery-File-Upload/server/php/index.php 1 -
+/admin.php 4 -
+/wp-includes/css/dist/customize-widgets/radio.php 1 -
+/wp-content/plugins/backup-backup/readme.txt 1 -
+/uploads/ 9 binance.com
+/author/admim/ 2 -
+/wp-content/plugins/woo-refund-and-exchange-lite/readme.txt 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/admin/login.php 1 -
+/author/wwwadmin/ 2 -
+/wp-includes/blocks/rss/radio.php 1 -
+/ftp-sync.json 1 -
+/wp-includes/blocks/tag-cloud/radio.php 1 -
+/wp-includes/SimplePie/Cache/radio.php 1 -
+//wp-includes/rest-api/about.php 1 -
+/web/wp-admin/install.php 2 -
+/wp-content/plugins/ait-csv-import-export/changelog.txt 1 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 5 -
+/wp-includes/block-supports/radio.php 1 -
+/wp-atom.php 3 -
+/wp-includes/js/tinymce/plugins/directionality/radio.php 1 -
+/sitemaps.xml 2 -
+/wp-content/themes/spikes/include/lang_upload.php 1 -
+/.well-known/acme-challenge/xmrlpc.php 2 -
+/admin/ 1 -
+/wp-includes/js/tinymce/plugins/wordpress/radio.php 1 -
+/wp-content/gallery/about.php 2 -
+/author/w-padmine/ 3 -
+/wp-includes/blocks/query/radio.php 1 -
+//wp-includes/ID3/license.txt 1 -
+/wp-admin/js/radio.php 1 -
+/img/about.php 2 -
+/wp-content/plugins/userpro/changelog.txt 1 -
+/fw.php 1 http://finlandiaprize.com/fw.php
+/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/radio.php 1 -
+/wp-includes/widgets/about.php 2 -
+/wp-includes/js/tinymce/plugins/wpgallery/radio.php 1 -
+/wp-content/languages/about.php 2 -
+/wp-includes/blocks/latest-comments/radio.php 1 -
+/wp-includes/css/dist/block-directory/radio.php 1 -
+/ajax-actions.php 2 -
+/wp-content/plugins/superstorefinder-wp/css/ssf-wp-admin.css 1 -
+/wp-admin/user/cloud.php 2 -
+/new/wp-admin/install.php 2 -
+/wp-includes/blocks/post-terms/radio.php 1 -
+/wp-includes/SimplePie/XML/Declaration/radio.php 1 -
+/wp-includes/Requests/Exception/radio.php 1 -
+/css/index.php 1 -
+//wp-content/uploads/ 1 -
+/wp-content/plugins/google-seo-rank/module.php 5 www.google.com
+/wp-includes/Requests/Auth/index.php 1 -
+/wp-includes/images/media/radio.php 1 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/wp-content/plugins/bertha-ai-free/readme.txt 1 -
+/ws.php 1 http://finlandiaprize.com/ws.php
+//blog/wp-includes/wlwmanifest.xml 1 -
+/updates.php 2 -
+/wp-includes/blocks/query-pagination-next/radio.php 1 -
+//css/install.php 1 -
+/wp-admin/images/cloud.php 2 -
+/wp-admin/network/radio.php 1 -
+/assets/backend/plugins/jquery-file-upload/server/php/index.php 1 -
+/wp-includes/js/tinymce/plugins/lists/radio.php 1 -
+//wp-admin/install.php 1 -
+/.wp-cli/cache/radio.php 1 -
+/author/AdminZaxHH34/ 2 -
+/wp-includes/blocks/html/radio.php 1 -
+/libraries/legacy/updates.php 2 -
+/wp-includes/images/wlw/radio.php 1 -
+/wp-consar.php 2 -
+/wp-content/plugins/wp-automatic/changelog 3 -
+/test 6 -
+/wp-admin/css/radio.php 1 -
+/wp-admin 1 -
+/wp-includes/blocks/separator/radio.php 1 -
+/viewtopic.php 2 -
+/wp-includes/blocks/verse/radio.php 1 -
+/license.php 4 -
+/dist/js/bootstrap.bundle.min.js 5 -
+/cmd_sco 1 -
+/author/wpsecuritypatch/ 1 -
+/wp-includes/blocks/list/radio.php 1 -
+/wp-includes/js/tinymce/plugins/wpdialogs/radio.php 1 -
+/wp-admin/js/about.php 4 -
+/wp-includes/sodium_compat/src/radio.php 1 -
+/wp-pluploads.php 4 -
+/theme/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/wp-admin/user/radio.php 1 -
+/wp-content/themes/footysquare/include/lang_upload.php 1 -
+//wp-admin/admin-ajax.php 1 -
+/loader.php 2 -
+/wp 6 -
+/locoy.php 4 -
+/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js 2 -
+/wp-admin/wp-wordpress.php 2 http://finlandiaprize.com
+/wp-includes/sodium_compat/src/Core32/ChaCha20/radio.php 1 -
+/wp-content/themes/spikes-black/include/lang_upload.php 1 -
+//shop/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/customize/about.php 2 -
+/wp-json/tdw/save_cssss 1 -
+//wp-content/install.php 1 -
+/wp-includes/css/dist/edit-post/radio.php 1 -
+/wp-includes/js/tinymce/plugins/hr/radio.php 1 -
+/wp-content/plugins/kadence-blocks/readme.txt 1 -
+/wp-content/plugins/linkpreview/db.php 2 -
+/wp-includes/blocks/page-list/radio.php 1 -
+/wp-content/auto_seo.php 3 -
+/wp-content/updraft/about.php 2 -
+/wp-includes/IXR/about.php 2 -
+/wp-includes/blocks/search/radio.php 1 -
+/about.php7 2 -
+/cms/wp-admin/install.php 2 -
+/ccx/radio.php 1 -
+/wp-includes/css/dist/editor/radio.php 1 -
+/wp-includes/blocks/nextpage/radio.php 1 -
+/wp-admin/css/colors/index.php 3 -
+/wp-includes/certificates/radio.php 1 -
+/wp-content/plugins/ccx/radio.php 1 -
+/app-ads.txt 1 -
+/wp-includes/blocks/spacer/radio.php 1 -
+//wp-includes/Text/about.php 1 -
+/wp-includes/js/tinymce/plugins/link/radio.php 1 -
+/wp-includes/js/tinymce/langs/radio.php 1 -
+/wp-includes/pomo/about.php 2 -
+/wp-content/plugins/n-media-woocommerce-checkout-fields/readme.txt 1 -
+/wp-admin/includes/about.php 2 -
+/images/xmrlpc.php 2 -
+/wp-includes/js/jquery/radio.php 1 -
+/wp-includes/blocks/post-excerpt/radio.php 1 -
+/wp-includes/images/radio.php 1 -
+/wp-includes/blocks/legacy-widget/radio.php 1 -
+/alfanew2.php7 2 -
+/wp-content/plugins/super-interactive-maps/css/sim-wp-admin.css 1 -
+/wp-includes/ID3/index.php 1 -
+/wp-includes/blocks/column/radio.php 1 -
+/wp-json/wp/v2/posts 1 https://www.google.com/
+/wp-admin/css/colors/coffee/xmrlpc.php 2 -
+//wp-json/oembed/1.0/embed 5 -
+/wp-admin/css/colors/coffee/index.php 1 -
+/wp-includes/Requests/Auth/radio.php 1 -
+/css/xmrlpc.php 2 -
+/wp-includes/sodium_compat/namespaced/radio.php 1 -
+//wp-content/patior/ 1 -
+/wp-includes/css/dist/widgets/radio.php 1 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/radio.php 1 -
+/wp-content/plugins/edwiser-bridge/readme.txt 1 -
+/.ftpconfig 1 -
+/author/administratoir/ 2 -
+/wp-content/themes/theme-deejay/include/lang_upload.php 1 -
+/admin/controller/extension/extension/ 9 binance.com
+/humans.txt 1 http://www.finlandiaprize.com/humans.txt
+/wp-admin/css/index.php 3 -
+//dropdown.php 1 -
+/ads.txt 3 -
+/wp-includes/blocks/query-title/radio.php 1 -
+/ws.php7 2 -
+/wp-includes/js/jcrop/radio.php 1 -
+/wordpress-wo.php 2 http://finlandiaprize.com
+/author/wp-import-user/ 2 -
+/wp-content/themes/churchlife/include/lang_upload.php 1 -
+/wp-admin/images/index.php 3 -
+/wp-admin.php 2 -
+/security.txt 1 http://www.finlandiaprize.com/security.txt
+/wp-includes/Requests/Exception/HTTP/radio.php 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/wp-content/plugins/forminator/readme.txt 1 -
+/wp-includes/sodium_compat/src/Core/SecretStream/radio.php 1 -
+//feed/ 1 -
+/wp-admin/css/colors/blue/cloud.php 2 -
+/wp-content/plugins/wp-help/admin/wp-fclass.php 2 -
+/xmrlpc.php 2 -
+/wp-json/wp/v2/users/5 1 https://finlandiaprize.com/
+/wp-content/plugins/wp-help/index.php 2 -
+/wp-includes/SimplePie/radio.php 1 -
+/wp-on.php 4 -
+/cgi-bin/about.php 2 -
+/wp-content/themes/faith-theme/include/lang_upload.php 1 -
+/wp-includes/css/dist/block-library/radio.php 1 -
+/wp-admin/includes/radio.php 1 -
+/wp-includes/sodium_compat/src/Core/ChaCha20/radio.php 1 -
+/wp-wordpress.php 3 http://finlandiaprize.com
+/wp-includes/Requests/Cookie/radio.php 1 -
+/auto_seo.php 3 -
+/wp-content/themes/westand/include/lang_upload.php 1 -
+/.well-known/security.txt 2 http://www.finlandiaprize.com/.well-known/security.txt
+/wp-includes/images/about.php 2 -
+/wp-admin/includes/xmrlpc.php 2 -
+/wp-includes/blocks/table/radio.php 1 -
+/wp-includes/css/dist/reusable-blocks/radio.php 1 -
+/wp-admin/css/colors/coffee/cloud.php 2 -
+/wp-content/plugins/ninja-forms/readme.txt 1 -
+/zb_system/login.php 1 -
+/wp-includes/blocks/radio.php 1 -
+/wp/xmlrpc.php 1 -
+/install.php 1 http://finlandiaprize.com/install.php
+/uninstall.php 4 -
+/wp-admin/css/colors/ocean/radio.php 1 -
+/wp-admin/css/colors/modern/index.php 1 -
+//wp-content/dropdown.php 1 -
+/mments-post.php 4 -
+/sitemap.txt 3 -
+/oldsite/wp-admin/install.php 2 -
+/img/xmrlpc.php 2 -
+/wp-includes/Requests/Exception/Transport/index.php 1 -
+/wp-includes/index.php 1 -
+/wp-admin/css/colors/ectoplasm/index.php 1 -
+/wp-includes/Text/Diff/Engine/radio.php 1 -
+/sftp-config.json 2 -
+/wp-admin/maint/index.php 1 -
+/php/thinkphp/aaaffff123.php 3 -
+/wp-content/plugins/wp-user-extra-fields/js/wpuef-configurator.js 1 -
+/wp-includes/Requests/Proxy/radio.php 1 -
+/wp-includes/Requests/Exception/index.php 1 -
+/shell.php 1 http://finlandiaprize.com/shell.php
+/wp-admin/css/colors/modern/radio.php 1 -
+/wp-includes/SimplePie/HTTP/radio.php 1 -
+/wp-content/repeater.php 2 -
+/wp-content/updates.php 2 -
+/wp-includes/js/dist/radio.php 1 -
+/yanz.php 2 -
+/wp-includes/css/dist/format-library/radio.php 1 -
+/wp-includes/sodium_compat/src/Core32/radio.php 1 -
+/wp-content/plugins/wp-file-manager/readme.txt 1 -
+/wp-json/wp/v2/users 9 -
+/wp-includes/js/thickbox/radio.php 1 -
+/wordpress/wp-admin/install.php 1 -
+/wp-includes/blocks/quote/radio.php 1 -
+/wp-admin/css/colors/ocean/index.php 1 -
+//contact 1 -
+/wp-includes/js/tinymce/utils/radio.php 1 -
+/cgi-bin/index.php 1 -
+/wp-includes/js/tinymce/skins/wordpress/radio.php 1 -
+/adminfuns.php7 2 -
+/wp-content/themes/include.php 1 www.google.com
+/wp-includes/Requests/Exception/HTTP/index.php 1 -
+/sitemap.xml.gz 6 -
+/wp-includes/js/tinymce/plugins/compat3x/radio.php 1 -
+/test/wp-admin/install.php 2 -
+/home 3 -
+/comments.php 4 -
+/wp-admin/setup-config.php 5 -
+/wp-includes/js/radio.php 1 -
+/wp-includes/Requests/radio.php 1 -
+/wp-content/themes/workreap/style.css 1 -
+/ccx/index.php 1 -
+/wp-content/plugins/phppoet-checkout-fields/readme.txt 2 -
+/assets/plugins/summernote/upload.php 1 -
+/wp-content/themes/listingo/js/listingo_callbacks.js 1 -
+/omments-post.php 4 -
+/.ftp-sync.json 1 -
+/wp-admin/css/colors/blue/xmrlpc.php 2 -
+/wp-includes/js/tinymce/plugins/wptextpattern/radio.php 1 -
+/new 6 -
+/radio.php 1 -
+/cloud.php 2 -
+/wp-content/plugins/include.php 6 www.google.com
+/wp-content/plugins/booking-calendar/readme.txt 1 -
+/wp-includes/js/crop/radio.php 1 -
+/wp-content/plugins/yith-woocommerce-gift-cards-premium/readme.txt 1 -
+//xmlrpc.php 11 -
+/wp-includes/Requests/index.php 1 -
+/css/radio.php 1 -
+/wp-content/plugins/startklar-elmentor-forms-extwidgets/readme.txt 2 -
+/wp-content/themes/soundblast/include/lang_upload.php 1 -
+//wp-content/plugins/ 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 5 -
+/wp-admin/user/news.php 2 -
+/dist/css/bootstrap.min.css 1 -
+/wp-includes/js/dist/vendor/radio.php 1 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/wp-includes/blocks/post-featured-image/radio.php 1 -
+/wp-includes/blocks/site-tagline/radio.php 1 -
+/wp-admin/css/colors/radio.php 1 -
+/wp-includes/Requests/about.php 2 -
+/page.php 2 -
+/dup-installer/main.installer.php 1 http://finlandiaprize.com/dup-installer/main.installer.php
+/simple.php 2 http://finlandiaprize.com/simple.php
+/wp-admin/index.php 1 -
+/api.php 1 -
+/wp-content/themes/index.php 1 -
+/wp-includes/Requests/Transport/radio.php 1 -
+/assets/plugins/elfinder/connectors/php/connector.php 1 -
+/wp-content/plugins/loader.php 2 -
+/wp-includes/sodium_compat/src/Core/Curve25519/Ge/radio.php 1 -
+/wsoyanz.php 2 -
+/wp-admin/css/colors/midnight/index.php 1 -
+/wp-includes/js/tinymce/skins/wordpress/images/radio.php 1 -
+//cgi-bin/cgi-bin/about.php7 1 -
+/wp-content/plugins/royal-elementor-addons/readme.txt 1 -
+/author/superadmin/ 1 -
+/wp-includes/blocks/embed/radio.php 1 -
+/wp-content/plugins/angwp/__%20UPDATES.txt 1 -
+/wp-content/uploads/radio.php 1 -
+/wp-include/inputs.php 3 -
+/ments-post.php 4 -
+/wp-content/themes/pridmag/db.php 2 -
+/wp-includes/blocks/post-title/radio.php 1 -
+/wp-content/plugins/ccx/index.php 1 -
+/style.php 1 -
+/wp-includes/blocks/post-date/radio.php 1 -
+/wp-includes/blocks/query-pagination-numbers/radio.php 1 -
+/wp-admin/user/xmrlpc.php 2 -
+/wp-includes/images/include.php 6 www.google.com
+/wp-includes/blocks/shortcode/radio.php 1 -
+//wp-admin/js/about.php7 1 -
+/wp-includes/blocks/video/radio.php 1 -
+/wp-loader.php 4 -
+/wp-includes/blocks/group/radio.php 1 -
+/wp-includes/css/dist/nux/radio.php 1 -
+/wp-admin/css/colors/midnight/radio.php 1 -
+/wp-includes/sodium_compat/radio.php 1 -
+/wp-content/languages/index.php 1 -
+/wp-includes/Requests/Cookie/index.php 1 -
+/wp-content/themes/bolster-theme/include/lang_upload.php 1 -
+/wp-content/plugins/dsp_dating/wpdating-gallery/lib/server/php/index.php 1 -
+//wp-content/plugins/Cache/dropdown.php 1 -
+/.well-known/about.php 2 -
+//wp1/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/SimplePie/Parse/radio.php 1 -
+/current.php 4 -
+/wp-includes/js/tinymce/skins/lightgray/radio.php 1 -
+/wp-content/plugins/seoplugins/db.php 2 -
+/wp-includes/blocks/post-template/radio.php 1 -
+/ftpsync.settings 1 -
+/view-source: 1 -
+/wp-content/upgrade/index.php 1 -
+/cgi-bin/cloud.php 2 -
+/wp-includes/css/dist/edit-widgets/radio.php 1 -
+/wp-includes/SimplePie/Net/radio.php 1 -
+/wp-includes/blocks/text-columns/radio.php 1 -
+/wp-includes/js/tinymce/plugins/paste/radio.php 1 -
+/plugins/elfinder/connectors/php/connector.php 1 -
+/wp-content/plugins/miniorange-malware-protection/readme.txt 1 -
+/wp-includes/blocks/gallery/radio.php 1 -
+/index_sso.php 3 -
+/theme/assets/global/plugins/jquery-file-upload/server/php/index.php 1 -
+/wp-content/radio.php 2 -
+/wp-includes/style-engine/about.php 2 -
+//wp-json/wp/v2/users/ 5 -
+/wp-includes/blocks/media-text/radio.php 1 -
+/wp-includes/rest-api/fields/radio.php 1 -
+/wp-content/plugins/index.php 1 -
+/wp-content/themes/seotheme/db.php 4 -
+/wp-includes/js/tinymce/skins/lightgray/fonts/radio.php 1 -
+/wp-admin/admin-ajax.php 15 -
+/wp-add.php 2 www.google.com
+/wp-admin/js/widgets/index.php 1 -
+/wp-admin/includes/index.php 1 -
+/wp-includes/js/mediaelement/radio.php 1 -
+/old/wp-admin/install.php 2 -
+/inputs.php 7 -
+//2021/wp-includes/wlwmanifest.xml 1 -
+/wp-content/blogs.dir/about.php 2 -
+/assets/server/php/index.php 1 -
+/wp-admin/js/widgets/radio.php 1 -
+/phpmyadmin/index.php 3 -
+/wp-content/plugins/wp-upg/readme.txt 1 -
+/wp-includes/sodium_compat/lib/radio.php 1 -
+/wp-content/inputs.php 3 -
+/wp-includes/SimplePie/about.php 2 -
+/wp-includes/Requests/Text/admin.php 2 -
+//wp-admin/images/install.php 1 -
+/theme/assets/jquery-file-upload/server/php/index.php 1 -
+/wp-includes/images/crystal/radio.php 1 -
+/wp-includes/blocks/cover/radio.php 1 -
+/wp-includes/PHPMailer/index.php 1 -
+/sitemap.xml 18 -
+/wp-content/plugins/wp-automatic/css/wp-automatic.css 3 -
+/testing 3 -
+/wo-wordpress.php 2 https://finlandiaprize.com
+/wordpress 6 -
+/administrator/components/com_jclassifiedsmanager/helpers/upload.php 1 -
+/wp-content/plugins/wp-photo-album-plus/wppa-admin-styles.css 1 -
+/wp-content/themes/greyd_suite/style.css 1 -
+//indiagrandlotto.com/wp-content/themes/lottery_india/assets/css/lottery.css 1 -
+/.DS_Store 6 -
+/robots.txt 90 -
+/wp-content/themes/snapture/include/lang_upload.php 1 -
+/wp-content/plugins/instawp-connect/readme.txt 2 -
+/wp-content/plugins/seoo/wsoyanz.php 2 -
+/author/crander/ 4 -
+/wp-includes/js/tinymce/themes/inlite/radio.php 1 -
+/wp-json/wc/store/products/collection-data 2 -
+//wp-admin/js/about.php 1 -
+/ebs.php7 2 -
+/wp-includes/blocks/loginout/radio.php 1 -
+/wp-content/themes/onelife/include/lang_upload.php 1 -
+/wordpress/xmlrpc.php 1 -
+/wp-content/plugins/ht-mega-for-elementor/assets/css/htbbootstrap.css 2 -
+/wp-content/themes/intense/block-css.php 2 -
+//s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js 5 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/radio.php 1 -
+/wp-includes/sodium_compat/namespaced/Core/Curve25519/radio.php 1 -
+/wp-content/banners/about.php 2 -
+//cdn.datatables.net/1.10.25/css/dataTables.bootstrap4.min.css 1 -
+/assets/js/jquery-file-upload/server/php/index.php 1 -
+/wp-content/uploads/index.php 1 -
+/.env 34 -
+/wp-includes/blocks/code/radio.php 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/plugins/jQuery-File-Upload/server/php/index.php 1 -
+/author/wp-demouser-44/ 2 -
+//web/wp-includes/wlwmanifest.xml 1 -
+//wordpress/wp-includes/wlwmanifest.xml 1 -
+/wp-admin/repeater.php 2 -
+/css/all.min.css 1 -
+/wp-content/plugins/e-signature/page-template/default/style.css 1 -
+/class.api.php 3 http://finlandiaprize.com/class.api.php
+//cdn.js 5 -
+/wp-includes/repeater.php 2 -
+/wp-content/themes/radio.php 1 -
+/wp-head.php 3 -
+/wp-includes/blocks/audio/radio.php 1 -
+/wp-admin/js/index.php 1 -
+/.well-known/pki-validation/index.php 1 -
+/wp-includes/js/mediaelement/renderers/radio.php 1 -
+/wp-includes/blocks/buttons/radio.php 1 -
+//indiagrandlotto.com/wp-includes/css/dist/block-library/style.min.css 1 -
+/wp-includes/sodium_compat/namespaced/Core/ChaCha20/radio.php 1 -
+/wp-includes/blocks/social-links/radio.php 1 -
+/public/plugins/elfinder/connectors/php/connector.php 1 -
+/wp-admin/css/colors/ectoplasm/radio.php 1 -
+/wp-content/plugins/Cache/Cache.php 2 -
+/.vscode/ftp-sync.json 1 -
+/wp-content/themes/about.php 2 -
+/misc/ajax.js 1 -
+/wp-content/themes/hideo/network.php 2 -
+/img/cloud.php 2 -
+/wp-comments.php 4 -
+/wp-includes/js/tinymce/radio.php 1 -
+/xmlrpc.php 3 -
+/wp-includes/js/tinymce/plugins/colorpicker/radio.php 1 -
+/admin/jquery-file-upload/server/php/index.php 1 -
+/contact 1 https://finlandiaprize.com/contact
+/wp-content/themes/seotheme/mar.php 2 -
+/chosen.php 8 -
+/wp-includes/css/dist/components/radio.php 1 -
+/wp-includes/SimplePie/Content/Type/radio.php 1 -
+/wp-content/themes/rocky-theme/include/lang_upload.php 1 -
+/wp-includes/rest-api/endpoints/radio.php 1 -
+/.well-known/pki-validation/cloud.php 2 -
+/.well-known/radio.php 1 -
+/wp-includes/rest-api/search/radio.php 1 -
+/wp-includes/block-patterns/radio.php 1 -
+/wp-includes/fonts/radio.php 1 -
+/wp-includes/blocks/file/radio.php 1 -
+/wp-includes/blocks/site-logo/radio.php 1 -
+/admin-post.php 2 -
+/images/cloud.php 2 -
+/wp-content/plugins/activedemand/readme.txt 2 -
+/wp-admin/includes/cloud.php 2 -
+/wp-content/themes/statfort-new/include/lang_upload.php 1 -
+/wp-p.php7 2 -
+/wp-includes/blocks/columns/radio.php 1 -
+/wp-includes/blocks/pullquote/radio.php 1 -
+/wp-content/plugins/scripts-organizer/plugins/meta-box/readme.txt 1 -
+/wp-links-way.php 4 -
+/wp-content/plugins/import-xml-feed/readme.txt 1 -
+/wp-includes/js/plupload/radio.php 1 -
+/css/cloud.php 2 -
+/wp-admin/install.php 7 -
+/wp-includes/blocks/latest-posts/radio.php 1 -
+/wp-includes/blocks/freeform/radio.php 1 -
+/wp-includes/Text/Diff/Renderer/radio.php 1 -
+/wp-includes/Requests/Utility/radio.php 1 -
+/alfanew.php 3 -
+/wp-includes/js/tinymce/plugins/compat3x/css/radio.php 1 -
+/wp-includes/js/codemirror/radio.php 1 -
+/wp-includes/Text/Diff/radio.php 1 -
+/author/administratoirr/ 2 -
+/wp-json/wp/v2/users/3 1 https://finlandiaprize.com/
+/wp-includes/sodium_compat/src/Core/Curve25519/radio.php 1 -
+/wp-includes/sodium_compat/namespaced/Core/Poly1305/radio.php 1 -
+/wp-content/plugins/zendrop-dropshipping-and-fulfillment/readme.txt 1 -
+//wp-admin/maint/moon.php 1 -
+/wp-includes/js/tinymce/plugins/wpeditimage/radio.php 1 -
+/wp-includes/assets/radio.php 1 -
+/wp-includes/css/dist/block-editor/radio.php 1 -
+/wp-includes/js/tinymce/plugins/charmap/radio.php 1 -
+/wp-content/themes/club-theme/include/lang_upload.php 1 -
+/wp-content/plugins/superlogoshowcase-wp/css/sls-wp-admin.css 1 -
+/wp-includes/theme-compat/radio.php 1 -
+/wp-includes/blocks/image/radio.php 1 -
+/wp-includes/blocks/site-title/radio.php 1 -
+/wp-includes/css/dist/list-reusable-blocks/radio.php 1 -
+/ss.php 2 www.google.com
+/wp-includes/js/tinymce/skins/lightgray/img/radio.php 1 -
+/wp-content/themes/travel/issue.php 2 -
+//inputs.php 1 finlandiaprize.com
+//wp-ver.php 1 finlandiaprize.com
+/wordpress-wp.php 4 http://finlandiaprize.com
+/wp-content/plugins/wpcargo/readme.txt 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 243
+207.246.85.124 21 21 177967 20240603235306
+34.27.18.28 21 21 197435 20240630234032
+54.88.179.33 15 15 599630 20240622030646
+35.171.144.152 10 10 399753 20240622030646
+3.0.249.80 9 9 84564 20240613165535
+89.248.172.92 9 9 67164 20240611130934
+5.78.79.54 9 9 84627 20240615001449
+124.248.183.41 7 7 52249 20240630154545
+51.91.106.22 7 7 65814 20240627070501
+149.56.150.195 6 6 888375 20240608045316
+88.198.82.149 6 6 56364 20240608080226
+194.55.186.251 5 5 199878 20240623231614
+23.94.96.8 4 4 34964 20240601150109
+5.196.160.191 4 4 34954 20240619075053
+185.192.71.5 4 4 159900 20240607093132
+161.35.19.65 4 4 808425 20240611181351
+212.30.36.194 4 4 159904 20240620104114
+50.114.45.63 4 4 159900 20240627014448
+212.30.36.82 4 4 159904 20240613025933
+46.101.9.216 3 3 49181 20240625084000
+42.83.147.53 3 3 28196 20240625224834
+36.99.136.137 3 3 28211 20240624214623
+34.78.49.210 3 3 26269 20240622212025
+36.99.136.128 3 3 28201 20240616003802
+137.226.113.44 3 3 28193 20240619190334
+104.152.223.170 1 1 9401 20240612100506
+37.99.42.195 1 1 39976 20240621143057
+192.53.165.202 1 1 39976 20240623222438
+178.128.45.163 1 1 9406 20240628010225
+178.128.112.39 1 1 9403 20240615120725
+198.235.24.51 1 1 39974 20240605001201
+124.226.222.66 2 2 18803 20240623075206
+23.26.77.21 1 1 9397 20240624131348
+35.91.213.28 1 1 9399 20240605060350
+46.228.199.158 1 1 9399 20240615210207
+87.118.110.27 1 1 9400 20240617223303
+91.227.114.134 1 1 9404 20240610175655
+34.210.37.90 1 1 7462 20240608083326
+199.45.155.83 1 1 9404 20240629031756
+89.110.72.212 1 1 39976 20240624051422
+13.232.222.181 1 1 7464 20240606200519
+60.188.57.0 1 1 9400 20240617232124
+130.255.166.24 1 1 9397 20240608190741
+43.130.32.224 1 1 9406 20240628104900
+93.158.90.74 1 1 9396 20240614084814
+115.231.78.4 2 2 49373 20240605135245
+43.133.38.182 2 2 18798 20240622092018
+199.45.155.69 1 1 9410 20240624224607
+23.20.65.59 1 1 9396 20240609184740
+167.71.128.77 1 1 9404 20240618203151
+128.90.157.31 1 1 9404 20240622200251
+35.89.196.178 1 1 9401 20240601055419
+91.210.64.22 1 1 9397 20240628060338
+37.187.76.167 2 2 18808 20240618182418
+101.91.148.219 1 1 9397 20240604082605
+35.232.201.58 1 1 9396 20240613233658
+185.210.207.202 1 1 9406 20240628045550
+52.12.176.64 1 1 9398 20240613062255
+128.199.128.212 2 2 18801 20240618002847
+100.24.106.92 1 1 9399 20240607055907
+164.92.212.103 1 1 9403 20240615002702
+175.6.217.4 1 1 9399 20240607031650
+36.41.75.167 1 1 9396 20240617070434
+161.35.151.231 1 1 9402 20240626205549
+137.184.161.25 1 1 9398 20240625171025
+74.125.214.4 1 1 7464 20240616080947
+205.210.31.221 1 1 39976 20240628030945
+74.125.210.71 1 1 7463 20240623104350
+165.227.228.130 1 1 9410 20240624232620
+43.134.190.89 1 1 9404 20240628234016
+64.227.142.163 1 1 9406 20240627165636
+51.178.112.60 2 2 18797 20240613003808
+173.244.35.116 1 1 30374 20240628060339
+93.158.90.41 1 1 9410 20240625121537
+52.12.79.93 1 1 9401 20240601055421
+65.154.226.168 1 1 9399 20240604185945
+20.172.25.87 1 1 769 20240615054844
+43.135.166.178 1 1 9389 20240621082553
+51.89.205.173 2 2 18812 20240627044417
+206.189.202.185 1 1 9389 20240620202736
+43.128.100.220 1 1 9389 20240620192403
+51.81.97.226 1 1 9401 20240611185255
+194.55.186.252 1 1 9404 20240629131454
+54.199.87.84 1 1 9406 20240627214157
+106.75.65.221 1 1 9396 20240614143235
+13.52.217.134 1 1 9404 20240629015154
+43.133.59.21 2 2 39773 20240610073153
+89.248.174.11 1 1 9396 20240609171859
+34.222.34.192 2 2 0 20240608120627
+52.81.60.5 1 1 9401 20240601030043
+212.47.242.64 1 1 9406 20240627223944
+57.128.132.155 1 1 9402 20240627023834
+5.133.192.140 2 2 18823 20240630142539
+94.156.64.199 1 1 769 20240607190130
+185.252.232.181 1 1 39976 20240628102052
+77.74.177.119 1 1 9402 20240627103756
+93.158.91.12 1 1 9401 20240601025751
+202.83.17.81 1 1 7460 20240604053342
+159.89.7.17 1 1 9403 20240630211602
+43.153.110.177 1 1 9397 20240624065408
+43.159.128.172 1 1 9398 20240612162248
+135.148.195.12 1 1 9398 20240625214018
+167.94.138.42 1 1 9410 20240624221700
+128.90.174.27 1 1 9401 20240622055455
+91.240.118.139 2 2 18795 20240615232012
+185.220.101.24 1 1 9400 20240617223314
+178.254.24.91 2 2 18790 20240617061030
+13.57.211.130 1 1 9396 20240614162116
+139.59.34.99 1 1 9399 20240605213043
+51.178.112.57 2 2 18800 20240616002216
+104.28.250.133 1 1 0 20240601162729
+104.248.6.89 1 1 9399 20240606201037
+20.171.43.52 2 2 1538 20240629105741
+159.65.89.92 1 1 9396 20240616215505
+20.171.249.94 2 2 1538 20240626215239
+147.182.251.72 1 1 9399 20240604201510
+205.210.31.42 1 1 39976 20240622144042
+128.90.170.5 1 1 9399 20240615232312
+93.158.91.19 1 1 9398 20240612210256
+43.155.152.154 1 1 9399 20240605131948
+106.75.66.103 1 1 9396 20240620004606
+43.133.66.151 1 1 9397 20240608215605
+184.168.112.150 2 2 79950 20240603053655
+15.207.54.179 1 1 9402 20240627063911
+167.172.170.72 1 1 9397 20240623194520
+118.70.41.36 1 1 39977 20240616052319
+93.158.91.25 1 1 9404 20240618182754
+158.69.25.39 1 1 9389 20240620222428
+36.74.43.78 2 2 14924 20240620154933
+34.222.94.215 1 1 9410 20240625063124
+37.114.63.38 1 1 9404 20240611073346
+144.217.135.142 1 1 7462 20240608045343
+34.220.138.124 1 1 9399 20240605060351
+111.7.96.166 2 2 18804 20240626202613
+36.99.136.129 1 1 9397 20240604024201
+130.255.166.97 1 1 9396 20240619220340
+205.210.31.186 1 1 39977 20240618064900
+222.79.104.23 2 2 18804 20240614170133
+198.235.24.247 1 1 39976 20240614143024
+52.27.83.61 1 1 9402 20240627061852
+203.2.64.59 1 1 9396 20240614033609
+52.140.98.217 1 1 769 20240626110123
+36.99.136.136 1 1 9404 20240611014500
+135.148.195.11 1 1 9399 20240615181426
+93.174.93.127 1 1 9398 20240603102950
+199.244.88.218 1 1 9398 20240626085916
+52.81.17.164 1 1 9399 20240606094423
+182.42.105.144 2 2 18793 20240616055229
+139.59.46.112 1 1 9399 20240605023326
+138.197.171.108 1 1 9398 20240612221228
+43.130.7.211 1 1 9396 20240613164509
+152.42.161.108 2 2 18804 20240626174724
+182.42.110.255 1 1 9406 20240627232848
+113.141.91.58 1 1 9396 20240610150700
+51.79.137.191 1 1 9406 20240628135920
+123.60.68.42 1 1 9399 20240615185558
+4.227.119.249 1 1 769 20240624135005
+79.110.62.2 1 1 9410 20240624180819
+43.156.11.128 1 1 9397 20240610220905
+164.90.133.4 1 1 9398 20240602205559
+69.10.48.138 2 2 79950 20240626183759
+104.219.239.61 1 1 9396 20240614053616
+34.229.188.241 1 1 39976 20240624130444
+121.229.185.160 1 1 9399 20240615173942
+176.96.138.61 2 2 18795 20240604033218
+216.173.66.201 1 1 9389 20240621022536
+199.45.155.99 1 1 9404 20240629033054
+54.254.162.138 1 1 7470 20240629151615
+198.235.24.120 1 1 39975 20240608081311
+3.112.28.90 2 2 18792 20240616192834
+43.135.129.233 1 1 9399 20240606020632
+93.170.204.202 1 1 39976 20240619180422
+58.49.233.126 1 1 9396 20240620080311
+198.98.54.49 1 1 9399 20240606182502
+43.163.6.124 1 1 9398 20240613033334
+199.45.155.43 1 1 9398 20240613161515
+46.4.33.48 1 1 39976 20240603204851
+151.80.223.233 1 1 9397 20240609051705
+43.155.166.202 1 1 9404 20240611034227
+43.128.110.17 2 2 18797 20240621215136
+43.128.100.206 1 1 9402 20240627130458
+123.187.240.242 1 1 9399 20240606142115
+193.198.221.42 1 1 9396 20240613170029
+106.75.64.247 1 1 9401 20240601024634
+87.236.176.86 1 1 9399 20240616051701
+43.163.8.148 1 1 9400 20240618131028
+66.45.248.90 1 1 9396 20240613230129
+198.235.24.81 1 1 39975 20240601121050
+128.90.174.29 1 1 9398 20240603025745
+93.170.204.95 1 1 39974 20240605103649
+170.106.171.77 2 2 18794 20240626094016
+43.157.66.187 1 1 9398 20240602192808
+4.242.221.96 1 1 769 20240605125149
+64.227.159.59 1 1 9404 20240619062621
+87.236.176.3 1 1 9406 20240627225059
+54.176.133.142 1 1 9394 20240607223616
+74.125.215.225 1 1 7467 20240602084936
+134.209.247.127 1 1 9404 20240622224417
+182.42.111.213 1 1 9402 20240627103325
+205.234.181.108 2 2 18820 20240625124648
+35.87.217.239 1 1 39977 20240611050439
+159.223.12.219 1 1 9404 20240610221154
+36.134.147.75 2 2 18796 20240626224223
+42.83.147.54 1 1 9401 20240612023229
+135.148.195.8 1 1 9398 20240602235114
+165.22.0.11 1 1 9397 20240608200848
+209.38.234.124 1 1 9402 20240626215602
+223.113.128.136 1 1 9404 20240623140209
+13.53.176.130 2 2 18806 20240615145404
+13.88.42.165 1 1 9410 20240625132432
+114.80.36.40 1 1 9410 20240625080652
+89.248.174.182 3 3 24323 20240608180400
+110.242.250.111 1 1 39976 20240624091603
+43.155.136.16 1 1 9403 20240615150059
+93.158.90.34 1 1 9398 20240603072635
+34.214.67.11 1 1 9402 20240627061855
+128.90.170.12 1 1 9398 20240603140933
+23.94.126.36 1 1 9410 20240625000547
+27.115.124.38 1 1 9397 20240603175836
+87.236.176.227 1 1 9410 20240625113301
+94.247.172.129 1 1 9413 20240630065902
+178.128.80.202 3 3 28196 20240619182756
+14.215.163.132 2 2 18800 20240622202849
+42.83.147.56 2 2 18790 20240617161909
+5.133.192.131 1 1 9399 20240607002042
+35.217.12.214 2 2 20013 20240622060315
+128.199.91.22 1 1 9396 20240617014026
+93.159.230.89 1 1 9398 20240613102828
+44.220.56.196 1 1 7462 20240623213555
+104.28.218.135 1 1 7467 20240601155831
+4.185.17.29 3 3 28201 20240628100330
+199.45.155.24 1 1 9398 20240613142546
+52.201.248.92 1 1 9394 20240608155147
+13.51.160.74 1 1 9398 20240626015008
+60.190.136.238 1 1 7466 20240602230021
+113.219.218.197 1 1 9401 20240601073412
+85.203.34.59 3 3 119925 20240601035946
+43.163.6.35 1 1 9403 20240615044720
+159.65.91.36 1 1 9396 20240614083807
+43.134.44.82 2 2 18793 20240610105119
+87.236.176.184 1 1 9402 20240627153522
+45.138.16.135 1 1 39977 20240611074429
+54.202.125.181 1 1 9410 20240625063118
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20240601 17 17 268138 12
+20240602 7 7 61926 7
+20240603 31 31 361739 10
+20240604 11 11 99503 11
+20240605 21 21 429476 16
+20240606 10 10 181850 9
+20240607 15 15 407529 9
+20240608 30 30 1175203 19
+20240609 10 10 212414 7
+20240610 9 9 101696 9
+20240611 14 14 961671 11
+20240612 7 7 65795 7
+20240613 28 28 383495 16
+20240614 10 10 153197 10
+20240615 22 22 198208 13
+20240616 9 9 113225 9
+20240617 9 9 84580 9
+20240618 11 11 225718 9
+20240619 13 13 211272 10
+20240620 13 13 233879 10
+20240621 8 8 166897 8
+20240622 14 14 253196 12
+20240623 9 9 141890 9
+20240624 17 17 232390 17
+20240625 20 20 207144 17
+20240626 15 15 154321 13
+20240627 26 26 366768 17
+20240628 11 11 185563 11
+20240629 7 7 55259 7
+20240630 6 6 54515 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+15mn-30mn 1
+2mn-5mn 1
+0s-30s 327
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 389 5669790 315 305
+// 15 442866 1 6
+/.well-known/ 9 6921 9 9
+/history-result/ 9 1505737 3 7
+/live-draw/ 8 123143 2 3
+END_SIDER

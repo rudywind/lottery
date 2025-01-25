@@ -1,0 +1,29 @@
+/**** begin responsive style ****/
+@media (min-width: 993px) {
+    section.sidebar {
+        width: 350px;
+    }
+    section.sidebar.hide {
+        left: 0;
+    }
+    section.sidebar .sidebar-header .logo-wrapper {
+        max-width: 200px;
+    }
+
+
+
+    section.content {
+        left: 350px;
+    }
+
+
+
+    .card.card-result .card-body .result-caption {
+        top: -57px;
+        left: -60px;
+    }
+}
+
+@media (min-width: 1200px) {
+}
+/**** endof responsive style ****/

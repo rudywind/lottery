@@ -1,0 +1,319 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202401 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.yolanda.swissprize.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2705                
+POS_VISITOR 3416                
+POS_DAY 4260                
+POS_DOMAIN 4410                
+POS_LOGIN 4703                
+POS_ROBOT 4858                
+POS_WORMS 5196                
+POS_EMAILSENDER 5327                
+POS_EMAILRECEIVER 5470                
+POS_SESSION 5546                
+POS_SIDER 5732                
+POS_FILETYPES 5868                
+POS_DOWNLOADS 5999                
+POS_OS 6047                
+POS_BROWSER 6354                
+POS_SCREENSIZE 6936                
+POS_UNKNOWNREFERER 7010                
+POS_UNKNOWNREFERERBROWSER 7097                
+POS_ORIGIN 7179                
+POS_SEREFERRALS 7314                
+POS_PAGEREFS 7479                
+POS_SEARCHWORDS 7627                
+POS_KEYWORDS 7779                
+POS_MISC 2369                
+POS_ERRORS 7838                
+POS_CLUSTER 4559                
+POS_SIDER_404 7938                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240201050336 204 38693 10752642269554
+FirstTime 20240131104632
+LastTime 20240131223722
+LastUpdate 20240201070805 204 0 203 0 0
+TotalVisits 45                  
+TotalUnique 20                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 24 42 38065 39 41 43394
+11 16 24 23648 0 4 0
+12 6 6 7620 0 0 0
+13 4 4 5080 2 2 1271
+14 4 4 5080 0 0 0
+15 4 4 5080 0 0 0
+16 9 26 28938 0 4 0
+17 4 4 5080 0 0 0
+18 3 5 6215 0 0 0
+19 4 4 5080 0 0 0
+20 2 2 2540 0 0 0
+21 6 14 10948 0 4 0
+22 1 6 9374 0 3 3412
+23 0 0 0 0 0 0
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+52.16.245.145 15 35 27367 20240131211621
+88.198.18.236 8 8 10160 20240131195858
+157.90.7.190 7 7 8890 20240131195917
+104.164.173.102 7 9 5994 20240131104820
+85.10.211.140 7 7 8890 20240131204659
+116.202.166.126 6 6 7620 20240131182915
+5.9.48.126 6 6 7620 20240131170654
+144.76.57.4 6 6 7620 20240131170714
+116.202.246.84 5 5 6350 20240131162853
+159.69.64.216 5 5 6350 20240131204718
+54.247.57.72 3 7 5477 20240131211618
+35.85.254.130 2 10 8932 20240131104756
+44.234.19.83 2 10 8932 20240131104754
+193.138.218.201 2 2 1008 20240131104653
+35.160.57.34 1 6 9374 20240131223722
+47.242.224.70 1 3 3675 20240131184649
+139.144.150.205 1 1 1266 20240131104632
+46.101.103.192 1 1 1270 20240131104633
+104.164.173.115 1 1 503 20240131104816
+143.198.214.42 1 10 15450 20240131164346
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 1
+20240131 87 145 152748 45
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+us 45 101 98535
+de 27 27 34290
+in 11 11 13970
+se 2 2 1008
+ca 1 3 3675
+nl 1 1 1270
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Go\-http\-client/ 6 3813 20240131134055 0
+no_user_agent 2 2536 20240131104629 0
+Wget/ 1 374 20240131223745 0
+Googlebot\-Mobile/ 1 374 20240131223835 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 2664 20240131223744 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 2
+5mn-15mn 1
+0s-30s 34
+30mn-1h 5
+15mn-30mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 87 84075 45 45
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+svg 10 3330 0 0
+html 87 84075 0 0
+js 38 53643 0 0
+css 10 11700 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+linux 8 6
+winxp 13 12
+macosx10 1 0
+macosx9 6 6
+macosx15 30 12
+linuxubuntu 30 6
+androidhoneycomb 1 1
+win7 4 3
+winlong 1 0
+androidpie 2 1
+android 2 0
+android10 1 0
+androidmarshmallow 2 2
+ios_ipad 1 0
+win10 40 37
+linuxdebian 1 1
+ios_iphone 2 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 27
+chrome86.0.4240.183 6 5
+chrome74.0.3729.157 3 3
+chrome87.0.4280.88 1 0
+chrome74.0.3729.169 5 5
+msie11.0 10 10
+chrome33.0.1750.152 6 6
+chrome72.0.3626.121 12 12
+chrome36.0.1985.67 1 0
+chrome52.0.2717.98 2 2
+android 1 1
+chrome60.0.3112.113 3 3
+chrome101.0.4951.41 5 1
+chrome91.0.4472.106 1 0
+chrome109.0.0.0 20 4
+firefox40.0 1 0
+msie6.0 12 12
+firefox83.0 6 6
+chrome117.0.0.0 9 7
+chrome110.0.0.0 2 2
+safari8.0 1 0
+firefox122.0 30 6
+chrome98.0.4758.102 1 0
+chrome101.0.0.0 1 0
+chrome116.0.0.0 1 1
+mozilla 1 1
+iphone 2 0
+opera11.01 2 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 37 71
+From1 0 0
+From2 50 50
+From3 0 0
+From4 0 24
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 50 50
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 7 8078
+404 26 30238
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 13
+/.vscode/sftp.json 2 -
+/server-status 2 -
+/s/6373e2930323e203e2236313/_/ 2 -
+/telescope/requests 2 -
+/.env 2 -
+/v2/_catalog 2 -
+/login.action 2 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 2 -
+/debug/default/view 2 -
+/about 2 -
+/_all_dbs 2 -
+/config.json 2 -
+/.DS_Store 2 -
+END_SIDER_404

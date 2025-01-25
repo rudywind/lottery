@@ -1,0 +1,60 @@
+/**** begin responsive style ****/
+@media (min-width: 993px) {
+    header .logo-box {
+        padding: 0;
+    }
+    header .navbar.navbar-main {
+        background: transparent;
+    }
+    header .navbar.navbar-main .navbar-nav .nav-item {
+        margin-right: 10px;
+    }
+    header .navbar.navbar-main .navbar-nav .nav-item:last-child {
+        margin-right: 0;
+    }
+    header .navbar.navbar-main .navbar-nav .nav-item .nav-link {
+        min-width: 160px;
+        padding: 0 10px;
+        line-height: 50px;
+        font-size: 14px;
+        font-weight: 700;
+        border-radius: 12px 12px 0 0;
+    }
+
+    .card.card-result .box-date {
+        max-width: 150px;
+        border-radius: 50px 0 0 50px;
+    }
+    .card.card-result .box-date h1,
+    .card.card-result .box-date h3,
+    .card.card-result .box-date h5 {
+        line-height: 1 !important;
+    }
+    .card.card-result .box-date h1 {
+        font-size: 72px;
+    }
+    .card.card-result .box-date h3 {
+        font-size: 38px;
+    }
+    .card.card-result .box-date h5 {
+        font-size: 16px;
+    }
+    .card.card-result .featured-prize::before {
+        content: "";
+        position: absolute;
+        top: -20px;
+        bottom: -20px;
+        left: 0;
+        right: 0;
+        width: auto;
+        height: auto;
+        border-radius: 50% 12px;
+    }
+    .card.card-result .winner-box.last {
+        border-radius: 0 50px 50px 0;
+    }
+}
+
+@media (min-width: 1200px) {
+}
+/**** endof responsive style ****/

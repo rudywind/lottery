@@ -1,0 +1,999 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202409 will be lost/reset.
+# Last config file used to build this data file was /home/allavzqw/tmp/awstats/ssl/awstats.albanialottery.net.allaboutpasaranhost.online.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2046                
+POS_TIME 2715                
+POS_VISITOR 27186               
+POS_DAY 28955               
+POS_DOMAIN 3368                
+POS_LOGIN 3795                
+POS_ROBOT 3950                
+POS_WORMS 4547                
+POS_EMAILSENDER 4678                
+POS_EMAILRECEIVER 4821                
+POS_SESSION 29127               
+POS_SIDER 29274               
+POS_FILETYPES 4956                
+POS_DOWNLOADS 5090                
+POS_OS 5138                
+POS_BROWSER 5382                
+POS_SCREENSIZE 5927                
+POS_UNKNOWNREFERER 6001                
+POS_UNKNOWNREFERERBROWSER 6607                
+POS_ORIGIN 7107                
+POS_SEREFERRALS 7241                
+POS_PAGEREFS 7419                
+POS_SEARCHWORDS 7567                
+POS_KEYWORDS 7719                
+POS_MISC 2379                
+POS_ERRORS 7778                
+POS_CLUSTER 3651                
+POS_SIDER_404 7893                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20240905075054 127 30295 15590741305908
+FirstTime 0
+LastTime 20240905075053
+LastUpdate 20240905084022 127 0 127 0 0
+TotalVisits 41                  
+TotalUnique 40                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 43                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 9124 3 10 62461
+1 1 2 21165 3 7 197358
+2 1 2 21135 5 12 57638
+3 5 6 57604 7 13 15012
+4 5 6 116309 3 5 6255
+5 0 0 0 8 15 18765
+6 0 0 0 6 6 7497
+7 6 19 158384 4 6 7506
+8 3 3 27363 0 0 0
+9 0 0 0 1 2 8538
+10 4 4 93317 12 12 22882
+11 0 0 0 41 52 93030
+12 3 3 27369 9 12 52218
+13 3 29 194473 6 19 71186
+14 2 4 26161 14 23 28773
+15 0 0 0 25 26 32526
+16 0 0 0 2 8 32355
+17 2 6 44683 4 7 53817
+18 0 0 0 6 22 94938
+19 1 1 9097 1 6 9123
+20 1 1 9121 3 4 5004
+21 1 1 38467 564 566 750741
+22 2 3 30286 2 2 2502
+23 5 5 161113 6 7 8757
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+us 12 16 284670
+jp 7 7 63814
+cn 7 11 90297
+ru 4 4 95120
+tr 3 16 103501
+de 2 2 47591
+se 2 3 30286
+eu 1 2 21135
+cz 1 13 73949
+it 1 1 38467
+ca 1 1 38465
+gb 1 1 7285
+be 1 2 21135
+id 1 13 73947
+bg 1 1 38469
+in 1 3 17040
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+Googlebot/ 38 146261 20240905025949 0
+bingbot/ 17 61994 20240904113226 0
+AhrefsBot/ 9 51720 20240904095542 0
+Googlebot\-Image/ 3 36114 20240905025951 0
+no_user_agent 3 78519 20240903003819 0
+DotBot/ 2 222275 20240902011414 0
+bot[\s_+:,\.\;\/\\-] 2 21135 20240904131637 0
+Go\-http\-client/ 1 9097 20240904170936 0
+survey 1 38465 20240903171551 0
+CCBot/ 1 7289 20240905001324 0
+MJ12bot/ 1 7287 20240904132401 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 9121 20240901104756 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 22 68694 0 0
+png 17 237160 0 0
+js 11 40784 0 0
+html 46 698533 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+win8.1 2 1
+win10 19 13
+macosx12 1 1
+Unknown 6 5
+linuxubuntu 1 1
+macosx 4 1
+win7 1 1
+android10 43 6
+ios_iphone 12 12
+macosx15 3 2
+ios_ipad 1 0
+androidnougat 1 1
+androidkitkat 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+chrome60.0.3112.107 1 1
+chrome126.0.0.0 6 3
+chrome124.0.6367.61 1 1
+chrome87.0.4280.88 4 1
+chrome105.0.0.0 2 1
+chrome96.0.4664.110 3 2
+chrome121.0.0.0 1 1
+safari 2 1
+mozilla 2 1
+firefox108.0 1 1
+firefox115 1 1
+firefox114.0 1 0
+firefox115.0 1 1
+Unknown 4 4
+firefox126.0 1 1
+chrome74.0.3729.169 1 1
+chrome109.0.0.0 1 0
+safari13.0.3 10 10
+android 2 2
+chrome128.0.0.0 30 5
+safari17.0 1 1
+chrome128.0.6613.34 1 1
+chrome75.0.3770.100 1 0
+chrome80.0.3987.149 4 4
+safari10.1.1 1 1
+chrome127.0.0.0 13 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+python-requests/2.26.0 20240904035614
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240904040813
+python-requests/2.32.3 20240903124222
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240903105405
+got_(https://github.com/sindresorhus/got) 20240903105855
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+python-requests/2.32.3 20240903124222
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20240903105405
+python-requests/2.26.0 20240904035614
+got_(https://github.com/sindresorhus/got) 20240903105855
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 28 37
+From1 0 0
+From2 3 3
+From3 0 0
+From4 15 56
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+duckduckgo 1 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+301 2 1590
+403 27 33534
+404 731 914481
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 644
+/123.asp.txt 1 -
+/admin/uploads/b374k.php 1 -
+/ab.php 1 -
+/8index.php 1 -
+/000.php 1 -
+/anons79.php 1 -
+/administrator/images/upload/22xc.php 1 -
+/adminfuns.php7 1 -
+/admin/uploads/banner/alfa-shell.php 1 -
+/admin/shell.php 1 -
+/alwso.php 1 -
+/administrator/wso.php 1 -
+/admin/upload.php 1 -
+/4.php 1 -
+/0x.php 1 -
+/.well-known/pki-validation/cloud.php 1 -
+/admin/images/minishell.php 1 -
+/admin/file/minishell.php 1 -
+/administrator/uploads/22xc.php 1 -
+/administrator/images/uploads/skizoo.php 1 -
+/administrator/images/upload/gel4y.php 1 -
+/administrator/images/uploads/by.php 1 -
+/alfa.php 2 -
+/admin_login/up.php 1 -
+/admin_login/images/up.php 1 -
+/.conf.php 1 -
+/alfa-shell-v4.php 1 -
+//cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js 1 -
+/admin/uploads/banner/22xc.php 1 -
+/antichatshell.php 1 -
+/.well-known/pki-validation/plugins.php 1 -
+/admin/uploads/up.php 1 -
+/administrator/minishell.php 1 -
+/xmlrpc.php 5 -
+/5index.php 1 -
+/wp-includes/ID3/ 2 -
+/administrator/banner/uploads/uploader.php 1 -
+/admin/files/bypass.php 1 -
+/admin/uploads/mini.php 1 -
+/alfax.php 1 -
+/access_log.php 1 -
+/adminer.php 1 -
+/anj.php 1 -
+/admin_login/images/1.php 1 -
+/.well-known/traffic-advice 1 -
+/media/system/js/core.js 1 http://albanialottery.net/media/system/js/core.js
+/admin/banner/uploads/shell.php 1 -
+/admin/file/alfa-shell.php 1 -
+/alfanibos.php 1 -
+/hoot.php 1 -
+/administrator/images/up.php 1 -
+/alfaaneh.php 1 -
+/administrator/images/upload/1.php 1 -
+/aa.php 1 -
+/administrator/images/1.php 1 -
+/.well-known/am.php 1 -
+/administrator/uploads/indoXploit.php 1 -
+/administrator/indoXploit.php 1 -
+//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js 1 -
+/administrator/images/upload/wso.php 1 -
+/administrator/banner/uploads/mini.php 1 -
+/alexus.php 1 -
+/admin/file/gel4y.php 1 -
+/admin_login/uploader.php 1 -
+/.well-known/acme-challenge/mariju.php 1 -
+/admin_login/images/mini_shell.php 1 -
+/administrator/1.php 1 -
+/link.php 1 -
+/administrator/images/uploads/cmd.php 1 -
+/wp-content/themes/noo-jobmonster/assets/css/noo.css 2 -
+/admin/banner/cmd.php 1 -
+/administrator/images/uploader.php 1 -
+/sitemap_index.xml 2 -
+//cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js 1 -
+/admin/banner/uploads/1.php 1 -
+/_func.php 1 -
+/admin_login/skizoo.php 1 -
+/admin_login/22xc.php 1 -
+/admin/files/wso.php 1 -
+/admin/banner/bypass.php 1 -
+/administrator/images/uploads/wso.php 1 -
+/529.php 1 -
+/administrator/banner/minishell.php 1 -
+/administrator/images/upload/by.php 1 -
+/admin_login/images/b374k.php 1 -
+/administrator/banner/shell.php 1 -
+/.well-known/fox.php 1 -
+/63dor.php 1 -
+/administrator/banner/uploads/1.php 1 -
+/admin_login/images/wso.php 1 -
+/404.php 2 -
+/administrator/images/upload/mini_shell.php 1 -
+/administrator/images/uploads/minishell.php 1 -
+/A1.php 1 -
+/admin/by.php 1 -
+/admin_login/shell.php 1 -
+/administrator/images/uploads/mini_shell.php 1 -
+/administrator/banner/indoXploit.php 1 -
+/5.php 1 -
+/..php 1 -
+/administrator/banner/uploads/shell.php 1 -
+/admin/file/mini_shell.php 1 -
+/admin_login/images/wp-comments.php 1 -
+/admin_login/alfa-shell.php 1 -
+/.well-known/about.php 1 -
+/admin/gel4y.php 1 -
+/administrator/uploads/skizoo.php 1 -
+/administrator/banner/mini_shell.php 1 -
+/mah.php 2 -
+/.well-known/leafmailer2.8.php 1 -
+/administrator/images/shell.php 1 -
+/1234.php 1 -
+/.well-known/pki-validation/atomlib.php 1 -
+/.well-known/403.php 1 -
+//wp-json/wp/v2/users/ 1 -
+/alfa1.php 1 -
+/4index.php 1 -
+/976-alfanew1.PHP 1 -
+/old/wp-admin/install.php 1 -
+/admin_login/indoXploit.php 1 -
+/administrator/uploads/uploader.php 1 -
+/8.php 1 -
+/anu.php 1 -
+/administrator/wp-comments.php 1 -
+/administrator/banner/cmd.php 1 -
+/404webshell.php 1 -
+/admin/uploads/banner/by.php 1 -
+/edit.php 1 -
+/backup/wp-admin/install.php 1 -
+/wp-admin/maint/index.php 2 -
+/about.php7 1 -
+/wp-includes/css/buttons.css 1 http://albanialottery.net/wp-includes/css/buttons.css
+/%26heker!.php 1 -
+/admin/uploads/cmd.php 1 -
+/plugins/content/apismtp/apismtp.php 1 -
+/administrator/banner/up.php 1 -
+/Alfashell.php 1 -
+/ajax-actions.php 1 -
+/anon.php 1 -
+/admin/uploads/skizoo.php 1 -
+/admin/banner/uploads/mini_shell.php 1 -
+/admin/uploads/banner/wp-comments.php 1 -
+/alfa3.php 1 -
+/admin/banner/uploads/wso.php 1 -
+/admin/uploads/alfa-shell.php 1 -
+/alexus-mailer.php 1 -
+/alex.php 1 -
+/admin/images/bypass.php 1 -
+/administrator/22xc.php 1 -
+/wp-plain.php 1 www.google.com
+/admin/images/uploader.php 1 -
+/wp-content/db-cache.php 1 -
+/admin/file/wp-comments.php 1 -
+/.well-known/acme-challenge/cloud.php 1 -
+/159.php 1 -
+/anjay.php 1 -
+/.well-known/fw.php 1 -
+/.tmb/plugins.php 1 -
+/wp/wp-admin/install.php 1 -
+/administrator/banner/wso.php 1 -
+/1337.php 1 -
+/admin/images/cmd.php 1 -
+/.well-known/acme-challenge/moon.php 1 -
+/wp-json/wp/v2/users 1 -
+/admin/file/b374k.php 1 -
+/administrator/banner/22xc.php 1 -
+/admin_login/images/22xc.php 1 -
+/405.php 1 -
+/wp-content/plugins/cost-calculator-builder/demo-sample/cost_calculator_data.txt 5 -
+/administrator/images/upload/cmd.php 1 -
+/accounts.php 1 -
+/7root.php 1 -
+/administrator/uploads/wp-comments.php 1 -
+/3index.php 1 -
+//wp-json/oembed/1.0/embed 1 -
+/22xc.php 1 -
+/andela.php 1 -
+/admin/uploads/wp-comments.php 1 -
+/administrator/uploads/shell.php 1 -
+/.well-known/pki-validation/about.php 1 -
+/tanzhen.php 1 http://albanialottery.net/tanzhen.php
+/wp-aa.php 1 -
+/ak47shell.php 1 -
+/098.php 1 -
+/administrator/images/mini.php 1 -
+/admin/banner/uploads/mini.php 1 -
+/admin_login/images/uploader.php 1 -
+/admin_login/by.php 1 -
+/administrator/images/upload/mini.php 1 -
+/alfa-shell.php 1 -
+/78.php 1 -
+/administrator/images/alfa.php 1 -
+/4x4.php 1 -
+/anonsec.php 1 -
+/alfa-data.php 1 -
+/wp-content/plugins/wpcall-button/button-image.php 1 -
+/admin/files/mini.php 1 -
+/admin/uploads/alfa.php 1 -
+/admin/banner/up.php 1 -
+/administrator/banner/skizoo.php 1 -
+/administrator/banner/uploads/up.php 1 -
+/9index.php 1 -
+/admin/banner/mini.php 1 -
+/wp-head.php 2 -
+/wp-atom.php 1 -
+/administrator/bypass.php 1 -
+/.well-known/shell.php 1 -
+/10.php 1 -
+/wp-content/plugins/give/readme.txt 2 -
+/administrator/by.php 1 -
+/.well-known/x.php 1 -
+/admin/uploads/banner/shell.php 1 -
+/admin/files/alfa.php 1 -
+/406.php 1 -
+/admin_login/1.php 1 -
+/administrator/images/uploads/uploader.php 1 -
+/administrator/images/uploads/b374k.php 1 -
+/administrator/images/uploads/gel4y.php 1 -
+/alfapas.PHP 1 -
+/users.php 1 -
+/css/index.php 2 -
+/wp-content/themes/index.php 1 -
+/admin/files/gel4y.php 1 -
+/administrator/images/upload/shell.php 1 -
+/admin/files/uploader.php 1 -
+/admin/uploader.php 1 -
+/admin_login/images/skizoo.php 1 -
+/.well-known/gelay.php 1 -
+/admin/images/wso.php 1 -
+/admin/mini.php 1 -
+/administrator/banner/gel4y.php 1 -
+/about.php 6 -
+/admin/images/gel4y.php 1 -
+/options.php 1 -
+/amin.php 1 -
+/chosen.php 5 -
+/2022.php 1 -
+/admin/file/shell.php 1 -
+/administrator/banner/uploads/gel4y.php 1 -
+/dropdown.php 2 -
+/administrator/banner/uploads/wp-comments.php 1 -
+/administrator/images/upload/minishell.php 1 -
+/admin_login/cmd.php 1 -
+//cdn.datatables.net/1.10.25/js/dataTables.bootstrap4.min.js 1 -
+/admin/uploads/gel4y.php 1 -
+/%5C/s.w.org%5C/images%5C/core%5C/emoji%5C/14.0.0%5C/72x72%5C/%22,%22ext%22:%22.png%22,%22svgUrl%22:%22https:%5C/%5C/s.w.org%5C/images%5C/core%5C/emoji%5C/14.0.0%5C/svg%5C/%22,%22svgExt%22:%22.svg%22,%22source%22:%7B%22concatemoji%22:%22https:%5C/%5C/alban 1 -
+/administrator/banner/uploads/indoXploit.php 1 -
+/2index.php 1 -
+/administrator/images/uploads/alfa.php 1 -
+/anu.phtml 1 -
+/admin/images/indoXploit.php 1 -
+/administration/Sym.php 1 -
+/administrator/uploads/wso.php 1 -
+/admin/banner/uploads/by.php 1 -
+/admin/indoXploit.php 1 -
+/alfa-rex.php 1 -
+/alf42.php 1 -
+/wp-content/plugins/instawp-connect/readme.txt 1 -
+/anbu.php 1 -
+//cdn.js 1 -
+/admin/file/up.php 1 -
+/wp-content/plugins/about.php 1 -
+/admin/banner/uploads/alfa.php 1 -
+/00.php 1 -
+/administrator/banner/uploads/alfa.php 1 -
+/admin/banner/uploads/bypass.php 1 -
+/2index.pllhp 1 -
+/admin/uploads/banner/gel4y.php 1 -
+/77.php 1 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/administrator/images/upload/up.php 1 -
+/administrator/images/upload/alfa-shell.php 1 -
+/22.php 1 -
+/administrator/uploads/mini.php 1 -
+/anonym.php 1 -
+/admin/file/22xc.php 1 -
+/alfanew2.php7 1 -
+/alone.php 1 -
+/admin/uploads/banner/b374k.php 1 -
+/accesson.php 1 -
+/0x0.php 1 -
+/administrator/images/alfa-shell.php 1 -
+/.well-known/pki-validation/xmrlpc.php 1 -
+/~.php/ 1 -
+/admin_login/images/alfa.php 1 -
+/aaa.php 1 -
+/al.php 1 -
+/akses.php 1 -
+/3.php 1 -
+/admin/wso.php 1 -
+/alfacgiapi/perl.alfa 1 www.google.com
+/administrator/shell.php 1 -
+/a.asp.txt 1 -
+/administrator/images/upload/bypass.php 1 -
+/2.php 1 -
+/admin/images/up.php 1 -
+/admin/mini_shell.php 1 -
+/0byte.php 1 -
+/administrator/mini_shell.php 1 -
+/32.php 1 -
+/admin/up.php 1 -
+/admin/images/mini.php 1 -
+/alfav4.1-tesla.php 1 -
+/admin/file/uploader.php 1 -
+/wp-header.php 1 -
+/adn.php 1 -
+/site/wp-admin/install.php 1 -
+/wp-add.php 4 www.google.com
+/AkuSayangKamu45.php 1 -
+/administrator/images/wp-comments.php 1 -
+/.well-known/.dha.php 1 -
+/wp.php 1 -
+/wp-content/plugins/index.php 1 -
+/admin_login/b374k.php 1 -
+/admin_login/images/mini.php 1 -
+/admin/files/alfa-shell.php 1 -
+/.well-known/up.php 1 -
+/admin_login/images/gel4y.php 1 -
+/admins.php 1 -
+/wp-content/themes/.index.php 1 -
+/admin/error_log 1 -
+/alf4.php 1 -
+/9.php 1 -
+/administrator/images/mini_shell.php 1 -
+/1313.php 1 -
+/admin/banner/wso.php 1 -
+/administrator/banner/alfa.php 1 -
+/.well-known/404.php 1 -
+/admin/banner/gel4y.php 1 -
+/0z.php 1 -
+/admin/banner/22xc.php 1 -
+/87.php 1 -
+/dyztlfrx.php 1 www.google.com
+/alfakun.php 1 -
+/admin/banner/uploads/gel4y.php 1 -
+/administrator/uploads/minishell.php 1 -
+/admin/images/skizoo.php 1 -
+/.well-known/acme-challenge/my1.php 1 -
+/admin/uploads/banner/up.php 1 -
+/administrator/uploads/b374k.php 1 -
+/blog/wp-admin/install.php 2 -
+/admin/banner/uploads/22xc.php 1 -
+/admin1.php 1 -
+/wp-includes/pomo/index.php 2 -
+/admin/banner/indoXploit.php 1 -
+/admin/banner/by.php 1 -
+/administrator/images/uploads/1.php 1 -
+/admin/uploads/banner/mini.php 1 -
+/0day.php 1 -
+/simple.php 5 -
+/wp-content/plugins/admin.php 1 -
+/bless.php 2 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/admin/uploads/banner/minishell.php 1 -
+/administrator/banner/alfa-shell.php 1 -
+/anonymous.php 1 -
+/admin/22xc.php 1 -
+/administrator/images/upload/uploader.php 1 -
+/administrator/banner/uploads/minishell.php 1 -
+/admin/banner/wp-comments.php 1 -
+/1index.php 2 -
+/403.php 1 -
+/adm.php 1 -
+/administrator/uploads/alfa-shell.php 1 -
+/wp-admin/setup-config.php 1 -
+/admin/files/minishell.php 1 -
+/.well-known/acme-challenge/plugins.php 1 -
+/admin_login/minishell.php 1 -
+/alf.php 1 -
+/wp-content/plugins/fix/up.php 2 -
+/.env 4 -
+/cms/wp-admin/install.php 1 -
+/admin/banner/uploads/indoXploit.php 1 -
+/0.php 1 -
+/301.php 1 -
+/admin/images/alfa.php 1 -
+/alfi.php 1 -
+/index.php 1 -
+/wp-admin/options.php 1 -
+/.well-known/a.php 1 -
+/admin/uploads/22xc.php 1 -
+/administrator/uploads/cmd.php 1 -
+/@.php 1 -
+/admin/bypass.php 1 -
+/admin/skizoo.php 1 -
+/administrator/images/uploads/up.php 1 -
+/geju.php 1 -
+/administrator/banner/by.php 1 -
+/administrator/banner/uploads/bypass.php 1 -
+/admin/uploads/banner/bypass.php 1 -
+/admin/images/b374k.php 1 -
+/.well-known/alfa.php 1 -
+/admin/files/shell.php 1 -
+/admin/uploads/banner/indoXploit.php 1 -
+/admin/b374k.php 1 -
+/abc.php 1 -
+/administrator/cmd.php 1 -
+/6.php 1 -
+/administrator/images/upload/skizoo.php 1 -
+/alfanew.php7 1 -
+/admin_login/images/alfa-shell.php 1 -
+/admin/uploads/banner/1.php 1 -
+/administrator/images/uploads/22xc.php 1 -
+/admin/uploads/banner/uploader.php 1 -
+/administrator/up.php 1 -
+/admin/images/by.php 1 -
+/.dha.php 1 -
+/administrator/images/uploads/mini.php 1 -
+/administrator/images/minishell.php 1 -
+/admin/images/22xc.php 1 -
+//wp-includes/wlwmanifest.xml 1 -
+/admin/banner/uploads/b374k.php 1 -
+/26.php 1 -
+/admin/files/skizoo.php 1 -
+/admin/files/22xc.php 1 -
+/admin_login/wso.php 1 -
+/admin/file/skizoo.php 1 -
+/admin/banner/skizoo.php 1 -
+/1.php 2 -
+/administrator/images/upload/indoXploit.php 1 -
+/robots.txt 24 -
+/admin_login/bypass.php 1 -
+/admin_login/images/by.php 1 -
+/-.php 1 -
+/admin/uploads/wso.php 1 -
+/admin/images/mini_shell.php 1 -
+/administrator/images/cmd.php 1 -
+/88.php 1 -
+/am.php 1 -
+/admin/file/1.php 1 -
+/cong.php 1 -
+/admin/banner/uploads/minishell.php 1 -
+/admin/uploads/minishell.php 1 -
+/admin/alfa.php 1 -
+/wp-content/themes/seotheme/db.php 2 www.google.com
+/administrator/b374k.php 1 -
+/angel.php 1 -
+/sitemap.xml.gz 2 -
+/administrator/banner/1.php 1 -
+/administrator/images/skizoo.php 1 -
+/admin_login/images/shell.php 1 -
+/500.php 1 -
+/6index.php 1 -
+/wp-login.php 1 -
+/admin/uploads/banner/cmd.php 1 -
+/.well-known/maro.php 1 -
+/%E3%80%90%E5%8F%AF%E7%9C%8B%E3%80%91%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E8%AF%B4%E6%98%8E.txt 1 http://albanialottery.net/%E3%80%90%E5%8F%AF%E7%9C%8B%E3%80%91%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91%E8%AF%B4%E6%98%8E.txt
+/administrator/uploads/bypass.php 1 -
+/amad.php 1 -
+/admin/uploads/banner/mini_shell.php 1 -
+/admin/banner/minishell.php 1 -
+/admin/files/up.php 1 -
+/admin/1.php 1 -
+/antiheker.php 1 -
+/admin/uploads/1.php 1 -
+/admin/banner/uploads/wp-comments.php 1 -
+/.well-known/acme-challenge/atomlib.php 1 -
+/admin/banner/alfa.php 1 -
+/1014.php 1 -
+/admin/alfa-shell.php 1 -
+/administrator/images/bypass.php 1 -
+/administrator/banner/uploads/wso.php 1 -
+/admin/cmd.php 1 -
+/live-draw/albania-fav.png 2 https://albanialottery.net/live-draw/
+/administrator/uploads/1.php 1 -
+/a.aspx 1 -
+/administrator/banner/uploads/mini_shell.php 1 -
+/wp-includes/assets/index.php 1 -
+/73.php 1 -
+/administrator/images/uploads/wp-comments.php 1 -
+/12.php 1 -
+//xmlrpc.php 2 -
+/admin/files/indoXploit.php 1 -
+/.well-known/java.php 1 -
+/administrator/images/uploads/shell.php 1 -
+/admin/banner/b374k.php 1 -
+/new/wp-admin/install.php 1 -
+/administrator/mini.php 1 -
+/admin/banner/uploads/uploader.php 1 -
+/45.php 1 -
+/admin_login/images/minishell.php 1 -
+/0x00.php 1 -
+/admin.php 6 -
+/64.php 1 -
+/37.php 1 -
+/wp-content/admin.php 1 -
+/admin/banner/shell.php 1 -
+/1n73ct10n.php 1 -
+/admin/banner/uploads/alfa-shell.php 1 -
+/admin/images/wp-comments.php 1 -
+/sitemap.xml 2 -
+/admin/files/b374k.php 1 -
+/wordpress/wp-admin/install.php 2 -
+/AK-74.php 1 -
+/administrator/uploader.php 1 -
+/123.php 2 -
+/wp-content/plugins/litespeed-cache/readme.txt 1 -
+/radio.php 1 -
+/administrator/images/upload/alfa.php 1 -
+/admin/banner/uploads/skizoo.php 1 -
+/a.php 1 -
+/sitemap.txt 2 -
+/admin/images/alfa-shell.php 1 -
+/ALFA_DATA/alfacgiapi/perl.alfa 1 www.google.com
+/administrator/banner/wp-comments.php 1 -
+/administrator/images/by.php 1 -
+/admin_login/images/bypass.php 1 -
+/7.php 1 -
+/administrator/images/upload/wp-comments.php 1 -
+/admin_home.php 1 -
+/wp-content/plugins/apikey/apikey.php.suspected 1 -
+/000000.php 1 -
+/administrator/banner/uploads/alfa-shell.php 1 -
+/wp-admin/install.php 2 -
+/plugins/content/apismtp/apismtp.php.suspected 1 -
+/1n73ction.php 1 -
+/admin/file/mini.php 1 -
+/wp-content/plugins/hellopress/wp_filemanager.php 1 -
+/administrator/images/uploads/indoXploit.php 1 -
+/.idea/workspace.xml 1 -
+/admin/file/wso.php 1 -
+/admin/file/alfa.php 1 -
+/admin/banner/uploader.php 1 -
+/administrator/images/wso.php 1 -
+/%E2%96%93%D1%85%E2%95%9D%E2%96%A0%E2%94%90%D0%BA%E2%95%96%D0%B2%E2%95%A6%E2%95%A1%E2%94%9C%D1%9E.txt 1 http://albanialottery.net/%E2%96%93%D1%85%E2%95%9D%E2%96%A0%E2%94%90%D0%BA%E2%95%96%D0%B2%E2%95%A6%E2%95%A1%E2%94%9C%D1%9E.txt
+/admin/files/mini_shell.php 1 -
+/888.php 1 -
+/admin/banner/1.php 1 -
+/admin_login/mini_shell.php 1 -
+/63ck0.php 1 -
+/0x1337.php 1 -
+/wp-emoji-release.min.js 2 -
+/aab.php 1 -
+/admin/uploads/mini_shell.php 1 -
+/afox.php 1 -
+/.well-known/leafmailer.php 1 -
+/13.php 1 -
+/01.php 1 -
+/wp-includes/certificates/index.php 1 -
+/admin/uploads/indoXploit.php 1 -
+/.well-known/wso.php 1 -
+/test/wp-admin/install.php 2 -
+/wp-content/index.php 2 -
+/oldsite/wp-admin/install.php 1 -
+/administrator/uploads/alfa.php 1 -
+/administrator/banner/uploads/22xc.php 1 -
+/1.aspx 1 -
+/alfateslav4.php 1 -
+/1945.php 2 -
+/administrator/images/upload/b374k.php 1 -
+/.well-known/acme-challenge/xmrlpc.php 1 -
+/antichat.php 1 -
+/admin_login/images/cmd.php 1 -
+/admin/uploads/bypass.php 1 -
+/99.php 1 -
+/administrator/alfa-shell.php 1 -
+/admin/banner/mini_shell.php 1 -
+/.tmb/moon.php 1 -
+/administrator/images/uploads/alfa-shell.php 1 -
+/admin/uploads/shell.php 1 -
+/.well-known/mari.php 1 -
+/11.php 1 -
+/admin_login/gel4y.php 1 -
+/abuhlail.php 1 -
+/303.php 1 -
+/administrator/banner/uploads/cmd.php 1 -
+/wp-checkbex.php 1 -
+/admin/uploads/uploader.php 1 -
+/.well-known/upl.php 1 -
+/admin/file/bypass.php 1 -
+/7index.php 1 -
+/admin/images/shell.php 1 -
+/administrator/images/uploads/bypass.php 1 -
+/administrator/banner/uploads/by.php 1 -
+/abouts.php 1 -
+/ah.php 1 -
+/administrator/banner/uploads/skizoo.php 1 -
+/administrator/uploads/gel4y.php 1 -
+/admin/files/cmd.php 1 -
+/admin/file/cmd.php 1 -
+/666.php 1 -
+/alfa-rex.php7 1 -
+/administrator/banner/uploads/b374k.php 1 -
+/administrator/images/indoXploit.php 1 -
+/administrator/images/22xc.php 1 -
+/administrator/banner/uploader.php 1 -
+/admin_login/mini.php 1 -
+/classwithtostring.php 2 -
+/administrator/banner/mini.php 1 -
+/admin_login/alfa.php 1 -
+/12j.php 1 -
+/admin/minishell.php 1 -
+/0808.php 1 -
+/%5C/albanialottery.net%5C/wp-includes%5C/js%5C/wp-emoji-release.min.js 1 -
+/.well-known/pki-validation/mariju.php 1 -
+/administrator/uploads/mini_shell.php 1 -
+/admin/files/1.php 1 -
+/admin/banner/uploads/up.php 1 -
+/admin/uploads/banner/wso.php 1 -
+/1111.php 1 -
+/alfanew.php 2 -
+/administrator/images/gel4y.php 1 -
+/administrator/images/b374k.php 1 -
+/admin/banner/alfa-shell.php 1 -
+/aci.php 1 -
+/administrator/gel4y.php 1 -
+/administrator/skizoo.php 1 -
+/.well-known/leaf.php 1 -
+/.well-known/pki-validation/class_api.php 1 -
+/alfatesla.php 1 -
+/admin/file/by.php 1 -
+/aaaa.php 1 -
+/wp-content/themes/travelscape/json.php 1 www.google.com
+/admin/images/1.php 1 -
+/admin/files/by.php 1 -
+/admin/uploads/banner/skizoo.php 1 -
+/4non.php 1 -
+/.error_log.php 1 -
+/%E3%80%90%E5%BF%85%E7%9C%8B%E3%80%91%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.txt 1 http://albanialottery.net/%E3%80%90%E5%BF%85%E7%9C%8B%E3%80%91%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.txt
+/Alfawso.php 1 -
+/000x48.php 1 -
+/static/admin/login.html 1 http://albanialottery.net/static/admin/login.html
+/14.php 1 -
+/admin_login/images/indoXploit.php 1 -
+/admin/files/wp-comments.php 1 -
+/admin/file/indoXploit.php 1 -
+/administrator/banner/bypass.php 1 -
+/401.php 1 -
+/alfa-rex2.php7 1 -
+/admin_login/wp-comments.php 1 -
+/administrator/uploads/by.php 1 -
+/alpa.php 1 -
+/administrator/uploads/up.php 1 -
+/aku.php 1 -
+/admin/uploads/banner/alfa.php 1 -
+/admin/uploads/by.php 1 -
+/images/sym.php 1 -
+/wp-includes/sodium_compat/index.php 1 -
+/admin-post.php 1 -
+/administrator/banner/b374k.php 1 -
+/web/wp-admin/install.php 1 -
+/administrator/alfa.php 1 -
+/admin/banner/uploads/cmd.php 1 -
+/admin/wp-comments.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 43
+152.42.233.59 4 4 153828 20240901234013
+95.10.16.172 3 16 103501 20240905075053 20240905075022 /live-draw/
+43.130.16.140 2 2 18218 20240903193407
+43.133.77.208 1 1 9097 20240904032848
+167.99.55.46 1 2 21159 20240902033842
+94.228.169.182 1 1 9097 20240904035614
+140.245.32.212 1 1 9121 20240902140715
+135.148.195.8 1 1 9121 20240901133246
+111.7.106.106 1 2 15605 20240904170804
+193.42.36.45 1 1 38467 20240904214240
+213.165.71.218 1 1 9124 20240903124222
+128.90.170.14 1 1 9124 20240903032907
+94.156.66.165 1 1 38469 20240904103430
+121.229.185.160 1 1 9124 20240903001831
+5.61.48.93 1 1 7285 20240901235128
+185.12.250.104 1 1 9121 20240902122238
+87.236.176.68 1 1 9097 20240904040809
+54.226.232.30 1 1 7286 20240903105855
+45.148.10.59 1 3 17040 20240904145153
+43.130.16.212 1 1 9121 20240901082215
+5.230.251.164 1 1 38467 20240905070806 20240905070806 /
+43.163.6.124 1 1 9127 20240905045041
+60.188.57.0 1 1 9121 20240901223242
+188.143.169.41 1 1 38469 20240904045729
+37.188.132.160 1 13 73949 20240904131640
+135.148.195.14 0 1 25418 
+135.148.195.7 0 1 12038 
+178.62.238.151 1 2 21135 20240904020810
+45.15.17.3 1 1 9121 20240902044017
+42.83.147.34 1 1 9127 20240905032951
+77.232.40.29 1 1 38457 20240902040219
+182.1.22.229 1 13 73947 20240902131209
+43.159.143.187 1 1 9127 20240905071754 20240905071754 /
+94.141.120.165 1 1 9097 20240904103741
+165.22.182.156 1 2 21165 20240904222808
+205.210.31.13 1 1 38465 20240903105405
+72.14.201.32 1 1 7289 20240905074941 20240905074941 /
+5.133.192.127 1 2 21165 20240905010423
+124.236.100.56 1 1 9121 20240901205041
+87.236.176.210 0 1 12038 
+182.42.110.255 1 1 9121 20240901083443
+111.7.106.107 1 4 29078 20240904170803
+43.155.152.154 1 1 9124 20240903123049
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20240901 10 12 244174 7
+20240902 7 20 170047 7
+20240903 7 7 91344 7
+20240904 13 34 341803 13
+20240905 9 23 197803 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 37
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 42 606643 40 36
+// 2 76914 0 1
+/live-draw/ 1 7285 0 0
+/history-result/ 1 7691 1 0
+END_SIDER

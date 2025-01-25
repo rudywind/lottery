@@ -1,0 +1,44 @@
+/**** begin responsive style ****/
+@media (min-width: 993px) {
+    header .logo-container .logo-wrapper {
+        max-width: 150px;
+    }
+
+    section .navbar-main .navbar-nav > .nav-item > .nav-link {
+        font-size: 18px;
+    }
+
+    .card.card-result::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: auto !important;
+        right: 200px;
+        bottom: 0;
+        width: 400px;
+        height: auto;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        transform: skewX(-20deg);
+        z-index: -1;
+    }
+    .card.card-result::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: auto !important;
+        right: 140px;
+        bottom: 0;
+        width: 40px;
+        height: auto;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        transform: skewX(-20deg);
+        z-index: -1;
+    }
+    .card.card-result .card-body .banner-wrapper {
+        max-width: 420px;
+    }
+}
+
+@media (min-width: 1200px) {
+}
+/**** endof responsive style ****/
